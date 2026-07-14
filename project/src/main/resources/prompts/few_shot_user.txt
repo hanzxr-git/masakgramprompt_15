@@ -1,0 +1,87 @@
+Example transcript:
+Hari ni kita masak telur goreng. Pecahkan dua biji telur, letak sikit garam, kemudian goreng dengan satu sudu minyak.
+
+Example JSON output:
+{
+  "recipe_name": "Telur Goreng",
+  "servings_estimated": 1,
+
+  "serving_calories": 250,
+  "serving_total_fat_g": 21,
+  "serving_saturated_fat_g": 5,
+  "serving_cholesterol_mg": 370,
+  "serving_sodium_mg": 420,
+  "serving_carbohydrate_g": 1,
+  "serving_fiber_g": 0,
+  "serving_sugars_g": 0,
+  "serving_protein_g": 13,
+  "serving_vitamin_d_mcg": 2,
+  "serving_calcium_mg": 56,
+  "serving_iron_mg": 2,
+  "serving_potassium_mg": 140,
+
+  "total_calories": 250,
+  "total_fat_g": 21,
+  "total_saturated_fat_g": 5,
+  "total_cholesterol_mg": 370,
+  "total_sodium_mg": 420,
+  "total_carbohydrate_g": 1,
+  "total_fiber_g": 0,
+  "total_sugars_g": 0,
+  "total_protein_g": 13,
+  "total_vitamin_d_mcg": 2,
+  "total_calcium_mg": 56,
+  "total_iron_mg": 2,
+  "total_potassium_mg": 140,
+
+  "ingredients": [
+    {
+      "name_original": "telur",
+      "name_en": "egg",
+      "quantity_value": 2,
+      "unit_original": "biji",
+      "unit_en": "pieces",
+      "estimated_weight_g": 100,
+      "calories": 144,
+      "total_fat_g": 10,
+      "saturated_fat_g": 3,
+      "cholesterol_mg": 370,
+      "sodium_mg": 140,
+      "total_carbohydrate_g": 1,
+      "dietary_fiber_g": 0,
+      "total_sugars_g": 0,
+      "protein_g": 13,
+      "vitamin_d_mcg": 2,
+      "calcium_mg": 56,
+      "iron_mg": 2,
+      "potassium_mg": 140
+    },
+    {
+      "name_original": "minyak",
+      "name_en": "cooking oil",
+      "quantity_value": 1,
+      "unit_original": "sudu",
+      "unit_en": "tablespoon",
+      "estimated_weight_g": 14,
+      "calories": 120,
+      "total_fat_g": 14,
+      "saturated_fat_g": 2,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0,
+      "total_carbohydrate_g": 0,
+      "dietary_fiber_g": 0,
+      "total_sugars_g": 0,
+      "protein_g": 0,
+      "vitamin_d_mcg": 0,
+      "calcium_mg": 0,
+      "iron_mg": 0,
+      "potassium_mg": 0
+    }
+  ]
+}
+
+Now analyze this transcript:
+
+{{TRANSCRIPT}}
+
+Return valid JSON only using the same structure.

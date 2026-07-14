@@ -1,0 +1,562 @@
+experiment_id,transcript_id,model_name,technique_name,rag_enabled,pred_name_original,pred_name_en,pred_unit_original,pred_unit_en
+2,2,Llama 3.2 3B Instruct,zero-shot,false,Sardin,Sardines,sebiji,piece
+2,2,Llama 3.2 3B Instruct,zero-shot,false,Pasta,Pasta,gram,grams
+2,2,Llama 3.2 3B Instruct,zero-shot,false,Cream,Cream,milliliter,mL
+2,2,Llama 3.2 3B Instruct,zero-shot,false,Bawang,Garlic,batang,stick
+2,2,Llama 3.2 3B Instruct,zero-shot,false,Parsley,Parsley,daun,leaf
+3,3,Llama 3.2 3B Instruct,zero-shot,false,,,dadu,cup
+3,3,Llama 3.2 3B Instruct,zero-shot,false,,,sudu,tablespoon
+3,3,Llama 3.2 3B Instruct,zero-shot,false,,,sudu,teaspoon
+3,3,Llama 3.2 3B Instruct,zero-shot,false,,,biji,pepper
+5,5,Llama 3.2 3B Instruct,zero-shot,false,,,,
+6,6,Llama 3.2 3B Instruct,zero-shot,false,,,kg,pounds
+10,10,Llama 3.2 3B Instruct,zero-shot,false,Gimari,,,
+11,11,Llama 3.2 3B Instruct,zero-shot,false,,,keping,cup
+11,11,Llama 3.2 3B Instruct,zero-shot,false,,,,
+11,11,Llama 3.2 3B Instruct,zero-shot,false,,,keping,cup
+11,11,Llama 3.2 3B Instruct,zero-shot,false,,,tetes,tablespoon
+11,11,Llama 3.2 3B Instruct,zero-shot,false,,,sendok,spoon
+13,13,Llama 3.2 3B Instruct,zero-shot,false,,Beef,,grams
+13,13,Llama 3.2 3B Instruct,zero-shot,false,,Cheese,,grams
+13,13,Llama 3.2 3B Instruct,zero-shot,false,,Bread,,grams
+13,13,Llama 3.2 3B Instruct,zero-shot,false,,Black Pepper,,
+14,14,Llama 3.2 3B Instruct,zero-shot,false,,,gram,g
+17,17,Llama 3.2 3B Instruct,zero-shot,false,,,,grams
+17,17,Llama 3.2 3B Instruct,zero-shot,false,,,,grams
+17,17,Llama 3.2 3B Instruct,zero-shot,false,,,,grams
+17,17,Llama 3.2 3B Instruct,zero-shot,false,,,,grams
+17,17,Llama 3.2 3B Instruct,zero-shot,false,,,,grams
+19,19,Llama 3.2 3B Instruct,zero-shot,false,chicken thigh,Chicken Thigh,,
+19,19,Llama 3.2 3B Instruct,zero-shot,false,bawang putih,Garlic,,
+19,19,Llama 3.2 3B Instruct,zero-shot,false,air,,,
+21,21,Llama 3.2 3B Instruct,zero-shot,false,,,,paket
+21,21,Llama 3.2 3B Instruct,zero-shot,false,,,,
+21,21,Llama 3.2 3B Instruct,zero-shot,false,,,,
+22,22,Llama 3.2 3B Instruct,zero-shot,false,,,gram,grams
+22,22,Llama 3.2 3B Instruct,zero-shot,false,,,gram,grams
+22,22,Llama 3.2 3B Instruct,zero-shot,false,,,gram,grams
+22,22,Llama 3.2 3B Instruct,zero-shot,false,,,gram,grams
+23,23,Llama 3.2 3B Instruct,zero-shot,false,,Beef,gram,g
+23,23,Llama 3.2 3B Instruct,zero-shot,false,,Onion,,
+23,23,Llama 3.2 3B Instruct,zero-shot,false,,Garlic,,
+23,23,Llama 3.2 3B Instruct,zero-shot,false,,Black Pepper,teaspoon,tsp
+23,23,Llama 3.2 3B Instruct,zero-shot,false,,Cheese Dale Burger,patty,
+24,24,Llama 3.2 3B Instruct,zero-shot,false,Ayam Bagian Kepak,Chicken Thighs,,
+24,24,Llama 3.2 3B Instruct,zero-shot,false,Rempah Ayam Madu Emasauce,Chicken Marinade Sauce,,
+26,26,Llama 3.2 3B Instruct,zero-shot,false,,,sudu,tablespoon
+27,27,Llama 3.2 3B Instruct,zero-shot,false,Quaker Rolled Oats,Quaker Rolled Oats,,cawan
+27,27,Llama 3.2 3B Instruct,zero-shot,false,Chicken Powder,Chicken Powder,,sederhana
+27,27,Llama 3.2 3B Instruct,zero-shot,false,Kicap Manis,Soy Sauce,,sederhana
+28,28,Llama 3.2 3B Instruct,zero-shot,false,,,,g
+28,28,Llama 3.2 3B Instruct,zero-shot,false,,,,sudu
+28,28,Llama 3.2 3B Instruct,zero-shot,false,,,,
+30,30,Llama 3.2 3B Instruct,zero-shot,false,,,gram,grams
+31,31,Llama 3.2 3B Instruct,zero-shot,false,,,,grams
+31,31,Llama 3.2 3B Instruct,zero-shot,false,,Minced Beef,,grams
+31,31,Llama 3.2 3B Instruct,zero-shot,false,,Cheese Sauce,,grams
+31,31,Llama 3.2 3B Instruct,zero-shot,false,,Mayonnaise,,grams
+32,32,Llama 3.2 3B Instruct,zero-shot,false,,,,
+33,33,Llama 3.2 3B Instruct,zero-shot,false,Julie's Cheese Cracker,Julie's Cheese Cracker,,pieces
+33,33,Llama 3.2 3B Instruct,zero-shot,false,Hazelnut Spread,Hazelnut Spread,,tablespoons
+33,33,Llama 3.2 3B Instruct,zero-shot,false,Pisang,Banana,,pieces
+33,33,Llama 3.2 3B Instruct,zero-shot,false,Madu,Honey,,tablespoon
+37,37,Llama 3.2 3B Instruct,zero-shot,false,,peanut butter,,
+37,37,Llama 3.2 3B Instruct,zero-shot,false,,kicap masin,,
+37,37,Llama 3.2 3B Instruct,zero-shot,false,,kicap manis,,
+37,37,Llama 3.2 3B Instruct,zero-shot,false,,madu,,
+37,37,Llama 3.2 3B Instruct,zero-shot,false,,bawang putih,,
+37,37,Llama 3.2 3B Instruct,zero-shot,false,,halia,,
+37,37,Llama 3.2 3B Instruct,zero-shot,false,,cili flakes,,
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,bawang holland,,
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,olive oil,,
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,garlic powder,,
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,paprika,,
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,butter,,
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,parmesan cheese,,
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,grilled chicken,,
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,cili oil,,
+39,39,Llama 3.2 3B Instruct,zero-shot,false,,,,
+39,39,Llama 3.2 3B Instruct,zero-shot,false,,,,
+39,39,Llama 3.2 3B Instruct,zero-shot,false,,,,
+40,40,Llama 3.2 3B Instruct,zero-shot,false,,Chicken Breast,,pieces
+40,40,Llama 3.2 3B Instruct,zero-shot,false,,Palm Oil,,pieces
+40,40,Llama 3.2 3B Instruct,zero-shot,false,,Bread Crumbs,,cup
+40,40,Llama 3.2 3B Instruct,zero-shot,false,,Cheese,,pieces
+43,43,Llama 3.2 3B Instruct,zero-shot,false,,beef brisket,,
+43,43,Llama 3.2 3B Instruct,zero-shot,false,,olive oil,,
+43,43,Llama 3.2 3B Instruct,zero-shot,false,,tomato paste,,
+44,44,Llama 3.2 3B Instruct,zero-shot,false,Daging sapi,Beef,gr,g
+44,44,Llama 3.2 3B Instruct,zero-shot,false,Bawang putih,Garlic,,
+44,44,Llama 3.2 3B Instruct,zero-shot,false,Halia,Ginger,,
+44,44,Llama 3.2 3B Instruct,zero-shot,false,Cili padi,Red pepper,,
+44,44,Llama 3.2 3B Instruct,zero-shot,false,Kicap masin,Soy sauce,,
+51,1,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken thigh/ breast,bagian,
+51,1,Llama 3.2 3B Instruct,few-shot,false,halia,garlic,batang,
+52,2,Llama 3.2 3B Instruct,few-shot,false,sardin,sardine,,can
+52,2,Llama 3.2 3B Instruct,few-shot,false,mee goreng ayam,mee goreng chicken,pack,package
+52,2,Llama 3.2 3B Instruct,few-shot,false,bawang holland,onion,,piece
+52,2,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,,cloves
+52,2,Llama 3.2 3B Instruct,few-shot,false,cili sardin,sardine pepper,,
+52,2,Llama 3.2 3B Instruct,few-shot,false,cili padi hijau,green chili pepper,,
+52,2,Llama 3.2 3B Instruct,few-shot,false,cherry tomato,cherry tomato,,piece
+52,2,Llama 3.2 3B Instruct,few-shot,false,parmesan cheese,parmesan cheese,,piece
+52,2,Llama 3.2 3B Instruct,few-shot,false,parsi,parsley,,piece
+53,3,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken,biji,piece
+53,3,Llama 3.2 3B Instruct,few-shot,false,beras,rice,,cup
+53,3,Llama 3.2 3B Instruct,few-shot,false,kicap,sauce,sudu,tablespoon
+53,3,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,,clove
+53,3,Llama 3.2 3B Instruct,few-shot,false,halia,ginger,,piece
+53,3,Llama 3.2 3B Instruct,few-shot,false,bawang besar,onion,,piece
+54,4,Llama 3.2 3B Instruct,few-shot,false,yogurt,plain yogurt,sudu,tablespoon
+54,4,Llama 3.2 3B Instruct,few-shot,false,cumi,cucumber,buah,piece
+54,4,Llama 3.2 3B Instruct,few-shot,false,bawang,onion,buah,piece
+54,4,Llama 3.2 3B Instruct,few-shot,false,daun bawang,parsley,daun,leaves
+54,4,Llama 3.2 3B Instruct,few-shot,false,cili flake,cayenne pepper,sikit,small amount
+54,4,Llama 3.2 3B Instruct,few-shot,false,garam,salt,sikit,small amount
+54,4,Llama 3.2 3B Instruct,few-shot,false,pepper,black pepper,sikit,small amount
+54,4,Llama 3.2 3B Instruct,few-shot,false,garlic powder,garlic powder,sikit,small amount
+54,4,Llama 3.2 3B Instruct,few-shot,false,cream cheese,cream cheese,sikit,small amount
+54,4,Llama 3.2 3B Instruct,few-shot,false,kentang,potato,buah,pieces
+56,6,Llama 3.2 3B Instruct,few-shot,false,kentang,potato,,
+56,6,Llama 3.2 3B Instruct,few-shot,false,garis,garlic,,
+56,6,Llama 3.2 3B Instruct,few-shot,false,telaga,pepper,,
+57,7,Llama 3.2 3B Instruct,few-shot,false,kacang kuda,chickpeas,biji,cups
+57,7,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,siip,cloves
+57,7,Llama 3.2 3B Instruct,few-shot,false,jus lemon,lemon juice,sudu kecil,teaspoon
+57,7,Llama 3.2 3B Instruct,few-shot,false,tahini,tahini,sudu kecil,teaspoon
+57,7,Llama 3.2 3B Instruct,few-shot,false,biskut,bread,,slice
+58,8,Llama 3.2 3B Instruct,few-shot,false,ikan,shark,,
+58,8,Llama 3.2 3B Instruct,few-shot,false,tomato,diced tomatoes,,
+58,8,Llama 3.2 3B Instruct,few-shot,false,bawang,onion,,
+58,8,Llama 3.2 3B Instruct,few-shot,false,lada,black pepper,,
+58,8,Llama 3.2 3B Instruct,few-shot,false,tumian,parsley,,
+59,9,Llama 3.2 3B Instruct,few-shot,false,salmon,salmon,bag,piece
+59,9,Llama 3.2 3B Instruct,few-shot,false,kacau,salt and pepper,satu,set
+59,9,Llama 3.2 3B Instruct,few-shot,false,crem cheese,cream cheese,satu,set
+59,9,Llama 3.2 3B Instruct,few-shot,false,kewpie mayo,kewpie mayo,satu,set
+59,9,Llama 3.2 3B Instruct,few-shot,false,sriracha,sriracha sauce,satu,set
+59,9,Llama 3.2 3B Instruct,few-shot,false,daun bawang,green onion,satu,set
+59,9,Llama 3.2 3B Instruct,few-shot,false,nasi,rice,satu,set
+60,10,Llama 3.2 3B Instruct,few-shot,false,tepung,flour,cawan,cup
+60,10,Llama 3.2 3B Instruct,few-shot,false,air,water,cawan,cup
+60,10,Llama 3.2 3B Instruct,few-shot,false,seaweed,wheat seaweed sheet,,sheet
+60,10,Llama 3.2 3B Instruct,few-shot,false,japchae,dried glass noodle,,bundle
+60,10,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+60,10,Llama 3.2 3B Instruct,few-shot,false,sweet chili sauce,sweet chili sauce,,
+62,12,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken,,
+62,12,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+62,12,Llama 3.2 3B Instruct,few-shot,false,bawang,onion,,
+62,12,Llama 3.2 3B Instruct,few-shot,false,wajik,carrot,,
+62,12,Llama 3.2 3B Instruct,few-shot,false,sela,celery,,
+62,12,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,,
+62,12,Llama 3.2 3B Instruct,few-shot,false,tepu,all-purpose flour,,
+62,12,Llama 3.2 3B Instruct,few-shot,false,saringan,salt,,
+63,13,Llama 3.2 3B Instruct,few-shot,false,daging syabu-syabu,beef,,
+63,13,Llama 3.2 3B Instruct,few-shot,false,sos siram,soy sauce,,
+63,13,Llama 3.2 3B Instruct,few-shot,false,minyak bijan,peanut oil,,
+63,13,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,,
+63,13,Llama 3.2 3B Instruct,few-shot,false,bawang hollanda,onion,,
+63,13,Llama 3.2 3B Instruct,few-shot,false,keju,cheese,,
+64,14,Llama 3.2 3B Instruct,few-shot,false,mee,noodles,paket,packages
+64,14,Llama 3.2 3B Instruct,few-shot,false,cili padi merah,red chili peppers,buah,pieces
+64,14,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,siung,cloves
+64,14,Llama 3.2 3B Instruct,few-shot,false,daun ketumbar,lemongrass,daun,leaves
+64,14,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoons
+64,14,Llama 3.2 3B Instruct,few-shot,false,serai,lemon balm,daun,leaf
+64,14,Llama 3.2 3B Instruct,few-shot,false,lengkuas,galangal,ibu jari,inch
+64,14,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken,ibu kilogram,pound
+66,16,Llama 3.2 3B Instruct,few-shot,false,daging,beef,ekor,piece
+66,16,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+66,16,Llama 3.2 3B Instruct,few-shot,false,bawang,onion,setitik,teaspoon
+66,16,Llama 3.2 3B Instruct,few-shot,false,halia,garlic,setitik,teaspoon
+66,16,Llama 3.2 3B Instruct,few-shot,false,kicap manis pedas,sweet and spicy sauce,sudu,tablespoon
+66,16,Llama 3.2 3B Instruct,few-shot,false,brokoli,broccoli,setitik,teaspoon
+67,17,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken breast,,
+67,17,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+67,17,Llama 3.2 3B Instruct,few-shot,false,pasta,spaghetti,,
+67,17,Llama 3.2 3B Instruct,few-shot,false,kacang,baby spinach,,
+67,17,Llama 3.2 3B Instruct,few-shot,false,keju,parmesan cheese,,
+67,17,Llama 3.2 3B Instruct,few-shot,false,bawang,garlic,,
+67,17,Llama 3.2 3B Instruct,few-shot,false,lada,black pepper,,
+69,19,Llama 3.2 3B Instruct,few-shot,false,dada ayam,chicken thigh,inci,inch
+69,19,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,,
+69,19,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+69,19,Llama 3.2 3B Instruct,few-shot,false,bawang gula,sugar,,
+69,19,Llama 3.2 3B Instruct,few-shot,false,madu,honey,,
+70,20,Llama 3.2 3B Instruct,few-shot,false,buah naga,dragon fruit,peti,pieces
+70,20,Llama 3.2 3B Instruct,few-shot,false,susu pekat,sweetened condensed milk,bottol,bottle
+70,20,Llama 3.2 3B Instruct,few-shot,false,cincau,ground ginger,sedikit,little
+71,21,Llama 3.2 3B Instruct,few-shot,false,beef,beef,satu/dua biji,
+71,21,Llama 3.2 3B Instruct,few-shot,false,mee sedap,mie goreng perisa asli,paket,package
+71,21,Llama 3.2 3B Instruct,few-shot,false,telur kuning,egg yellow,biji,pieces
+71,21,Llama 3.2 3B Instruct,few-shot,false,mayo,mayonnaise,sudu,tablespoon
+71,21,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,,
+71,21,Llama 3.2 3B Instruct,few-shot,false,bawang merah,red onion,,
+71,21,Llama 3.2 3B Instruct,few-shot,false,daun bawang,fresh cilantro,,
+71,21,Llama 3.2 3B Instruct,few-shot,false,chili oil,chili oil,,
+72,22,Llama 3.2 3B Instruct,few-shot,false,daging shabu-shabu,beef shabu-shabu,gram,gram
+72,22,Llama 3.2 3B Instruct,few-shot,false,minyak bijan,peanut oil,sudu,tablespoon
+72,22,Llama 3.2 3B Instruct,few-shot,false,mee segera,instant noodles,biji,pieces
+72,22,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,biji,pieces
+72,22,Llama 3.2 3B Instruct,few-shot,false,cili merah,red chili,biji,pieces
+72,22,Llama 3.2 3B Instruct,few-shot,false,daun kutumbar,cilantro,daun,leaf
+72,22,Llama 3.2 3B Instruct,few-shot,false,lemak gula,sugar syrup,sudu,tablespoon
+72,22,Llama 3.2 3B Instruct,few-shot,false,beras,rice,biji,piece
+74,24,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken,bagian kepak,breast half
+74,24,Llama 3.2 3B Instruct,few-shot,false,madu,honey,sudu,tablespoon
+74,24,Llama 3.2 3B Instruct,few-shot,false,capic,soy sauce,sudu,tablespoon
+74,24,Llama 3.2 3B Instruct,few-shot,false,paprika,paprika,sudu,tablespoon
+75,25,Llama 3.2 3B Instruct,few-shot,false,pisang,banana,biji,pieces
+75,25,Llama 3.2 3B Instruct,few-shot,false,cocoa powder,cocoa powder,,
+75,25,Llama 3.2 3B Instruct,few-shot,false,Quaker rolled oats,rolled oats,,
+75,25,Llama 3.2 3B Instruct,few-shot,false,melted butter,melted butter,,
+75,25,Llama 3.2 3B Instruct,few-shot,false,dark chocolate chips,dark chocolate chips,,
+75,25,Llama 3.2 3B Instruct,few-shot,false,baking powder,baking powder,,
+76,26,Llama 3.2 3B Instruct,few-shot,false,daun bawang,green onion,,
+76,26,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,,
+76,26,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+76,26,Llama 3.2 3B Instruct,few-shot,false,shamida chilli oil,Shamida Chilli Oil,,
+77,27,Llama 3.2 3B Instruct,few-shot,false,oat,oat,cawan,cup
+77,27,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken,isi,piece
+77,27,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+77,27,Llama 3.2 3B Instruct,few-shot,false,telur,egg,biji,piece
+78,28,Llama 3.2 3B Instruct,few-shot,false,strawberry,strawberry,gram,g
+78,28,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+78,28,Llama 3.2 3B Instruct,few-shot,false,teh hijau,matcha powder,sudu,tablespoon
+78,28,Llama 3.2 3B Instruct,few-shot,false,nari oat,oat milk,sudu,cup
+79,29,Llama 3.2 3B Instruct,few-shot,false,butter,butter,gr,grams
+79,29,Llama 3.2 3B Instruct,few-shot,false,tepung serba guna,all-purpose flour,gr,grams
+79,29,Llama 3.2 3B Instruct,few-shot,false,dark choclate,dark chocolate,gr,grams
+79,29,Llama 3.2 3B Instruct,few-shot,false,telur,egg,biji,pieces
+79,29,Llama 3.2 3B Instruct,few-shot,false,gula,sugar,gr,grams
+79,29,Llama 3.2 3B Instruct,few-shot,false,garam,salt,,teaspoon
+80,30,Llama 3.2 3B Instruct,few-shot,false,strawberry,strawberry,,
+80,30,Llama 3.2 3B Instruct,few-shot,false,cream,whipping cream,,
+80,30,Llama 3.2 3B Instruct,few-shot,false,roti,bread,,
+80,30,Llama 3.2 3B Instruct,few-shot,false,kiwi,kiwi,,
+80,30,Llama 3.2 3B Instruct,few-shot,false,mango,mango,,
+80,30,Llama 3.2 3B Instruct,few-shot,false,orange,orange,,
+81,31,Llama 3.2 3B Instruct,few-shot,false,bawang,onion,cube,cube
+81,31,Llama 3.2 3B Instruct,few-shot,false,hollandaise sauce,cheese sauce,bottle,bottle
+81,31,Llama 3.2 3B Instruct,few-shot,false,daging,minced beef,bottle,bottle
+81,31,Llama 3.2 3B Instruct,few-shot,false,burger,burger patty,patty,patty
+83,33,Llama 3.2 3B Instruct,few-shot,false,Julie's Cheese Cracker,Julie's Cheese Cracker,,
+83,33,Llama 3.2 3B Instruct,few-shot,false,madu,honey,,tablespoon
+83,33,Llama 3.2 3B Instruct,few-shot,false,pisang,banana,,
+83,33,Llama 3.2 3B Instruct,few-shot,false,hazelnut spread,hazelnut spread,,
+84,34,Llama 3.2 3B Instruct,few-shot,false,daging ayam,chicken breast,buah,
+84,34,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+84,34,Llama 3.2 3B Instruct,few-shot,false,macaroni,macaroni,buah,
+85,35,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken,pieces,piece
+85,35,Llama 3.2 3B Instruct,few-shot,false,tepuh pedas bonechef,spicy flour BoneChef,sudu,tablespoon
+88,38,Llama 3.2 3B Instruct,few-shot,false,bawang holland,holland onion,biji,pieces
+88,38,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+88,38,Llama 3.2 3B Instruct,few-shot,false,spagetti,spaghetti,grain,
+88,38,Llama 3.2 3B Instruct,few-shot,false,kacang cili,chili pepper,biji,pieces
+89,39,Llama 3.2 3B Instruct,few-shot,false,telur,egg,biji,pieces
+89,39,Llama 3.2 3B Instruct,few-shot,false,nasi,rice,kupu-kupu,cups
+89,39,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,biji,cloves
+89,39,Llama 3.2 3B Instruct,few-shot,false,bawang merah,onion,biji,pieces
+89,39,Llama 3.2 3B Instruct,few-shot,false,cili,chili pepper,biji,pieces
+89,39,Llama 3.2 3B Instruct,few-shot,false,ikan bilis,dried fish,kilo,pound
+89,39,Llama 3.2 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+90,40,Llama 3.2 3B Instruct,few-shot,false,dada ayam,chicken breast,biji,pieces
+90,40,Llama 3.2 3B Instruct,few-shot,false,roti,bread,loaf,loaf
+90,40,Llama 3.2 3B Instruct,few-shot,false,sauce,tomato sauce,sudu,tablespoon
+91,41,Llama 3.2 3B Instruct,few-shot,false,peanut butter,peanut butter,,
+91,41,Llama 3.2 3B Instruct,few-shot,false,kicap masin,soy sauce,sudu,tablespoon
+91,41,Llama 3.2 3B Instruct,few-shot,false,kicap manis,honey,sudu,tablespoon
+91,41,Llama 3.2 3B Instruct,few-shot,false,madu,honey,sudu,tablespoon
+91,41,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,sudu,cloves
+91,41,Llama 3.2 3B Instruct,few-shot,false,halia,ginger,sudu,pieces
+91,41,Llama 3.2 3B Instruct,few-shot,false,chilli flakes,chili flakes,,
+91,41,Llama 3.2 3B Instruct,few-shot,false,minyak cili,chili oil,sudu,tablespoon
+91,41,Llama 3.2 3B Instruct,few-shot,false,jus lemon,lemon juice,,
+91,41,Llama 3.2 3B Instruct,few-shot,false,mie,noodle,,
+91,41,Llama 3.2 3B Instruct,few-shot,false,wantan,wonton,,
+93,43,Llama 3.2 3B Instruct,few-shot,false,daging beef,beef brisket,gram,grams
+93,43,Llama 3.2 3B Instruct,few-shot,false,minyak olive,olive oil,sudu,tablespoon
+93,43,Llama 3.2 3B Instruct,few-shot,false,pasta,Pappardelle,gram,grams
+93,43,Llama 3.2 3B Instruct,few-shot,false,tomato paste,tomato paste,sudu,tablespoon
+93,43,Llama 3.2 3B Instruct,few-shot,false,bawang putih,onion,biji,piece
+93,43,Llama 3.2 3B Instruct,few-shot,false,tepu,black pepper,sudu,grain
+94,44,Llama 3.2 3B Instruct,few-shot,false,daging,beef,gram,gram
+94,44,Llama 3.2 3B Instruct,few-shot,false,kicap masin,soy sauce,sudu,tablespoon
+94,44,Llama 3.2 3B Instruct,few-shot,false,kicap manis,sweet soy sauce,sudu,tablespoon
+94,44,Llama 3.2 3B Instruct,few-shot,false,bawang putih,garlic,keping,cloves
+94,44,Llama 3.2 3B Instruct,few-shot,false,halia,onion,keping,piece
+94,44,Llama 3.2 3B Instruct,few-shot,false,cili padi,chilli pepper,biji,pepper
+94,44,Llama 3.2 3B Instruct,few-shot,false,tomato,tomato,keping,piece
+94,44,Llama 3.2 3B Instruct,few-shot,false,bawang holland,holandaise sauce,sudu,tablespoon
+94,44,Llama 3.2 3B Instruct,few-shot,false,nasi,rice,,
+96,46,Llama 3.2 3B Instruct,few-shot,false,ayam,chicken thigh,biji,pieces
+96,46,Llama 3.2 3B Instruct,few-shot,false,nasi,rice,biji,cups
+96,46,Llama 3.2 3B Instruct,few-shot,false,butter,butter,sudu,tablespoons
+98,48,Llama 3.2 3B Instruct,few-shot,false,timun,cucumber,nipis,cup
+98,48,Llama 3.2 3B Instruct,few-shot,false,sambal,chili sauce,sudu,tablespoon
+98,48,Llama 3.2 3B Instruct,few-shot,false,kapci manis,sweet soy sauce,sudu,tablespoon
+98,48,Llama 3.2 3B Instruct,few-shot,false,telur,egg,biji,piece
+98,48,Llama 3.2 3B Instruct,few-shot,false,tomato,tomato,biji,piece
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,ayam,chicken thigh,,piece
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,halia,garlic,,clove
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,daun bawang,leek,,
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,sos tiram,soy sauce,,tablespoon
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,minyak,oil,,teaspoon
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Kicap ABC,ABC Soy Sauce,sudu,tablespoons
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Sos Manis,Sweet Soy Sauce,,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Bawang Putih,Garlic,,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Halia,Galangal,,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Bawang Besar,Lemongrass,,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Kunyit,Turmeric,,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Garam,Salt,,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Lada Putih,White Pepper,,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Beras,Rice,grain,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Ayam,Chicken Breast,,
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Minyak Bijan,Coconut Oil,sudu,tablespoons
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,Daun Bawang,Fresh Cilantro,,
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,salmon,Salmon,,g
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,kacau,Kecap manis (soy sauce),,ml
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,sauces,,,
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,nasi,Jasmine Rice,,g
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,seaweed,,,
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,daging,beef,,grams
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,minyak bijan,vegetable oil,,
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,kicap masin,soy sauce,,
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,sos tiram mahsuri,tiramisu sauce,,
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,tepatung jagung,cornstarch,,grams
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,bawang,onion,,
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,brokoli,broccoli,,grams
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,minyak,oil,,mL
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,beef,beef,,g
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,mee sedap,mee sedap,,g
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,telur kuning,egg yolk,,piece
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,mayo,mayonnaise,,mL
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,bawang putih,garlic,,piece
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,bawang merah,shallot,,piece
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,daun bawang,fresh parsley,,piece
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,னிக,Quaker Rolled Oats,cawan,cup
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,஁ழனக,Chicken Mince,,grams
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,஡ிக,Minyak Bijan,,milliliters
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,஡ிக,Salt,,grains
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,tepung serba guna,all-purpose flour,,grams
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,dark chocolate,dark chocolate,,grams
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,telur,egg,,pieces
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,gula,sugar,,grams
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,butter,butter,,grams
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,男个,Strawberry,,g
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,日京,Whipped Cream,,ml
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,秒股,Bread,,
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,摜步,Sugar,,g
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,daging sapi,beef,gr,grams
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,bawang putih,garlic,,pieces
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,halia,onion,,piece
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,cili padi,chilies,,pieces
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,kicap masin,soy sauce,,tablespoons
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,bawang holland,hollandaise sauce,mL,milliliters
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,kacang panjang,broccoli,gr,grams
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,nasi,rice,gr,grams
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,ணி்,cucumber,一,
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,北丈,sambal,,
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,服务,fish sauce,,
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,新云,lemon juice,,
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,新过,chopped scallion,,
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,timun,cucumber,bukit,
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,krim cheese,cream cheese,susu,
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,yogurt,plain yogurt,kangkung,
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,bawang merah,red onion,cengkeh,
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,garam,salt,bawang putih,
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,pepper,black pepper,kopi,
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,garlic powder,garlic powder,kopi,
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,smoked salmon,smoked salmon,ikan,
+160,10,Llama 3.2 3B Instruct,structured-output,false,tepung,flour,cawan,cup
+160,10,Llama 3.2 3B Instruct,structured-output,false,seaweed,dried seaweed,cawan,cup
+160,10,Llama 3.2 3B Instruct,structured-output,false,japchae,glass noodle,,
+160,10,Llama 3.2 3B Instruct,structured-output,false,minyak,oil,cawan,cup
+160,10,Llama 3.2 3B Instruct,structured-output,false,sweet chili sauce,,cawan,cup
+161,11,Llama 3.2 3B Instruct,structured-output,false,daging frozen,Beef (frozen),gr,grams
+161,11,Llama 3.2 3B Instruct,structured-output,false,bawang merah,Onion,,
+161,11,Llama 3.2 3B Instruct,structured-output,false,bawang putih,Garlic,,
+161,11,Llama 3.2 3B Instruct,structured-output,false,black pepper,Black Pepper,,
+161,11,Llama 3.2 3B Instruct,structured-output,false,garlic powder,Garlic Powder,,
+161,11,Llama 3.2 3B Instruct,structured-output,false,daun rosemary,Rosemary,,
+161,11,Llama 3.2 3B Instruct,structured-output,false,paprika,Paprika,,
+161,11,Llama 3.2 3B Instruct,structured-output,false,tomato paste,Tomato Paste,,
+161,11,Llama 3.2 3B Instruct,structured-output,false,dekat air,Water,ml,milliliters
+161,11,Llama 3.2 3B Instruct,structured-output,false,krim masak,Cream (cooking),,
+161,11,Llama 3.2 3B Instruct,structured-output,false,toma,Tomato,,
+161,11,Llama 3.2 3B Instruct,structured-output,false,keju dill burger,Cheese Dill Burger,,
+168,18,Llama 3.2 3B Instruct,structured-output,false,daging hiris nipis,Thinly sliced beef,gram,g
+168,18,Llama 3.2 3B Instruct,structured-output,false,sayur lengkap,Mixed vegetables,gram,g
+168,18,Llama 3.2 3B Instruct,structured-output,false,bawang holland,Holland onions,gram,g
+168,18,Llama 3.2 3B Instruct,structured-output,false,carrot,Carrots,gram,g
+168,18,Llama 3.2 3B Instruct,structured-output,false,capsicum,Capsicums,gram,g
+168,18,Llama 3.2 3B Instruct,structured-output,false,mushroom,Mushrooms,gram,g
+168,18,Llama 3.2 3B Instruct,structured-output,false,glass noodle,Glass noodles,gram,g
+168,18,Llama 3.2 3B Instruct,structured-output,false,sos japchae,Japchae sauce,milliliter,mL
+174,24,Llama 3.2 3B Instruct,structured-output,false,ayam,chicken,,
+174,24,Llama 3.2 3B Instruct,structured-output,false,madu,honey,,
+174,24,Llama 3.2 3B Instruct,structured-output,false,kemboi,chili pepper,,
+174,24,Llama 3.2 3B Instruct,structured-output,false,kicap,soy sauce,,
+174,24,Llama 3.2 3B Instruct,structured-output,false,daun bawang,garlic,,
+174,24,Llama 3.2 3B Instruct,structured-output,false,air,water,,
+178,28,Llama 3.2 3B Instruct,structured-output,false,Strawberry,Strawberry,g,g
+178,28,Llama 3.2 3B Instruct,structured-output,false,Gula,Sugar,sudu,tablespoon
+178,28,Llama 3.2 3B Instruct,structured-output,false,Matcha,Green Tea Matcha,,
+178,28,Llama 3.2 3B Instruct,structured-output,false,Susu Oat,Oat Milk,susu oat,
+178,28,Llama 3.2 3B Instruct,structured-output,false,Es Batu,Ice Cube,es batu,
+179,29,Llama 3.2 3B Instruct,structured-output,false,butter,Butter,sendok makan,tablespoon
+179,29,Llama 3.2 3B Instruct,structured-output,false,tepung serba guna,All-purpose flour,sendok makan,tablespoon
+179,29,Llama 3.2 3B Instruct,structured-output,false,telur,Egg,,
+179,29,Llama 3.2 3B Instruct,structured-output,false,dark chocolate,Dark Chocolate,sendok makan,tablespoon
+180,30,Llama 3.2 3B Instruct,structured-output,false,strawberry,Strawberries,gram,g
+180,30,Llama 3.2 3B Instruct,structured-output,false,roti,Bread,slice,s
+180,30,Llama 3.2 3B Instruct,structured-output,false,krim,Whipping Cream,gram,g
+189,39,Llama 3.2 3B Instruct,structured-output,false,nasi,rice,,
+189,39,Llama 3.2 3B Instruct,structured-output,false,telur,egg,,
+189,39,Llama 3.2 3B Instruct,structured-output,false,bawang,onion,,
+189,39,Llama 3.2 3B Instruct,structured-output,false,cili,chili pepper,,
+189,39,Llama 3.2 3B Instruct,structured-output,false,ikan bilis,dried fish,,
+189,39,Llama 3.2 3B Instruct,structured-output,false,minyak,oil,,
+200,50,Llama 3.2 3B Instruct,structured-output,false,timun,cucumber,bekas,pieces
+200,50,Llama 3.2 3B Instruct,structured-output,false,krim cheese,cream cheese,sudu,tablespoons
+200,50,Llama 3.2 3B Instruct,structured-output,false,yogurt,yogurt,sudu,tablespoons
+200,50,Llama 3.2 3B Instruct,structured-output,false,bawang merah,garlic,biji,cloves
+200,50,Llama 3.2 3B Instruct,structured-output,false,garam,salt,sikit,teaspoons
+200,50,Llama 3.2 3B Instruct,structured-output,false,pepper,black pepper,sikit,teaspoons
+200,50,Llama 3.2 3B Instruct,structured-output,false,MSG,monosodium glutamate,sikit,teaspoons
+200,50,Llama 3.2 3B Instruct,structured-output,false,smoked salmon,smoked salmon,bekas,pieces
+203,2,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,
+402,1,Qwen 2.5 3B Instruct,zero-shot,false,ayam bagian thigh,chicken thighs,,
+402,1,Qwen 2.5 3B Instruct,zero-shot,false,"sos tiram, minyak bijan, tepung jagung, garam and black pepper","soy sauce, peanut oil, cornstarch, salt, and black pepper",,
+402,1,Qwen 2.5 3B Instruct,zero-shot,false,batang daun bawang,leaves of garlic,piece,
+402,1,Qwen 2.5 3B Instruct,zero-shot,false,potongan halia,pieces of halia,,
+402,1,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih dan daun bawang,white onion and leek,,
+404,3,Qwen 2.5 3B Instruct,zero-shot,false,1 pot ayam,One pot chicken,,
+404,3,Qwen 2.5 3B Instruct,zero-shot,false,ABC kicap,ABC soy sauce (Kecap ABC),sudu,tablespoons
+404,3,Qwen 2.5 3B Instruct,zero-shot,false,ABC sos manis,ABC sweet sauce (Sos Manis ABC),sudu,tablespoons
+404,3,Qwen 2.5 3B Instruct,zero-shot,false,1 batang bawang putih,1 white onion,,
+404,3,Qwen 2.5 3B Instruct,zero-shot,false,Sejumput lada hitam,A few pinches of black pepper,,
+405,4,Qwen 2.5 3B Instruct,zero-shot,false,plain yogurt,plain yogurt,,sudu
+405,4,Qwen 2.5 3B Instruct,zero-shot,false,"cupi mayo, mustard, timun, bawang holland, daun bawang","plain yogurt, mayonnaise, mustard, cucumber, Hollandaise sauce, scallion",,
+405,4,Qwen 2.5 3B Instruct,zero-shot,false,cili flake,jalapeno flakes,,
+405,4,Qwen 2.5 3B Instruct,zero-shot,false,"salt, pepper, garlic powder, ketumbar","salt, pepper, garlic powder, coriander seeds",,
+405,4,Qwen 2.5 3B Instruct,zero-shot,false,lemon juice and dry parsley,lemon juice and dried parsley,,
+405,4,Qwen 2.5 3B Instruct,zero-shot,false,egg boiled or tomato,boiled egg or tomato,,
+406,5,Qwen 2.5 3B Instruct,zero-shot,false,"serbuk kunyit, garlic powder, jintan putih, cayenne peper, garam dan pepper","turmeric powder, garlic powder, white peppercorn, cayenne pepper, salt, and black pepper",,
+406,5,Qwen 2.5 3B Instruct,zero-shot,false,"paprika, gula sikit, kacau","red pepper, a bit of sugar, and mixed spices (assumed to be a mix of white peppercorns and cayenne pepper)",,
+406,5,Qwen 2.5 3B Instruct,zero-shot,false,olive oil and lemon juice,olive oil and lemon juice,,
+406,5,Qwen 2.5 3B Instruct,zero-shot,false,plain yogurt,plain yogurt,,
+406,5,Qwen 2.5 3B Instruct,zero-shot,false,"chicken thigh, garlic sauce, BBQ sauce, sriracha sauce","chicken thighs, garlic sauce, BBQ sauce, and Sriracha sauce",,
+406,5,Qwen 2.5 3B Instruct,zero-shot,false,fries,fries (oil fried),,
+406,5,Qwen 2.5 3B Instruct,zero-shot,false,mozzarella cheese,mozzarella cheese,,
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,salmon,salmon,,
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,rice,rice,,
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,cream cheese,cream cheese,,
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,kewpie mayo,Kewpie mayonnaise,,
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,sriracha sauce,Sriracha sauce,,
+411,10,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,daging frozen yang tak sempat-sempat nak masak,frozen beef that didn't get cooked in time,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,bawang merah dan bawang putih,red and white onions,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,"black pepper, garlic powder, daun rosemary and paprika","black pepper, garlic powder, rosemary leaves, and paprika",,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,"tomato paste, dekat air and cooking cream","tomato paste, water, and cooking cream",,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,kepingan keju cheese dill burger,cheese dill burger pieces,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,sauce creamy,creamy sauce,,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,daging syabu-syabu,beef,,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,garam,salt,,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,black pepper,black pepper (peppercorn),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,white pepper,white peppercorn (white pepper),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,sos siram,soy sauce (kicap),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,minyak bijan,peanut oil (bodog),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,daging marinated,marinated beef,,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,roti sos,sauce bread (bolo),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,white onion (bulb),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,butter,butter (mentega),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,daging marinado,marinated beef (diced),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,kepingan keju,cheese slice (cottage cheese),,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,telur matah,egg (boiled egg),,
+415,14,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,daging,beef,,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,minyak bijan,palm oil,liter,liter
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,kicap masin,soy sauce,liter,liter
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,tepung jagung,corn flour,tablespoon,tablespoon
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,shallot,piece,pieces
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,halia,shallot (salted),piece,pieces
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,holland,ginger (fresh),stem,stem
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,kicap manis pedas dari mahsuri,soy sauce (sweet and spicy),tablespoon,tablespoon
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,white pepper,white peppercorns,piece,pieces
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,black pepper,black peppercorns,piece,pieces
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,benggala,red pepper flakes (dried),piece,pieces
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,broccoli,broccoli (fresh),stem,stem
+419,18,Qwen 2.5 3B Instruct,zero-shot,false,daging syabu-syabu,pork belly,,
+419,18,Qwen 2.5 3B Instruct,zero-shot,false,bawang merah,red onion,,
+419,18,Qwen 2.5 3B Instruct,zero-shot,false,kubis,carrot,,
+419,18,Qwen 2.5 3B Instruct,zero-shot,false,timun hijau,green bell pepper,,
+419,18,Qwen 2.5 3B Instruct,zero-shot,false,bawang harid,ginger,,
+419,18,Qwen 2.5 3B Instruct,zero-shot,false,minyak sawit,palm oil,,
+419,18,Qwen 2.5 3B Instruct,zero-shot,false,bumbu masak,seasoning and sauce,,
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,mangkuk,dish,,
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,suju cair,water ice,,
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,air cincau,cendol water,,
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,buah naga,mango,,
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,sagu,coconut flour (for cooking),,
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,susu pekat,full-fat milk (to taste),,
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,minyak,oil,,
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,beef,beef,,
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,mie sedap mie goreng perisa asli,正宗麻辣粉条 (Mien Sedap),paket,
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,telur kuning,egg yolk,,
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,mayo,mayonnaise,,
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,garlic,,
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,bawang merah,red onion,,
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,daun bawang,spring onion,,
+425,1,Qwen 2.5 3B Instruct,few-shot,false,ayam bagian thigh,chicken thighs,,
+425,1,Qwen 2.5 3B Instruct,few-shot,false,sos tiram,soy sauce,sendakan,tablespoon
+425,1,Qwen 2.5 3B Instruct,few-shot,false,biji minyak,sesame oil,sudu,tablespoon
+425,1,Qwen 2.5 3B Instruct,few-shot,false,tepung jagung,cornstarch,sendakan,tablespoon
+425,1,Qwen 2.5 3B Instruct,few-shot,false,garam,salt,,
+425,1,Qwen 2.5 3B Instruct,few-shot,false,black pepper,black pepper,,
+425,1,Qwen 2.5 3B Instruct,few-shot,false,kurma merah,beef jerky,,
+425,1,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,white onion,,
+425,1,Qwen 2.5 3B Instruct,few-shot,false,daun bawang,leaves of garlic (galangale),,
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,ayam bagian thigh,chicken thigh meat,piece,piece
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,sos tiram,soy sauce,tablespoon,tablespoon
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,minyak bijan,sesame oil,tablespoon,tablespoon
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,tepung jagung,cornstarch,tablespoon,tablespoon
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,garam,salt,teaspoon,teaspoon
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,black pepper,black pepper,teaspoon,teaspoon
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,daun bawang,scallion,stalks,stalks
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,kurma merah,red dates,pieces,pieces
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,halia,ginger,teaspoon,tablespoon
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,kentang,potato,g,grams
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,garlic powder,garlic powder,tsp,teaspoon
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,garam,salt,tsp,teaspoon
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,pepper,pepper,tsp,teaspoon
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,tepung jagung,cornstarch,tbsp,tablespoon
+433,3,Qwen 2.5 3B Instruct,few-shot,false,ayam,chicken,,
+433,3,Qwen 2.5 3B Instruct,few-shot,false,kicap ABC,ABC sauce,sudu,tablespoon
+433,3,Qwen 2.5 3B Instruct,few-shot,false,kicap manis ABC,ABC sweet sauce,sudu,tablespoon
+433,3,Qwen 2.5 3B Instruct,few-shot,false,nasi,rice,,
+433,3,Qwen 2.5 3B Instruct,few-shot,false,kicap,soy sauce,,
+433,3,Qwen 2.5 3B Instruct,few-shot,false,lebih,more,,
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,salmon,salmon,g,grams
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,cream cheese,cream cheese,g,grams
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,kewpie mayo,kewpie mayo,ml,milliliters
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,sriracha sauce,sriracha sauce,tbsp,tablespoon
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,jasmine rice,jasmine rice,g,grams
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,seaweed,seaweed,g,grams
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,daun bawang,spring onions (scallions),stalks,stalks
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,tepung,flour,cawan,cup
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,air,water,cawan,cup
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,seaweed,seaweed,bungkus,package
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,japchae,japchae noodles,bungkus,package
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,adunan tepung,flour mixture,cawan,cup
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,sweet chili sauce,sweet chili sauce,cawan,cup
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,ayam,chicken legs,piece,piece
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,minyak,oil,tablespoon,tablespoon
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,garam,salt,teaspoon,teaspoon
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,seasoning,seasoning,teaspoon,teaspoon
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,bawang,onion,piece,piece
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,rosemary,rosemary,sprig,sprig
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,thyme,thyme,sprig,sprig
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,butter,butter,tablespoon,tablespoon
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,broccoli,broccoli,cup,cup
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,cili padi merah,red chili peppers,teaspoon,teaspoon

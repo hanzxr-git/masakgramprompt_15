@@ -1,0 +1,72 @@
+Analyze this cooking transcript.
+
+Transcript:
+{{TRANSCRIPT}}
+
+Think internally using these steps:
+1. Identify the recipe name.
+2. Identify each ingredient mentioned.
+3. Translate ingredient names into English.
+4. Identify quantity value and unit from the transcript.
+5. Estimate weight in grams.
+6. Estimate ingredient-level nutrition values.
+7. Calculate total recipe nutrition and per-serving nutrition.
+
+Return only the final JSON using this structure:
+
+{
+  "recipe_name": "",
+  "servings_estimated": 1,
+
+  "serving_calories": 0,
+  "serving_total_fat_g": 0,
+  "serving_saturated_fat_g": 0,
+  "serving_cholesterol_mg": 0,
+  "serving_sodium_mg": 0,
+  "serving_carbohydrate_g": 0,
+  "serving_fiber_g": 0,
+  "serving_sugars_g": 0,
+  "serving_protein_g": 0,
+  "serving_vitamin_d_mcg": 0,
+  "serving_calcium_mg": 0,
+  "serving_iron_mg": 0,
+  "serving_potassium_mg": 0,
+
+  "total_calories": 0,
+  "total_fat_g": 0,
+  "total_saturated_fat_g": 0,
+  "total_cholesterol_mg": 0,
+  "total_sodium_mg": 0,
+  "total_carbohydrate_g": 0,
+  "total_fiber_g": 0,
+  "total_sugars_g": 0,
+  "total_protein_g": 0,
+  "total_vitamin_d_mcg": 0,
+  "total_calcium_mg": 0,
+  "total_iron_mg": 0,
+  "total_potassium_mg": 0,
+
+  "ingredients": [
+    {
+      "name_original": "",
+      "name_en": "",
+      "quantity_value": 0,
+      "unit_original": "",
+      "unit_en": "",
+      "estimated_weight_g": 0,
+      "calories": 0,
+      "total_fat_g": 0,
+      "saturated_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0,
+      "total_carbohydrate_g": 0,
+      "dietary_fiber_g": 0,
+      "total_sugars_g": 0,
+      "protein_g": 0,
+      "vitamin_d_mcg": 0,
+      "calcium_mg": 0,
+      "iron_mg": 0,
+      "potassium_mg": 0
+    }
+  ]
+}

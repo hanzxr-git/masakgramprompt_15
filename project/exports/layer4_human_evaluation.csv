@@ -1,0 +1,627 @@
+result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json_valid,status
+1,1,1,Llama 3.2 3B Instruct,zero-shot,,true,completed
+2,2,2,Llama 3.2 3B Instruct,zero-shot,Sardin Pasta,true,completed
+3,3,3,Llama 3.2 3B Instruct,zero-shot,One Pot Chicken with Rice,true,completed
+4,4,4,Llama 3.2 3B Instruct,zero-shot,,true,completed
+5,5,5,Llama 3.2 3B Instruct,zero-shot,HSP Halal Starter Pack,true,completed
+6,6,6,Llama 3.2 3B Instruct,zero-shot,,true,completed
+7,7,7,Llama 3.2 3B Instruct,zero-shot,,true,completed
+8,8,8,Llama 3.2 3B Instruct,zero-shot,,true,completed
+9,9,9,Llama 3.2 3B Instruct,zero-shot,,true,completed
+10,10,10,Llama 3.2 3B Instruct,zero-shot,,true,completed
+11,11,11,Llama 3.2 3B Instruct,zero-shot,Loaded Beef Nachos,true,completed
+12,12,12,Llama 3.2 3B Instruct,zero-shot,,true,completed
+13,13,13,Llama 3.2 3B Instruct,zero-shot,Beef Bulgogi Cheese Steak,true,completed
+14,14,14,Llama 3.2 3B Instruct,zero-shot,,true,completed
+15,15,15,Llama 3.2 3B Instruct,zero-shot,,true,completed
+16,16,16,Llama 3.2 3B Instruct,zero-shot,,true,completed
+17,17,17,Llama 3.2 3B Instruct,zero-shot,Creamy Chicken Alfredo Pasta,true,completed
+18,18,18,Llama 3.2 3B Instruct,zero-shot,,true,completed
+19,19,19,Llama 3.2 3B Instruct,zero-shot,Korean Fried Chicken,true,completed
+20,20,20,Llama 3.2 3B Instruct,zero-shot,,true,completed
+21,21,21,Llama 3.2 3B Instruct,zero-shot,Mee Sedap Creamy Chili Oil,true,completed
+22,22,22,Llama 3.2 3B Instruct,zero-shot,Daging Shabu-Shabu with Instant Noodles and Vegetables,true,completed
+23,23,23,Llama 3.2 3B Instruct,zero-shot,Cheesy Beef Taquito,true,completed
+24,24,24,Llama 3.2 3B Instruct,zero-shot,Ayam Bakar Madu,true,completed
+25,25,25,Llama 3.2 3B Instruct,zero-shot,,true,completed
+26,26,26,Llama 3.2 3B Instruct,zero-shot,,true,completed
+27,27,27,Llama 3.2 3B Instruct,zero-shot,Bubur Oat,true,completed
+28,28,28,Llama 3.2 3B Instruct,zero-shot,,true,completed
+29,29,29,Llama 3.2 3B Instruct,zero-shot,,true,completed
+30,30,30,Llama 3.2 3B Instruct,zero-shot,Strawberry Sando,true,completed
+31,31,31,Llama 3.2 3B Instruct,zero-shot,Chili Cheese Fries,true,completed
+32,32,32,Llama 3.2 3B Instruct,zero-shot,,true,completed
+33,33,33,Llama 3.2 3B Instruct,zero-shot,Energy Biskut,true,completed
+34,34,34,Llama 3.2 3B Instruct,zero-shot,,true,completed
+35,35,35,Llama 3.2 3B Instruct,zero-shot,,true,completed
+36,36,36,Llama 3.2 3B Instruct,zero-shot,,true,completed
+37,37,37,Llama 3.2 3B Instruct,zero-shot,spicy peanut butter noodles pedas,true,completed
+38,38,38,Llama 3.2 3B Instruct,zero-shot,,true,completed
+39,39,39,Llama 3.2 3B Instruct,zero-shot,nasi goreng cerdik,true,completed
+40,40,40,Llama 3.2 3B Instruct,zero-shot,Chicken Palm Sandwich,true,completed
+41,41,41,Llama 3.2 3B Instruct,zero-shot,,true,completed
+42,43,43,Llama 3.2 3B Instruct,zero-shot,,true,completed
+43,44,44,Llama 3.2 3B Instruct,zero-shot,Beef Stir Fry,true,completed
+44,46,46,Llama 3.2 3B Instruct,zero-shot,,true,completed
+45,48,48,Llama 3.2 3B Instruct,zero-shot,,true,completed
+46,49,49,Llama 3.2 3B Instruct,zero-shot,,true,completed
+47,50,50,Llama 3.2 3B Instruct,zero-shot,,true,completed
+48,51,1,Llama 3.2 3B Instruct,few-shot,Ayam Halia,true,completed
+49,52,2,Llama 3.2 3B Instruct,few-shot,Sardin Pasta,true,completed
+50,53,3,Llama 3.2 3B Instruct,few-shot,One Pot Chicken with Rice,true,completed
+51,54,4,Llama 3.2 3B Instruct,few-shot,Potato Salad,true,completed
+52,55,5,Llama 3.2 3B Instruct,few-shot,,true,completed
+53,56,6,Llama 3.2 3B Instruct,few-shot,Tete-Tots,true,completed
+54,57,7,Llama 3.2 3B Instruct,few-shot,Hummus,true,completed
+55,58,8,Llama 3.2 3B Instruct,few-shot,Shark Shuka,true,completed
+56,59,9,Llama 3.2 3B Instruct,few-shot,Salmon Sushi Bag,true,completed
+57,60,10,Llama 3.2 3B Instruct,few-shot,Gimari,true,completed
+58,61,11,Llama 3.2 3B Instruct,few-shot,,true,completed
+59,62,12,Llama 3.2 3B Instruct,few-shot,Creamy Chicken Pop Pie,true,completed
+60,63,13,Llama 3.2 3B Instruct,few-shot,Beef Bulgogi Cheese Steak,true,completed
+61,64,14,Llama 3.2 3B Instruct,few-shot,Mee Sedap Pedas Ala Thai,true,completed
+62,65,15,Llama 3.2 3B Instruct,few-shot,,true,completed
+63,66,16,Llama 3.2 3B Instruct,few-shot,Black Pepper Beef,true,completed
+64,67,17,Llama 3.2 3B Instruct,few-shot,Creamy Chicken Alfredo Pasta,true,completed
+65,68,18,Llama 3.2 3B Instruct,few-shot,,true,completed
+66,69,19,Llama 3.2 3B Instruct,few-shot,Korean Fried Chicken,true,completed
+67,70,20,Llama 3.2 3B Instruct,few-shot,Moktel Buah Naga,true,completed
+68,71,21,Llama 3.2 3B Instruct,few-shot,Mee Sedap Creamy Chili Oil,true,completed
+69,72,22,Llama 3.2 3B Instruct,few-shot,Daging Harimau Shabu-Shabu,true,completed
+70,73,23,Llama 3.2 3B Instruct,few-shot,,true,completed
+71,74,24,Llama 3.2 3B Instruct,few-shot,Ayam Bakar Madu,true,completed
+72,75,25,Llama 3.2 3B Instruct,few-shot,Baked Oats with Brownie,true,completed
+73,76,26,Llama 3.2 3B Instruct,few-shot,Chilli Oil Noodle,true,completed
+74,77,27,Llama 3.2 3B Instruct,few-shot,Bubur Oat,true,completed
+75,78,28,Llama 3.2 3B Instruct,few-shot,Ice Strawberry Matcha Latte,true,completed
+76,79,29,Llama 3.2 3B Instruct,few-shot,kek lava,true,completed
+77,80,30,Llama 3.2 3B Instruct,few-shot,Strawberry Sando,true,completed
+78,81,31,Llama 3.2 3B Instruct,few-shot,Chili Cheese Fries,true,completed
+79,82,32,Llama 3.2 3B Instruct,few-shot,,true,completed
+80,83,33,Llama 3.2 3B Instruct,few-shot,Biskut Energy Booster,true,completed
+81,84,34,Llama 3.2 3B Instruct,few-shot,Macaroni Soup,true,completed
+82,85,35,Llama 3.2 3B Instruct,few-shot,Ayam Goreng Raising Canes,true,completed
+83,86,36,Llama 3.2 3B Instruct,few-shot,,true,completed
+84,87,37,Llama 3.2 3B Instruct,few-shot,,true,completed
+85,88,38,Llama 3.2 3B Instruct,few-shot,Caramelized Onion Pasta,true,completed
+86,89,39,Llama 3.2 3B Instruct,few-shot,Nasi Goreng Cerdik,true,completed
+87,90,40,Llama 3.2 3B Instruct,few-shot,Chicken Palm Sandwich,true,completed
+88,91,41,Llama 3.2 3B Instruct,few-shot,Spicy Peanut Butter Noodle,true,completed
+89,93,43,Llama 3.2 3B Instruct,few-shot,Pasta Itali,true,completed
+90,94,44,Llama 3.2 3B Instruct,few-shot,Beef Stir Fry,true,completed
+91,96,46,Llama 3.2 3B Instruct,few-shot,Grilled Cajun Chicken & Nasi Goreng Butter,true,completed
+92,98,48,Llama 3.2 3B Instruct,few-shot,Cucumber Salad,true,completed
+93,99,49,Llama 3.2 3B Instruct,few-shot,,true,completed
+94,100,50,Llama 3.2 3B Instruct,few-shot,,true,completed
+95,101,1,Llama 3.2 3B Instruct,chain-of-thought,Ayam Steam Halia,true,completed
+96,102,2,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+97,103,3,Llama 3.2 3B Instruct,chain-of-thought,One Pot Chicken with Rice,true,completed
+98,104,4,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+99,105,5,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+100,106,6,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+101,107,7,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+102,108,8,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+103,109,9,Llama 3.2 3B Instruct,chain-of-thought,Salmon Sushi Bag,true,completed
+104,110,10,Llama 3.2 3B Instruct,chain-of-thought,,false,completed
+105,111,11,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+106,112,12,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+107,113,13,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+108,114,14,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+109,115,15,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+110,116,16,Llama 3.2 3B Instruct,chain-of-thought,Black Pepper Beef,true,completed
+111,117,17,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+112,118,18,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+113,119,19,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+114,120,20,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+115,121,21,Llama 3.2 3B Instruct,chain-of-thought,Mee Sedap Creamy Chili Oil,true,completed
+116,122,22,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+117,123,23,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+118,124,24,Llama 3.2 3B Instruct,chain-of-thought,,false,completed
+119,125,25,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+120,126,26,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+121,127,27,Llama 3.2 3B Instruct,chain-of-thought,Bubur Oat Savory,true,completed
+122,128,28,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+123,129,29,Llama 3.2 3B Instruct,chain-of-thought,kek lava,true,completed
+124,130,30,Llama 3.2 3B Instruct,chain-of-thought,Strawberry Sando,true,completed
+125,131,31,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+126,132,32,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+127,133,33,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+128,134,34,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+129,135,35,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+130,136,36,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+131,137,37,Llama 3.2 3B Instruct,chain-of-thought,,false,completed
+132,138,38,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+133,139,39,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+134,140,40,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+135,141,41,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+136,143,43,Llama 3.2 3B Instruct,chain-of-thought,Garlic,true,completed
+137,144,44,Llama 3.2 3B Instruct,chain-of-thought,Beef Stir Fry,true,completed
+138,146,46,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+139,148,48,Llama 3.2 3B Instruct,chain-of-thought,cucumber salad (tapi pedas sikit),true,completed
+140,149,49,Llama 3.2 3B Instruct,chain-of-thought,,true,completed
+141,150,50,Llama 3.2 3B Instruct,chain-of-thought,Viral Smoked Salmon Cucumber Salad,true,completed
+142,151,1,Llama 3.2 3B Instruct,structured-output,,true,completed
+143,152,2,Llama 3.2 3B Instruct,structured-output,,true,completed
+144,153,3,Llama 3.2 3B Instruct,structured-output,,true,completed
+145,154,4,Llama 3.2 3B Instruct,structured-output,,true,completed
+146,155,5,Llama 3.2 3B Instruct,structured-output,,true,completed
+147,156,6,Llama 3.2 3B Instruct,structured-output,,true,completed
+148,157,7,Llama 3.2 3B Instruct,structured-output,,true,completed
+149,158,8,Llama 3.2 3B Instruct,structured-output,,true,completed
+150,159,9,Llama 3.2 3B Instruct,structured-output,,true,completed
+151,160,10,Llama 3.2 3B Instruct,structured-output,Gimari,true,completed
+152,161,11,Llama 3.2 3B Instruct,structured-output,Loaded Beef Nachos,true,completed
+153,162,12,Llama 3.2 3B Instruct,structured-output,,true,completed
+154,163,13,Llama 3.2 3B Instruct,structured-output,,true,completed
+155,164,14,Llama 3.2 3B Instruct,structured-output,,true,completed
+156,165,15,Llama 3.2 3B Instruct,structured-output,,true,completed
+157,166,16,Llama 3.2 3B Instruct,structured-output,,true,completed
+158,167,17,Llama 3.2 3B Instruct,structured-output,,true,completed
+159,168,18,Llama 3.2 3B Instruct,structured-output,Japchae,true,completed
+160,169,19,Llama 3.2 3B Instruct,structured-output,,true,completed
+161,170,20,Llama 3.2 3B Instruct,structured-output,,true,completed
+162,171,21,Llama 3.2 3B Instruct,structured-output,,true,completed
+163,172,22,Llama 3.2 3B Instruct,structured-output,,true,completed
+164,173,23,Llama 3.2 3B Instruct,structured-output,,true,completed
+165,174,24,Llama 3.2 3B Instruct,structured-output,Ayam Bakar Madu,true,completed
+166,175,25,Llama 3.2 3B Instruct,structured-output,,true,completed
+167,176,26,Llama 3.2 3B Instruct,structured-output,,true,completed
+168,177,27,Llama 3.2 3B Instruct,structured-output,,true,completed
+169,178,28,Llama 3.2 3B Instruct,structured-output,Ice Strawberry Matcha Latte,true,completed
+170,179,29,Llama 3.2 3B Instruct,structured-output,Lava Cake,true,completed
+171,180,30,Llama 3.2 3B Instruct,structured-output,Strawberry Sando,true,completed
+172,181,31,Llama 3.2 3B Instruct,structured-output,,true,completed
+173,182,32,Llama 3.2 3B Instruct,structured-output,,true,completed
+174,183,33,Llama 3.2 3B Instruct,structured-output,,true,completed
+175,184,34,Llama 3.2 3B Instruct,structured-output,,true,completed
+176,185,35,Llama 3.2 3B Instruct,structured-output,,true,completed
+177,186,36,Llama 3.2 3B Instruct,structured-output,,true,completed
+178,187,37,Llama 3.2 3B Instruct,structured-output,,true,completed
+179,188,38,Llama 3.2 3B Instruct,structured-output,,true,completed
+180,189,39,Llama 3.2 3B Instruct,structured-output,Nasi Goreng Cerdik,true,completed
+181,190,40,Llama 3.2 3B Instruct,structured-output,,true,completed
+182,191,41,Llama 3.2 3B Instruct,structured-output,,true,completed
+183,193,43,Llama 3.2 3B Instruct,structured-output,,true,completed
+184,194,44,Llama 3.2 3B Instruct,structured-output,,true,completed
+185,196,46,Llama 3.2 3B Instruct,structured-output,,true,completed
+186,198,48,Llama 3.2 3B Instruct,structured-output,,true,completed
+187,199,49,Llama 3.2 3B Instruct,structured-output,,true,completed
+188,200,50,Llama 3.2 3B Instruct,structured-output,Viral Smoked Salmon Cucumber Salad,true,completed
+378,403,2,Qwen 2.5 3B Instruct,zero-shot,Sardin Pasta,true,failed
+392,206,5,Phi-4-mini 3.8B Instruct,zero-shot,,true,failed
+435,202,1,Phi-4-mini 3.8B Instruct,zero-shot,Ayam Steam Halia,true,completed
+437,203,2,Phi-4-mini 3.8B Instruct,zero-shot,Sardin Pasta,true,completed
+439,204,3,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+441,205,4,Phi-4-mini 3.8B Instruct,zero-shot,,true,completed
+443,207,6,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+445,208,7,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+447,209,8,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+449,210,9,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+450,211,10,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+451,211,10,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+453,212,11,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+455,213,12,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+456,214,13,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+457,214,13,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+459,215,14,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+461,216,15,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+462,217,16,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+463,217,16,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+464,218,17,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+465,218,17,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+466,219,18,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+467,219,18,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+468,220,19,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+469,220,19,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+470,221,20,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+471,221,20,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+472,222,21,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+473,222,21,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+474,223,22,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+475,223,22,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+477,224,23,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+479,225,24,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+481,226,25,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+483,227,26,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+484,228,27,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+485,228,27,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+487,229,28,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+489,230,29,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+491,231,30,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+493,232,31,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+495,233,32,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+497,234,33,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+499,235,34,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+501,236,35,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+502,237,36,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+503,237,36,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+504,238,37,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+505,238,37,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+506,239,38,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+507,239,38,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+508,240,39,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+509,240,39,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+510,241,40,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+511,241,40,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+512,242,41,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+513,242,41,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+515,244,43,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+517,245,44,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+519,247,46,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+520,249,48,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+521,249,48,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+523,250,49,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+525,251,50,Phi-4-mini 3.8B Instruct,zero-shot,,false,completed
+526,252,1,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+527,253,2,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+528,254,3,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+529,255,4,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+530,256,5,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+531,257,6,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+532,258,7,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+533,259,8,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+534,260,9,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+535,261,10,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+536,262,11,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+537,263,12,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+538,264,13,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+539,265,14,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+540,266,15,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+541,267,16,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+542,268,17,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+543,269,18,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+544,270,19,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+545,271,20,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+546,272,21,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+547,273,22,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+548,274,23,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+549,275,24,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+550,276,25,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+551,277,26,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+552,278,27,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+553,279,28,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+554,280,29,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+555,281,30,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+556,282,31,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+557,283,32,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+558,284,33,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+559,285,34,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+560,286,35,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+561,287,36,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+562,288,37,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+563,289,38,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+564,290,39,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+565,291,40,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+566,292,41,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+567,294,43,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+568,295,44,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+569,297,46,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+570,299,48,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+571,300,49,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+572,301,50,Phi-4-mini 3.8B Instruct,few-shot,,false,completed
+573,302,1,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+574,303,2,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+575,304,3,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+576,305,4,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+577,306,5,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+578,414,13,Qwen 2.5 3B Instruct,zero-shot,Beef Bulgogi Cheese Steak,true,failed
+579,307,6,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+580,308,7,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+581,309,8,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+582,310,9,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+583,311,10,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+584,312,11,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+585,313,12,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+586,314,13,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+587,315,14,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+588,316,15,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+589,317,16,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+590,318,17,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+591,319,18,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+592,320,19,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+593,321,20,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+594,322,21,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+595,323,22,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+596,324,23,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+597,325,24,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+598,326,25,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+599,327,26,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+600,328,27,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+601,329,28,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+602,330,29,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+603,331,30,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+604,332,31,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+605,333,32,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+606,334,33,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+607,335,34,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+608,336,35,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+609,337,36,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+610,338,37,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+612,339,38,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+613,340,39,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+614,341,40,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+615,342,41,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+616,344,43,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+617,345,44,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+618,347,46,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+619,349,48,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+620,350,49,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+621,351,50,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
+622,352,1,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+623,353,2,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+624,354,3,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+625,355,4,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+626,356,5,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+627,357,6,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+628,358,7,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+629,359,8,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+630,360,9,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+631,361,10,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+632,362,11,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+633,363,12,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+634,364,13,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+635,365,14,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+636,366,15,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+637,367,16,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+638,368,17,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+639,369,18,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+640,370,19,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+641,371,20,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+642,372,21,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+643,373,22,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+644,374,23,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+645,375,24,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+646,376,25,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+647,377,26,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+648,378,27,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+649,379,28,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+650,380,29,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+651,381,30,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+652,382,31,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+653,383,32,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+654,384,33,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+655,385,34,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+656,386,35,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+657,387,36,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+658,388,37,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+659,389,38,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+660,390,39,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+661,391,40,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+662,392,41,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+663,394,43,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+664,395,44,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+665,397,46,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+666,399,48,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+667,400,49,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+668,401,50,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
+669,416,15,Qwen 2.5 3B Instruct,zero-shot,,true,failed
+670,417,16,Qwen 2.5 3B Instruct,zero-shot,Black Pepper Beef,true,failed
+672,419,18,Qwen 2.5 3B Instruct,zero-shot,Japchae,true,running
+673,420,19,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+674,421,20,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+675,422,21,Qwen 2.5 3B Instruct,zero-shot,Mee Sedap Creamy Chili Oil,true,completed
+676,423,22,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+678,425,1,Qwen 2.5 3B Instruct,few-shot,Ayam Steam Halia,true,completed
+679,402,1,Qwen 2.5 3B Instruct,zero-shot,Ayam Steam Halia,true,completed
+681,427,1,Gemma-SEA-LION v4 4B,zero-shot,ayam steam halia,true,completed
+683,428,2,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+685,429,3,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+687,430,4,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+689,431,5,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+691,432,6,Gemma-SEA-LION v4 4B,zero-shot,tete-tots,true,completed
+693,434,7,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+695,435,8,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+697,436,9,Gemma-SEA-LION v4 4B,zero-shot,salmon sushi bag,true,completed
+699,437,10,Gemma-SEA-LION v4 4B,zero-shot,Gimari,true,completed
+701,438,11,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+702,404,3,Qwen 2.5 3B Instruct,zero-shot,One Pot Chicken with Rice,true,completed
+705,433,3,Qwen 2.5 3B Instruct,few-shot,One Pot Chicken with Rice,true,completed
+706,405,4,Qwen 2.5 3B Instruct,zero-shot,Potato Salad,true,completed
+708,439,12,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+710,441,13,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+711,406,5,Qwen 2.5 3B Instruct,zero-shot,HSP atau Halal Starter Pack,true,completed
+713,442,14,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+715,443,15,Gemma-SEA-LION v4 4B,zero-shot,Simple Roasted Chicken with Potato and Carrot,true,completed
+717,444,16,Gemma-SEA-LION v4 4B,zero-shot,Black Pepper Beef,true,completed
+720,445,17,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+722,446,18,Gemma-SEA-LION v4 4B,zero-shot,Japchae,true,completed
+723,440,4,Qwen 2.5 3B Instruct,few-shot,Potato Salad,true,completed
+725,448,19,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+726,407,6,Qwen 2.5 3B Instruct,zero-shot,,false,completed
+728,449,20,Gemma-SEA-LION v4 4B,zero-shot,moktel buah naga,true,completed
+730,450,21,Gemma-SEA-LION v4 4B,zero-shot,Mee Sedap Creamy Chili Oil,true,completed
+732,451,22,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+734,452,23,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+737,453,24,Gemma-SEA-LION v4 4B,zero-shot,ayam bakar madu,true,completed
+739,454,25,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+741,456,26,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+743,457,27,Gemma-SEA-LION v4 4B,zero-shot,bubur oat,true,completed
+745,458,28,Gemma-SEA-LION v4 4B,zero-shot,ice strawberry matcha latte,true,completed
+747,447,5,Qwen 2.5 3B Instruct,few-shot,Ayam Goreng dengan Plating dan Saus,true,completed
+748,459,29,Gemma-SEA-LION v4 4B,zero-shot,kek lava,true,completed
+750,408,7,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+751,460,30,Gemma-SEA-LION v4 4B,zero-shot,strawberry sando,true,completed
+753,461,31,Gemma-SEA-LION v4 4B,zero-shot,Chili Cheese Fries,true,completed
+755,462,32,Gemma-SEA-LION v4 4B,zero-shot,Chilli Oil,true,completed
+758,463,33,Gemma-SEA-LION v4 4B,zero-shot,Hazelnut Spread & Honey Banana Julie's Cheese Cracker Snack,true,completed
+760,464,34,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+762,465,35,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+763,455,6,Qwen 2.5 3B Instruct,few-shot,Tete-Tots,true,completed
+765,467,36,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+767,468,37,Gemma-SEA-LION v4 4B,zero-shot,spicy peanut butter noodles,true,completed
+769,469,38,Gemma-SEA-LION v4 4B,zero-shot,Caramelized Onion Pasta,true,completed
+771,470,39,Gemma-SEA-LION v4 4B,zero-shot,nasi goreng cerdik,true,completed
+773,409,8,Qwen 2.5 3B Instruct,zero-shot,Shark Shuka,true,completed
+774,471,40,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+776,472,41,Gemma-SEA-LION v4 4B,zero-shot,spicy peanut butter noodle,true,completed
+778,474,43,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+781,475,44,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+783,466,7,Qwen 2.5 3B Instruct,few-shot,Hummus,true,completed
+784,477,46,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
+786,480,48,Gemma-SEA-LION v4 4B,zero-shot,Cucumber Salad,true,completed
+788,481,49,Gemma-SEA-LION v4 4B,zero-shot,cucumber salad,true,completed
+789,482,50,Gemma-SEA-LION v4 4B,zero-shot,Viral Smoked Salmon Cucumber Salad,true,completed
+790,483,1,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+791,410,9,Qwen 2.5 3B Instruct,zero-shot,Salmon Sushi,true,completed
+792,484,2,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+793,485,3,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+794,486,4,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+795,487,5,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+796,488,6,Gemma-SEA-LION v4 4B,few-shot,Tete-tots,true,completed
+797,489,7,Gemma-SEA-LION v4 4B,few-shot,Hummus,true,completed
+798,490,8,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+799,491,9,Gemma-SEA-LION v4 4B,few-shot,Salmon Sushi Bag,true,completed
+800,492,10,Gemma-SEA-LION v4 4B,few-shot,Gimari,true,completed
+802,493,11,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+803,495,12,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+804,496,13,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+805,497,14,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+806,498,15,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+807,499,16,Gemma-SEA-LION v4 4B,few-shot,Black Pepper Beef,true,completed
+808,500,17,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+809,501,18,Gemma-SEA-LION v4 4B,few-shot,Japchae,true,completed
+810,502,19,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+811,478,8,Qwen 2.5 3B Instruct,few-shot,,true,completed
+812,503,1,Gemma-SEA-LION v4 4B,chain-of-thought,Ayam Steam Halia,true,completed
+813,504,20,Gemma-SEA-LION v4 4B,few-shot,Moktel Buah Naga,true,completed
+814,411,10,Qwen 2.5 3B Instruct,zero-shot,Gimari,true,completed
+815,505,2,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+816,506,21,Gemma-SEA-LION v4 4B,few-shot,Mee Sedap Creamy Chili Oil,true,completed
+817,507,3,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+818,508,22,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+819,509,4,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+820,510,23,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+821,511,5,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+823,512,24,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+824,513,6,Gemma-SEA-LION v4 4B,chain-of-thought,Tete-tots,true,completed
+825,515,25,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+826,516,7,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+827,517,26,Gemma-SEA-LION v4 4B,few-shot,Garlic Chilli Oil,true,completed
+828,518,8,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+829,519,27,Gemma-SEA-LION v4 4B,few-shot,Bubur Oat,true,completed
+830,494,9,Qwen 2.5 3B Instruct,few-shot,Salmon Sushi,true,completed
+831,520,9,Gemma-SEA-LION v4 4B,chain-of-thought,Salmon Sushi Bag,true,completed
+832,521,28,Gemma-SEA-LION v4 4B,few-shot,Ice Strawberry Matcha Latte,true,completed
+833,522,10,Gemma-SEA-LION v4 4B,chain-of-thought,Gimari,true,completed
+834,523,29,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+835,524,11,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+836,525,30,Gemma-SEA-LION v4 4B,few-shot,Strawberry Sando,true,completed
+837,526,12,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+838,412,11,Qwen 2.5 3B Instruct,zero-shot,Loaded Beef Nachos,true,completed
+839,527,31,Gemma-SEA-LION v4 4B,few-shot,Chili Cheese Fries,true,completed
+840,528,13,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+841,529,32,Gemma-SEA-LION v4 4B,few-shot,Chilli Oil,true,completed
+842,530,14,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+843,531,33,Gemma-SEA-LION v4 4B,few-shot,Snack for Runners,true,completed
+845,532,15,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+846,533,34,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+847,534,16,Gemma-SEA-LION v4 4B,chain-of-thought,Black Pepper Beef with Broccoli,true,completed
+848,536,35,Gemma-SEA-LION v4 4B,few-shot,Ayam Goreng Raising Canes,true,completed
+849,537,17,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+850,514,10,Qwen 2.5 3B Instruct,few-shot,Gimari,true,completed
+851,538,36,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+852,539,18,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+853,540,37,Gemma-SEA-LION v4 4B,few-shot,Spicy Peanut Butter Noodles,true,completed
+854,541,19,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+855,542,38,Gemma-SEA-LION v4 4B,few-shot,Caramelized Onion Pasta,true,completed
+856,543,20,Gemma-SEA-LION v4 4B,chain-of-thought,Moktel Buah Naga,true,completed
+857,544,39,Gemma-SEA-LION v4 4B,few-shot,Nasi Goreng Cerdik,true,completed
+858,545,21,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+859,546,40,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+860,547,22,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+861,548,41,Gemma-SEA-LION v4 4B,few-shot,Spicy Peanut Butter Noodle,true,completed
+862,549,23,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+863,550,1,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+864,552,43,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+865,553,24,Gemma-SEA-LION v4 4B,chain-of-thought,Ayam Bakar Madu,true,completed
+866,554,2,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+867,555,44,Gemma-SEA-LION v4 4B,few-shot,,true,completed
+868,556,25,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+869,557,3,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+870,559,46,Gemma-SEA-LION v4 4B,few-shot,Grilled Cajun Chicken with Butter Nasi Goreng and Creamy Sauce,true,completed
+871,560,26,Gemma-SEA-LION v4 4B,chain-of-thought,Garlic Chilli Oil,true,completed
+872,561,4,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+873,563,48,Gemma-SEA-LION v4 4B,few-shot,Cucumber Salad,true,completed
+874,564,27,Gemma-SEA-LION v4 4B,chain-of-thought,Bubur Oat dengan Isi Ayam,true,completed
+875,565,5,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+876,566,49,Gemma-SEA-LION v4 4B,few-shot,Cucumber Salad,true,completed
+877,567,28,Gemma-SEA-LION v4 4B,chain-of-thought,Ice Strawberry Matcha Latte,true,completed
+878,568,6,Gemma-SEA-LION v4 4B,structured-output,Tete-tots,true,completed
+879,569,50,Gemma-SEA-LION v4 4B,few-shot,Viral Smoked Salmon Cucumber Salad,true,completed
+880,570,29,Gemma-SEA-LION v4 4B,chain-of-thought,Kek Lava,true,completed
+881,571,7,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+882,573,30,Gemma-SEA-LION v4 4B,chain-of-thought,strawberry sando,true,completed
+883,574,8,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+884,575,31,Gemma-SEA-LION v4 4B,chain-of-thought,Chili Cheese Fries,true,completed
+885,576,9,Gemma-SEA-LION v4 4B,structured-output,salmon sushi bag,true,completed
+886,577,32,Gemma-SEA-LION v4 4B,chain-of-thought,Chilli Oil,true,completed
+887,578,10,Gemma-SEA-LION v4 4B,structured-output,Gimari,true,completed
+888,579,33,Gemma-SEA-LION v4 4B,chain-of-thought,Julie's Cheese Cracker & Banana Snack,true,completed
+889,580,11,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+890,581,34,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+891,582,12,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+892,583,35,Gemma-SEA-LION v4 4B,chain-of-thought,Ayam Goreng Raising Canes,true,completed
+893,584,13,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+894,585,36,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+895,586,14,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+896,587,37,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+897,588,15,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+898,589,38,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+899,590,16,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+900,591,39,Gemma-SEA-LION v4 4B,chain-of-thought,Nasi Goreng Cerdik,true,completed
+901,592,17,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+902,593,40,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+903,594,18,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+904,595,41,Gemma-SEA-LION v4 4B,chain-of-thought,Spicy Peanut Butter Noodles,true,completed
+905,596,19,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+906,598,43,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+907,599,20,Gemma-SEA-LION v4 4B,structured-output,Moktel Buah Naga,true,completed
+908,572,1,MedGemma 4B,zero-shot,,true,completed
+909,600,44,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
+910,601,21,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+911,604,46,Gemma-SEA-LION v4 4B,chain-of-thought,Grilled Cajun Chicken with Creamy Butter Nasi Goreng,true,completed
+912,605,22,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+913,607,48,Gemma-SEA-LION v4 4B,chain-of-thought,Cucumber Salad,true,completed
+914,608,23,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+915,609,49,Gemma-SEA-LION v4 4B,chain-of-thought,Cucumber Salad,true,completed
+916,610,24,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+917,611,50,Gemma-SEA-LION v4 4B,chain-of-thought,Viral Smoked Salmon Cucumber Salad,true,completed
+918,612,25,Gemma-SEA-LION v4 4B,structured-output,Baked Oat Meal Brownie,true,completed
+919,613,26,Gemma-SEA-LION v4 4B,structured-output,Garlic Chilli Oil,true,completed
+920,614,27,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+921,615,28,Gemma-SEA-LION v4 4B,structured-output,Ice Strawberry Matcha Latte,true,completed
+922,616,29,Gemma-SEA-LION v4 4B,structured-output,Kek Lava,true,completed
+923,617,30,Gemma-SEA-LION v4 4B,structured-output,strawberry sando,true,completed
+924,618,31,Gemma-SEA-LION v4 4B,structured-output,Chili Cheese Fries,true,completed
+925,619,32,Gemma-SEA-LION v4 4B,structured-output,Chilli Oil,true,completed
+926,620,33,Gemma-SEA-LION v4 4B,structured-output,Hazelnut Spread & Honey Banana Snack,true,completed
+927,621,34,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+928,622,35,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+929,623,36,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+930,624,37,Gemma-SEA-LION v4 4B,structured-output,Spicy Peanut Butter Noodles,true,completed
+931,625,38,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+932,626,39,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+933,627,40,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+934,628,41,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+935,602,2,MedGemma 4B,zero-shot,,true,completed
+936,630,43,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+937,632,44,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+938,634,46,Gemma-SEA-LION v4 4B,structured-output,,true,completed
+939,636,48,Gemma-SEA-LION v4 4B,structured-output,Cucumber Salad,true,completed
+940,637,49,Gemma-SEA-LION v4 4B,structured-output,Cucumber Salad,true,completed
+941,638,50,Gemma-SEA-LION v4 4B,structured-output,Viral Smoked Salmon Cucumber Salad,true,completed
+942,631,3,MedGemma 4B,zero-shot,,true,completed
+943,639,4,MedGemma 4B,zero-shot,,true,completed
+944,646,5,MedGemma 4B,zero-shot,,true,completed
+945,643,1,Qwen 2.5 3B Instruct,chain-of-thought,Ayam Steam Halia,true,completed
+946,640,1,MedGemma 4B,few-shot,,true,completed
+947,644,1,Qwen 2.5 3B Instruct,structured-output,Ayam Steam Halia,true,completed
+948,647,6,MedGemma 4B,zero-shot,Tete-tots,true,completed
+949,648,2,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+950,649,2,MedGemma 4B,few-shot,,true,completed
+951,653,3,MedGemma 4B,few-shot,,true,completed
+952,415,14,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+953,652,3,Qwen 2.5 3B Instruct,chain-of-thought,One Pot Chicken with Rice,true,completed
+954,662,14,Qwen 2.5 3B Instruct,few-shot,,true,failed
+955,418,17,Qwen 2.5 3B Instruct,zero-shot,Creamy Chicken Alfredo Pasta,true,completed
+956,673,6,Qwen 2.5 3B Instruct,chain-of-thought,Tete-Tots,true,completed

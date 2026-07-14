@@ -1,0 +1,63 @@
+Analyze the transcript and fill in the JSON schema.
+
+Transcript:
+{{TRANSCRIPT}}
+
+Output schema:
+
+{
+  "recipe_name": "string",
+  "servings_estimated": 1,
+
+  "serving_calories": 0,
+  "serving_total_fat_g": 0,
+  "serving_saturated_fat_g": 0,
+  "serving_cholesterol_mg": 0,
+  "serving_sodium_mg": 0,
+  "serving_carbohydrate_g": 0,
+  "serving_fiber_g": 0,
+  "serving_sugars_g": 0,
+  "serving_protein_g": 0,
+  "serving_vitamin_d_mcg": 0,
+  "serving_calcium_mg": 0,
+  "serving_iron_mg": 0,
+  "serving_potassium_mg": 0,
+
+  "total_calories": 0,
+  "total_fat_g": 0,
+  "total_saturated_fat_g": 0,
+  "total_cholesterol_mg": 0,
+  "total_sodium_mg": 0,
+  "total_carbohydrate_g": 0,
+  "total_fiber_g": 0,
+  "total_sugars_g": 0,
+  "total_protein_g": 0,
+  "total_vitamin_d_mcg": 0,
+  "total_calcium_mg": 0,
+  "total_iron_mg": 0,
+  "total_potassium_mg": 0,
+
+  "ingredients": [
+    {
+      "name_original": "string",
+      "name_en": "string",
+      "quantity_value": 0,
+      "unit_original": "string",
+      "unit_en": "string",
+      "estimated_weight_g": 0,
+      "calories": 0,
+      "total_fat_g": 0,
+      "saturated_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0,
+      "total_carbohydrate_g": 0,
+      "dietary_fiber_g": 0,
+      "total_sugars_g": 0,
+      "protein_g": 0,
+      "vitamin_d_mcg": 0,
+      "calcium_mg": 0,
+      "iron_mg": 0,
+      "potassium_mg": 0
+    }
+  ]
+}
