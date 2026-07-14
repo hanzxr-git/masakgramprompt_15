@@ -69,6 +69,7 @@ public class DashboardView {
         // Initialize main scroll pane
         mainScrollPane = new ScrollPane();
         mainScrollPane.setFitToWidth(true);
+        mainScrollPane.setFitToHeight(true);
         mainScrollPane.setStyle("-fx-background-color: transparent; -fx-background: transparent;");
 
         // Set sidebar and main content
@@ -134,8 +135,8 @@ public class DashboardView {
         Region spacer = new Region();
 
         // Main sidebar layout
-        VBox sidebar = new VBox(18);
-        sidebar.setPadding(new Insets(25));
+        VBox sidebar = new VBox(8);
+        sidebar.setPadding(new Insets(8));
         sidebar.getStyleClass().add("sidebar");
         sidebar.getChildren().addAll(
                 logo,
@@ -180,10 +181,8 @@ public class DashboardView {
         Label desc = new Label("Run LLM nutrition experiments for all transcripts using TCP/IP socket communication.");
         desc.getStyleClass().add("page-desc");
 
-        // Stat cards in a flow layout
-        FlowPane cards = new FlowPane();
-        cards.setHgap(18);
-        cards.setVgap(18);
+        // Stat cards in a horizontal layout
+        HBox cards = new HBox(8);
 
         cards.getChildren().addAll(
                 createStatCard("01", "Total Reels", "0", "Collected Instagram Reels", "reels"),
@@ -195,16 +194,17 @@ public class DashboardView {
         );
 
         // Middle row: Experiment runner + Live activity
-        HBox middle = new HBox(18);
+        HBox middle = new HBox(8);
         middle.getChildren().addAll(createExperimentRunner(), createLivePanel());
 
         // Bottom row: Reel preview + Recent experiments
-        HBox bottom = new HBox(18);
+        HBox bottom = new HBox(8);
+        VBox.setVgrow(bottom, Priority.ALWAYS);
         bottom.getChildren().addAll(createReelPanel(), createRecentExperimentPanel());
 
         // Main content layout
-        VBox content = new VBox(20);
-        content.setPadding(new Insets(25));
+        VBox content = new VBox(8);
+        content.setPadding(new Insets(8));
         content.getStyleClass().add("content");
         content.getChildren().addAll(title, desc, cards, middle, bottom);
 
@@ -251,7 +251,8 @@ public class DashboardView {
 
         VBox card = new VBox(8);
         card.getStyleClass().add("stat-card");
-        card.setPrefWidth(210);
+        HBox.setHgrow(card, Priority.ALWAYS);
+        card.setMaxWidth(Double.MAX_VALUE);
         card.getChildren().addAll(iconLabel, labelText, valueText, sub);
 
         return card;
@@ -289,7 +290,7 @@ public class DashboardView {
         CheckBox chainOfThought = new CheckBox("chain-of-thought");
         CheckBox structuredOutput = new CheckBox("structured-output");
 
-        VBox techniqueBox = new VBox(8);
+        FlowPane techniqueBox = new FlowPane(12, 8);
         techniqueBox.getChildren().addAll(zeroShot, fewShot, chainOfThought, structuredOutput);
 
         // Action buttons
@@ -305,6 +306,13 @@ public class DashboardView {
         stopButton.setDisable(true);
         stopRunButton = stopButton;
         stopButton.setOnAction(event -> stopRunningAnalysis());
+        
+        HBox secondaryButtons = new HBox(8);
+        HBox.setHgrow(stopButton, Priority.ALWAYS);
+        HBox.setHgrow(refreshButton, Priority.ALWAYS);
+        stopButton.setMaxWidth(Double.MAX_VALUE);
+        refreshButton.setMaxWidth(Double.MAX_VALUE);
+        secondaryButtons.getChildren().addAll(stopButton, refreshButton);
 
         // Status indicators
         Label status = new Label("Status: Waiting");
@@ -312,7 +320,12 @@ public class DashboardView {
 
         progressIndicator = new ProgressIndicator();
         progressIndicator.setVisible(false);
-        progressIndicator.setPrefSize(45, 45);
+        progressIndicator.setManaged(false); // don't take up space when hidden
+        progressIndicator.setPrefSize(24, 24);
+        
+        HBox statusBox = new HBox(12);
+        statusBox.setStyle("-fx-alignment: center-left;");
+        statusBox.getChildren().addAll(progressIndicator, status);
 
         /**
          * Run button action - validates selections and starts experiment
@@ -352,7 +365,7 @@ public class DashboardView {
         refreshButton.setOnAction(event -> loadInitialData());
 
         // Main panel layout
-        VBox box = new VBox(14);
+        VBox box = new VBox(8);
         box.getStyleClass().add("panel");
         box.setPrefWidth(450);
         box.getChildren().addAll(
@@ -361,10 +374,8 @@ public class DashboardView {
                 modelBox,
                 techniqueBox,
                 runButton,
-                stopButton,
-                refreshButton,
-                status,
-                progressIndicator
+                secondaryButtons,
+                statusBox
         );
 
         return box;
@@ -380,7 +391,7 @@ public class DashboardView {
 
         activityLog = new TextArea();
         activityLog.setEditable(false);
-        activityLog.setPrefHeight(300);
+        activityLog.setPrefHeight(100);
         activityLog.setText(
                 "Ready.\n" +
                 "Dashboard will send commands to TCP/IP Server at localhost:5000.\n\n" +
@@ -388,9 +399,11 @@ public class DashboardView {
                 "RUN_ALL_EXPERIMENTS|modelTag|technique1,technique2"
         );
 
-        VBox box = new VBox(14);
+        VBox box = new VBox(8);
         box.getStyleClass().add("panel");
-        box.setPrefWidth(520);
+        HBox.setHgrow(box, Priority.ALWAYS);
+        box.setMaxWidth(Double.MAX_VALUE);
+        VBox.setVgrow(activityLog, Priority.ALWAYS);
         box.getChildren().addAll(title, activityLog);
 
         return box;
@@ -409,12 +422,14 @@ public class DashboardView {
 
         reelPreview = new TextArea();
         reelPreview.setEditable(false);
-        reelPreview.setPrefHeight(230);
+        reelPreview.setPrefHeight(130);
         reelPreview.setText("Click Refresh Dashboard to load reel list from server.");
 
-        VBox box = new VBox(14);
+        VBox box = new VBox(8);
         box.getStyleClass().add("panel");
-        box.setPrefWidth(480);
+        HBox.setHgrow(box, Priority.ALWAYS);
+        box.setMaxWidth(Double.MAX_VALUE);
+        VBox.setVgrow(reelPreview, Priority.ALWAYS);
         box.getChildren().addAll(title, desc, reelPreview);
 
         return box;
@@ -433,12 +448,14 @@ public class DashboardView {
 
         recentExperiments = new TextArea();
         recentExperiments.setEditable(false);
-        recentExperiments.setPrefHeight(230);
+        recentExperiments.setPrefHeight(130);
         recentExperiments.setText("No experiment loaded yet.");
 
-        VBox box = new VBox(14);
+        VBox box = new VBox(8);
         box.getStyleClass().add("panel");
-        box.setPrefWidth(480);
+        HBox.setHgrow(box, Priority.ALWAYS);
+        box.setMaxWidth(Double.MAX_VALUE);
+        VBox.setVgrow(recentExperiments, Priority.ALWAYS);
         box.getChildren().addAll(title, desc, recentExperiments);
 
         return box;
@@ -630,8 +647,8 @@ public class DashboardView {
         Label desc = new Label(descriptionText);
         desc.getStyleClass().add("page-desc");
 
-        VBox page = new VBox(20);
-        page.setPadding(new Insets(25));
+        VBox page = new VBox(8);
+        page.setPadding(new Insets(8));
         page.getStyleClass().add("content");
         page.getChildren().addAll(title, desc);
 
@@ -732,7 +749,7 @@ public class DashboardView {
         TextArea previewArea = createLargeTextArea(
                 "Select one reel row, then click View Transcript Preview."
         );
-        previewArea.setPrefHeight(300);
+        previewArea.setPrefHeight(160);
 
         // Refresh button
         Button refreshButton = createSecondaryButton("🔄 Refresh Reels");
@@ -765,12 +782,20 @@ public class DashboardView {
             }
         });
 
-        VBox tablePanel = new VBox(14);
+        VBox tablePanel = new VBox(8);
         tablePanel.getStyleClass().add("panel");
-        tablePanel.getChildren().addAll(refreshButton, previewButton, table);
+        
+        HBox buttonBox = new HBox(8);
+        buttonBox.getChildren().addAll(refreshButton, previewButton);
+        
+        VBox.setVgrow(tablePanel, Priority.ALWAYS);
+        VBox.setVgrow(table, Priority.ALWAYS);
+        tablePanel.getChildren().addAll(buttonBox, table);
 
-        VBox previewPanel = new VBox(14);
+        VBox previewPanel = new VBox(8);
         previewPanel.getStyleClass().add("panel");
+        VBox.setVgrow(previewPanel, Priority.ALWAYS);
+        VBox.setVgrow(previewArea, Priority.ALWAYS);
         previewPanel.getChildren().addAll(new Label("Transcript Preview"), previewArea);
 
         page.getChildren().addAll(tablePanel, previewPanel);
@@ -817,7 +842,7 @@ public class DashboardView {
 
         Button filterButton = createSecondaryButton("Filter");
 
-        HBox filterBar = new HBox(10);
+        HBox filterBar = new HBox(8);
         filterBar.getChildren().addAll(
                 transcriptFilter,
                 modelFilter,
@@ -856,7 +881,7 @@ public class DashboardView {
         table.getColumns().add(createColumn("Status", 5, 120));
         table.getColumns().add(createColumn("Executed At", 6, 180));
 
-        table.setPrefHeight(540);
+        // Removed hardcoded prefHeight
 
         // =========================
         // BUTTONS
@@ -925,14 +950,20 @@ public class DashboardView {
         // =========================
         // PANEL
         // =========================
-        VBox panel = new VBox(14);
+        VBox panel = new VBox(8);
 
         panel.getStyleClass().add("panel");
 
+        HBox buttonBox = new HBox(8);
+        buttonBox.getChildren().addAll(refreshButton, openFactSheetButton);
+
+        VBox.setVgrow(panel, Priority.ALWAYS);
+        panel.setMaxHeight(Double.MAX_VALUE);
+        VBox.setVgrow(table, Priority.ALWAYS);
+
         panel.getChildren().addAll(
                 filterBar,
-                refreshButton,
-                openFactSheetButton,
+                buttonBox,
                 table
         );
 
@@ -980,7 +1011,8 @@ public class DashboardView {
 
         // Overview area with statistics
         TextArea overviewArea = createLargeTextArea("Loading nutrition comparison...");
-        overviewArea.setPrefHeight(260);
+        overviewArea.setPrefHeight(120);
+        overviewArea.setMinHeight(120);
 
         // ===== GROUND TRUTH TABLE =====
         // Shows only GT columns (indices 1-6 from the full row)
@@ -992,7 +1024,7 @@ public class DashboardView {
         gtTable.getColumns().add(createColumn("GT Value / Unit", 4, 140));
         gtTable.getColumns().add(createColumn("GT Weight (g)", 5, 120));
         gtTable.getColumns().add(createColumn("GT Calories", 6, 110));
-        gtTable.setPrefHeight(450);
+        // Removed hardcoded prefHeight
 
         // ===== LLM TABLE =====
         // Shows LLM columns with hallucination detection column added
@@ -1018,7 +1050,7 @@ public class DashboardView {
         });
         hallucinationColumn.setPrefWidth(120);
         llmTable.getColumns().add(hallucinationColumn);
-        llmTable.setPrefHeight(450);
+        // Removed hardcoded prefHeight
 
         // Refresh button
         Button refreshButton = createSecondaryButton("🔄 Refresh Nutrition Comparison");
@@ -1033,29 +1065,35 @@ public class DashboardView {
         });
 
         // GT panel with label
-        VBox gtPanel = new VBox(10);
+        VBox gtPanel = new VBox(8);
         gtPanel.getStyleClass().add("panel");
         Label gtLabel = new Label("🔍 Ground Truth Ingredients (Human-Annotated)");
         gtLabel.getStyleClass().add("section-title");
+        VBox.setVgrow(gtTable, Priority.ALWAYS);
         gtPanel.getChildren().addAll(gtLabel, gtTable);
 
         // LLM panel with label
-        VBox llmPanel = new VBox(10);
+        VBox llmPanel = new VBox(8);
         llmPanel.getStyleClass().add("panel");
         Label llmLabel = new Label("🤖 LLM Extracted Ingredients");
         llmLabel.getStyleClass().add("section-title");
+        VBox.setVgrow(llmTable, Priority.ALWAYS);
         llmPanel.getChildren().addAll(llmLabel, llmTable);
 
         // Side-by-side layout for GT and LLM tables
-        HBox tablesContainer = new HBox(20);
+        HBox tablesContainer = new HBox(8);
         tablesContainer.getChildren().addAll(gtPanel, llmPanel);
         HBox.setHgrow(gtPanel, Priority.ALWAYS);
         HBox.setHgrow(llmPanel, Priority.ALWAYS);
+        VBox.setVgrow(tablesContainer, Priority.ALWAYS);
 
         // Overview panel with buttons
-        VBox overviewPanel = new VBox(14);
+        HBox buttonBox = new HBox(8);
+        buttonBox.getChildren().addAll(refreshButton, downloadButton);
+        
+        VBox overviewPanel = new VBox(8);
         overviewPanel.getStyleClass().add("panel");
-        overviewPanel.getChildren().addAll(refreshButton, downloadButton, overviewArea);
+        overviewPanel.getChildren().addAll(buttonBox, overviewArea);
 
         page.getChildren().addAll(overviewPanel, tablesContainer);
         setPage(page);
@@ -1361,7 +1399,8 @@ public class DashboardView {
         );
 
         TextArea overviewArea = createLargeTextArea("Loading metrics overview...");
-        overviewArea.setPrefHeight(260);
+        overviewArea.setPrefHeight(200);
+        overviewArea.setMinHeight(200);
 
         TableView<String[]> table = new TableView<String[]>();
 
@@ -1376,16 +1415,16 @@ public class DashboardView {
         table.getColumns().add(createColumn("Hallucinated", 8, 120));
         table.getColumns().add(createColumn("Hallucination Rate", 9, 160));
 
-        table.setPrefHeight(420);
+        // Removed hardcoded prefHeight
 
         Button refreshButton = createSecondaryButton("🔄 Refresh Metrics");
         refreshButton.setOnAction(event -> loadMetricsTableAsync(table, overviewArea));
 
-        VBox overviewPanel = new VBox(14);
+        VBox overviewPanel = new VBox(8);
         overviewPanel.getStyleClass().add("panel");
         overviewPanel.getChildren().addAll(refreshButton, overviewArea);
 
-        VBox tablePanel = new VBox(14);
+        VBox tablePanel = new VBox(8);
         tablePanel.getStyleClass().add("panel");
         
         // Add a small description above the table
@@ -1395,6 +1434,10 @@ public class DashboardView {
         );
         tableDescription.getStyleClass().add("page-desc");
         tableDescription.setWrapText(true);
+        
+        VBox.setVgrow(tablePanel, Priority.ALWAYS);
+        tablePanel.setMaxHeight(Double.MAX_VALUE);
+        VBox.setVgrow(table, Priority.ALWAYS);
         
         tablePanel.getChildren().addAll(tableDescription, table);
         
@@ -1479,9 +1522,9 @@ public class DashboardView {
         });
 
         guideTable.setItems(FXCollections.observableArrayList(guideRows));
-        guideTable.setPrefHeight(330);
+        // Removed hardcoded prefHeight
 
-        VBox guidePanel = new VBox(14);
+        VBox guidePanel = new VBox(8);
         guidePanel.getStyleClass().add("panel");
         
         Label guideTitle = new Label("📚 Evaluation Layer Guide");
@@ -1494,6 +1537,10 @@ public class DashboardView {
         );
         guideDescription.getStyleClass().add("page-desc");
         guideDescription.setWrapText(true);
+        
+        VBox.setVgrow(guidePanel, Priority.ALWAYS);
+        guidePanel.setMaxHeight(Double.MAX_VALUE);
+        VBox.setVgrow(guideTable, Priority.ALWAYS);
         
         guidePanel.getChildren().addAll(guideTitle, guideDescription, guideTable);
         
@@ -1542,10 +1589,8 @@ public class DashboardView {
         humanEvaluation.setOnAction(event -> exportCsvAsync("human_evaluation", status));
         conditionScores.setOnAction(event -> exportCsvAsync("condition_scores", status));
 
-        VBox panel = new VBox(14);
-        panel.getStyleClass().add("panel");
-        panel.getChildren().addAll(
-                status,
+        javafx.scene.layout.FlowPane buttonPane = new javafx.scene.layout.FlowPane(12, 12);
+        buttonPane.getChildren().addAll(
                 exactMatch,
                 textSimilarity,
                 numericQuantity,
@@ -1557,6 +1602,10 @@ public class DashboardView {
                 humanEvaluation,
                 conditionScores
         );
+
+        VBox panel = new VBox(12);
+        panel.getStyleClass().add("panel");
+        panel.getChildren().addAll(status, buttonPane);
 
         page.getChildren().add(panel);
         setPage(page);
@@ -1920,3 +1969,5 @@ public class DashboardView {
         thread.start();
     }
 }
+
+
