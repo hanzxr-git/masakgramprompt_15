@@ -1,0 +1,2279 @@
+experiment_id,transcript_id,model_name,technique_name,rag_enabled,calories,protein_g,total_fat_g,total_carbohydrate_g,sodium_mg,total_sugars_g,calcium_mg,iron_mg,potassium_mg
+2,2,Llama 3.2 3B Instruct,zero-shot,false,100.0,20.0,4.0,0.0,200.0,0.0,50.0,1.5,200.0
+2,2,Llama 3.2 3B Instruct,zero-shot,false,160.0,8.0,2.0,30.0,10.0,6.0,100.0,1.5,200.0
+2,2,Llama 3.2 3B Instruct,zero-shot,false,100.0,1.5,11.0,5.0,50.0,2.0,50.0,1.0,100.0
+2,2,Llama 3.2 3B Instruct,zero-shot,false,10.0,0.5,0.5,2.0,1.0,0.5,0.0,0.1,10.0
+2,2,Llama 3.2 3B Instruct,zero-shot,false,10.0,0.5,0.5,2.0,1.0,0.5,0.0,0.1,100.0
+3,3,Llama 3.2 3B Instruct,zero-shot,false,0.0,4.0,0.0,40.0,350.0,10.0,200.0,3.0,400.0
+3,3,Llama 3.2 3B Instruct,zero-shot,false,0.0,1.0,0.0,5.0,200.0,2.0,50.0,2.0,100.0
+3,3,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.5,0.0,2.0,100.0,1.0,20.0,1.0,50.0
+3,3,Llama 3.2 3B Instruct,zero-shot,false,0.0,1.0,0.0,2.0,200.0,1.0,10.0,2.0,50.0
+5,5,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,6,Llama 3.2 3B Instruct,zero-shot,false,18000.0,300.0,360.0,90000.0,12000.0,4500.0,2000.0,50.0,40000.0
+10,10,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,11,Llama 3.2 3B Instruct,zero-shot,false,60.0,3.0,0.5,8.0,200.0,4.0,100.0,2.0,400.0
+11,11,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,11,Llama 3.2 3B Instruct,zero-shot,false,120.0,6.0,7.0,16.0,300.0,8.0,200.0,4.0,800.0
+11,11,Llama 3.2 3B Instruct,zero-shot,false,45.0,0.5,3.75,10.0,250.0,5.0,50.0,1.0,300.0
+11,11,Llama 3.2 3B Instruct,zero-shot,false,22.5,0.25,1.875,6.0,125.0,3.0,25.0,0.5,225.0
+13,13,Llama 3.2 3B Instruct,zero-shot,false,50.0,25.0,1.5,0.0,20.0,0.0,5.0,1.5,50.0
+13,13,Llama 3.2 3B Instruct,zero-shot,false,80.0,5.0,6.5,0.0,30.0,0.0,8.0,1.2,40.0
+13,13,Llama 3.2 3B Instruct,zero-shot,false,60.0,3.0,2.5,12.0,10.0,4.0,1.5,0.8,30.0
+13,13,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,1.0,10.0,0.0,0.0,0.0,10.0
+14,14,Llama 3.2 3B Instruct,zero-shot,false,56.8,1.9,3.4,10.5,350.0,4.3,20.0,0.6,400.0
+17,17,Llama 3.2 3B Instruct,zero-shot,false,50.0,12.0,3.5,4.0,350.0,1.0,10.0,1.0,100.0
+17,17,Llama 3.2 3B Instruct,zero-shot,false,20.0,5.0,1.5,2.0,200.0,0.0,5.0,0.5,50.0
+17,17,Llama 3.2 3B Instruct,zero-shot,false,10.0,3.0,1.0,2.0,100.0,1.0,5.0,0.25,20.0
+17,17,Llama 3.2 3B Instruct,zero-shot,false,5.0,2.0,1.0,1.0,50.0,1.0,3.0,0.125,10.0
+17,17,Llama 3.2 3B Instruct,zero-shot,false,20.0,5.0,0.5,2.0,50.0,1.0,10.0,1.0,50.0
+19,19,Llama 3.2 3B Instruct,zero-shot,false,200.0,30.0,20.0,0.0,400.0,0.0,100.0,5.0,500.0
+19,19,Llama 3.2 3B Instruct,zero-shot,false,10.0,1.0,0.0,2.0,1.0,1.0,10.0,1.0,100.0
+19,19,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,21,Llama 3.2 3B Instruct,zero-shot,false,400.0,12.0,20.0,60.0,500.0,20.0,200.0,2.0,600.0
+21,21,Llama 3.2 3B Instruct,zero-shot,false,100.0,3.0,5.0,10.0,200.0,4.0,100.0,1.0,200.0
+21,21,Llama 3.2 3B Instruct,zero-shot,false,50.0,1.5,2.5,5.0,100.0,2.0,50.0,0.5,100.0
+22,22,Llama 3.2 3B Instruct,zero-shot,false,50.0,5.0,1.5,9.0,200.0,1.0,10.0,0.5,50.0
+22,22,Llama 3.2 3B Instruct,zero-shot,false,100.0,10.0,2.5,12.0,300.0,2.0,15.0,1.0,75.0
+22,22,Llama 3.2 3B Instruct,zero-shot,false,25.0,2.0,0.5,4.0,100.0,0.5,5.0,0.25,25.0
+22,22,Llama 3.2 3B Instruct,zero-shot,false,50.0,5.0,1.5,9.0,200.0,1.0,10.0,0.5,50.0
+23,23,Llama 3.2 3B Instruct,zero-shot,false,400.0,40.0,30.0,0.0,200.0,0.0,20.0,5.0,500.0
+23,23,Llama 3.2 3B Instruct,zero-shot,false,40.0,1.0,0.0,10.0,10.0,6.0,20.0,0.5,100.0
+23,23,Llama 3.2 3B Instruct,zero-shot,false,15.0,0.5,0.0,3.0,5.0,1.0,20.0,0.2,30.0
+23,23,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,1.0,10.0,0.0,0.0,0.0,10.0
+23,23,Llama 3.2 3B Instruct,zero-shot,false,200.0,15.0,15.0,0.0,300.0,0.0,30.0,2.0,200.0
+24,24,Llama 3.2 3B Instruct,zero-shot,false,360.0,60.0,36.0,0.0,600.0,0.0,20.0,8.0,400.0
+24,24,Llama 3.2 3B Instruct,zero-shot,false,100.0,2.0,10.0,20.0,200.0,10.0,5.0,1.0,100.0
+26,26,Llama 3.2 3B Instruct,zero-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,27,Llama 3.2 3B Instruct,zero-shot,false,0.0,4.38,0.0,9.95,0.0,2.22,150.0,1.67,110.0
+27,27,Llama 3.2 3B Instruct,zero-shot,false,0.0,25.0,0.0,0.0,1000.0,0.0,50.0,5.0,500.0
+27,27,Llama 3.2 3B Instruct,zero-shot,false,0.0,1.67,0.0,6.67,3000.0,3.33,50.0,5.0,500.0
+28,28,Llama 3.2 3B Instruct,zero-shot,false,50.0,1.0,0.5,12.0,10.0,8.0,30.0,0.0,100.0
+28,28,Llama 3.2 3B Instruct,zero-shot,false,10.0,0.5,0.0,2.5,5.0,1.5,10.0,0.0,5.0
+28,28,Llama 3.2 3B Instruct,zero-shot,false,30.0,1.5,0.0,6.0,50.0,3.0,150.0,0.0,200.0
+30,30,Llama 3.2 3B Instruct,zero-shot,false,0.0,1.0,0.0,20.0,0.0,15.0,11.0,0.0,170.0
+31,31,Llama 3.2 3B Instruct,zero-shot,false,600.0,5.0,20.0,80.0,500.0,2.0,10.0,1.0,450.0
+31,31,Llama 3.2 3B Instruct,zero-shot,false,400.0,30.0,20.0,0.0,500.0,0.0,20.0,2.0,400.0
+31,31,Llama 3.2 3B Instruct,zero-shot,false,200.0,5.0,10.0,4.0,300.0,2.0,100.0,1.0,150.0
+31,31,Llama 3.2 3B Instruct,zero-shot,false,100.0,1.0,10.0,2.0,200.0,0.0,5.0,0.0,50.0
+32,32,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,33,Llama 3.2 3B Instruct,zero-shot,false,120.0,3.0,4.0,20.0,200.0,5.0,100.0,2.0,200.0
+33,33,Llama 3.2 3B Instruct,zero-shot,false,100.0,2.0,7.0,15.0,50.0,6.0,20.0,1.0,150.0
+33,33,Llama 3.2 3B Instruct,zero-shot,false,105.0,1.0,0.5,25.0,1.0,15.0,10.0,0.5,400.0
+33,33,Llama 3.2 3B Instruct,zero-shot,false,64.0,0.0,0.0,17.0,0.0,16.0,0.0,0.0,0.0
+37,37,Llama 3.2 3B Instruct,zero-shot,false,190.0,8.0,16.5,8.0,350.0,4.5,0.0,0.0,350.0
+37,37,Llama 3.2 3B Instruct,zero-shot,false,200.0,2.0,0.0,40.0,900.0,10.0,0.0,1.0,400.0
+37,37,Llama 3.2 3B Instruct,zero-shot,false,200.0,2.0,0.0,40.0,900.0,10.0,0.0,1.0,400.0
+37,37,Llama 3.2 3B Instruct,zero-shot,false,64.0,0.0,0.0,16.0,0.0,14.0,0.0,0.0,10.0
+37,37,Llama 3.2 3B Instruct,zero-shot,false,0.0,1.0,0.0,2.0,10.0,1.5,0.0,0.0,10.0
+37,37,Llama 3.2 3B Instruct,zero-shot,false,0.0,1.0,0.0,2.0,10.0,1.5,0.0,0.0,10.0
+37,37,Llama 3.2 3B Instruct,zero-shot,false,0.0,1.0,0.0,2.0,10.0,1.5,0.0,0.0,10.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,20.0,0.5,0.1,3.8,5.0,1.4,20.0,0.1,150.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,10.0,0.1,0.01,2.0,50.0,0.5,0.0,0.0,10.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,15.0,0.1,0.01,3.0,20.0,1.0,20.0,0.0,10.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,100.0,1.5,11.5,0.0,0.0,0.0,30.0,0.1,20.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,150.0,10.0,12.5,0.0,200.0,0.0,300.0,1.5,20.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,200.0,25.0,10.0,0.0,250.0,0.0,20.0,2.5,200.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,40.0,0.5,4.5,2.0,100.0,1.0,10.0,0.1,20.0
+39,39,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,39,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,39,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,40,Llama 3.2 3B Instruct,zero-shot,false,0.0,30.0,0.0,0.0,250.0,0.0,10.0,1.5,400.0
+40,40,Llama 3.2 3B Instruct,zero-shot,false,0.0,0.0,22.5,0.0,0.0,0.0,0.0,0.0,0.0
+40,40,Llama 3.2 3B Instruct,zero-shot,false,0.0,2.0,2.5,10.0,200.0,1.0,20.0,1.0,100.0
+40,40,Llama 3.2 3B Instruct,zero-shot,false,0.0,20.0,20.0,5.0,300.0,1.0,100.0,2.0,200.0
+43,43,Llama 3.2 3B Instruct,zero-shot,false,300.0,50.0,20.0,0.0,200.0,0.0,20.0,10.0,1000.0
+43,43,Llama 3.2 3B Instruct,zero-shot,false,190.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,43,Llama 3.2 3B Instruct,zero-shot,false,100.0,2.0,0.5,25.0,10.0,20.0,10.0,1.0,400.0
+44,44,Llama 3.2 3B Instruct,zero-shot,false,350.0,30.0,20.0,0.0,200.0,0.0,100.0,3.0,500.0
+44,44,Llama 3.2 3B Instruct,zero-shot,false,10.0,1.0,0.0,2.0,0.0,1.0,20.0,0.5,30.0
+44,44,Llama 3.2 3B Instruct,zero-shot,false,20.0,0.5,0.0,4.0,0.0,2.0,20.0,0.5,30.0
+44,44,Llama 3.2 3B Instruct,zero-shot,false,20.0,0.5,0.0,4.0,0.0,2.0,20.0,0.5,30.0
+44,44,Llama 3.2 3B Instruct,zero-shot,false,100.0,1.0,0.0,20.0,500.0,10.0,20.0,0.5,50.0
+51,1,Llama 3.2 3B Instruct,few-shot,false,200.0,30.0,20.0,0.0,250.0,0.0,50.0,5.0,150.0
+51,1,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,0.0,6.0,4.0,0.0,10.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,200.0,20.0,15.0,5.0,250.0,0.0,60.0,2.0,150.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,150.0,10.0,10.0,20.0,500.0,0.0,0.0,0.0,500.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,25.0,1.0,0.0,6.0,10.0,2.0,20.0,0.0,50.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,10.0,1.0,0.0,2.0,5.0,1.0,10.0,0.0,20.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,5.0,0.0,0.0,1.0,20.0,0.0,10.0,0.0,20.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,5.0,0.0,0.0,1.0,20.0,0.0,10.0,0.0,20.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,25.0,1.0,0.0,6.0,10.0,2.0,20.0,0.0,50.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,100.0,6.0,7.0,1.0,200.0,0.0,300.0,2.0,50.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,3.0,10.0,1.0,40.0,0.0,50.0
+53,3,Llama 3.2 3B Instruct,few-shot,false,140.0,13.0,10.0,1.0,140.0,0.0,56.0,2.0,140.0
+53,3,Llama 3.2 3B Instruct,few-shot,false,110.0,3.0,0.0,25.0,1.0,1.0,20.0,0.0,200.0
+53,3,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,5.0,0.0,4.0,0.0,0.0,0.0
+53,3,Llama 3.2 3B Instruct,few-shot,false,4.0,0.0,0.0,1.0,1.0,0.0,20.0,0.0,40.0
+53,3,Llama 3.2 3B Instruct,few-shot,false,6.0,0.0,0.0,2.0,1.0,0.0,20.0,0.0,40.0
+53,3,Llama 3.2 3B Instruct,few-shot,false,45.0,1.0,0.0,11.0,1.0,7.0,40.0,0.0,60.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,100.0,5.0,0.0,20.0,200.0,10.0,50.0,1.0,100.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,16.0,1.0,0.0,4.0,10.0,2.0,5.0,0.5,50.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,44.0,1.0,0.0,10.0,2.0,4.0,5.0,0.5,20.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,2.0,1.0,0.0,5.0,0.5,20.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,50.0,0.0,5.0,0.5,20.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,10.0,1.0,0.0,2.0,1.0,0.0,5.0,0.5,20.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,200.0,8.0,20.0,5.0,100.0,5.0,50.0,1.0,100.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,180.0,2.0,0.0,40.0,10.0,8.0,60.0,4.0,400.0
+56,6,Llama 3.2 3B Instruct,few-shot,false,110.0,2.0,0.0,25.0,10.0,6.0,20.0,1.0,120.0
+56,6,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,4.0,2.0,0.0,0.0,0.0,4.0
+56,6,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0
+57,7,Llama 3.2 3B Instruct,few-shot,false,225.0,15.0,4.0,45.0,200.0,6.0,120.0,5.0,1100.0
+57,7,Llama 3.2 3B Instruct,few-shot,false,12.0,1.0,0.5,3.0,2.0,1.0,10.0,0.5,40.0
+57,7,Llama 3.2 3B Instruct,few-shot,false,10.0,0.5,0.5,3.0,2.0,1.0,10.0,0.5,40.0
+57,7,Llama 3.2 3B Instruct,few-shot,false,190.0,8.0,21.0,6.0,50.0,1.0,150.0,5.0,550.0
+57,7,Llama 3.2 3B Instruct,few-shot,false,120.0,10.0,2.0,25.0,200.0,2.0,50.0,5.0,400.0
+58,8,Llama 3.2 3B Instruct,few-shot,false,240.0,30.0,20.0,10.0,250.0,0.0,100.0,15.0,800.0
+58,8,Llama 3.2 3B Instruct,few-shot,false,60.0,1.0,0.0,15.0,10.0,5.0,20.0,0.0,500.0
+58,8,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,5.0,6.0,20.0,0.0,300.0
+58,8,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,8,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,5.0,5.0,1.0,10.0,0.0,400.0
+59,9,Llama 3.2 3B Instruct,few-shot,false,240.0,35.0,15.0,0.0,250.0,0.0,150.0,3.0,100.0
+59,9,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+59,9,Llama 3.2 3B Instruct,few-shot,false,150.0,6.0,12.0,10.0,200.0,5.0,100.0,2.0,50.0
+59,9,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,5.0,200.0,1.0,0.0,0.0,0.0
+59,9,Llama 3.2 3B Instruct,few-shot,false,5.0,0.0,0.5,1.0,150.0,0.5,0.0,0.0,50.0
+59,9,Llama 3.2 3B Instruct,few-shot,false,10.0,1.0,0.5,2.0,5.0,0.5,20.0,0.5,30.0
+59,9,Llama 3.2 3B Instruct,few-shot,false,120.0,2.0,0.5,25.0,1.0,1.0,10.0,0.5,150.0
+60,10,Llama 3.2 3B Instruct,few-shot,false,400.0,15.0,10.0,80.0,5.0,10.0,20.0,5.0,120.0
+60,10,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,5.0,0.0,0.0,0.0,20.0
+60,10,Llama 3.2 3B Instruct,few-shot,false,20.0,2.0,0.0,5.0,10.0,1.0,20.0,5.0,50.0
+60,10,Llama 3.2 3B Instruct,few-shot,false,200.0,5.0,0.0,40.0,10.0,10.0,50.0,10.0,200.0
+60,10,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,10,Llama 3.2 3B Instruct,few-shot,false,100.0,2.0,0.0,25.0,10.0,20.0,0.0,0.0,50.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,140.0,30.0,10.0,0.0,50.0,0.0,10.0,1.0,100.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,1.0,6.0,10.0,0.0,100.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,25.0,0.0,0.0,6.0,1.0,3.0,20.0,0.0,150.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,1.0,5.0,0.0,50.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,0.0,2.0,0.0,20.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,100.0,5.0,2.0,20.0,10.0,1.0,10.0,1.0,50.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0
+63,13,Llama 3.2 3B Instruct,few-shot,false,150.0,30.0,10.0,0.0,200.0,0.0,50.0,10.0,500.0
+63,13,Llama 3.2 3B Instruct,few-shot,false,50.0,1.0,0.0,10.0,500.0,5.0,0.0,0.0,50.0
+63,13,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,13,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,10.0
+63,13,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,1.0,5.0,0.0,0.0,50.0
+63,13,Llama 3.2 3B Instruct,few-shot,false,150.0,20.0,10.0,0.0,500.0,0.0,200.0,10.0,500.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,350.0,10.0,10.0,80.0,500.0,20.0,100.0,5.0,200.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,50.0,1.0,0.0,10.0,10.0,2.0,10.0,5.0,50.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,10.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,10.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,140.0,0.0,15.0,0.0,10.0,0.0,0.0,0.0,0.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,5.0,0.0,0.0,1.0,1.0,0.0,5.0,1.0,10.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,10.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,300.0,50.0,20.0,0.0,600.0,0.0,200.0,20.0,500.0
+66,16,Llama 3.2 3B Instruct,few-shot,false,250.0,30.0,20.0,10.0,200.0,0.0,60.0,15.0,400.0
+66,16,Llama 3.2 3B Instruct,few-shot,false,240.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,16,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,10.0,6.0,20.0,0.5,60.0
+66,16,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,10.0,6.0,20.0,0.5,60.0
+66,16,Llama 3.2 3B Instruct,few-shot,false,120.0,1.0,14.0,10.0,50.0,6.0,20.0,0.5,60.0
+66,16,Llama 3.2 3B Instruct,few-shot,false,55.0,2.0,0.0,10.0,20.0,5.0,80.0,1.5,120.0
+67,17,Llama 3.2 3B Instruct,few-shot,false,140.0,30.0,6.0,0.0,50.0,0.0,12.0,1.0,80.0
+67,17,Llama 3.2 3B Instruct,few-shot,false,360.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,17,Llama 3.2 3B Instruct,few-shot,false,200.0,8.0,2.0,40.0,10.0,2.0,20.0,1.0,120.0
+67,17,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,3.0,10.0,1.0,50.0,0.0,60.0
+67,17,Llama 3.2 3B Instruct,few-shot,false,160.0,12.0,12.0,2.0,300.0,1.0,200.0,4.0,60.0
+67,17,Llama 3.2 3B Instruct,few-shot,false,10.0,1.0,0.0,2.0,2.0,1.0,10.0,0.0,6.0
+67,17,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,10.0
+69,19,Llama 3.2 3B Instruct,few-shot,false,300.0,30.0,20.0,0.0,200.0,0.0,100.0,5.0,200.0
+69,19,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,4.0,1.0,1.0,2.0,0.0,4.0
+69,19,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,19,Llama 3.2 3B Instruct,few-shot,false,50.0,0.0,0.0,12.0,1.0,12.0,0.0,0.0,0.0
+69,19,Llama 3.2 3B Instruct,few-shot,false,64.0,0.0,0.0,16.0,1.0,16.0,0.0,0.0,0.0
+70,20,Llama 3.2 3B Instruct,few-shot,false,150.0,10.0,10.0,30.0,50.0,20.0,40.0,3.0,100.0
+70,20,Llama 3.2 3B Instruct,few-shot,false,200.0,5.0,20.0,40.0,100.0,30.0,50.0,2.0,100.0
+70,20,Llama 3.2 3B Instruct,few-shot,false,100.0,2.0,5.0,25.0,20.0,10.0,5.0,1.0,20.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,200.0,50.0,10.0,0.0,500.0,0.0,20.0,5.0,200.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,300.0,10.0,15.0,40.0,200.0,10.0,20.0,5.0,100.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,180.0,18.0,12.0,0.0,200.0,0.0,20.0,5.0,120.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,100.0,0.0,10.0,0.0,200.0,0.0,0.0,0.0,0.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,5.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,2.0,6.0,0.0,2.0,10.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,2.0,6.0,0.0,2.0,10.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,150.0,0.0,15.0,0.0,200.0,0.0,0.0,0.0,0.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,200.0,25.0,15.0,0.0,200.0,0.0,150.0,15.0,250.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,200.0,10.0,10.0,40.0,400.0,10.0,20.0,5.0,150.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,4.0,1.0,2.0,1.0,0.0,5.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,4.0,1.0,2.0,1.0,0.0,5.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,4.0,1.0,2.0,1.0,0.0,5.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,0.0,30.0,1.0,30.0,0.0,0.0,0.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,100.0,2.0,0.0,25.0,1.0,3.0,10.0,1.0,20.0
+74,24,Llama 3.2 3B Instruct,few-shot,false,120.0,25.0,8.0,0.0,250.0,0.0,30.0,3.0,150.0
+74,24,Llama 3.2 3B Instruct,few-shot,false,64.0,0.0,0.0,17.0,0.0,16.0,0.0,0.0,0.0
+74,24,Llama 3.2 3B Instruct,few-shot,false,10.0,1.0,0.0,2.0,2500.0,0.0,10.0,5.0,100.0
+74,24,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,1.0,0.0,0.0,10.0,5.0,20.0
+75,25,Llama 3.2 3B Instruct,few-shot,false,120.0,1.0,0.0,30.0,10.0,20.0,10.0,0.0,1000.0
+75,25,Llama 3.2 3B Instruct,few-shot,false,120.0,2.0,0.0,25.0,10.0,15.0,20.0,0.0,100.0
+75,25,Llama 3.2 3B Instruct,few-shot,false,150.0,3.0,0.0,30.0,10.0,5.0,150.0,0.0,100.0
+75,25,Llama 3.2 3B Instruct,few-shot,false,350.0,2.0,40.0,0.0,0.0,0.0,50.0,0.0,100.0
+75,25,Llama 3.2 3B Instruct,few-shot,false,200.0,1.0,20.0,25.0,10.0,20.0,10.0,0.0,100.0
+75,25,Llama 3.2 3B Instruct,few-shot,false,0.0,1.0,0.0,5.0,100.0,1.0,20.0,0.0,50.0
+76,26,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,1.0,20.0,1.0,60.0
+76,26,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,1.0,20.0,1.0,60.0
+76,26,Llama 3.2 3B Instruct,few-shot,false,360.0,0.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,26,Llama 3.2 3B Instruct,few-shot,false,1200.0,0.0,140.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,27,Llama 3.2 3B Instruct,few-shot,false,150.0,5.0,2.0,30.0,1.0,5.0,10.0,1.0,70.0
+77,27,Llama 3.2 3B Instruct,few-shot,false,120.0,15.0,3.0,0.0,20.0,0.0,5.0,1.0,50.0
+77,27,Llama 3.2 3B Instruct,few-shot,false,180.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,27,Llama 3.2 3B Instruct,few-shot,false,60.0,6.0,5.0,0.0,10.0,0.0,12.0,1.0,60.0
+78,28,Llama 3.2 3B Instruct,few-shot,false,50.0,1.0,0.0,12.0,1.0,15.0,5.0,0.5,150.0
+78,28,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,28,Llama 3.2 3B Instruct,few-shot,false,32.0,0.5,0.5,8.0,10.0,4.0,50.0,2.0,100.0
+78,28,Llama 3.2 3B Instruct,few-shot,false,120.0,3.0,2.5,30.0,1.0,10.0,350.0,1.5,800.0
+79,29,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,29,Llama 3.2 3B Instruct,few-shot,false,120.0,3.0,2.0,24.0,1.0,2.0,12.0,1.0,4.0
+79,29,Llama 3.2 3B Instruct,few-shot,false,210.0,3.0,18.0,28.0,0.0,24.0,20.0,2.0,10.0
+79,29,Llama 3.2 3B Instruct,few-shot,false,144.0,13.0,10.0,1.0,140.0,0.0,56.0,2.0,140.0
+79,29,Llama 3.2 3B Instruct,few-shot,false,100.0,0.0,0.0,25.0,0.0,24.0,0.0,0.0,0.0
+79,29,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0
+80,30,Llama 3.2 3B Instruct,few-shot,false,50.0,1.0,0.0,12.0,1.0,8.0,20.0,0.0,150.0
+80,30,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,10.0,0.0,6.0,20.0,0.0,10.0
+80,30,Llama 3.2 3B Instruct,few-shot,false,120.0,4.0,2.0,25.0,200.0,2.0,50.0,5.0,300.0
+80,30,Llama 3.2 3B Instruct,few-shot,false,50.0,1.0,0.0,12.0,1.0,8.0,20.0,0.0,150.0
+80,30,Llama 3.2 3B Instruct,few-shot,false,50.0,1.0,0.0,12.0,1.0,8.0,20.0,0.0,150.0
+80,30,Llama 3.2 3B Instruct,few-shot,false,50.0,1.0,0.0,12.0,1.0,8.0,20.0,0.0,150.0
+81,31,Llama 3.2 3B Instruct,few-shot,false,40.0,1.0,0.0,10.0,10.0,6.0,20.0,5.0,100.0
+81,31,Llama 3.2 3B Instruct,few-shot,false,1000.0,20.0,100.0,10.0,600.0,0.0,200.0,5.0,100.0
+81,31,Llama 3.2 3B Instruct,few-shot,false,1200.0,50.0,150.0,10.0,800.0,0.0,200.0,20.0,400.0
+81,31,Llama 3.2 3B Instruct,few-shot,false,1200.0,50.0,150.0,10.0,800.0,0.0,200.0,20.0,400.0
+83,33,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,50.0,3.0,150.0
+83,33,Llama 3.2 3B Instruct,few-shot,false,64.0,0.0,0.0,17.0,0.0,16.0,0.0,0.0,0.0
+83,33,Llama 3.2 3B Instruct,few-shot,false,105.0,2.0,0.0,26.0,1.0,14.0,40.0,5.0,450.0
+83,33,Llama 3.2 3B Instruct,few-shot,false,190.0,8.0,18.0,22.0,0.0,18.0,20.0,5.0,150.0
+84,34,Llama 3.2 3B Instruct,few-shot,false,160.0,30.0,4.0,0.0,250.0,0.0,50.0,2.0,500.0
+84,34,Llama 3.2 3B Instruct,few-shot,false,360.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,34,Llama 3.2 3B Instruct,few-shot,false,150.0,3.0,2.0,30.0,10.0,0.0,100.0,1.0,300.0
+85,35,Llama 3.2 3B Instruct,few-shot,false,240.0,35.0,20.0,0.0,350.0,0.0,150.0,20.0,350.0
+85,35,Llama 3.2 3B Instruct,few-shot,false,100.0,5.0,10.0,15.0,200.0,0.0,50.0,10.0,100.0
+88,38,Llama 3.2 3B Instruct,few-shot,false,120.0,4.0,2.0,20.0,10.0,5.0,100.0,2.0,200.0
+88,38,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,38,Llama 3.2 3B Instruct,few-shot,false,150.0,4.0,2.0,30.0,10.0,2.0,100.0,2.0,200.0
+88,38,Llama 3.2 3B Instruct,few-shot,false,10.0,1.0,0.0,2.0,5.0,1.0,20.0,0.5,100.0
+89,39,Llama 3.2 3B Instruct,few-shot,false,576.0,24.0,40.0,12.0,560.0,2.0,120.0,8.0,200.0
+89,39,Llama 3.2 3B Instruct,few-shot,false,360.0,4.0,1.0,80.0,2.0,1.0,20.0,2.0,400.0
+89,39,Llama 3.2 3B Instruct,few-shot,false,40.0,2.0,0.0,10.0,1.0,1.0,5.0,0.5,30.0
+89,39,Llama 3.2 3B Instruct,few-shot,false,60.0,2.0,0.0,15.0,1.0,4.0,5.0,0.5,40.0
+89,39,Llama 3.2 3B Instruct,few-shot,false,20.0,2.0,0.0,5.0,1.0,1.0,5.0,0.5,30.0
+89,39,Llama 3.2 3B Instruct,few-shot,false,180.0,30.0,15.0,0.0,200.0,0.0,50.0,5.0,200.0
+89,39,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,40,Llama 3.2 3B Instruct,few-shot,false,140.0,30.0,10.0,0.0,120.0,0.0,60.0,3.0,200.0
+90,40,Llama 3.2 3B Instruct,few-shot,false,80.0,3.0,2.0,15.0,200.0,1.0,20.0,1.0,100.0
+90,40,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,50.0,1.0,10.0,0.0,20.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,1900.0,30.0,170.0,60.0,400.0,20.0,200.0,5.0,1200.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,100.0,5.0,0.0,20.0,2500.0,10.0,50.0,2.0,200.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,170.0,0.0,0.0,45.0,0.0,40.0,20.0,0.0,200.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,170.0,0.0,0.0,45.0,0.0,40.0,20.0,0.0,200.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,20.0,1.0,0.0,4.0,1.0,2.0,10.0,0.0,40.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,30.0,1.0,0.0,6.0,2.0,3.0,10.0,0.0,60.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,5.0,0.0,0.0,1.0,10.0,1.0,0.0,0.0,20.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,1.0,1.0,5.0,0.0,150.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,200.0,8.0,0.0,40.0,350.0,10.0,200.0,2.0,400.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,50.0,3.0,0.0,10.0,200.0,5.0,50.0,1.0,200.0
+93,43,Llama 3.2 3B Instruct,few-shot,false,200.0,50.0,15.0,0.0,500.0,0.0,200.0,5.0,500.0
+93,43,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,43,Llama 3.2 3B Instruct,few-shot,false,150.0,8.0,2.0,30.0,20.0,5.0,50.0,1.0,200.0
+93,43,Llama 3.2 3B Instruct,few-shot,false,10.0,1.0,0.0,2.0,5.0,1.0,10.0,0.0,20.0
+93,43,Llama 3.2 3B Instruct,few-shot,false,20.0,2.0,0.0,4.0,5.0,2.0,10.0,1.0,50.0
+93,43,Llama 3.2 3B Instruct,few-shot,false,0.0,0.0,0.0,1.0,20.0,0.0,10.0,0.0,20.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,150.0,25.0,10.0,0.0,400.0,0.0,50.0,5.0,600.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,120.0,0.0,0.0,20.0,2000.0,10.0,0.0,0.0,0.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,100.0,0.0,0.0,10.0,500.0,5.0,0.0,0.0,0.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,45.0,1.0,0.0,10.0,1.0,6.0,20.0,1.0,100.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,10.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,10.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,25.0,1.0,0.0,6.0,10.0,4.0,20.0,1.0,50.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,100.0,0.0,10.0,10.0,200.0,5.0,20.0,0.0,10.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,150.0,3.0,0.0,30.0,1.0,1.0,20.0,2.0,300.0
+96,46,Llama 3.2 3B Instruct,few-shot,false,360.0,30.0,20.0,0.0,200.0,0.0,100.0,5.0,400.0
+96,46,Llama 3.2 3B Instruct,few-shot,false,100.0,2.0,0.0,20.0,10.0,1.0,50.0,2.0,100.0
+96,46,Llama 3.2 3B Instruct,few-shot,false,240.0,0.0,24.0,0.0,10.0,0.0,0.0,0.0,0.0
+98,48,Llama 3.2 3B Instruct,few-shot,false,16.0,1.0,0.0,3.0,10.0,2.0,10.0,0.5,150.0
+98,48,Llama 3.2 3B Instruct,few-shot,false,60.0,2.0,6.0,10.0,40.0,5.0,10.0,1.0,50.0
+98,48,Llama 3.2 3B Instruct,few-shot,false,60.0,2.0,6.0,10.0,40.0,5.0,10.0,1.0,50.0
+98,48,Llama 3.2 3B Instruct,few-shot,false,70.0,6.0,5.0,0.0,140.0,0.0,50.0,2.0,150.0
+98,48,Llama 3.2 3B Instruct,few-shot,false,22.0,1.0,0.0,5.0,10.0,3.0,10.0,0.5,150.0
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,140.0,25.0,6.0,0.0,350.0,0.0,20.0,2.5,400.0
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.5,0.5,2.0,1.0,0.5,0.0,0.0,10.0
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,20.0,1.0,1.0,3.0,10.0,1.0,5.0,0.2,30.0
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.5,0.5,2.0,500.0,1.0,10.0,0.0,100.0
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,120.0,0.0,14.0,0.0,10.0,0.0,0.0,0.0,10.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.0,0.5,2.5,200.0,1.5,0.0,0.0,200.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,5.0,0.0,0.5,2.5,200.0,1.5,0.0,0.0,200.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.0,0.5,2.0,1.0,0.5,0.0,0.0,50.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,5.0,0.0,0.1,2.0,1.0,0.5,0.0,0.0,50.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,5.0,0.0,0.1,2.0,1.0,0.5,0.0,0.0,50.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,2.0,0.0,0.05,1.0,1.0,0.5,0.0,0.0,50.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,600.0,0.0,0.0,0.0,600.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,100.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,750.0,6.0,1.5,150.0,2.0,1.0,20.0,2.0,1200.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,300.0,30.0,3.0,0.0,250.0,0.0,20.0,2.0,500.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,540.0,0.0,57.5,0.0,0.0,0.0,0.0,0.0,60.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.0,0.5,2.0,1.0,0.5,20.0,1.0,200.0
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,180.0,35.0,12.0,0.0,200.0,0.0,20.0,2.0,400.0
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,1.0,0.5,2.0,200.0,1.0,10.0,0.0,100.0
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,40.0,2.0,2.5,4.0,100.0,1.0,5.0,0.0,50.0
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,110.0,2.0,1.5,25.0,2.0,1.0,5.0,0.5,150.0
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,5.0,1.0,0.1,1.0,50.0,0.0,10.0,0.5,50.0
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,250.0,30.0,15.0,0.0,200.0,0.0,50.0,3.0,600.0
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,140.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,60.0,2.0,0.0,10.0,200.0,6.0,0.0,0.0,300.0
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,60.0,2.0,0.0,10.0,200.0,6.0,0.0,0.0,300.0
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,40.0,1.0,0.0,10.0,1.0,6.0,20.0,0.0,600.0
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,50.0,3.0,0.0,10.0,1.0,2.0,50.0,1.0,800.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,1900.0,0.0,230.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,150.0,15.0,3.0,0.0,250.0,0.0,0.0,2.0,300.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,350.0,5.0,10.0,60.0,500.0,10.0,200.0,5.0,400.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,140.0,6.0,12.0,0.0,10.0,0.0,0.0,0.0,50.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,1900.0,0.0,230.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,10.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,40.0,1.0,0.0,10.0,1.0,4.0,0.0,0.0,20.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,10.0
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,100.0,3.0,2.0,25.0,10.0,2.0,50.0,1.0,800.0
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,200.0,25.0,10.0,0.0,400.0,0.0,50.0,2.0,600.0
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,190.0,0.0,22.0,0.0,10.0,0.0,0.0,0.0,0.0
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,2.0,0.0,0.0,1.0,500.0,0.0,0.0,0.0,0.0
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,360.0,12.0,12.0,60.0,10.0,4.0,8.0,3.0,10.0
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,740.0,4.0,56.0,60.0,10.0,54.0,6.0,1.5,12.0
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,140.0,12.0,10.0,1.5,6.0,0.5,2.0,0.5,6.0
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,380.0,0.0,0.0,100.0,0.0,90.0,0.0,0.0,0.0
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,460.0,0.0,56.0,0.0,10.0,0.0,0.0,0.0,0.0
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,45.6,1.0,0.9,12.3,1.0,9.3,10.0,0.5,170.0
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,170.0,3.2,16.6,12.8,50.0,9.6,100.0,1.5,150.0
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,200.0,14.0,5.7,40.8,350.0,6.1,120.0,5.0,1000.0
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,64.0,0.0,0.0,16.6,1.0,16.6,0.0,0.0,0.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,350.0,35.0,25.0,0.0,200.0,0.0,50.0,3.0,1200.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,1.0,0.0,2.0,1.0,1.0,10.0,0.0,40.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,45.0,1.0,0.0,11.0,1.0,8.0,50.0,0.5,600.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,20.0,1.0,0.0,5.0,10.0,2.0,20.0,0.5,400.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,50.0,1.0,0.0,12.0,1000.0,5.0,10.0,0.0,500.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,190.0,2.0,20.0,0.0,200.0,0.0,10.0,0.0,100.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,55.0,4.0,0.5,11.0,50.0,5.0,50.0,0.9,400.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,110.0,2.0,1.5,25.0,1.0,0.5,10.0,0.5,500.0
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,16.0,0.8,0.7,3.9,10.0,1.2,20.0,0.4,120.0
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,60.0,1.4,3.7,10.6,40.0,4.0,20.0,3.9,50.0
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,15.0,1.0,0.7,2.8,50.0,0.5,10.0,1.2,20.0
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,15.0,0.5,0.5,3.6,10.0,0.8,5.0,0.4,50.0
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,10.0,0.6,0.2,1.8,5.0,0.2,5.0,0.1,50.0
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,16.0,0.8,0.3,3.7,2.0,1.2,10.0,0.2,350.0
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,90.0,3.5,8.3,6.1,300.0,1.8,50.0,0.5,150.0
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,50.0,5.0,0.5,11.0,20.0,7.0,30.0,0.2,100.0
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,44.0,1.0,0.2,11.0,1.0,8.0,10.0,0.2,120.0
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,500.0
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,180.0,25.0,12.0,0.0,350.0,0.0,200.0,1.8,400.0
+160,10,Llama 3.2 3B Instruct,structured-output,false,0.0,4.0,0.0,25.0,0.0,2.0,12.0,1.0,10.0
+160,10,Llama 3.2 3B Instruct,structured-output,false,10.0,4.0,0.0,2.0,200.0,0.0,50.0,5.0,100.0
+160,10,Llama 3.2 3B Instruct,structured-output,false,15.0,4.0,0.0,3.0,200.0,0.0,50.0,5.0,100.0
+160,10,Llama 3.2 3B Instruct,structured-output,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+160,10,Llama 3.2 3B Instruct,structured-output,false,60.0,0.0,0.0,15.0,200.0,12.0,0.0,0.0,0.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,20.0,0.0,0.0,0.0,0.0,0.0,2.0,500.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,0.5,0.0,5.0,1.0,1.0,10.0,0.2,120.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,0.5,0.0,2.0,1.0,0.5,10.0,0.2,20.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,0.5,0.0,1.0,10.0,0.0,2.0,0.2,20.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,0.5,0.0,1.0,10.0,0.0,2.0,0.2,20.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,0.5,0.0,1.0,10.0,0.0,2.0,0.2,20.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,0.5,0.0,1.0,10.0,0.0,2.0,0.2,20.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,10.0,1.0,0.0,5.0,20.0,2.0,10.0,0.2,100.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,0.0,2.0,0.0,5.0,10.0,1.0,20.0,0.4,100.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,10.0,1.0,0.0,2.0,5.0,1.0,10.0,0.2,100.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,100.0,10.0,10.0,0.0,500.0,0.0,200.0,2.0,400.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,0.0,25.0,10.0,0.0,300.0,0.0,10.0,3.0,400.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,0.0,2.0,2.0,5.0,10.0,2.0,20.0,1.0,500.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,0.0,1.0,0.5,4.0,10.0,2.0,20.0,0.5,200.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,0.0,1.0,0.2,7.0,10.0,3.0,20.0,0.5,300.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,0.0,1.0,0.2,6.0,10.0,3.0,20.0,0.5,250.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,0.0,1.0,0.5,4.0,10.0,2.0,20.0,0.5,200.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,0.0,2.0,2.0,60.0,20.0,10.0,50.0,2.0,400.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,0.0,1.0,15.0,30.0,300.0,20.0,50.0,2.0,200.0
+174,24,Llama 3.2 3B Instruct,structured-output,false,120.0,30.0,3.0,0.0,250.0,0.0,10.0,2.0,400.0
+174,24,Llama 3.2 3B Instruct,structured-output,false,170.0,0.0,0.0,44.0,0.0,42.0,0.0,0.0,0.0
+174,24,Llama 3.2 3B Instruct,structured-output,false,40.0,1.0,0.0,10.0,10.0,2.0,0.0,0.5,200.0
+174,24,Llama 3.2 3B Instruct,structured-output,false,10.0,0.0,0.0,2.0,200.0,1.0,0.0,0.0,100.0
+174,24,Llama 3.2 3B Instruct,structured-output,false,4.0,0.0,0.0,1.0,1.0,0.2,0.0,0.0,50.0
+174,24,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,28,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,28,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,28,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,28,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,28,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,29,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,29,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,29,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,29,Llama 3.2 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,30.0,5.0,3.0,20.0
+180,30,Llama 3.2 3B Instruct,structured-output,false,45.0,1.0,0.5,11.0,1.0,8.0,20.0,0.5,150.0
+180,30,Llama 3.2 3B Instruct,structured-output,false,80.0,4.0,2.0,15.0,200.0,2.0,40.0,1.0,350.0
+180,30,Llama 3.2 3B Instruct,structured-output,false,50.0,0.5,5.0,5.0,20.0,2.0,15.0,0.5,100.0
+189,39,Llama 3.2 3B Instruct,structured-output,false,110.0,2.3,1.2,25.0,1.0,0.2,10.0,1.8,110.0
+189,39,Llama 3.2 3B Instruct,structured-output,false,70.0,6.0,5.6,0.4,60.0,0.6,10.0,1.2,60.0
+189,39,Llama 3.2 3B Instruct,structured-output,false,40.0,1.0,0.1,10.0,2.0,4.0,20.0,2.8,120.0
+189,39,Llama 3.2 3B Instruct,structured-output,false,5.0,0.5,0.02,1.0,1.0,0.2,10.0,1.0,40.0
+189,39,Llama 3.2 3B Instruct,structured-output,false,50.0,20.0,2.5,0.0,200.0,0.0,50.0,10.0,200.0
+189,39,Llama 3.2 3B Instruct,structured-output,false,190.0,0.0,22.3,0.0,0.0,0.0,0.0,0.0,0.0
+200,50,Llama 3.2 3B Instruct,structured-output,false,16.0,0.5,0.2,3.7,1.0,1.2,6.0,0.3,336.0
+200,50,Llama 3.2 3B Instruct,structured-output,false,120.0,,11.0,1.5,200.0,,,,
+200,50,Llama 3.2 3B Instruct,structured-output,false,60.0,,0.5,13.0,50.0,,,,
+200,50,Llama 3.2 3B Instruct,structured-output,false,4.0,,0.1,,,,,,
+200,50,Llama 3.2 3B Instruct,structured-output,false,0.0,,,,,,,,
+200,50,Llama 3.2 3B Instruct,structured-output,false,0.0,,,,,,,,
+200,50,Llama 3.2 3B Instruct,structured-output,false,0.0,,,,,,,,
+200,50,Llama 3.2 3B Instruct,structured-output,false,400.0,35.0,30.0,0.0,600.0,0.0,20.0,2.0,
+203,2,Phi-4-mini 3.8B Instruct,zero-shot,false,250.0,31.0,5.0,0.5,400.0,1.0,2.0,0.9,200.0
+404,3,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+407,6,Qwen 2.5 3B Instruct,zero-shot,false,78.0,2.0,0.2,15.0,3.0,2.0,10.0,0.4,
+408,7,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,1.5,0.0,0.675,0.0,0.0,0.0,0.0,0.0,0.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,26.7,1.725,0.435,8.25,0.0,4.35,4.68,0.27,190.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,56.1,2.175,0.489,23.55,0.0,16.4,0.39,0.66,180.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,130.0,1.43,0.467,28.5,0.0,27.6,17.0,0.36,225.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,89.1,13.665,6.045,0.0,77.5,0.0,49.2,0.867,370.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.125,0.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.065,0.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,71.9,6.132,6.036,4.75,0.0,4.75,11.0,0.297,83.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.175,26.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,207.0,0.0,18.655,0.0,0.0,0.0,0.0,0.267,3.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,48.3,2.67,0.975,12.48,96.2,10.35,9.2,0.487,200.0
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,175.0,24.7,8.4,0.0,0.0,0.0,0.0,0.8,350.0
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,85.0,3.6,0.6,24.0,100.0,6.0,175.0,0.94,220.0
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,165.0,2.8,14.8,9.6,0.0,3.7,0.0,0.15,4.0
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,26.0,1.6,0.7,4.9,45.0,2.7,0.0,0.095,0.0
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,6.0,0.2,0.1,0.3,28.0,0.1,0.0,0.0,0.0
+411,10,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,274.0,24.0,8.0,0.0,119.0,0.0,31.0,0.7,298.0
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,17.0,0.0,0.0,0.0,228.0,0.0,0.0,0.0,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,16.0,0.8,0.0,5.0,0.0,2.1,24.0,0.37,25.0
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,56.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,273.0,9.0,19.0,0.0,644.0,0.0,183.0,0.24,305.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,271.0,23.9,9.3,0.0,68.0,2.0,6.0,0.8,51.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,20.0,0.0,2.0,0.0,1.0,0.0,0.0,0.1,45.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,64.0,0.0,0.5,1.8,284.0,0.0,3.0,0.2,7.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,46.0,0.0,0.2,1.2,19.0,1.2,0.0,0.1,9.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,20.0,1.7,1.5,4.8,3.0,0.0,0.0,0.05,9.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,2.0,0.2,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,2.0,0.2,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,1.0,0.1,0.0,0.0,2.0,0.0,0.0,0.0,2.0
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,37.0,3.7,0.2,5.9,86.0,2.5,168.0,0.39,240.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,348.0,28.0,27.0,0.0,96.0,0.0,0.0,0.79,156.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,6.0,0.89,0.5,2.0,0.0,0.0,1.0,0.14,23.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,240.0,0.0,0.0,0.0,0.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,2.0,0.0,0.3,3.8,0.0,2.6,0.0,0.0,4.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,62.0,6.3,4.7,4.7,108.0,2.9,8.0,0.71,204.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,92.0,0.0,14.3,0.0,0.0,0.0,0.0,0.0,0.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,16.0,0.0,0.4,2.8,50.0,2.8,0.0,0.0,13.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,17.0,0.0,0.4,2.2,95.0,1.8,0.0,0.0,3.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,6.0,0.9,0.7,5.3,4.0,4.7,2.0,0.15,138.0
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,45.0,0.7,0.7,11.0,0.0,9.0,0.0,0.0,12.0
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,147.0,1.5,0.5,38.0,0.0,34.0,0.0,0.2,60.0
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,34.0,1.5,0.7,8.0,0.0,6.0,1.0,0.2,39.0
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,430.0,3.0,8.6,12.0,41.0,8.6,25.0,0.7,134.0
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,250.0,50.0,15.0,0.0,400.0,0.0,0.0,6.0,300.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,3.0,0.0,2.0,500.0,0.0,0.0,0.0,50.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,1.0,0.0,15.0,0.0,4.0,0.0,0.0,0.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,2300.0,0.0,0.0,0.0,0.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,15.0,1.0,0.3,3.0,10.0,1.0,15.0,0.8,70.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,90.0,1.0,0.5,20.0,10.0,15.0,30.0,1.5,200.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.0,0.0,2.0,0.0,1.0,0.0,0.2,50.0
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,3.0,4.0,27.0,50.0,4.0,15.0,1.0,900.0
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,180.0,0.0,0.0,0.0,0.0
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,1.0,0.2,6.0,1.0,0.0,5.0,0.8,20.0
+433,3,Qwen 2.5 3B Instruct,few-shot,false,146.0,28.9,9.3,2.0,150.0,0.0,43.0,1.4,262.0
+433,3,Qwen 2.5 3B Instruct,few-shot,false,93.0,1.5,0.5,6.3,420.0,0.0,8.0,0.1,19.0
+433,3,Qwen 2.5 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+433,3,Qwen 2.5 3B Instruct,few-shot,false,37.0,1.9,0.6,9.4,10.0,3.5,22.0,0.2,246.0
+433,3,Qwen 2.5 3B Instruct,few-shot,false,37.0,1.9,0.6,9.4,10.0,3.5,22.0,0.2,246.0
+433,3,Qwen 2.5 3B Instruct,few-shot,false,37.0,1.9,0.6,9.4,10.0,3.5,22.0,0.2,246.0
+433,3,Qwen 2.5 3B Instruct,few-shot,false,27.0,0.8,0.4,5.6,12.0,4.7,20.0,0.2,196.0
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,200.0,35.0,12.0,0.0,300.0,0.0,0.0,5.0,200.0
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,100.0,4.0,9.0,2.0,300.0,1.0,150.0,0.0,20.0
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,70.0,1.0,6.0,0.0,450.0,0.0,0.0,0.0,50.0
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,350.0,0.0,0.0,0.0,10.0
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,160.0,3.0,0.4,45.0,5.0,2.0,10.0,2.0,400.0
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,25.0,2.0,1.0,4.0,80.0,0.0,30.0,1.0,50.0
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,0.5,0.2,3.0,5.0,1.0,5.0,0.4,30.0
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,684.0,8.0,1.5,76.0,0.0,12.0,0.0,3.6,140.0
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,280.0
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,20.0,1.0,1.5,1.0,70.0,0.0,30.0,0.4,50.0
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,160.0,5.0,2.5,24.0,200.0,3.0,10.0,4.0,200.0
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,684.0,8.0,1.5,76.0,0.0,12.0,0.0,3.6,140.0
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,70.0,1.0,0.5,16.0,350.0,12.0,0.0,0.4,80.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,330.0,50.0,20.0,0.0,400.0,0.0,0.0,3.0,400.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,2300.0,0.0,0.0,0.0,0.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,1.0,0.5,2.0,100.0,0.0,0.0,0.5,20.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,40.0,1.0,0.5,10.0,5.0,2.0,10.0,1.0,150.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.1,0.2,0.5,0.0,0.0,0.0,0.2,5.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.1,0.2,0.5,0.0,0.0,0.0,0.2,5.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,100.0,0.0,11.0,0.0,75.0,0.0,15.0,0.0,0.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,2.5,0.5,6.0,10.0,1.5,48.0,1.0,60.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,0.3,0.2,2.0,20.0,1.0,0.0,0.4,10.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,150.0,25.0,9.0,0.0,300.0,0.0,0.0,3.0,200.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,40.0,0.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,40.0,2.0,0.5,2.0,800.0,1.0,0.0,0.0,0.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,1.0,0.0,0.0,500.0,0.0,0.0,0.0,0.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,1.0,0.0,15.0,0.0,3.0,0.0,0.0,0.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,80.0,1.0,0.5,10.0,0.0,5.0,0.0,0.4,200.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,5.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,60.0,1.0,1.0,10.0,500.0,8.0,0.0,0.0,50.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,34.0,2.6,0.6,7.0,20.0,1.5,48.0,1.0,190.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,200.0,25.0,12.0,0.0,400.0,0.0,0.0,5.0,200.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,100.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,1.0,0.5,20.0,100.0,1.0,50.0,0.8,70.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,50.0,2.0,1.0,10.0,100.0,2.0,20.0,1.5,150.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,25.0,0.5,0.1,7.0,0.0,3.0,0.0,1.0,80.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,15.0,0.5,0.3,3.0,0.0,2.0,0.0,0.3,60.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,15.0,1.0,0.2,2.0,0.0,1.0,10.0,1.5,60.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,15.0,0.5,0.3,2.0,0.0,1.0,0.0,0.3,30.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,2.0,0.5,1.0,800.0,0.0,0.0,1.5,50.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,80.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,10.0,0.0,2.0,0.0,0.0,100.0
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,15.0,0.0,4.0,0.0,0.0,150.0
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,60.0,1.0,0.0,15.0,0.0,13.0,0.0,0.5,400.0
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,1.0,0.0,10.0,0.0,8.0,0.0,0.0,50.0
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,100.0,2.0,0.0,25.0,0.0,10.0,0.0,3.0,150.0
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,200.0,4.0,16.0,35.0,75.0,32.0,150.0,0.0,100.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,150.0,24.0,8.0,0.0,100.0,0.0,0.0,3.0,200.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,200.0,8.0,8.0,30.0,400.0,10.0,50.0,3.0,200.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,148.0,8.0,9.0,1.0,20.0,1.0,25.0,1.0,340.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,90.0,0.0,10.0,1.0,450.0,1.0,0.0,0.0,0.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.5,0.3,1.0,2.0,0.0,0.0,0.3,48.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,16.0,0.9,0.4,8.0,10.0,2.0,0.0,1.3,75.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.5,0.3,1.0,2.0,0.0,0.0,0.3,20.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,40.0,0.0,3.5,0.0,700.0,0.0,0.0,0.0,0.0
+453,24,Gemma-SEA-LION v4 4B,zero-shot,false,250.0,35.0,14.0,0.0,400.0,0.0,0.0,4.0,200.0
+453,24,Gemma-SEA-LION v4 4B,zero-shot,false,60.0,2.0,4.0,8.0,150.0,6.0,0.0,0.0,10.0
+453,24,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+455,6,Qwen 2.5 3B Instruct,few-shot,false,194.0,2.7,10.6,3.9,160.0,0.0,85.0,0.9,364.0
+455,6,Qwen 2.5 3B Instruct,few-shot,false,28.0,0.4,0.4,0.0,0.0,0.0,0.0,0.0,0.0
+455,6,Qwen 2.5 3B Instruct,few-shot,false,2.0,0.0,0.0,0.0,140.0,0.0,0.0,0.0,0.0
+455,6,Qwen 2.5 3B Instruct,few-shot,false,37.0,0.2,0.2,0.0,40.0,0.0,0.0,0.0,0.0
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,130.0,5.0,3.0,27.0,2.0,3.0,10.0,2.0,420.0
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,200.0,26.0,8.0,0.0,150.0,0.0,0.0,5.0,315.0
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,0.5,0.3,1.0,2.0,0.0,0.0,0.2,40.0
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,0.5,1.0,2.0,480.0,1.0,0.0,0.3,20.0
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,8.0,1.0,0.0,250.0,0.0,0.0,3.0,150.0
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,32.0,0.5,0.5,8.0,2.0,6.0,19.0,0.8,170.0
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,64.0,0.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,40.0,1.0,0.5,7.0,2.0,2.0,0.0,1.5,30.0
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,130.0,6.0,9.0,16.0,120.0,8.0,350.0,0.2,270.0
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,500.0,8.0,34.0,60.0,75.0,40.0,20.0,10.0,300.0
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,700.0,1.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,156.0,13.0,11.0,0.6,74.0,0.0,25.0,6.0,348.0
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,200.0,0.0,0.0,50.0,0.0,50.0,0.0,0.0,0.0
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,48.0,1.0,0.7,13.0,1.0,12.0,8.0,0.7,190.0
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,136.0,2.0,12.0,7.0,15.0,6.0,35.0,0.1,20.0
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,64.0,0.0,0.0,16.0,1.0,16.0,0.0,0.0,20.0
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,130.0,6.0,4.0,26.0,150.0,4.0,30.0,1.0,320.0
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,300.0,3.0,15.0,40.0,200.0,8.0,0.0,1.0,400.0
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,2.0,13.0,4.0,350.0,7.0,0.0,0.0,150.0
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,15.0,0.5,0.5,5.0,250.0,3.0,8.0,0.0,100.0
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,0.5,0.5,3.0,50.0,1.0,10.0,0.0,50.0
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,150.0,5.0,8.0,7.0,400.0,3.0,150.0,2.0,80.0
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,0.3,0.2,1.0,20.0,0.5,0.0,0.2,40.0
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,800.0,0.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,20.0,0.1,0.3,1.0,5.0,0.2,0.0,0.4,50.0
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,2.0,0.05,0.1,0.3,0.0,0.0,0.0,0.1,20.0
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,40.0,1.0,0.6,13.0,10.0,2.5,15.0,3.0,370.0
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,8.0,0.3,0.1,2.0,0.0,1.0,0.0,0.8,75.0
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.1,0.0,0.0,640.0,0.0,0.0,0.0,0.0
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,50.0,0.0,0.0,13.0,0.0,12.5,0.0,0.0,30.0
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,6.0,9.0,12.0,450.0,3.0,150.0,0.5,20.0
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,64.0,0.0,0.0,17.0,0.0,16.0,0.0,0.0,80.0
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,90.0,3.0,8.0,7.0,150.0,6.0,0.0,1.0,40.0
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,105.0,1.0,0.0,27.0,2.0,14.0,6.0,0.8,370.0
+466,7,Qwen 2.5 3B Instruct,few-shot,false,80.0,8.0,3.5,6.5,70.0,2.0,35.0,0.6,180.0
+466,7,Qwen 2.5 3B Instruct,few-shot,false,20.0,1.0,0.5,0.0,10.0,0.0,0.0,0.1,20.0
+466,7,Qwen 2.5 3B Instruct,few-shot,false,23.0,0.0,0.1,0.5,0.0,0.1,0.0,0.0,2.0
+466,7,Qwen 2.5 3B Instruct,few-shot,false,39.0,3.0,2.5,7.8,200.0,1.9,25.0,0.8,140.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,950.0,13.0,78.0,7.0,40.0,15.0,0.0,4.0,260.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,2.0,0.0,1.0,600.0,0.0,10.0,1.0,30.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,2.0,0.0,1.0,200.0,0.0,5.0,1.0,20.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,64.0,0.0,0.0,17.0,0.0,17.0,0.0,0.0,60.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,8.0,0.5,0.0,1.0,2.0,0.0,0.0,0.6,180.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,8.0,0.2,0.0,0.5,1.0,0.0,0.0,0.1,80.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.1,0.0,0.3,20.0,0.0,0.0,0.2,15.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,5.0,2.0,30.0,400.0,2.0,20.0,3.0,180.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,60.0,2.0,10.0,12.0,50.0,3.0,0.0,1.0,150.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,100.0,2.0,8.0,6.0,100.0,3.0,15.0,0.0,100.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,100.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,150.0,8.0,14.0,1.0,250.0,0.0,350.0,1.0,40.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,80.0,0.0,9.0,0.0,20.0,0.0,0.0,0.0,0.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,200.0,12.0,3.0,60.0,350.0,0.0,30.0,3.0,400.0
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,130.0,12.0,11.0,1.0,150.0,3.0,50.0,1.0,180.0
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,40.0,1.0,0.5,10.0,0.0,2.0,10.0,1.0,300.0
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,15.0,0.5,0.3,1.0,0.0,0.0,0.0,0.3,80.0
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,15.0,0.4,0.2,3.0,0.0,2.0,0.0,0.7,150.0
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,80.0,18.0,6.0,0.5,1200.0,0.0,200.0,7.0,350.0
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,60.0,12.0,4.0,0.0,300.0,0.0,0.0,3.0,50.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,950.0,8.0,63.0,7.0,40.0,13.0,0.0,4.0,420.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,2.0,0.0,1.0,380.0,0.0,10.0,1.0,30.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,1.0,0.0,2.0,75.0,3.0,0.0,0.0,15.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,64.0,0.0,0.0,17.0,0.0,17.0,0.0,0.0,60.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,8.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,20.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,2.0,0.0,0.0,0.5,0.0,0.0,0.0,0.2,5.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.0,0.0,1.0,20.0,0.0,0.0,0.1,5.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,95.0,5.0,1.0,26.0,400.0,1.0,30.0,3.0,280.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,20.0,1.0,0.5,5.0,50.0,3.0,10.0,0.2,150.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,0.5,0.5,2.0,200.0,1.0,0.0,0.4,20.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,15.0,1.0,0.3,2.0,400.0,1.0,5.0,0.3,20.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,80.0,6.0,5.0,0.5,60.0,0.0,70.0,2.0,300.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,25.0,1.0,0.3,6.0,10.0,3.0,15.0,0.8,170.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.3,0.1,1.0,20.0,0.5,10.0,0.2,20.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,50.0,0.5,4.0,3.0,100.0,1.0,0.0,0.8,30.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,8.0,0.2,0.2,1.0,3.0,1.0,5.0,0.2,60.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,20.0,1.0,0.5,6.0,10.0,2.0,15.0,0.2,84.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,2.0,0.5,2.0,600.0,1.0,0.0,0.4,50.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,10.0,0.5,0.3,1.0,0.0,0.0,0.0,0.1,20.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,20.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,10.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.3,10.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,8.0,0.3,0.0,1.0,2.0,1.0,2.0,0.0,30.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,5.0,0.3,0.2,1.0,2.0,0.5,10.0,0.1,25.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,80.0,1.0,10.0,2.0,300.0,1.0,5.0,0.8,60.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,45.0,2.0,4.5,2.0,0.0,0.0,15.0,3.6,40.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,20.0,1.0,0.3,3.0,10.0,1.0,5.0,0.2,300.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,200.0,6.0,18.0,2.0,350.0,4.0,300.0,0.2,150.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,6.0,2.0,4.0,75.0,6.0,120.0,0.3,80.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,30.0,1.0,0.4,7.0,5.0,1.0,5.0,0.8,100.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.1,5.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,230.0,25.0,18.0,0.0,400.0,0.0,40.0,6.0,300.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,770.0,7.0,8.0,65.0,140.0,0.0,28.0,4.0,930.0
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,360.0,0.0,0.0,0.0,0.0
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,56.0,1.0,0.8,13.0,0.0,0.0,16.0,0.8,30.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,360.0,28.0,7.0,63.0,540.0,10.0,80.0,6.0,950.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,280.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,7.0,0.0,0.0,1.0,25.0,0.0,0.0,0.0,0.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,14.0,1.0,0.3,2.0,2.0,0.0,7.0,0.6,58.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,12.0,0.0,0.2,2.0,1.0,1.0,3.0,0.2,75.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,280.0,0.0,0.0,0.0,0.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,180.0,8.0,18.0,9.0,270.0,1.0,400.0,12.0,130.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,268.0,32.0,17.0,0.0,50.0,0.0,0.0,8.0,400.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,204.0,8.0,16.0,2.0,75.0,1.0,245.0,12.0,30.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,90.0,3.0,9.0,1.0,170.0,0.0,2.0,1.0,50.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,20.0,0.0,0.0,3.0,600.0,1.0,0.0,0.0,30.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,130.0,3.0,0.2,45.0,5.0,0.2,16.0,4.0,570.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,15.0,1.0,0.5,2.0,75.0,0.0,30.0,0.5,20.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,16.0,1.0,0.3,2.0,25.0,0.8,2.0,0.5,30.0
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,672.0,8.0,1.5,26.0,0.0,0.0,0.0,2.0,300.0
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,20.0,1.0,1.5,1.0,80.0,0.0,30.0,0.5,80.0
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,20.0,1.0,0.5,13.0,50.0,0.0,0.0,1.0,30.0
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+494,9,Qwen 2.5 3B Instruct,few-shot,false,175.0,8.0,9.0,2.0,60.0,1.0,50.0,1.0,145.0
+494,9,Qwen 2.5 3B Instruct,few-shot,false,175.0,8.0,9.0,2.0,60.0,1.0,50.0,1.0,145.0
+494,9,Qwen 2.5 3B Instruct,few-shot,false,90.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+494,9,Qwen 2.5 3B Instruct,few-shot,false,23.0,2.5,2.5,4.0,10.0,3.0,10.0,0.4,10.0
+494,9,Qwen 2.5 3B Instruct,few-shot,false,63.0,2.5,6.5,4.0,8.0,2.0,10.0,0.4,10.0
+494,9,Qwen 2.5 3B Instruct,few-shot,false,136.0,0.5,8.5,1.0,40.0,1.0,0.0,0.1,0.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,1400.0,90.0,63.0,0.0,700.0,0.0,0.0,32.0,800.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,30.0,2.0,0.5,1.0,800.0,0.0,0.0,1.0,50.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,20.0,1.0,0.3,0.0,600.0,0.0,0.0,0.0,25.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,15.0,0.5,0.3,2.0,0.0,0.0,0.0,1.0,40.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,8.0,0.2,0.1,1.0,0.0,0.0,0.0,0.4,30.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,60.0,1.0,1.0,12.0,350.0,10.0,0.0,0.0,50.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,60.0,3.0,1.0,7.0,20.0,1.0,60.0,3.0,300.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,176.0,26.0,11.0,0.0,150.0,0.0,0.0,5.0,180.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,90.0,1.0,0.5,20.0,70.0,1.0,30.0,0.8,25.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,60.0,2.0,1.0,12.0,50.0,3.0,35.0,1.6,80.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,42.0,0.7,0.3,11.0,5.0,3.0,15.0,1.1,60.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,36.0,0.7,0.4,8.0,10.0,3.0,10.0,0.8,60.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,25.0,3.0,0.3,5.0,5.0,2.0,15.0,1.6,40.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,17.0,0.7,0.2,3.0,10.0,1.0,8.0,0.6,30.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,104.0,0.0,11.3,0.0,0.0,0.0,0.0,0.0,0.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,200.0,40.0,12.0,0.0,300.0,0.0,0.0,3.0,250.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,2.0,0.5,0.0,600.0,0.0,0.0,0.1,5.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,80.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,1.0,0.0,15.0,0.0,3.0,0.0,0.8,20.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.5,0.3,2.0,5.0,1.0,10.0,0.2,30.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,100.0,1.0,0.5,20.0,1.0,15.0,30.0,1.5,180.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.2,5.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,1.0,0.3,2.0,5.0,0.0,0.0,0.5,20.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,150.0,0.0,4.0,37.0,180.0,34.0,25.0,0.0,100.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,15.0,0.0,15.0,0.0,0.0,40.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,35.0,0.0,35.0,100.0,0.0,400.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,60.0,1.0,0.0,13.0,1.0,12.0,5.0,0.6,180.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,25.0,1.0,0.5,15.0,5.0,13.0,20.0,0.8,70.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,80.0,2.0,0.5,27.0,2.0,18.0,5.0,1.6,120.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,210.0,6.0,20.0,49.0,130.0,45.0,170.0,3.0,200.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,240.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,200.0,26.0,15.0,0.0,100.0,0.0,0.0,8.0,200.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,300.0,8.0,8.0,50.0,600.0,10.0,20.0,4.0,300.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,100.0,8.0,9.0,1.0,20.0,0.0,24.0,1.0,80.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,200.0,0.0,22.0,2.0,600.0,1.0,0.0,0.0,50.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,15.0,1.0,0.5,1.0,2.0,0.0,0.0,0.7,20.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,30.0,0.5,0.5,6.0,10.0,2.0,0.0,0.8,70.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,10.0,0.4,0.3,2.0,2.0,0.5,10.0,0.3,20.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,13.0,0.0,400.0,0.0,0.0,0.0,0.0
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,75.0,2.0,2.0,30.0,100.0,5.0,15.0,1.0,900.0
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,5.0,0.0,0.1,0.0,0.0,0.0,0.0,0.1,0.0
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,150.0,0.0,0.0,0.0,0.0
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,40.0,1.0,0.5,13.0,20.0,4.0,8.0,0.6,50.0
+514,10,Qwen 2.5 3B Instruct,few-shot,false,30.0,6.4,0.0,42.5,0.0,17.0,33.0,0.9,83.0
+514,10,Qwen 2.5 3B Instruct,few-shot,false,6.0,0.3,0.0,1.25,0.0,0.0,0.0,0.0,1.0
+514,10,Qwen 2.5 3B Instruct,few-shot,false,45.0,1.8,3.1,9.6,21.0,4.3,20.0,0.4,197.0
+514,10,Qwen 2.5 3B Instruct,few-shot,false,64.0,9.7,5.3,32.5,289.0,6.1,10.0,0.6,245.0
+514,10,Qwen 2.5 3B Instruct,few-shot,false,164.0,0.0,22.5,0.0,0.0,0.0,0.0,0.0,0.0
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,20.0,1.0,1.0,1.0,0.0,0.0,0.0,0.7,60.0
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,10.0,0.2,0.3,1.0,0.0,0.0,10.0,0.3,40.0
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,160.0,5.0,3.0,27.0,0.0,1.0,30.0,1.0,240.0
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,200.0,26.0,9.0,0.0,200.0,0.0,0.0,5.0,340.0
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,15.0,1.0,0.5,3.0,600.0,1.0,0.0,0.0,20.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,234.0,31.0,16.0,0.0,69.0,0.0,0.0,5.0,84.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,2300.0,0.0,0.0,0.0,0.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,125.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,204.0,7.0,16.0,2.4,389.0,2.0,163.0,1.0,42.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,75.0,5.0,7.0,1.2,839.0,0.0,0.0,0.6,148.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,635.0,0.0,0.0,0.2,0.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,138.0,3.0,0.4,41.0,2.0,0.0,12.0,0.7,415.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,25.0,1.0,0.8,3.0,75.0,0.0,25.0,0.4,80.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.5,0.2,2.0,10.0,0.3,10.0,0.2,40.0
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,420.0,1.0,10.0,63.0,0.0,42.0,37.0,5.0,680.0
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,104.0,0.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,30.0,1.5,0.2,5.0,10.0,1.0,7.0,3.0,20.0
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,120.0,6.0,6.0,18.0,150.0,12.0,350.0,0.8,290.0
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,684.0,8.0,1.3,27.0,0.0,0.0,0.0,3.6,240.0
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,20.0,1.0,1.3,1.0,700.0,0.0,75.0,0.4,30.0
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,35.0,1.0,0.4,15.0,20.0,1.0,10.0,2.5,80.0
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,384.0,20.0,9.5,37.0,0.0,12.0,0.0,8.0,150.0
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,60.0,1.0,0.5,6.0,200.0,5.0,0.0,0.4,30.0
+525,30,Gemma-SEA-LION v4 4B,few-shot,false,310.0,1.0,1.1,75.0,0.0,60.0,30.0,5.0,740.0
+525,30,Gemma-SEA-LION v4 4B,few-shot,false,375.0,7.0,36.0,10.0,0.0,10.0,35.0,0.0,20.0
+525,30,Gemma-SEA-LION v4 4B,few-shot,false,34.0,0.0,0.0,18.0,0.0,18.0,0.0,0.0,0.0
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,960.0,18.0,38.0,72.0,500.0,20.0,0.0,6.0,700.0
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,40.0,1.0,1.0,10.0,50.0,2.0,10.0,1.0,80.0
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,20.0,0.5,0.5,6.0,70.0,4.0,20.0,0.3,100.0
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,900.0,20.0,80.0,7.0,1200.0,10.0,0.0,0.0,0.0
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,80.0,3.0,3.0,15.0,400.0,8.0,20.0,4.0,150.0
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,250.0,25.0,18.0,0.0,300.0,0.0,0.0,8.0,100.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,40.0,1.0,0.5,12.0,10.0,2.0,18.0,1.3,340.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.3,0.0,1.0,0.0,0.0,0.0,0.2,60.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,30.0,1.0,0.5,4.0,2.0,0.0,2.0,0.5,75.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,30.0,0.0,0.0,7.0,1.0,7.0,0.0,0.0,30.0
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,200.0,8.0,14.0,20.0,600.0,10.0,150.0,0.0,200.0
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,60.0,0.0,0.0,15.0,0.0,15.0,0.0,0.0,20.0
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,90.0,3.0,8.0,7.0,150.0,8.0,25.0,1.0,60.0
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,250.0,2.0,10.0,60.0,1.0,35.0,15.0,1.0,700.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,175.0,35.0,9.0,0.0,200.0,0.0,0.0,4.0,200.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,25.0,2.0,0.5,1.0,800.0,0.0,0.0,0.0,50.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,15.0,1.0,0.3,0.0,200.0,0.0,0.0,0.0,25.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,15.0,0.0,3.0,0.0,0.0,0.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.5,0.1,1.0,0.0,0.0,0.0,0.2,30.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,8.0,0.3,0.1,1.0,0.0,0.0,0.0,0.1,25.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,45.0,1.0,1.0,8.0,300.0,6.0,0.0,0.0,50.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,50.0,3.0,0.8,6.0,30.0,1.5,60.0,1.0,300.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,820.0,140.0,50.0,0.0,1700.0,0.0,0.0,24.0,1400.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,80.0,3.0,3.0,10.0,250.0,0.0,0.0,0.5,20.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,300.0,2.0,25.0,3.0,800.0,1.0,50.0,0.5,80.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,75.0,3.0,4.0,9.0,60.0,7.0,150.0,0.2,40.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,50.0,0.5,1.0,8.0,200.0,6.0,2.0,0.3,30.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,20.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,5.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,50.0,1.0,1.0,7.0,600.0,2.0,3.0,1.0,45.0
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,938.0,23.0,75.0,7.0,20.0,8.0,10.0,7.0,450.0
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,10.0,2.0,0.0,0.0,750.0,0.0,0.0,0.0,10.0
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,10.0,1.0,0.0,0.0,50.0,5.0,0.0,0.0,10.0
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,64.0,0.0,0.0,17.0,0.0,17.0,0.0,0.0,30.0
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,8.0,0.5,0.0,1.0,1.0,0.0,0.0,0.7,30.0
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,2.0,0.0,0.0,0.5,0.0,0.0,0.0,0.1,5.0
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,10.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,60.0,1.0,2.0,14.0,0.0,2.0,0.0,1.0,300.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,500.0,0.0,0.0,0.0,0.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,200.0,6.0,14.0,7.0,150.0,4.0,150.0,2.0,80.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,300.0,6.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,220.0,16.0,18.0,1.0,300.0,0.0,450.0,2.0,80.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,500.0,0.0,0.0,0.0,0.0
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,70.0,6.0,5.0,4.0,80.0,3.0,150.0,1.0,200.0
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,75.0,1.0,0.0,15.0,0.0,7.0,30.0,1.5,400.0
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,60.0,0.5,0.5,13.0,1.0,8.0,7.0,0.6,230.0
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,30.0,0.5,0.2,8.0,2.0,6.0,10.0,0.3,120.0
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,172.0,0.0,0.0,40.0,0.0,39.0,25.0,4.5,180.0
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,340.0,6.0,7.0,38.0,120.0,34.0,120.0,0.5,180.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,264.0,24.0,18.0,1.0,160.0,0.0,80.0,6.0,140.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,230.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,1600.0,15.0,8.0,40.0,350.0,10.0,20.0,8.0,600.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,40.0,1.0,0.5,10.0,20.0,4.0,5.0,1.0,80.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,14.0,1.0,0.3,2.0,5.0,0.0,0.0,0.5,20.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,20.0,0.0,0.1,4.0,0.0,2.0,0.0,0.3,40.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,180.0,20.0,13.0,1.0,600.0,0.0,80.0,16.0,300.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,60.0,10.0,3.0,2.0,400.0,0.0,15.0,4.0,80.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,930.0,28.0,78.0,7.0,0.0,4.0,0.0,5.0,370.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,10.0,2.0,0.0,0.0,700.0,0.0,0.0,0.0,0.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,10.0,2.0,0.0,0.0,100.0,5.0,0.0,0.0,0.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,64.0,0.0,0.0,17.0,0.0,17.0,0.0,0.0,30.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,13.0,1.0,0.0,1.0,25.0,0.0,0.0,1.0,68.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,8.0,0.5,0.0,2.0,1.0,0.0,0.0,0.4,83.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,5.0,0.3,0.0,1.0,25.0,0.0,0.0,0.2,15.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,20.0,0.7,0.0,3.0,1.0,2.0,15.0,0.3,48.0
+553,24,Gemma-SEA-LION v4 4B,chain-of-thought,false,250.0,60.0,14.0,0.0,400.0,0.0,0.0,3.0,200.0
+553,24,Gemma-SEA-LION v4 4B,chain-of-thought,false,60.0,2.0,4.0,10.0,250.0,8.0,0.0,0.5,30.0
+553,24,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,350.0,50.0,24.0,0.0,300.0,0.0,0.0,4.0,300.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,40.0,1.0,1.0,2.0,300.0,1.0,0.0,0.5,0.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,40.0,0.5,0.5,10.0,10.0,2.0,10.0,0.8,300.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,10.0,1.0,0.1,2.0,5.0,0.0,0.0,0.3,50.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,240.0,0.0,28.0,0.0,0.0,0.0,15.0,0.0,0.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,40.0,0.2,0.5,3.0,0.0,1.0,0.0,0.8,50.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,120.0,4.0,10.0,3.0,100.0,2.0,100.0,0.5,300.0
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,780.0,0.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,20.0,0.5,0.3,1.0,1.0,0.0,0.0,0.1,80.0
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.3,0.1,2.0,2.0,0.0,10.0,0.2,50.0
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,5.0,1.0,0.1,1.0,600.0,0.0,5.0,0.3,20.0
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,3.0,0.4,0.1,1.0,150.0,2.0,2.0,0.1,15.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,30.0,0.5,0.5,6.0,50.0,2.0,5.0,0.1,200.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,80.0,1.0,1.0,5.0,400.0,2.0,0.0,0.5,50.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,30.0,1.0,0.5,3.0,400.0,1.0,0.0,0.2,20.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,80.0,6.0,5.0,0.5,70.0,0.0,24.0,1.0,35.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,25.0,1.0,0.3,4.0,10.0,3.0,8.0,0.6,150.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,10.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,15.0,0.2,0.2,3.0,1.0,1.0,0.0,0.1,30.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,5.0,0.3,0.1,1.0,10.0,0.5,1.0,0.2,15.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,40.0,0.5,3.0,2.0,20.0,1.0,0.0,0.3,25.0
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,160.0,5.0,3.0,27.0,0.0,6.0,10.0,2.0,40.0
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,200.0,30.0,8.0,0.0,250.0,0.0,0.0,5.0,180.0
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.0,0.0,2.0,500.0,1.0,0.0,0.0,5.0
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,40.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.6,0.3,1.0,5.0,0.0,0.0,1.0,40.0
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,40.0,0.0,5.0,0.0,25.0,0.0,0.0,0.0,10.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,30.0,1.0,0.5,6.0,0.0,1.0,10.0,0.2,84.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,30.0,2.0,0.5,1.0,620.0,0.0,0.0,0.4,50.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,10.0,0.5,0.1,1.0,0.0,0.0,0.0,0.1,20.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,20.0,0.2,0.0,2.0,3.0,1.0,15.0,0.3,60.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,5.0,0.3,0.1,1.0,0.0,0.0,5.0,0.2,15.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,120.0,0.0,14.0,0.0,280.0,0.0,0.0,0.0,0.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,45.0,3.0,4.5,2.0,0.0,0.0,18.0,1.5,40.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,800.0,0.0,0.0,0.0,0.0
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,46.0,1.0,0.5,9.0,2.0,7.0,30.0,0.6,250.0
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,5.0,1.0,0.3,2.0,5.0,1.0,5.0,0.8,20.0
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,120.0,6.0,7.0,16.0,180.0,9.0,320.0,1.5,470.0
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,150.0,4.0,8.0,25.0,400.0,3.0,30.0,1.0,250.0
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,400.0,0.0,0.0,0.0,0.0
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,0.0,1.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,30.0,1.0,0.5,6.0,10.0,1.0,15.0,0.3,800.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,300.0,8.0,28.0,3.0,500.0,1.0,250.0,0.6,300.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,50.0,3.0,0.5,6.0,75.0,4.0,80.0,0.2,150.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,30.0,1.0,0.2,4.0,5.0,1.0,2.0,0.8,75.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,2300.0,0.0,0.0,0.0,0.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,5.0,0.3,0.1,1.0,5.0,0.0,0.0,0.2,5.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,240.0,24.0,18.0,0.0,250.0,0.0,60.0,7.0,350.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,67.0,6.0,0.5,13.0,120.0,0.0,15.0,3.4,82.0
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,510.0,7.0,43.0,23.0,60.0,18.0,25.0,23.0,240.0
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,712.0,6.0,65.0,0.0,75.0,0.0,0.0,0.0,150.0
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,156.0,13.0,11.0,1.3,74.0,0.0,85.0,8.0,290.0
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,232.0,0.0,0.0,58.0,0.0,58.0,0.0,0.0,0.0
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,130.0,0.0,0.0,0.0,0.0
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,40.0,0.75,0.5,13.0,2.0,14.0,20.0,0.8,180.0
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,148.0,5.0,13.0,1.6,10.0,1.4,35.0,0.2,20.0
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,34.0,0.0,0.0,10.0,0.0,10.0,0.0,0.0,0.0
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,75.0,4.0,3.0,14.0,250.0,3.0,50.0,0.8,160.0
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,400.0,4.0,18.0,60.0,250.0,10.0,0.0,0.5,600.0
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,700.0,2.0,60.0,1.0,800.0,5.0,0.0,0.1,300.0
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,20.0,0.5,0.5,4.0,150.0,2.0,10.0,0.3,100.0
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,30.0,1.0,1.0,6.0,50.0,1.0,20.0,1.0,300.0
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,60.0,1.0,0.5,8.0,100.0,4.0,0.0,2.0,200.0
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.2,0.1,2.0,5.0,1.0,0.0,0.1,50.0
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,300.0,8.0,20.0,15.0,500.0,8.0,150.0,3.0,200.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,260.0,35.0,14.0,0.0,180.0,0.0,20.0,5.0,400.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,240.0,0.0,0.0,0.0,0.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.7,0.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,60.0,12.0,3.0,0.5,50.0,0.0,25.0,1.0,80.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,210.0,7.0,16.0,2.4,180.0,3.0,160.0,0.5,200.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,90.0,3.0,8.0,1.0,600.0,1.0,0.0,0.2,40.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,1.2,500.0,0.3,0.0,0.0,0.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,130.0,2.0,0.4,26.0,5.0,0.3,10.0,0.6,475.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,15.0,1.0,0.5,1.5,60.0,0.0,20.0,0.4,50.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,10.0,0.5,0.1,2.0,5.0,0.3,10.0,0.2,40.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,780.0,0.0,135.0,0.0,0.0,0.0,0.0,0.0,0.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.1,0.2,1.5,5.0,0.2,0.0,0.3,50.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,5.0,0.0,0.1,0.2,0.0,0.0,0.0,0.1,10.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,40.0,0.5,0.5,10.0,10.0,2.0,15.0,1.0,350.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,2.0,0.2,0.1,0.5,0.0,0.1,0.0,0.4,30.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,30.0,0.3,0.5,1.0,20.0,0.5,0.0,1.0,20.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.5,0.1,2.0,0.0,0.1,0.0,0.2,15.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,16.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,10.0
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,672.0,6.0,1.3,50.0,0.0,0.0,0.0,1.3,0.0
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,280.0
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,40.0,1.0,2.0,1.0,180.0,0.0,70.0,0.5,20.0
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,150.0,6.0,2.5,25.0,300.0,3.0,10.0,2.0,75.0
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,120.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,30.0,0.2,0.5,2.0,150.0,3.0,0.0,0.0,10.0
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,180.0,4.0,9.0,16.0,520.0,12.0,150.0,0.6,20.0
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,64.0,0.0,0.0,17.0,0.0,16.0,0.0,0.0,30.0
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,90.0,3.0,8.0,7.0,100.0,6.0,20.0,1.5,80.0
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,100.0,1.0,0.0,27.0,2.0,15.0,6.0,0.8,340.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,180.0,45.0,12.0,0.0,300.0,0.0,0.0,3.0,200.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,50.0,3.0,1.0,10.0,300.0,2.0,0.0,1.0,10.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,120.0,1.0,11.0,1.0,400.0,2.0,0.0,0.0,50.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,60.0,3.0,2.0,7.0,50.0,4.0,80.0,0.0,150.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,20.0,0.5,0.5,4.0,100.0,3.0,0.0,0.5,80.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,5.0,0.2,0.1,1.0,10.0,0.5,0.0,0.3,10.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,5.0,0.2,0.1,1.0,5.0,0.5,0.0,0.3,10.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.5,0.3,2.0,400.0,1.0,0.0,0.8,20.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,180.0,12.0,13.0,1.0,150.0,3.0,80.0,1.0,400.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,40.0,1.0,0.5,10.0,0.0,2.0,5.0,0.8,400.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.5,0.1,1.0,0.0,0.0,0.0,0.2,30.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,25.0,0.2,0.3,6.0,0.0,1.0,0.0,0.5,150.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,80.0,14.0,6.0,0.5,500.0,0.0,25.0,7.0,100.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,180.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,80.0,8.0,5.0,0.5,400.0,0.0,0.0,2.0,50.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,160.0,5.0,1.0,40.0,80.0,7.0,10.0,3.0,200.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,950.0,14.0,43.0,7.0,200.0,10.0,0.0,3.0,200.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,1.0,0.0,1.0,500.0,0.0,0.0,0.0,50.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,1.0,0.0,1.0,50.0,0.0,0.0,0.0,20.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,64.0,0.0,0.0,19.0,0.0,18.0,0.0,0.0,60.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,8.0,0.0,0.0,1.0,0.0,0.0,0.0,0.2,48.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,8.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,48.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,5.0,0.0,0.0,1.0,20.0,0.0,0.0,0.1,10.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,340.0,8.0,2.6,70.0,410.0,2.0,30.0,4.0,350.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,35.0,0.0,0.0,8.0,160.0,7.0,10.0,0.0,20.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,10.0,0.0,5.0,0.0,0.0,180.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,30.0,1.0,0.0,7.0,5.0,3.0,60.0,1.0,80.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,62.0,0.8,0.3,13.0,1.0,9.0,6.0,0.7,160.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,30.0,0.6,0.2,7.0,2.0,4.0,7.0,0.5,120.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,167.0,4.0,0.4,38.0,2.0,19.0,25.0,6.3,480.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,130.0,8.0,10.0,16.0,40.0,13.0,175.0,2.0,260.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,310.0,45.0,18.0,0.0,300.0,0.0,0.0,6.0,200.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,15.0,1.0,0.5,2.0,350.0,1.0,0.0,0.2,5.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,40.0,0.5,0.5,12.0,10.0,3.0,15.0,0.8,40.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.2,0.1,1.0,5.0,0.5,0.0,0.3,60.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,200.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,25.0,0.3,0.3,1.0,5.0,2.0,0.0,0.6,10.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,80.0,1.0,6.0,3.0,25.0,2.0,20.0,0.4,60.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,120.0,6.0,1.0,45.0,150.0,7.0,10.0,3.0,80.0
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,20.0,0.5,0.5,5.0,5.0,2.0,0.0,0.0,70.0
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,40.0,1.0,1.0,3.0,300.0,5.0,0.0,0.5,20.0
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,1.0,0.3,2.0,200.0,3.0,0.0,0.2,25.0
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,70.0,6.0,5.0,0.7,60.0,0.0,25.0,1.0,300.0
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,25.0,1.0,0.3,6.0,10.0,3.0,8.0,0.5,170.0
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,5.0,0.2,0.1,1.0,5.0,0.5,10.0,0.3,20.0
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,45.0,1.0,3.0,2.0,50.0,3.0,0.0,0.4,25.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,16.0,0.8,0.3,4.0,5.0,2.0,10.0,0.2,60.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,1.0,0.3,1.0,600.0,0.0,0.0,0.4,20.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,0.5,0.1,1.0,0.0,0.0,0.0,0.1,20.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,20.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,10.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,16.0,0.3,0.2,3.0,1.0,2.0,10.0,0.2,40.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,6.0,0.4,0.1,1.0,0.0,0.0,5.0,0.1,10.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,80.0,0.0,10.0,0.0,200.0,0.0,0.0,0.2,10.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,45.0,2.0,5.0,2.0,0.0,0.0,15.0,1.5,30.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,16.0,1.0,0.5,6.0,20.0,2.0,15.0,0.4,300.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,200.0,6.0,16.0,3.0,350.0,2.0,250.0,0.2,10.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,30.0,3.0,1.0,4.0,60.0,7.0,80.0,0.5,20.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,30.0,1.0,0.5,7.0,5.0,1.0,2.0,1.3,40.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,230.0,0.0,0.0,0.0,0.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.2,10.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,10.0,1.0,0.0,2.0,50.0,0.0,0.0,1.5,5.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,230.0,24.0,18.0,0.0,150.0,0.0,50.0,6.0,300.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,150.0,2.0,1.0,30.0,2.0,18.0,10.0,1.0,500.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,30.0,1.0,1.5,4.0,5.0,2.0,0.0,3.0,50.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,160.0,6.0,3.0,27.0,10.0,3.0,15.0,2.0,80.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,130.0,8.0,7.0,12.0,120.0,9.0,300.0,1.0,500.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,780.0,0.0,71.0,0.0,300.0,0.0,0.0,0.0,0.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,120.0,2.0,9.0,15.0,20.0,10.0,20.0,3.0,50.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,70.0,0.5,0.5,2.0,60.0,0.0,0.0,0.4,10.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,900.0,28.0,83.0,7.0,240.0,1.0,140.0,15.0,370.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,10.0,0.5,0.3,2.4,5.0,1.1,18.0,0.7,62.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,14.0,1.0,0.2,1.4,1.0,0.0,0.0,0.8,36.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,5.0,1.5,0.3,2.4,380.0,0.1,24.0,1.6,38.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,8.0,0.8,0.2,2.4,75.0,1.6,12.0,0.4,23.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,35.0,0.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,40.0,0.3,5.0,0.0,0.0,0.0,5.0,0.7,12.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,5.0,0.3,0.0,1.4,25.0,0.0,0.0,0.4,15.0
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,45.0,0.7,0.3,9.0,2.0,10.0,8.0,0.6,130.0
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,64.0,0.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,50.0,1.0,0.5,6.0,10.0,2.0,7.0,3.0,15.0
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,120.0,5.0,7.0,13.0,180.0,6.0,210.0,3.5,470.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,900.0,0.0,88.0,0.0,300.0,0.0,37.0,1.8,260.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,374.0,9.0,1.6,73.0,140.0,0.0,18.0,6.3,25.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,100.0,2.0,0.5,23.0,40.0,0.0,8.0,0.7,13.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,538.0,7.0,39.0,28.0,70.0,23.0,65.0,14.8,290.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,278.0,4.0,27.0,0.0,75.0,0.0,31.0,1.2,80.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,156.0,13.0,11.0,0.6,74.0,0.0,24.0,6.7,95.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,387.0,0.0,0.0,69.0,0.0,69.0,0.0,0.0,130.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,210.0,0.0,0.0,0.0,0.0
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,30.0,1.0,0.5,13.0,2.0,18.0,5.0,0.7,230.0
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,120.0,4.0,11.0,3.0,15.0,12.0,80.0,0.0,30.0
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,45.0,0.0,0.0,10.0,2.0,10.0,0.0,0.0,0.0
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,100.0,6.0,3.0,14.0,150.0,8.0,30.0,1.5,20.0
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,250.0,6.0,14.0,40.0,400.0,10.0,0.0,2.0,300.0
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,90.0,2.0,9.0,4.0,350.0,7.0,0.0,0.0,150.0
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,15.0,0.0,0.5,8.0,200.0,5.0,10.0,0.0,50.0
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,25.0,1.0,1.5,6.0,50.0,2.0,0.0,0.5,30.0
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,30.0,1.0,0.5,8.0,80.0,5.0,0.0,3.0,60.0
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,5.0,0.2,0.1,1.0,20.0,0.5,0.0,0.3,10.0
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,200.0,8.0,16.0,15.0,600.0,8.0,150.0,4.0,200.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,800.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,20.0,0.2,0.5,3.0,50.0,1.0,0.0,0.5,70.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,2.0,0.1,0.1,0.5,1.0,0.0,0.0,0.1,20.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,40.0,1.0,0.5,12.0,15.0,3.0,8.0,2.0,450.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,15.0,0.8,0.3,3.0,2.0,1.5,0.0,3.0,90.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,25.0,0.3,0.3,4.0,75.0,2.0,0.0,4.0,150.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,15.0,0.8,0.3,3.0,2.0,1.5,0.0,3.0,90.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,10.0,1.3,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,20.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,40.0
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,120.0,6.0,8.0,15.0,400.0,3.0,150.0,0.5,20.0
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,64.0,0.0,0.0,17.0,0.0,16.0,0.0,0.0,75.0
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,90.0,3.0,8.0,7.0,150.0,6.0,20.0,1.5,40.0
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,130.0,2.0,0.0,34.0,2.0,17.0,15.0,0.8,430.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,900.0,20.0,78.0,7.0,40.0,10.0,0.0,4.0,360.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,10.0,1.0,0.0,1.0,500.0,0.0,0.0,0.2,10.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,10.0,1.0,0.0,1.0,250.0,0.0,0.0,0.2,10.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,64.0,0.0,0.0,17.0,0.0,17.0,0.0,0.2,60.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,8.0,0.3,0.1,1.2,1.0,0.0,1.0,0.6,28.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,2.0,0.1,0.0,0.5,0.0,0.0,0.0,0.2,5.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,5.0,0.1,0.0,0.5,20.0,0.0,0.0,0.3,5.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,230.0,8.0,2.8,40.0,400.0,3.0,25.0,3.6,410.0
+631,3,MedGemma 4B,zero-shot,false,300.0,45.0,18.0,0.0,400.0,0.0,100.0,8.0,600.0
+631,3,MedGemma 4B,zero-shot,false,5.0,2.0,0.0,1.0,600.0,0.0,5.0,0.0,0.0
+631,3,MedGemma 4B,zero-shot,false,5.0,0.5,0.0,2.0,10.0,0.0,0.0,0.0,0.0
+631,3,MedGemma 4B,zero-shot,false,5.0,0.5,0.0,2.0,10.0,0.0,0.0,0.0,0.0
+631,3,MedGemma 4B,zero-shot,false,120.0,1.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+631,3,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+631,3,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,500.0,0.0,0.0,0.0,0.0
+631,3,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+631,3,MedGemma 4B,zero-shot,false,200.0,4.0,0.5,42.0,40.0,0.5,3.0,1.0,200.0
+631,3,MedGemma 4B,zero-shot,false,40.0,1.0,0.5,10.0,20.0,5.0,0.0,0.0,200.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,16.0,1.0,0.5,3.0,20.0,2.0,5.0,0.2,80.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,25.0,1.0,1.0,2.0,400.0,3.0,0.0,0.8,20.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,10.0,0.5,0.3,2.0,200.0,1.0,0.0,0.2,10.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,78.0,6.0,5.0,0.7,60.0,0.0,25.0,2.4,380.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,22.0,1.0,0.3,4.0,5.0,3.0,8.0,0.7,160.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,2.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,8.0,0.2,0.2,1.0,1.0,1.0,3.0,0.1,30.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,10.0,0.4,0.1,2.0,10.0,0.5,10.0,0.3,60.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,70.0,0.8,5.6,3.0,50.0,1.0,0.0,1.2,50.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,16.0,0.7,0.3,4.0,15.0,2.0,8.0,0.4,160.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,10.0,2.0,0.5,1.0,800.0,0.0,15.0,1.6,30.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,10.0,0.5,0.1,1.0,0.0,0.0,0.0,0.8,30.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,20.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,10.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,120.0,0.5,14.0,0.0,0.0,0.0,0.0,0.0,30.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,8.0,0.3,0.0,1.0,2.0,1.0,2.0,0.2,50.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,5.0,0.4,0.1,1.0,2.0,0.3,10.0,0.2,20.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,80.0,0.8,9.0,0.0,350.0,0.0,0.0,1.2,50.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,45.0,3.0,4.5,2.0,0.0,0.0,15.0,3.6,80.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,30.0,1.0,0.5,6.0,10.0,2.0,15.0,0.4,375.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,200.0,6.0,16.0,3.0,400.0,2.0,250.0,0.3,10.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,30.0,6.0,2.0,4.0,50.0,7.0,80.0,0.2,20.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,30.0,1.0,0.5,7.0,15.0,1.0,5.0,1.4,60.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.1,0.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.1,0.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,280.0,25.0,22.0,0.0,180.0,0.0,40.0,8.0,300.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,328.7,29.6,27.9,3.2,587.0,2.1,17.0,0.5,304.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,3.7,0.5,0.0,4.9,21.0,3.6,0.0,0.0,7.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,58.3,0.0,7.3,0.0,0.0,0.0,0.0,0.0,0.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,28.9,0.1,0.0,5.7,0.0,4.3,0.0,0.0,0.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,486.0,0.0,0.0,0.0,0.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,3.6,0.3,0.0,0.9,28.0,0.6,1.0,0.1,8.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,3.7,0.3,0.0,0.9,25.0,0.6,1.0,0.2,9.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,4.6,0.3,0.0,1.1,32.0,0.6,2.0,0.1,9.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,24.1,2.6,2.6,0.5,37.0,0.1,4.0,0.3,59.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,156.8,15.8,14.3,0.9,292.0,0.0,2.0,1.4,30.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,168.0,30.9,9.5,2.0,45.0,0.0,15.0,0.6,428.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,9.6,1.6,0.0,1.0,32.0,0.0,0.0,0.0,2.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,423.0,0.0,49.8,0.0,12.0,0.0,0.0,0.0,0.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,40.0,3.5,0.9,3.6,10.0,2.4,9.0,0.1,7.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,196.0,0.0,0.0,0.0,0.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,34.0,0.9,0.6,7.0,8.0,4.0,23.0,0.3,5.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,729.0,0.0,61.5,0.0,13.0,0.0,0.0,0.0,2.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,28.0,1.2,0.3,6.0,7.0,4.0,32.0,0.1,17.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,48.0,1.3,0.2,11.0,5.0,6.7,24.0,0.2,18.0
+647,6,MedGemma 4B,zero-shot,false,80.0,1.5,0.5,16.0,50.0,1.0,30.0,1.0,600.0
+647,6,MedGemma 4B,zero-shot,false,2.0,0.2,0.1,1.0,5.0,0.0,0.0,0.0,0.0
+647,6,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0
+647,6,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+647,6,MedGemma 4B,zero-shot,false,30.0,3.0,0.5,6.0,5.0,2.0,5.0,0.5,0.0
+647,6,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,34.0,3.5,2.6,17.0,490.0,6.0,12.0,0.4,187.0
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,15.0,2.5,0.2,8.0,7.0,6.0,0.0,0.3,8.0
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,3.0,0.5,0.1,8.0,2.0,6.0,0.0,0.0,4.0
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,23.0,1.9,1.5,7.0,4.0,5.0,46.0,1.4,238.0
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,37.0,3.9,3.2,1.6,150.0,1.4,25.0,0.6,27.0
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,25.0,3.6,0.9,8.0,7.0,4.0,91.0,0.7,252.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,298.6,34.8,3.7,2.5,101.0,0.0,12.0,0.7,69.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,4.7,1.2,0.1,3.9,68.0,3.4,6.0,0.07,5.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,48.6,2.6,0.0,5.9,13.0,5.4,3.0,0.1,0.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,4.8,1.6,0.0,1.9,27.0,1.4,1.0,0.1,2.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,34.9,4.6,0.4,8.5,12.0,6.7,1.0,0.2,35.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,8.6,1.3,1.0,0.0,2.0,0.0,0.0,0.0,4.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,23.9,2.1,0.4,5.6,18.0,4.7,0.0,0.2,98.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,0.3,0.3,0.0,0.0,12.0,0.0,1.0,0.06,1.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,1.9,1.4,0.0,0.0,37.0,0.0,1.0,0.06,7.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,134.9,3.3,0.8,11.6,23.0,5.8,12.0,0.9,172.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,17.3,1.1,0.4,2.9,8.0,2.4,1.0,0.1,39.0
+663,3,MedGemma 4B,chain-of-thought,false,400.0,40.0,20.0,0.0,700.0,0.0,0.0,8.0,600.0
+663,3,MedGemma 4B,chain-of-thought,false,15.0,0.0,0.5,10.0,200.0,5.0,0.0,0.0,10.0
+663,3,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+663,3,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+663,3,MedGemma 4B,chain-of-thought,false,120.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+663,3,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+663,3,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0
+663,3,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+663,3,MedGemma 4B,chain-of-thought,false,20.0,1.0,0.5,5.0,10.0,2.0,0.0,0.5,100.0
+663,3,MedGemma 4B,chain-of-thought,false,150.0,4.0,0.5,90.0,80.0,1.0,30.0,1.0,250.0
+665,9,MedGemma 4B,zero-shot,false,200.0,25.0,14.0,0.0,150.0,0.0,30.0,4.0,100.0
+665,9,MedGemma 4B,zero-shot,false,100.0,4.0,9.0,1.0,200.0,0.0,50.0,0.0,20.0
+665,9,MedGemma 4B,zero-shot,false,40.0,1.0,3.5,0.5,90.0,0.0,5.0,0.0,5.0
+665,9,MedGemma 4B,zero-shot,false,5.0,0.5,0.5,0.5,10.0,0.0,0.0,0.0,0.0
+665,9,MedGemma 4B,zero-shot,false,15.0,1.0,0.5,2.0,200.0,0.0,50.0,0.0,10.0
+665,9,MedGemma 4B,zero-shot,false,160.0,4.0,0.3,28.0,75.0,0.1,2.0,0.8,350.0
+665,9,MedGemma 4B,zero-shot,false,5.0,0.6,0.2,1.0,10.0,0.2,1.0,0.4,15.0
+670,6,MedGemma 4B,few-shot,false,100.0,2.0,0.5,17.0,5.0,0.5,60.0,1.0,400.0
+670,6,MedGemma 4B,few-shot,false,170.0,5.0,0.3,35.0,6.0,0.8,100.0,2.0,700.0
+670,6,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+670,6,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,2300.0,0.0,0.0,0.0,0.0
+670,6,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+670,6,MedGemma 4B,few-shot,false,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0
+670,6,MedGemma 4B,few-shot,false,240.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0
+672,10,MedGemma 4B,zero-shot,false,140.0,3.5,6.3,27.4,50.0,2.6,70.0,1.4,180.0
+672,10,MedGemma 4B,zero-shot,false,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+672,10,MedGemma 4B,zero-shot,false,30.0,2.0,2.5,4.3,50.0,0.1,40.0,0.5,30.0
+672,10,MedGemma 4B,zero-shot,false,100.0,3.7,2.3,18.6,20.0,4.3,20.0,1.5,60.0
+672,10,MedGemma 4B,zero-shot,false,20.0,0.0,0.0,5.0,0.0,4.3,0.0,0.0,0.0
+672,10,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+672,10,MedGemma 4B,zero-shot,false,230.0,1.5,26.7,0.0,0.0,0.0,0.0,0.0,0.0
+672,10,MedGemma 4B,zero-shot,false,20.0,1.0,0.0,5.0,10.0,3.2,0.0,0.0,0.0
+673,6,Qwen 2.5 3B Instruct,chain-of-thought,false,92.34,2.09,0.68,17.98,2.5,6.46,27.0,0.81,364.0
+675,7,Qwen 2.5 3B Instruct,chain-of-thought,false,227.0,12.3,0.9,54.6,0.0,9.3,24.0,0.53,267.0
+675,7,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,1.4,0.0,2.0,0.0,2.0,0.0,0.0,
+679,16,Qwen 2.5 3B Instruct,few-shot,false,186.0,32.4,9.2,1.0,500.0,5.0,80.0,1.5,200.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,20.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,14.0,0.5,0.5,8.5,300.0,4.0,2.0,0.3,20.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,50.0,0.5,0.2,7.5,0.0,4.0,1.0,0.3,20.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,17.8,1.5,0.2,3.4,0.0,2.7,0.0,0.2,4.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,20.8,1.3,0.3,4.9,0.0,2.7,0.0,0.4,8.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,50.0,0.6,0.4,2.7,0.0,0.9,0.0,0.2,15.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,50.0,0.6,0.4,2.7,0.0,0.9,0.0,0.2,15.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,25.7,1.9,0.2,6.3,40.0,2.8,5.0,0.3,45.0
+684,24,Qwen 2.5 3B Instruct,zero-shot,false,184.0,42.8,9.7,0.0,214.0,0.0,15.0,0.9,167.0
+684,24,Qwen 2.5 3B Instruct,zero-shot,false,16.3,0.7,0.7,4.2,89.0,4.2,5.0,0.1,39.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,7.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,16.7,1.2,0.2,4.3,0.0,2.6,8.0,0.3,197.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,13.7,1.6,0.2,4.5,0.0,2.9,12.0,0.4,358.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,8.7,0.4,0.3,21.6,11.0,13.8,7.0,0.16,254.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,26.4,0.8,0.3,21.7,5.0,3.9,18.0,0.25,467.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.26,0.0,0.0,0.0,0.0,19.0,0.05,13.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,467.0,0.0,0.0,0.0,0.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,381.0,19.5,40.7,0.0,0.0,0.0,324.0,7.8,13.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,82.0,12.7,7.5,0.0,85.0,0.0,46.0,0.58,92.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,41.0,6.4,2.6,3.4,50.0,2.8,15.0,0.3,12.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,73.0,4.6,2.9,8.5,134.0,7.2,39.0,1.2,251.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,12.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,97.0,1.0,0.3,21.0,2.0,17.0,84.0,0.35,
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,35.0,1.5,0.8,4.0,2.0,3.0,86.0,0.25,
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,227.0,7.5,0.6,59.0,13.0,14.0,36.0,0.9,
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,70.0,1.5,4.5,6.0,2.0,4.0,9.0,0.2,
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,157.0,2.84,6.84,0.0,159.0,0.0,15.0,0.36,75.0
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,74.0,2.59,8.69,1.87,42.0,1.16,3.0,0.14,7.0
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,74.0,2.59,8.69,1.87,32.0,1.16,3.0,0.14,7.0
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,74.0,2.59,8.69,1.87,32.0,1.16,3.0,0.14,7.0
+689,9,Qwen 2.5 3B Instruct,structured-output,false,165.0,24.7,7.4,0.0,210.0,0.0,0.0,0.9,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,14.0,0.5,0.5,3.2,6.0,2.4,69.0,0.1,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,10.0,0.4,0.4,3.5,25.0,3.5,17.0,0.2,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,87.0,2.6,1.3,53.0,64.0,9.0,74.0,0.6,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,98.0,2.4,14.6,0.0,58.0,0.0,0.0,0.0,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,29.0,0.4,0.4,3.5,17.0,2.6,0.0,0.0,
+690,26,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,78.0,4.7,1.6,39.0,10.0,8.0,12.0,0.3,6.0
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,49.0,2.6,0.7,13.0,11.0,7.0,4.0,0.1,3.0
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,43.0,2.8,0.8,9.0,31.0,2.0,3.0,0.1,25.0
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,78.0,4.7,1.6,39.0,10.0,8.0,12.0,0.3,6.0
+692,10,Qwen 2.5 3B Instruct,structured-output,false,46.0,2.8,0.0,5.3,0.0,4.1,0.0,0.0,
+692,10,Qwen 2.5 3B Instruct,structured-output,false,23.0,2.8,0.0,4.5,16.0,3.2,0.0,0.0,
+692,10,Qwen 2.5 3B Instruct,structured-output,false,24.0,1.9,0.3,6.4,8.0,3.7,138.0,0.4,
+692,10,Qwen 2.5 3B Instruct,structured-output,false,89.0,5.8,0.5,21.4,470.0,5.8,96.0,1.2,
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,0.0,4.0,0.0,28.0,0.0,16.0,5.0,0.9,238.0
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,42.0,3.0,3.0,2.0,19.0,2.0,0.0,0.1,4.0
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,29.0,6.0,3.0,6.0,12.0,1.0,3.0,0.9,72.0
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,47.0,6.8,3.9,1.0,71.0,0.0,0.0,0.4,97.0
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,218.0,0.0,23.0,0.0,0.0,0.0,0.0,0.1,0.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,263.0,24.6,9.8,0.0,375.0,0.0,31.0,0.8,75.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,47.0,0.8,0.3,14.5,2.0,3.7,2.0,0.1,45.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,4.6,0.7,0.0,3.9,0.0,2.6,15.0,0.3,42.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,27.0,0.4,0.9,5.8,160.0,2.6,30.0,0.1,197.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,6.3,0.5,0.0,14.8,25.0,11.3,1.0,0.2,6.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,275.0,9.7,26.7,4.8,100.0,2.6,35.0,0.1,85.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,167.5,3.6,9.4,1.8,540.0,1.2,175.0,,44.0
+696,28,Qwen 2.5 3B Instruct,zero-shot,false,15.0,1.7,0.4,36.0,0.0,28.0,9.0,0.4,
+696,28,Qwen 2.5 3B Instruct,zero-shot,false,16.0,1.4,0.3,2.0,18.0,2.0,3.0,0.2,
+696,28,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,165.0,0.0,14.875,0.0,0.0,0.0,0.0,0.0,0.0
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,320.0,2.45,0.0,96.15,0.0,8.7,36.0,0.7,19.0
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,485.0,7.15,36.975,24.85,0.0,21.9,27.0,0.8,34.0
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,492.0,4.65,46.875,0.0,0.0,0.0,13.0,0.2,39.0
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,563.0,0.0,0.0,0.26,54.0
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,63.0,6.375,4.875,0.0,0.0,0.0,8.0,0.4,25.0
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,94.0,0.0,0.0,27.36,0.0,19.44,8.5,0.36,7.0
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,68.524,0.792,3.731,6.857,0.0,5.243,12.0,0.085,6.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,73.0,21.4,4.5,0.0,50.0,0.0,8.0,0.7,153.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,18.0,0.0,0.0,0.0,453.0,0.0,0.0,0.0,0.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,18.0,0.0,0.0,0.0,453.0,0.0,0.0,0.0,0.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,18.0,0.0,0.0,0.0,453.0,0.0,0.0,0.0,0.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,12.0,0.0,0.8,0.0,150.0,0.0,0.0,0.0,0.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,73.0,21.4,4.5,0.0,50.0,0.0,8.0,0.7,153.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,83.0,2.4,4.7,12.2,160.0,8.3,17.0,0.6,94.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,8.7,0.5,0.3,1.9,0.0,0.4,0.0,0.2,13.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,27.6,1.4,3.1,0.0,98.0,0.0,0.0,0.3,6.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,13.6,0.9,0.7,0.0,184.0,0.0,174.0,0.26,54.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,72.4,5.6,6.5,0.0,194.0,0.0,0.0,1.79,28.0
+702,30,Qwen 2.5 3B Instruct,zero-shot,false,60.0,0.6,0.3,12.0,1.0,9.0,1.0,0.0,
+702,30,Qwen 2.5 3B Instruct,zero-shot,false,187.5,4.7,19.0,2.0,6.0,1.5,3.0,0.0,
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,329.0,1.7,4.6,51.8,392.0,2.3,0.4,0.1,534.0
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,14.8,1.2,0.2,3.9,14.0,1.6,70.0,0.4,250.0
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,49.8,2.4,10.3,13.4,209.0,6.5,137.0,0.4,265.0
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,24.9,1.5,0.6,5.7,123.0,2.3,74.0,0.2,153.0
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,216.0,23.4,8.4,2.9,415.0,1.5,18.0,0.6,349.0
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,20.0,2.4,1.3,1.9,527.0,0.9,137.0,0.4,265.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,204.0,38.0,8.0,5.0,44.0,2.0,13.0,0.6,97.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,5.67,0.0,0.3,0.0,8.0,0.0,0.0,0.0,2.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,0.57,0.0,0.0,0.0,24.0,0.0,0.0,0.14,0.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,0.39,0.0,0.0,0.0,4.0,0.0,0.0,0.07,2.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,37.62,3.7,0.0,5.8,19.0,4.3,10.0,0.15,9.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,0.39,0.2,0.0,0.0,4.0,0.0,0.0,0.03,1.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,38.65,4.5,7.5,0.0,11.0,0.0,23.0,0.1,6.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,4.2,2.6,0.0,5.0,18.0,4.3,11.0,0.35,19.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,36.87,2.5,0.5,7.9,24.0,2.6,48.0,0.29,171.0
+707,15,Qwen 2.5 3B Instruct,structured-output,false,126.0,31.8,9.8,0.0,74.0,0.0,46.0,0.7,276.0
+707,15,Qwen 2.5 3B Instruct,structured-output,false,632.0,0.0,79.2,0.0,0.0,0.0,0.0,0.0,
+707,15,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+707,15,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+707,15,Qwen 2.5 3B Instruct,structured-output,false,67.0,2.5,0.4,23.8,19.0,4.6,47.0,0.3,198.0
+707,15,Qwen 2.5 3B Instruct,structured-output,false,38.0,0.0,0.0,2.4,0.0,1.6,0.0,0.0,
+707,15,Qwen 2.5 3B Instruct,structured-output,false,16.0,3.4,0.5,2.9,81.0,1.5,17.0,0.2,96.0
+707,15,Qwen 2.5 3B Instruct,structured-output,false,89.0,0.0,0.4,6.7,51.0,2.4,13.0,0.1,79.0
+707,15,Qwen 2.5 3B Instruct,structured-output,false,418.0,0.0,46.7,0.0,0.0,0.0,0.0,0.0,
+707,15,Qwen 2.5 3B Instruct,structured-output,false,36.0,3.1,0.4,9.7,18.0,0.0,26.0,0.4,179.0
+707,15,Qwen 2.5 3B Instruct,structured-output,false,418.0,0.0,46.7,0.0,0.0,0.0,0.0,0.0,
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,189.5,14.6,13.5,0.0,58.0,0.0,3.0,0.48,59.0
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,174.6,0.0,48.3,0.0,0.0,0.0,0.0,0.0,16.0
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,19.6,0.86,0.3,7.4,215.0,3.9,0.0,0.045,12.0
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,24.5,0.19,0.1,6.5,78.0,4.2,0.0,0.035,7.0
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,17.3,0.95,0.1,4.6,0.0,1.8,0.0,0.045,2.0
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,4.5,0.25,0.2,1.4,13.0,1.1,0.0,0.013,8.0
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,189.5,14.6,13.5,0.0,58.0,0.0,3.0,0.48,59.0
+710,16,Qwen 2.5 3B Instruct,structured-output,false,364.0,30.8,19.8,0.0,145.0,0.0,0.0,0.7,
+710,16,Qwen 2.5 3B Instruct,structured-output,false,26.0,0.0,2.7,1.0,5.0,1.0,0.0,0.0,
+710,16,Qwen 2.5 3B Instruct,structured-output,false,46.0,0.0,0.2,3.8,195.0,2.4,0.0,0.0,
+710,16,Qwen 2.5 3B Instruct,structured-output,false,27.0,0.0,0.2,3.4,95.0,2.7,0.0,0.0,
+710,16,Qwen 2.5 3B Instruct,structured-output,false,46.0,0.0,0.1,3.4,20.0,1.7,0.0,0.0,
+710,16,Qwen 2.5 3B Instruct,structured-output,false,8.4,0.6,0.7,1.9,3.0,1.5,47.0,0.3,
+710,16,Qwen 2.5 3B Instruct,structured-output,false,18.0,0.1,0.3,0.7,4.0,0.5,0.0,0.0,
+710,16,Qwen 2.5 3B Instruct,structured-output,false,15.0,0.1,0.4,0.3,2.0,0.2,59.0,0.0,
+710,16,Qwen 2.5 3B Instruct,structured-output,false,25.0,2.1,0.3,4.9,6.0,3.5,68.0,0.7,
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,15.0,1.5,1.5,2.0,20.0,1.0,45.0,0.2,
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,20.0,2.4,2.4,1.0,70.0,1.0,0.0,0.0,
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,27.0,1.3,0.4,6.2,1.0,5.8,45.0,0.2,
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,37.0,0.2,0.6,8.5,19.0,8.5,0.0,0.0,
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,165.0,31.6,8.9,2.4,90.0,0.8,0.7,0.9,42.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,112.0,0.0,14.8,0.0,0.0,0.0,0.0,0.0,0.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,2.68,0.0,0.0,0.0,13.0,0.0,0.0,0.25,17.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,1.54,0.0,0.0,0.0,23.0,0.0,0.0,0.12,59.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,57.0,0.0,9.48,0.0,25.0,0.0,0.0,0.13,5.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,31.59,0.86,0.54,7.19,0.0,2.48,2.0,0.09,15.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,79.5,1.54,7.68,11.82,0.0,5.93,4.0,0.25,8.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,148.5,13.95,6.75,34.81,270.0,12.14,7.0,0.25,368.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,216.75,3.6,28.69,1.2,405.0,1.2,5.0,0.97,30.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,17.3,1.11,0.45,4.68,2.0,0.59,2.0,0.08,43.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,20.68,0.81,0.24,5.07,13.0,4.28,3.0,0.07,165.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,13.68,0.67,0.74,2.91,2.0,2.85,10.0,0.34,30.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,134.0,31.6,9.7,0.0,54.0,0.0,28.0,0.7,41.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,8.4,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,4.8,0.0,2.4,1.3,0.0,0.0,8.0,0.2,41.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,52.8,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,15.9,0.4,0.6,2.3,0.0,1.5,6.0,0.2,38.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,6.9,0.2,0.3,1.5,0.0,0.6,0.0,0.1,9.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,4.3,0.1,0.0,0.0,0.0,0.0,5.0,0.2,6.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,64.0,1.4,5.7,3.2,0.0,2.8,94.0,0.7,35.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,42.3,1.7,0.8,9.5,0.0,3.6,48.0,0.9,279.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,28.6,1.8,0.9,7.3,0.0,4.5,158.0,0.9,269.0
+714,17,Qwen 2.5 3B Instruct,structured-output,false,7.4,0.3,0.3,1.8,25.0,0.6,5.0,0.1,249.0
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,154.0,31.0,8.5,0.0,65.0,0.0,29.0,0.8,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,34.0,1.6,0.2,8.0,1.0,4.0,12.0,0.08,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,36.0,2.4,0.2,9.0,1.0,5.0,13.0,0.06,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,30.0,1.2,0.4,5.0,2.0,3.0,7.0,0.2,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,34.0,1.6,0.2,8.0,1.0,4.0,12.0,0.08,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,41.6,3.6,0.9,10.0,7.0,4.8,7.0,0.1,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,146.8,7.8,3.4,39.0,20.0,11.0,280.0,2.4,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,125.76,7.18,9.42,6.73,169.0,2.4,0.0,0.53,
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,159.6,8.32,10.57,9.56,123.0,4.1,0.0,0.56,
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,86.45,5.34,7.24,6.39,413.0,2.5,18.0,0.69,
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,176.89,3.72,1.34,25.47,10.0,3.28,6.0,0.94,
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,46.74,1.64,0.35,8.28,93.0,7.85,0.0,0.0,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,70.0,22.0,3.0,8.0,140.0,3.0,5.0,0.8,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,16.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,5.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,4.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,28.0,0.0,0.0,4.0,100.0,2.0,0.0,0.0,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,106.0,0.0,4.9,0.0,28.0,0.0,0.0,0.0,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,70.0,24.0,3.5,8.0,150.0,3.0,5.0,0.9,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,30.0,6.0,2.5,7.5,400.0,2.0,15.0,0.8,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,90.0,13.8,4.5,21.7,,2.0,15.0,0.7,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,35.0,1.0,0.9,57.0,180.0,4.0,25.0,0.8,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,54.0,1.5,2.3,8.4,400.0,6.0,17.0,0.4,
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,57.0,31.0,3.0,4.0,68.0,2.0,8.0,0.4,
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,68.0,4.6,4.0,5.5,37.0,2.8,17.0,0.3,
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,45.0,5.2,0.0,11.6,20.0,8.4,7.0,0.1,
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,84.0,0.0,3.9,7.9,52.0,4.3,18.0,0.0,
+723,20,Qwen 2.5 3B Instruct,few-shot,false,85.0,4.0,6.0,19.0,150.0,12.0,50.0,0.3,19.0
+723,20,Qwen 2.5 3B Instruct,few-shot,false,18.0,1.0,0.3,9.0,26.0,7.0,40.0,0.3,286.0
+723,20,Qwen 2.5 3B Instruct,few-shot,false,52.0,1.0,0.3,14.0,6.0,13.0,0.0,0.1,178.0
+723,20,Qwen 2.5 3B Instruct,few-shot,false,23.0,0.2,1.5,6.0,8.0,5.0,13.0,0.1,48.0
+723,20,Qwen 2.5 3B Instruct,few-shot,false,69.0,2.5,8.5,1.0,0.0,0.0,0.0,0.0,16.0
+724,36,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,98.0,3.7,5.4,22.0,16.0,9.8,140.0,0.2,
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,24.0,0.1,0.8,6.7,39.0,4.2,41.0,0.3,
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,68.0,1.2,4.9,13.5,20.0,8.4,19.0,0.3,
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,67.0,0.9,0.3,18.9,13.0,14.6,33.0,0.2,
+726,20,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+726,20,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.3,0.0,1.0,0.0,1.2,68.0,0.4,324.0
+726,20,Qwen 2.5 3B Instruct,structured-output,false,34.0,0.9,0.2,8.0,0.0,7.4,35.0,0.4,128.0
+726,20,Qwen 2.5 3B Instruct,structured-output,false,36.0,1.8,0.8,4.5,129.0,3.6,9.0,0.2,425.0
+726,20,Qwen 2.5 3B Instruct,structured-output,false,37.0,3.6,4.2,0.0,85.0,0.0,112.0,0.7,51.0
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,94.0,2.8,8.2,13.0,15.0,4.0,0.0,0.3,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,8.0,0.6,0.2,14.0,493.0,8.5,0.0,0.1,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,8.0,0.6,0.2,14.0,493.0,8.5,0.0,0.1,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,68.0,0.0,0.1,17.0,0.0,16.5,0.0,0.0,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,60.0,2.4,0.5,10.0,0.0,8.5,0.0,0.6,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,8.7,1.8,0.1,3.0,649.0,2.5,0.0,0.0,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,0.9,0.0,0.0,2.0,418.0,1.7,0.0,0.0,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,864.0,9.1,72.0,36.0,0.0,4.2,15.8,0.4,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,417.0,8.1,26.9,3.9,375.0,2.6,7.4,0.9,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,45.0,2.8,1.3,10.5,167.0,4.3,7.5,0.3,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,29.0,6.4,2.6,5.7,0.0,3.9,18.7,0.5,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,117.0,2.1,9.6,2.7,51.0,1.8,36.0,0.1,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,5.0,0.4,0.3,1.7,29.0,1.3,2.0,0.0,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,4.0,0.2,0.2,0.8,36.0,0.4,1.7,0.0,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,4.5,0.3,0.2,1.1,39.0,0.8,2.4,0.0,
+730,21,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,80.0,13.6,4.6,0.0,0.0,0.0,0.0,0.59,0.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,90.0,3.9,7.2,6.3,12.0,5.4,0.0,0.1,7.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,14.7,0.6,0.0,3.2,0.0,1.4,0.0,0.03,9.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,36.7,0.5,0.0,9.1,0.0,7.8,0.0,0.12,160.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,14.7,0.6,0.0,3.2,0.0,1.4,0.0,0.03,9.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,274.8,39.8,9.6,0.0,477.0,0.0,0.0,2.51,164.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,30.4,0.8,0.8,5.9,126.0,4.2,0.0,0.16,159.0
+730,21,Qwen 2.5 3B Instruct,structured-output,false,14.6,0.1,0.3,3.2,580.0,1.7,0.0,0.04,63.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,95.0,15.0,7.0,0.0,420.0,0.0,56.0,2.0,140.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,51.0,3.5,0.6,9.0,140.0,6.0,12.0,0.4,75.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,140.0,0.0,0.0,0.1,0.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,36.0,0.5,0.3,4.0,89.0,2.0,1.0,0.0,19.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,369.0,4.7,24.3,15.5,108.0,9.6,8.0,0.5,231.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,378.0,6.9,29.1,1.5,430.0,1.1,24.0,0.3,19.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,378.0,6.9,29.1,1.5,430.0,1.1,24.0,0.3,19.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,173.0,3.7,9.5,2.1,510.0,0.8,0.0,0.6,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,79.0,1.7,6.3,1.8,250.0,0.9,5.0,0.2,
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,150.0,5.7,1.3,28.0,19.0,3.0,16.0,0.2,228.0
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,250.0,2.0,0.7,64.0,0.0,12.0,3.0,0.4,78.0
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,50.0,2.0,0.4,9.0,,6.0,15.0,0.3,40.0
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,93.0,6.5,0.6,17.0,,14.0,28.0,0.9,327.0
+739,24,Qwen 2.5 3B Instruct,few-shot,false,147.0,25.0,9.8,1.0,80.0,0.0,56.0,1.4,79.0
+739,24,Qwen 2.5 3B Instruct,few-shot,false,420.0,0.0,39.5,0.0,0.0,0.0,0.0,0.0,0.0
+739,24,Qwen 2.5 3B Instruct,few-shot,false,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+741,24,Qwen 2.5 3B Instruct,chain-of-thought,false,457.0,25.36,32.98,4.48,1237.0,2.96,48.47,0.65,
+741,24,Qwen 2.5 3B Instruct,chain-of-thought,false,49.5,0.95,1.68,3.45,201.0,3.27,4.62,0.05,
+742,24,Qwen 2.5 3B Instruct,structured-output,false,326.0,35.8,9.4,0.0,76.0,0.0,0.0,0.0,
+742,24,Qwen 2.5 3B Instruct,structured-output,false,194.8,18.4,0.0,39.2,0.0,35.7,0.0,0.0,
+744,41,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,68.95,0.6,0.4,14.1,2.0,7.5,10.0,0.3,
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,17.4,0.1,0.8,3.9,0.0,2.5,1.0,0.0,
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,67.08,3.8,0.3,15.4,3.0,7.4,9.0,0.4,
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,4.7,1.1,0.3,9.25,8.0,3.5,4.0,0.2,
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,2.68,0.29,0.5,0.0,5.0,0.0,0.0,0.0,
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,2.78,0.27,0.1,0.0,5.0,0.0,0.0,0.0,
+747,26,Qwen 2.5 3B Instruct,few-shot,false,10.0,2.0,0.25,1.0,0.0,0.0,12.0,0.3,7.0
+747,26,Qwen 2.5 3B Instruct,few-shot,false,28.8,3.6,0.3,1.5,0.0,0.0,8.0,1.4,17.0
+747,26,Qwen 2.5 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+747,26,Qwen 2.5 3B Instruct,few-shot,false,270.0,2.0,26.5,1.9,0.0,0.0,7.0,1.0,49.0
+747,26,Qwen 2.5 3B Instruct,few-shot,false,30.0,0.3,0.2,6.0,140.0,5.0,21.0,0.6,7.0
+747,26,Qwen 2.5 3B Instruct,few-shot,false,42.75,0.0,0.0,18.3,0.0,15.0,2.0,0.6,9.0
+747,26,Qwen 2.5 3B Instruct,few-shot,false,36.85,0.6418,4.975,3.5,0.0,3.5,27.0,0.485,9.0
+747,26,Qwen 2.5 3B Instruct,few-shot,false,60.0,0.0,0.0,30.0,0.0,30.0,14.0,0.5,7.0
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,143.0,29.67,6.98,0.0,355.0,0.0,11.0,0.83,242.0
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,21.0,0.37,2.3,0.0,0.0,0.0,0.0,0.0,0.0
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,12.75,0.67,0.36,3.48,0.0,1.76,0.0,0.0,24.0
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,2940.0,0.0,0.0,0.0,0.0
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+750,26,Qwen 2.5 3B Instruct,chain-of-thought,false,4.0,1.7,0.3,2.8,0.0,2.4,35.0,0.2,24.0
+750,26,Qwen 2.5 3B Instruct,chain-of-thought,false,27.0,0.6,3.4,0.0,90.0,0.0,21.0,0.3,84.0
+751,26,Qwen 2.5 3B Instruct,structured-output,false,15.0,2.0,0.3,4.0,0.0,3.0,5.0,0.3,
+751,26,Qwen 2.5 3B Instruct,structured-output,false,20.0,2.0,0.3,4.0,0.0,3.0,5.0,0.3,
+751,26,Qwen 2.5 3B Instruct,structured-output,false,116.0,0.0,14.5,0.0,0.0,0.0,0.0,0.0,
+751,26,Qwen 2.5 3B Instruct,structured-output,false,87.0,0.0,10.9,0.0,0.0,0.0,0.0,0.0,
+752,27,Qwen 2.5 3B Instruct,few-shot,false,347.9,14.5,2.8,68.3,10.0,4.9,163.0,2.8,190.0
+752,27,Qwen 2.5 3B Instruct,few-shot,false,318.9,40.7,27.6,3.8,450.0,2.9,0.0,3.1,256.0
+752,27,Qwen 2.5 3B Instruct,few-shot,false,19.5,0.9,0.4,3.8,0.0,2.6,4.0,0.5,15.0
+752,27,Qwen 2.5 3B Instruct,few-shot,false,19.8,0.6,1.4,3.1,115.0,2.8,4.0,0.1,3.0
+752,27,Qwen 2.5 3B Instruct,few-shot,false,31.4,0.4,3.6,2.7,190.0,2.3,1.0,0.1,7.0
+752,27,Qwen 2.5 3B Instruct,few-shot,false,18.9,4.4,1.4,3.1,190.0,2.8,4.0,0.5,3.0
+752,27,Qwen 2.5 3B Instruct,few-shot,false,95.7,9.3,8.3,6.8,210.0,5.9,4.0,0.6,247.0
+752,27,Qwen 2.5 3B Instruct,few-shot,false,38.2,6.4,4.7,0.0,190.0,0.0,89.0,0.7,15.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,243.0,27.4,7.6,0.0,350.0,0.0,0.0,0.8,159.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,54.0,0.0,0.6,2.4,10.0,0.0,0.0,0.0,8.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,485.0,0.0,36.5,0.0,0.0,0.0,0.0,0.0,0.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,98.0,0.0,0.5,6.4,110.0,2.9,0.0,0.1,15.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,351.0,8.2,18.9,24.3,761.0,9.5,0.0,0.3,14.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,158.0,26.4,6.4,0.0,170.0,0.0,0.0,1.9,79.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,1.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,59.2,0.0,0.0,13.8,0.0,7.5,0.0,0.6,8.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,23.6,0.0,0.0,11.8,0.0,7.3,0.0,0.1,1.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,8.4,0.4,0.0,1.9,0.0,1.8,0.0,0.1,26.0
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,28.0,0.0,3.1,0.0,6.0,0.0,1.0,0.025,3.0
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,4.0,0.47,0.1,1.0,3.0,0.5,0.18,0.06,32.0
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,218.0,38.44,24.8,1.0,110.0,0.0,2.0,0.95,71.0
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,73.0,4.0,2.4,16.0,21.0,7.0,9.0,0.36,15.0
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,3.0,0.26,0.0,0.75,8.0,0.35,1.0,0.04,8.0
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,2.0,0.15,0.0,0.0,1.0,0.0,0.0,0.04,2.0
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,3.0,0.26,0.0,0.75,8.0,0.35,1.0,0.04,8.0
+756,28,Qwen 2.5 3B Instruct,few-shot,false,41.0,0.8,0.8,9.0,7.0,5.0,27.0,0.4,32.0
+756,28,Qwen 2.5 3B Instruct,few-shot,false,4.0,0.2,0.2,1.0,1.0,0.6,4.0,0.0,9.0
+756,28,Qwen 2.5 3B Instruct,few-shot,false,4.5,0.0,0.0,6.0,0.0,5.4,1.2,0.0,3.0
+756,28,Qwen 2.5 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+759,28,Qwen 2.5 3B Instruct,chain-of-thought,false,261.75,10.1,0.48,63.9,12.0,48.9,28.0,0.56,378.0
+759,28,Qwen 2.5 3B Instruct,chain-of-thought,false,0.67,0.34,0.04,0.98,1.0,0.5,1.0,0.027,8.0
+760,28,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+760,28,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+760,28,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+760,28,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+761,29,Qwen 2.5 3B Instruct,few-shot,false,160.0,4.0,17.0,0.0,200.0,0.0,5.0,0.3,287.0
+761,29,Qwen 2.5 3B Instruct,few-shot,false,2.0,3.0,0.5,6.0,0.0,2.0,55.0,1.0,87.0
+761,29,Qwen 2.5 3B Instruct,few-shot,false,365.0,1.25,28.5,9.0,0.0,8.33,40.0,0.9,257.0
+761,29,Qwen 2.5 3B Instruct,few-shot,false,83.0,6.5,4.5,1.0,170.0,0.0,5.0,0.39,147.0
+761,29,Qwen 2.5 3B Instruct,few-shot,false,46.0,0.0,0.0,5.9,0.0,4.8,0.0,0.0,0.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.6,0.0,2.5,0.0,1.7,19.0,0.2,84.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,1.5,0.0,0.8,0.0,0.0,12.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,79.0,6.3,4.6,0.5,75.0,0.2,48.0,0.5,129.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,24.0,1.2,0.3,5.6,19.0,3.7,4.0,0.3,226.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,8.0,0.0,0.2,0.9,5.0,0.8,27.0,0.05,96.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,5.0,0.3,0.3,0.8,1.0,0.4,7.0,0.1,52.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,5.0,0.3,0.3,0.8,0.0,0.4,7.0,0.1,52.0
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,34.0,1.6,2.9,8.1,54.0,2.3,4.0,0.3,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,190.0,0.3,22.0,0.4,16.0,0.4,0.0,0.0,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,100.0,0.3,0.6,4.3,9.0,4.3,0.0,0.0,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,461.0,1.0,29.7,1.4,0.0,1.4,0.0,0.0,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,247.0,1.5,29.6,0.3,0.0,0.3,0.0,0.0,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,148.0,14.8,10.6,3.5,71.0,3.6,10.0,1.1,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,163.0,0.0,0.1,9.7,17.0,9.7,2.0,0.0,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,574.0,0.0,83.0,0.0,1.0,0.0,0.0,0.0,0.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,54.0,2.1,1.2,7.0,38.0,4.0,62.0,0.7,28.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,296.0,1.0,28.0,3.0,1.0,2.65,89.0,0.35,330.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,574.0,0.0,83.0,0.0,1.0,0.0,0.0,0.0,0.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,63.0,13.5,7.8,0.0,58.0,0.0,24.0,0.78,62.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,462.0,0.0,0.0,9.5,1.0,8.83,14.0,0.21,5.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+765,29,Qwen 2.5 3B Instruct,structured-output,false,54.0,2.1,1.2,7.0,38.0,4.0,62.0,0.7,28.0
+766,30,Qwen 2.5 3B Instruct,few-shot,false,56.0,2.0,3.2,6.0,140.0,1.0,13.0,0.6,70.0
+766,30,Qwen 2.5 3B Instruct,few-shot,false,360.0,3.5,30.8,4.25,150.0,0.0,12.0,0.6,70.0
+766,30,Qwen 2.5 3B Instruct,few-shot,false,135.0,6.0,9.5,28.0,200.0,1.0,10.0,0.5,45.0
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,95.0,0.85,0.38,20.0,1.0,9.0,10.0,0.07,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,96.0,1.2,0.47,5.0,840.0,3.0,6.0,0.0,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,17.0,0.37,0.16,2.45,0.0,1.8,2.0,0.04,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,960.0,0.49,8.52,3.0,1.0,2.6,1.0,0.0,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,47.0,0.31,0.19,8.0,26.0,4.5,6.0,0.0,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,428.0,0.26,3.96,7.0,1.0,4.5,1.0,0.0,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,0.0,0.0,0.0,0.0,237.0,0.0,0.0,0.0,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,48.0,0.87,0.39,12.0,0.0,9.3,26.0,0.14,
+768,30,Qwen 2.5 3B Instruct,chain-of-thought,false,173.5,1.6,0.4,39.1,25.0,21.1,7.0,0.3,148.0
+768,30,Qwen 2.5 3B Instruct,chain-of-thought,false,198.5,2.4,21.8,0.0,100.0,0.0,0.0,0.0,0.0
+769,30,Qwen 2.5 3B Instruct,structured-output,false,60.0,1.0,0.3,14.0,2.0,13.0,35.0,0.2,
+769,30,Qwen 2.5 3B Instruct,structured-output,false,60.0,1.9,4.9,2.0,0.0,2.0,45.0,0.0,
+769,30,Qwen 2.5 3B Instruct,structured-output,false,16.0,0.0,0.0,3.9,0.0,3.9,0.0,0.0,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,144.0,13.0,10.0,1.0,140.0,0.0,56.0,2.0,140.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,157.0,2.9,9.2,1.6,100.0,0.0,5.0,0.3,16.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,42.6,1.2,0.15,0.3,8.0,0.0,1.0,0.13,46.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,9.8,0.15,0.15,0.27,43.0,0.0,0.0,0.23,8.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,100.6,1.9,8.9,7.4,55.0,4.2,0.0,0.23,8.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,19.6,0.9,0.3,4.7,25.0,2.8,3.0,0.56,174.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,206.8,25.2,13.4,0.0,130.0,0.0,16.0,3.7,89.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,106.3,2.7,8.7,4.5,50.0,4.1,9.0,0.38,21.0
+771,50,Qwen 2.5 3B Instruct,zero-shot,false,23.0,1.0,0.0,5.0,1.0,2.0,4.0,0.02,75.0
+771,50,Qwen 2.5 3B Instruct,zero-shot,false,65.0,7.0,4.0,6.0,5.0,4.0,40.0,0.5,130.0
+771,50,Qwen 2.5 3B Instruct,zero-shot,false,48.0,8.0,1.0,9.0,47.0,6.0,41.0,0.6,90.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,74.0,2.5,0.8,15.0,90.0,8.0,4.0,0.3,96.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,2.6,0.2,0.2,0.7,5.0,0.4,0.0,0.0,3.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,0.6,0.1,0.1,0.2,3.0,0.1,0.0,0.0,4.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,8.7,1.4,0.9,3.0,150.0,2.1,5.0,0.3,97.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,2.4,0.0,0.3,0.5,17.0,0.2,13.0,0.0,7.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,31,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,218.0,0.9,21.7,0.0,45.0,0.0,0.0,0.0,
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,19.0,0.4,0.2,0.0,0.0,0.0,0.0,0.0,
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,23.0,1.8,0.1,5.6,0.0,4.9,102.0,0.3,
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,13.0,1.9,0.2,3.4,0.0,2.5,0.0,0.4,
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,32.0,1.5,0.4,1.8,0.0,0.6,0.0,0.0,
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,2.0,0.0,0.0,1.7,84.0,0.0,0.0,0.0,
+777,33,Qwen 2.5 3B Instruct,few-shot,false,98.0,12.8,5.4,0.0,240.0,0.0,43.0,0.56,25.0
+777,33,Qwen 2.5 3B Instruct,few-shot,false,84.0,9.5,10.5,2.3,0.0,1.8,7.0,0.35,4.0
+777,33,Qwen 2.5 3B Instruct,few-shot,false,75.0,1.3,0.3,19.6,140.0,16.5,48.0,0.4,290.0
+777,33,Qwen 2.5 3B Instruct,few-shot,false,45.0,0.3,0.7,6.3,120.0,5.8,12.0,0.16,4.0
+779,33,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+779,33,Qwen 2.5 3B Instruct,structured-output,false,0.0,2.3,4.3,6.9,1.0,4.7,12.0,0.1,156.0
+779,33,Qwen 2.5 3B Instruct,structured-output,false,130.0,1.3,0.4,27.0,0.0,14.0,85.0,0.4,327.0
+779,33,Qwen 2.5 3B Instruct,structured-output,false,26.0,0.0,0.0,6.8,0.0,6.8,14.0,0.02,0.0
+783,35,Qwen 2.5 3B Instruct,few-shot,false,176.0,20.1,8.5,0.0,95.0,0.0,56.0,1.5,175.0
+783,35,Qwen 2.5 3B Instruct,few-shot,false,18.0,0.5,0.5,3.0,20.0,2.0,8.0,0.1,0.0
+783,35,Qwen 2.5 3B Instruct,few-shot,false,46.0,3.5,0.5,8.0,0.0,6.0,12.0,0.75,18.0
+783,35,Qwen 2.5 3B Instruct,few-shot,false,29.4,2.5,2.8,2.9,103.0,1.0,0.0,0.24,9.0
+783,35,Qwen 2.5 3B Instruct,few-shot,false,34.2,3.0,2.9,3.3,87.0,2.4,7.5,0.44,16.0
+783,35,Qwen 2.5 3B Instruct,few-shot,false,29.1,1.5,0.6,3.0,40.0,2.0,0.0,0.14,9.0
+783,35,Qwen 2.5 3B Instruct,few-shot,false,3.4,0.2,0.1,0.0,1.0,0.0,0.0,0.14,3.0
+783,35,Qwen 2.5 3B Instruct,few-shot,false,6.4,0.0,0.03,0.7,228.0,0.0,0.0,0.14,
+785,35,Qwen 2.5 3B Instruct,structured-output,false,80.0,4.0,3.0,5.0,200.0,3.0,12.0,0.6,
+785,35,Qwen 2.5 3B Instruct,structured-output,false,160.0,3.0,7.0,2.0,0.0,1.0,14.0,0.5,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,180.0,3.9,12.0,5.0,42.0,1.0,8.0,0.3,45.0
+789,37,Qwen 2.5 3B Instruct,few-shot,false,14.0,0.4,0.5,1.0,620.0,0.0,8.0,0.2,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,8.5,0.1,0.4,0.3,297.0,0.0,8.0,0.0,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,64.0,0.2,0.5,1.0,30.0,0.8,5.0,0.0,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,2.0,0.3,0.2,0.0,0.0,0.0,1.0,0.0,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,1.0,0.1,0.1,0.0,0.0,0.0,0.0,0.0,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,13.6,0.3,0.4,0.5,29.0,0.0,1.0,0.0,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,17.6,0.1,0.5,0.3,49.0,0.0,0.0,0.0,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,5.8,0.05,0.1,0.1,24.0,0.0,2.0,0.0,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,5.8,0.05,0.1,0.1,24.0,0.0,2.0,0.0,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,20.0,0.8,0.3,4.7,190.0,2.0,31.0,0.4,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,23.9,0.9,0.4,3.5,168.0,2.0,27.0,0.3,
+790,6,MedGemma 4B,chain-of-thought,false,80.0,1.0,0.5,17.0,30.0,0.5,10.0,1.0,200.0
+790,6,MedGemma 4B,chain-of-thought,false,2.0,0.2,0.1,1.0,4.0,0.0,0.0,0.1,0.0
+790,6,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0
+790,6,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+790,6,MedGemma 4B,chain-of-thought,false,0.0,0.3,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+790,6,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+791,37,Qwen 2.5 3B Instruct,chain-of-thought,false,304.0,2.4,7.8,25.0,190.0,8.0,16.0,0.3,
+791,37,Qwen 2.5 3B Instruct,chain-of-thought,false,4.0,0.1,0.05,1.0,2.0,0.0,0.0,0.0,
+791,37,Qwen 2.5 3B Instruct,chain-of-thought,false,74.0,4.2,0.8,13.0,56.0,2.8,9.0,0.3,
+792,6,MedGemma 4B,structured-output,false,160.0,4.0,3.0,22.0,200.0,1.0,25.0,3.0,160.0
+792,6,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0
+792,6,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0
+792,6,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+792,6,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+792,6,MedGemma 4B,structured-output,false,160.0,4.0,3.0,22.0,200.0,1.0,25.0,3.0,160.0
+792,6,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+792,6,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+792,6,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+793,7,MedGemma 4B,chain-of-thought,false,360.0,24.0,5.0,62.0,780.0,1.0,70.0,5.0,980.0
+793,7,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+793,7,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+793,7,MedGemma 4B,chain-of-thought,false,10.0,1.0,0.5,1.0,5.0,0.0,0.0,0.5,30.0
+793,7,MedGemma 4B,chain-of-thought,false,5.0,0.0,0.5,1.0,0.0,1.0,0.0,0.0,30.0
+793,7,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,150.0,0.0,0.0,0.0,0.0
+793,7,MedGemma 4B,chain-of-thought,false,180.0,6.0,16.0,7.0,150.0,1.0,25.0,2.0,300.0
+793,7,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+794,37,Qwen 2.5 3B Instruct,structured-output,false,586.0,25.5,47.0,0.0,97.0,0.0,0.0,0.0,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,194.0,0.0,0.0,53.6,782.0,48.2,0.0,0.0,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,194.0,0.0,0.0,53.6,782.0,48.2,0.0,0.0,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,25.6,0.0,0.0,19.4,0.0,19.2,0.0,0.0,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,36.7,2.4,0.4,8.9,0.0,5.6,0.0,0.0,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,36.0,0.7,0.2,9.1,4.0,2.6,14.0,0.15,
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,67.0,0.3,6.4,0.0,25.0,0.0,12.0,0.0,
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,420.0,24.4,37.6,0.0,145.0,0.0,138.0,3.6,
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,307.0,0.3,35.6,0.0,5.0,0.0,2.0,1.8,
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,1.5,0.0,1.5,0.0,0.0,
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,356.0,0.0,0.0,0.0,
+798,38,Qwen 2.5 3B Instruct,structured-output,false,5.0,1.4,0.1,6.0,0.0,5.0,0.0,0.2,
+798,38,Qwen 2.5 3B Instruct,structured-output,false,120.0,0.0,14.0,0.0,5.0,0.0,0.0,0.0,
+798,38,Qwen 2.5 3B Instruct,structured-output,false,2.5,0.0,0.0,0.0,40.0,0.0,0.0,0.0,
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,156.7,12.6,8.9,0.7,79.0,0.2,45.0,0.3,8.0
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,2.8,0.3,0.1,0.4,6.0,0.1,9.0,0.07,24.0
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,6.4,0.4,0.1,0.5,7.0,0.1,9.0,0.05,26.0
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,5.3,0.4,0.1,0.6,12.0,0.1,8.0,,26.0
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,34.3,4.8,2.9,0.9,152.0,0.3,17.0,0.26,365.0
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,68.5,2.3,0.7,12.5,42.0,0.6,18.0,0.45,76.0
+806,40,Qwen 2.5 3B Instruct,structured-output,false,65.0,31.0,3.4,0.0,80.0,0.0,0.0,0.4,
+806,40,Qwen 2.5 3B Instruct,structured-output,false,87.0,4.0,4.3,15.0,176.0,3.0,6.0,0.2,
+806,40,Qwen 2.5 3B Instruct,structured-output,false,20.0,1.5,2.6,4.0,130.0,2.0,0.0,0.0,
+806,40,Qwen 2.5 3B Instruct,structured-output,false,20.0,1.5,2.6,4.0,130.0,2.0,0.0,0.0,
+806,40,Qwen 2.5 3B Instruct,structured-output,false,20.0,1.5,2.6,4.0,130.0,2.0,0.0,0.0,
+807,41,Qwen 2.5 3B Instruct,few-shot,false,260.0,4.0,21.0,1.0,0.0,0.0,0.0,0.2,15.0
+807,41,Qwen 2.5 3B Instruct,few-shot,false,11.0,1.0,0.0,4.0,350.0,2.0,9.0,0.3,7.0
+807,41,Qwen 2.5 3B Instruct,few-shot,false,14.0,1.0,0.0,4.0,350.0,2.0,9.0,0.3,7.0
+807,41,Qwen 2.5 3B Instruct,few-shot,false,26.0,0.3,0.0,1.0,0.0,1.0,2.0,0.045,0.0
+807,41,Qwen 2.5 3B Instruct,few-shot,false,35.0,1.0,0.4,1.0,0.0,0.0,1.0,0.045,2.0
+807,41,Qwen 2.5 3B Instruct,few-shot,false,0.0,0.0,0.0,0.0,56.0,0.0,0.0,0.02,0.0
+807,41,Qwen 2.5 3B Instruct,few-shot,false,57.0,0.0,0.0,1.0,169.0,0.5,0.0,0.014,2.0
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,579.0,7.6,46.8,14.3,121.0,14.3,0.0,0.0,
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,450.0,0.0,0.0,16.7,836.0,16.7,0.0,0.0,
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,420.0,0.0,0.0,13.6,758.0,13.6,0.0,0.0,
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,409.0,0.0,0.0,23.4,175.0,23.4,0.0,0.0,
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,34.0,1.3,0.2,2.2,9.0,2.2,5.0,0.0,
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,390.0,2.9,24.7,52.3,18.0,45.7,0.0,0.0,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,17.0,0.9,0.3,6.5,84.0,2.9,48.0,0.3,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,17.0,0.9,0.3,6.5,84.0,2.9,48.0,0.3,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,64.0,0.2,0.3,15.0,7.0,13.4,68.0,0.1,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,37.0,0.6,0.3,9.5,18.0,7.3,8.0,0.1,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,12.0,0.2,0.3,1.6,14.0,0.0,49.0,0.0,
+815,9,MedGemma 4B,few-shot,false,280.0,25.0,18.0,0.0,300.0,0.0,0.0,6.0,400.0
+815,9,MedGemma 4B,few-shot,false,0.0,1.0,0.0,0.0,350.0,0.0,0.0,0.0,0.0
+815,9,MedGemma 4B,few-shot,false,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+815,9,MedGemma 4B,few-shot,false,50.0,12.0,4.0,0.0,300.0,0.0,0.0,1.0,50.0
+815,9,MedGemma 4B,few-shot,false,160.0,9.0,15.0,3.0,400.0,1.0,25.0,1.0,100.0
+815,9,MedGemma 4B,few-shot,false,300.0,3.0,25.0,1.0,700.0,1.0,0.0,0.0,0.0
+815,9,MedGemma 4B,few-shot,false,50.0,1.0,2.0,4.0,700.0,2.0,0.0,0.0,0.0
+815,9,MedGemma 4B,few-shot,false,8.0,1.0,0.5,2.0,10.0,1.0,5.0,0.7,20.0
+815,9,MedGemma 4B,few-shot,false,200.0,4.0,0.5,40.0,5.0,0.2,1.0,0.5,100.0
+818,9,MedGemma 4B,chain-of-thought,false,200.0,25.0,15.0,0.0,400.0,0.0,100.0,6.0,300.0
+818,9,MedGemma 4B,chain-of-thought,false,75.0,4.0,6.0,1.0,320.0,0.0,20.0,0.0,10.0
+818,9,MedGemma 4B,chain-of-thought,false,90.0,2.0,8.0,1.0,450.0,0.0,5.0,0.0,10.0
+818,9,MedGemma 4B,chain-of-thought,false,5.0,0.2,0.2,1.0,10.0,0.0,0.0,0.0,0.0
+818,9,MedGemma 4B,chain-of-thought,false,10.0,1.0,0.5,1.0,300.0,0.0,5.0,0.0,0.0
+818,9,MedGemma 4B,chain-of-thought,false,4.0,0.4,0.2,1.0,5.0,0.0,1.0,0.0,3.0
+818,9,MedGemma 4B,chain-of-thought,false,150.0,4.0,0.5,27.0,80.0,0.1,80.0,2.0,60.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,98.0,23.0,3.0,1.0,240.0,0.0,54.0,0.9,170.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,74.0,0.4,0.9,6.0,1.0,2.0,19.0,0.1,7.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,464.0,0.0,53.7,0.0,0.0,0.0,0.0,0.0,0.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,42.0,2.4,0.3,7.0,1.0,3.0,59.0,0.5,75.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,26.7,0.68,0.18,3.0,1.0,0.54,17.0,0.32,92.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,38.0,0.59,0.25,4.67,1.0,1.35,38.0,0.44,246.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,74.0,0.4,0.9,6.0,1.0,2.0,19.0,0.1,7.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,16.9,0.38,0.34,2.75,1.0,0.64,12.0,0.17,95.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,87.0,0.79,0.95,6.34,1.0,5.28,17.0,0.34,186.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,90.0,0.48,0.78,5.36,1.0,2.79,13.0,0.16,152.0
+820,9,MedGemma 4B,structured-output,false,200.0,25.0,13.0,0.0,200.0,0.0,10.0,4.0,600.0
+820,9,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,500.0,0.0,0.0,0.0,0.0
+820,9,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+820,9,MedGemma 4B,structured-output,false,80.0,16.0,6.0,1.0,350.0,0.0,20.0,4.0,350.0
+820,9,MedGemma 4B,structured-output,false,120.0,6.0,11.0,1.0,450.0,0.5,70.0,0.0,100.0
+820,9,MedGemma 4B,structured-output,false,100.0,1.0,9.0,0.0,700.0,0.0,0.0,0.0,0.0
+820,9,MedGemma 4B,structured-output,false,5.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0
+820,9,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+820,9,MedGemma 4B,structured-output,false,130.0,4.0,0.5,27.0,100.0,0.0,2.0,0.8,350.0
+820,9,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,150.0,0.0,0.0,0.0,0.0
+821,10,MedGemma 4B,few-shot,false,140.0,4.0,2.0,26.0,30.0,1.0,50.0,1.0,200.0
+821,10,MedGemma 4B,few-shot,false,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+821,10,MedGemma 4B,few-shot,false,20.0,1.0,1.0,5.0,40.0,0.0,10.0,1.0,50.0
+821,10,MedGemma 4B,few-shot,false,350.0,10.0,6.0,40.0,700.0,5.0,100.0,4.0,300.0
+821,10,MedGemma 4B,few-shot,false,10.0,0.5,0.5,2.0,10.0,1.0,0.0,0.0,0.0
+822,10,MedGemma 4B,chain-of-thought,false,140.0,3.0,2.0,21.0,50.0,1.0,75.0,1.0,200.0
+822,10,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,100.0
+822,10,MedGemma 4B,chain-of-thought,false,10.0,1.0,1.0,2.0,20.0,0.0,50.0,0.2,100.0
+822,10,MedGemma 4B,chain-of-thought,false,10.0,1.0,1.0,2.0,20.0,0.0,10.0,0.2,50.0
+822,10,MedGemma 4B,chain-of-thought,false,20.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0
+822,10,MedGemma 4B,chain-of-thought,false,20.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+822,10,MedGemma 4B,chain-of-thought,false,490.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0
+823,10,MedGemma 4B,structured-output,false,40.0,2.0,1.0,8.0,50.0,1.0,30.0,1.0,50.0
+823,10,MedGemma 4B,structured-output,false,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+823,10,MedGemma 4B,structured-output,false,10.0,1.0,2.0,5.0,300.0,0.0,40.0,1.0,300.0
+823,10,MedGemma 4B,structured-output,false,20.0,2.0,4.0,6.0,300.0,2.0,50.0,4.0,150.0
+823,10,MedGemma 4B,structured-output,false,16.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0
+823,10,MedGemma 4B,structured-output,false,5.0,1.0,0.0,4.0,100.0,3.0,0.0,0.0,50.0
+832,44,Qwen 2.5 3B Instruct,structured-output,false,93.0,27.9,2.4,0.0,136.0,0.0,0.0,1.6,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,265.0,0.0,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,9.0,0.57,0.3,2.85,4.0,1.63,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,140.0,0.0,16.7,0.0,0.0,0.0,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,15.0,0.62,0.4,3.9,278.0,1.54,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,9.0,0.37,0.3,1.85,56.0,1.29,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,6.0,1.7,0.3,0.0,243.0,0.0,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,17.0,0.88,0.2,3.56,0.0,2.99,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,24.0,0.49,0.3,2.75,0.0,2.36,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,26.8,0.46,0.4,1.95,13.0,1.72,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,14.0,0.56,0.3,2.97,0.0,1.38,0.0,0.0,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,96.0,2.54,0.5,20.83,147.0,5.67,0.0,0.0,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,258.0,28.0,17.0,1.0,90.0,0.0,53.0,0.9,167.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,4.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,2.5,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,4.3,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,2.6,0.3,0.4,0.0,1.0,0.4,0.0,0.1,26.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,2.6,0.3,0.4,0.0,1.0,0.4,0.0,0.1,26.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,378.0,7.6,2.4,95.0,41.0,3.0,18.0,0.9,145.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,140.0,4.0,14.0,0.0,90.0,0.0,0.0,0.3,27.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,2.5,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,2.5,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,170.0,2.5,25.0,0.0,10.0,0.0,17.0,0.4,32.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,24.0,1.4,1.6,3.7,85.0,1.6,5.0,0.4,230.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,120.0,1.4,9.4,5.6,170.0,3.9,2.0,0.1,36.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,170.0,1.4,1.8,9.5,62.0,7.1,2.0,0.3,15.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,134.0,6.2,8.2,0.0,94.0,0.0,14.0,0.7,35.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,12.0,0.4,0.3,1.9,6.0,1.8,23.0,0.5,9.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,29.0,0.8,0.4,7.3,6.0,5.7,14.0,0.2,96.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,9.0,0.4,0.3,1.8,5.0,1.6,25.0,0.1,78.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,15.0,0.3,0.8,0.9,4.0,0.7,12.0,0.1,24.0
+864,48,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+864,48,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+864,48,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+864,48,Qwen 2.5 3B Instruct,structured-output,false,76.0,6.3,4.8,0.0,120.0,0.0,40.0,0.7,81.0
+864,48,Qwen 2.5 3B Instruct,structured-output,false,27.3,0.9,0.4,6.1,5.0,4.9,8.0,0.25,179.0
+864,48,Qwen 2.5 3B Instruct,structured-output,false,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.025,7.0
+864,48,Qwen 2.5 3B Instruct,structured-output,false,5.4,0.0,0.2,0.6,1.0,0.4,0.0,0.0,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,18.5,0.6,0.6,3.9,2.0,1.7,2.0,0.15,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,16.5,0.3,0.4,3.7,2.0,1.5,2.0,0.05,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,89.0,1.3,0.4,17.0,5.0,6.0,25.0,0.4,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,4.0,0.6,0.5,2.0,378.0,1.5,0.0,0.0,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,3.0,0.3,0.5,0.0,2.0,1.0,0.0,0.0,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,3.0,0.0,0.0,1.5,0.0,1.5,0.0,0.0,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,27.0,0.0,3.5,0.0,0.0,0.0,0.0,0.0,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,4.5,0.0,0.3,1.2,0.0,1.0,0.0,0.0,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,3.6,0.3,0.5,0.4,2.0,0.0,0.0,0.0,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,27.0,0.0,3.5,0.0,0.0,0.0,0.0,0.0,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,4.2,0.0,0.3,1.5,0.0,1.5,2.0,0.0,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,0.4,0.0,0.0,0.0,10.0,0.0,0.0,0.0,
+866,18,MedGemma 4B,zero-shot,false,150.0,25.0,8.0,0.0,400.0,0.0,10.0,6.0,30.0
+866,18,MedGemma 4B,zero-shot,false,20.0,3.0,1.0,4.0,5.0,1.0,50.0,4.0,200.0
+866,18,MedGemma 4B,zero-shot,false,25.0,1.0,0.1,6.0,1.0,3.0,5.0,1.0,20.0
+866,18,MedGemma 4B,zero-shot,false,20.0,1.0,0.5,4.0,1.0,3.0,5.0,1.0,20.0
+866,18,MedGemma 4B,zero-shot,false,15.0,3.0,1.0,2.0,2.0,1.0,5.0,2.0,10.0
+866,18,MedGemma 4B,zero-shot,false,20.0,1.0,0.1,4.0,1.0,1.0,5.0,1.0,10.0
+866,18,MedGemma 4B,zero-shot,false,250.0,8.0,8.0,30.0,400.0,5.0,10.0,2.0,40.0
+866,18,MedGemma 4B,zero-shot,false,200.0,0.0,23.0,0.0,40.0,0.0,0.0,0.0,0.0
+866,18,MedGemma 4B,zero-shot,false,5.0,2.0,0.5,1.0,800.0,0.0,0.0,1.0,5.0
+866,18,MedGemma 4B,zero-shot,false,450.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,32.0,0.6,0.5,7.8,19.0,2.5,14.0,0.18,97.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,0.0,0.2,0.1,3.4,59.0,1.6,5.0,0.04,28.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,48.0,0.8,0.4,3.2,5.0,1.4,1.0,0.02,26.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,38.0,0.25,0.12,7.1,4.0,6.9,3.0,0.01,17.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,530.0,0.0,10.49,0.0,0.0,0.0,0.0,0.0,0.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,349.0,17.72,30.88,6.94,0.0,5.69,12.0,1.38,468.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,316.0,23.97,24.98,5.65,0.0,4.34,10.0,1.86,451.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,79.0,1.19,0.65,18.4,4.0,15.65,3.0,0.48,272.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,790.0,0.0,12.86,0.0,0.0,0.0,0.0,0.01,342.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,409.0,0.39,46.73,0.0,0.0,0.0,18.0,0.21,465.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,735.0,0.39,9.46,0.0,710.0,0.0,21.0,0.16,57.0
+868,18,MedGemma 4B,few-shot,false,150.0,25.0,9.0,0.0,100.0,0.0,10.0,6.0,30.0
+868,18,MedGemma 4B,few-shot,false,10.0,3.0,0.5,21.0,5.0,1.0,8.0,2.0,50.0
+868,18,MedGemma 4B,few-shot,false,50.0,4.0,3.0,10.0,5.0,3.0,5.0,1.0,150.0
+868,18,MedGemma 4B,few-shot,false,240.0,1.0,26.0,0.0,90.0,0.0,0.0,0.0,0.0
+868,18,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0
+868,18,MedGemma 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+869,49,Qwen 2.5 3B Instruct,structured-output,false,65.0,1.0,0.3,9.0,18.0,4.0,32.0,0.2,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,18.0,1.0,0.1,2.0,740.0,2.0,5.0,0.03,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,4.0,0.5,0.05,1.0,8.0,1.0,0.25,0.04,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,35.0,0.0,0.0,8.0,0.0,8.0,24.0,0.1,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,140.0,0.0,16.75,0.0,0.0,0.0,0.0,0.0,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,40.0,0.0,0.0,7.0,0.0,7.0,0.32,0.0,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,20.0,0.5,0.25,4.0,3.0,4.0,18.0,0.07,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,140.0,0.0,16.75,0.0,0.0,0.0,0.0,0.0,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,340.0,1.79,28.57,10.0,0.0,10.0,3.0,0.65,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,0.5,0.0,0.0,0.0,46.0,0.0,0.13,0.0,
+879,20,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,20,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,20,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,20,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,20,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,20,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,20,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,20,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+880,20,MedGemma 4B,few-shot,false,0.0,1.0,0.0,12.0,0.0,12.0,0.0,0.0,0.0
+880,20,MedGemma 4B,few-shot,false,0.0,0.0,0.0,5.0,120.0,4.0,0.0,0.0,0.0
+880,20,MedGemma 4B,few-shot,false,2.0,0.5,0.0,3.0,1.0,0.0,12.0,0.2,60.0
+880,20,MedGemma 4B,few-shot,false,50.0,1.0,0.2,12.0,1.0,6.0,5.0,0.4,320.0
+880,20,MedGemma 4B,few-shot,false,15.0,0.5,0.2,3.0,1.0,0.0,1.0,0.2,10.0
+880,20,MedGemma 4B,few-shot,false,45.0,1.0,4.5,6.0,2.0,4.0,50.0,0.7,120.0
+881,20,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+881,20,MedGemma 4B,chain-of-thought,false,250.0,8.0,6.0,32.0,150.0,26.0,150.0,0.5,350.0
+881,20,MedGemma 4B,chain-of-thought,false,5.0,0.2,0.2,1.0,10.0,0.5,5.0,0.1,30.0
+881,20,MedGemma 4B,chain-of-thought,false,25.0,3.0,0.8,4.0,5.0,0.0,15.0,1.6,280.0
+881,20,MedGemma 4B,chain-of-thought,false,25.0,3.0,0.8,4.0,5.0,0.0,15.0,1.6,280.0
+882,20,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+882,20,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+882,20,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+882,20,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+882,20,MedGemma 4B,structured-output,false,50.0,1.2,0.2,12.0,40.0,7.0,10.0,0.8,600.0
+882,20,MedGemma 4B,structured-output,false,50.0,1.2,0.2,12.0,40.0,7.0,10.0,0.8,600.0
+882,20,MedGemma 4B,structured-output,false,50.0,1.2,0.2,12.0,40.0,7.0,10.0,0.8,600.0
+882,20,MedGemma 4B,structured-output,false,450.0,7.0,42.0,16.0,150.0,12.0,340.0,6.0,590.0
+886,21,MedGemma 4B,structured-output,false,45.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+886,21,MedGemma 4B,structured-output,false,150.0,25.0,8.0,0.0,200.0,0.0,10.0,6.0,300.0
+886,21,MedGemma 4B,structured-output,false,200.0,10.0,5.0,40.0,700.0,5.0,100.0,4.0,200.0
+886,21,MedGemma 4B,structured-output,false,156.0,13.0,11.0,0.0,72.0,0.0,60.0,1.5,400.0
+886,21,MedGemma 4B,structured-output,false,170.0,1.0,16.0,0.0,280.0,0.0,0.0,0.0,0.0
+886,21,MedGemma 4B,structured-output,false,7.0,0.5,0.5,1.0,3.0,0.0,0.0,0.2,10.0
+886,21,MedGemma 4B,structured-output,false,8.0,0.5,0.5,1.0,3.0,0.0,0.0,0.2,10.0
+886,21,MedGemma 4B,structured-output,false,5.0,0.2,0.2,1.0,1.0,0.0,0.0,0.1,5.0
+886,21,MedGemma 4B,structured-output,false,150.0,3.0,10.0,0.0,200.0,0.0,0.0,0.5,0.0
+886,21,MedGemma 4B,structured-output,false,45.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+895,24,MedGemma 4B,zero-shot,false,350.0,25.0,12.0,15.0,400.0,5.0,100.0,4.0,300.0
+895,24,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+895,24,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+895,24,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+896,24,MedGemma 4B,few-shot,false,320.0,40.0,16.0,2.0,350.0,2.0,50.0,6.0,700.0
+896,24,MedGemma 4B,few-shot,false,100.0,4.0,5.0,15.0,30.0,12.0,0.0,0.0,0.0
+896,24,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+896,24,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0
+896,24,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+897,24,MedGemma 4B,chain-of-thought,false,450.0,40.0,25.0,30.0,700.0,10.0,300.0,8.0,700.0
+897,24,MedGemma 4B,chain-of-thought,false,100.0,2.0,5.0,5.0,300.0,2.0,10.0,1.0,50.0
+897,24,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+897,24,MedGemma 4B,chain-of-thought,false,5.0,0.2,0.2,1.0,5.0,0.0,0.0,0.1,5.0
+898,24,MedGemma 4B,structured-output,false,250.0,30.0,15.0,2.0,300.0,1.0,60.0,4.0,250.0
+898,24,MedGemma 4B,structured-output,false,50.0,1.0,2.5,3.0,50.0,2.0,10.0,0.5,10.0
+898,24,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+898,24,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+898,24,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+899,25,MedGemma 4B,zero-shot,false,130.0,1.5,0.5,24.0,5.0,18.0,20.0,0.5,300.0
+899,25,MedGemma 4B,zero-shot,false,40.0,0.5,1.2,5.0,1.0,0.0,10.0,2.0,10.0
+899,25,MedGemma 4B,zero-shot,false,150.0,5.0,2.5,27.0,30.0,1.0,100.0,2.0,160.0
+899,25,MedGemma 4B,zero-shot,false,150.0,8.0,5.0,12.0,120.0,12.0,130.0,0.5,400.0
+899,25,MedGemma 4B,zero-shot,false,110.0,0.5,12.0,0.0,60.0,0.0,0.0,0.0,0.0
+899,25,MedGemma 4B,zero-shot,false,180.0,3.0,12.0,15.0,50.0,12.0,50.0,1.0,10.0
+899,25,MedGemma 4B,zero-shot,false,0.0,0.5,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+899,25,MedGemma 4B,zero-shot,false,90.0,6.0,8.0,7.0,150.0,1.0,0.0,0.5,30.0
+900,25,MedGemma 4B,few-shot,false,146.0,3.0,0.3,27.0,2.0,15.0,6.0,1.0,240.0
+900,25,MedGemma 4B,few-shot,false,140.0,3.0,10.0,2.5,10.0,0.0,0.0,1.0,0.0
+900,25,MedGemma 4B,few-shot,false,340.0,17.0,9.0,45.0,80.0,6.0,30.0,5.0,240.0
+900,25,MedGemma 4B,few-shot,false,150.0,8.0,5.0,12.0,100.0,12.0,300.0,1.0,250.0
+900,25,MedGemma 4B,few-shot,false,200.0,6.0,24.0,0.0,50.0,0.0,0.0,0.0,0.0
+900,25,MedGemma 4B,few-shot,false,230.0,4.0,16.0,20.0,50.0,20.0,5.0,0.0,0.0
+900,25,MedGemma 4B,few-shot,false,5.0,1.0,0.0,1.0,20.0,0.0,0.0,0.0,0.0
+900,25,MedGemma 4B,few-shot,false,200.0,8.0,16.0,7.0,80.0,1.0,0.0,1.0,240.0
+901,25,MedGemma 4B,chain-of-thought,false,105.0,1.3,0.4,23.0,2.0,19.0,4.0,0.7,250.0
+901,25,MedGemma 4B,chain-of-thought,false,65.0,2.3,1.3,8.0,7.0,1.0,10.0,4.5,60.0
+901,25,MedGemma 4B,chain-of-thought,false,357.0,16.8,6.8,57.0,24.0,6.3,250.0,9.7,540.0
+901,25,MedGemma 4B,chain-of-thought,false,150.0,8.0,7.0,26.0,100.0,13.0,450.0,2.9,270.0
+901,25,MedGemma 4B,chain-of-thought,false,490.0,0.0,50.0,0.0,600.0,0.0,0.0,0.0,0.0
+901,25,MedGemma 4B,chain-of-thought,false,200.0,3.0,16.0,25.0,80.0,20.0,10.0,1.0,50.0
+901,25,MedGemma 4B,chain-of-thought,false,10.0,0.4,0.2,2.0,10.0,0.5,2.0,0.1,10.0
+901,25,MedGemma 4B,chain-of-thought,false,490.0,16.0,36.0,4.0,250.0,1.0,0.0,4.0,250.0
+902,25,MedGemma 4B,structured-output,false,100.0,1.0,0.5,17.0,1.0,15.0,3.0,0.6,420.0
+902,25,MedGemma 4B,structured-output,false,5.0,0.5,0.5,2.0,1.0,0.0,0.0,1.0,0.0
+902,25,MedGemma 4B,structured-output,false,160.0,5.0,2.5,24.0,80.0,1.0,100.0,2.0,460.0
+902,25,MedGemma 4B,structured-output,false,900.0,27.0,86.0,29.0,350.0,7.0,150.0,4.0,600.0
+902,25,MedGemma 4B,structured-output,false,150.0,8.0,6.0,22.0,120.0,13.0,250.0,0.5,740.0
+902,25,MedGemma 4B,structured-output,false,130.0,0.0,14.0,0.0,100.0,0.0,0.0,0.0,0.0
+902,25,MedGemma 4B,structured-output,false,200.0,3.0,16.0,15.0,40.0,8.0,10.0,2.0,5.0
+902,25,MedGemma 4B,structured-output,false,0.0,0.0,0.0,1.0,30.0,0.0,0.0,0.0,0.0
+902,25,MedGemma 4B,structured-output,false,900.0,27.0,86.0,29.0,350.0,7.0,150.0,4.0,600.0
+902,25,MedGemma 4B,structured-output,false,200.0,3.0,16.0,15.0,40.0,8.0,10.0,2.0,5.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,26,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+904,26,MedGemma 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+904,26,MedGemma 4B,few-shot,false,10.0,0.8,0.5,1.0,2.0,0.0,1.0,0.5,20.0
+904,26,MedGemma 4B,few-shot,false,4.0,0.4,0.3,1.0,1.0,0.0,1.0,0.2,5.0
+905,26,MedGemma 4B,chain-of-thought,false,7.0,0.3,0.5,1.0,4.0,0.5,4.0,0.2,10.0
+905,26,MedGemma 4B,chain-of-thought,false,15.0,0.8,1.5,3.0,2.0,1.0,4.0,0.3,25.0
+905,26,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+905,26,MedGemma 4B,chain-of-thought,false,150.0,2.0,13.0,0.0,40.0,0.0,10.0,0.0,0.0
+905,26,MedGemma 4B,chain-of-thought,false,0.0,2.0,0.0,1.0,600.0,0.0,0.0,0.0,0.0
+905,26,MedGemma 4B,chain-of-thought,false,0.0,2.0,0.0,1.0,200.0,3.0,0.0,0.0,0.0
+905,26,MedGemma 4B,chain-of-thought,false,15.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0
+905,26,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+905,26,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+905,26,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+906,26,MedGemma 4B,structured-output,false,4.0,0.5,0.2,1.0,2.0,0.1,20.0,0.8,150.0
+906,26,MedGemma 4B,structured-output,false,8.0,0.6,0.4,1.0,1.0,0.1,5.0,0.4,200.0
+906,26,MedGemma 4B,structured-output,false,45.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+906,26,MedGemma 4B,structured-output,false,45.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+906,26,MedGemma 4B,structured-output,false,0.0,3.0,0.0,2.0,1500.0,0.0,150.0,2.0,100.0
+906,26,MedGemma 4B,structured-output,false,0.0,1.0,0.0,3.0,500.0,2.0,50.0,0.5,50.0
+906,26,MedGemma 4B,structured-output,false,25.0,0.0,0.0,6.0,0.0,5.0,0.0,0.0,0.0
+906,26,MedGemma 4B,structured-output,false,45.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+906,26,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+906,26,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+911,28,MedGemma 4B,zero-shot,false,25.0,0.5,0.5,17.0,4.0,15.0,8.0,0.3,160.0
+911,28,MedGemma 4B,zero-shot,false,75.0,0.2,0.1,16.0,0.0,16.0,0.0,0.0,0.0
+911,28,MedGemma 4B,zero-shot,false,45.0,1.0,0.5,6.0,2.0,0.0,5.0,2.0,30.0
+911,28,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+911,28,MedGemma 4B,zero-shot,false,25.0,3.0,3.0,6.0,40.0,5.0,150.0,0.5,100.0
+912,28,MedGemma 4B,few-shot,false,49.0,0.7,0.5,11.0,2.0,9.0,25.0,0.4,160.0
+912,28,MedGemma 4B,few-shot,false,165.0,0.0,0.0,39.0,0.0,39.0,0.0,0.0,0.0
+912,28,MedGemma 4B,few-shot,false,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+912,28,MedGemma 4B,few-shot,false,100.0,5.0,5.0,18.0,10.0,6.0,120.0,0.8,350.0
+913,28,MedGemma 4B,chain-of-thought,false,40.0,0.5,0.5,10.0,1.0,8.0,10.0,0.5,120.0
+913,28,MedGemma 4B,chain-of-thought,false,20.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0
+913,28,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+913,28,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+913,28,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+913,28,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+913,28,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+913,28,MedGemma 4B,chain-of-thought,false,20.0,3.0,3.0,7.0,50.0,5.0,100.0,0.0,150.0
+914,28,MedGemma 4B,structured-output,false,25.0,0.5,0.5,20.0,1.0,15.0,8.0,0.2,70.0
+914,28,MedGemma 4B,structured-output,false,165.0,0.0,0.0,42.0,0.0,39.0,0.0,0.0,0.0
+914,28,MedGemma 4B,structured-output,false,2.0,0.2,0.1,1.0,0.0,0.5,0.0,0.0,0.0
+914,28,MedGemma 4B,structured-output,false,120.0,6.0,5.0,17.0,10.0,12.0,150.0,0.3,370.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,29,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+916,29,MedGemma 4B,few-shot,false,40.0,1.0,2.0,1.0,5.0,0.5,10.0,0.2,10.0
+916,29,MedGemma 4B,few-shot,false,265.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0
+916,29,MedGemma 4B,few-shot,false,140.0,3.0,2.0,28.0,5.0,0.5,0.0,0.2,10.0
+916,29,MedGemma 4B,few-shot,false,540.0,7.0,36.0,54.0,80.0,30.0,20.0,8.0,100.0
+916,29,MedGemma 4B,few-shot,false,265.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0
+916,29,MedGemma 4B,few-shot,false,144.0,13.0,10.0,1.0,140.0,0.0,56.0,2.0,140.0
+916,29,MedGemma 4B,few-shot,false,200.0,0.0,0.0,50.0,0.0,50.0,0.0,0.0,0.0
+916,29,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0
+917,29,MedGemma 4B,chain-of-thought,false,40.0,1.0,3.0,2.0,5.0,1.0,10.0,0.2,50.0
+917,29,MedGemma 4B,chain-of-thought,false,2.0,0.1,0.1,1.0,2.0,0.5,2.0,0.05,5.0
+917,29,MedGemma 4B,chain-of-thought,false,200.0,4.0,15.0,20.0,10.0,15.0,20.0,3.0,80.0
+917,29,MedGemma 4B,chain-of-thought,false,480.0,10.0,50.0,0.0,600.0,0.0,0.0,2.0,0.0
+917,29,MedGemma 4B,chain-of-thought,false,140.0,12.0,10.0,1.0,150.0,0.5,20.0,3.0,200.0
+917,29,MedGemma 4B,chain-of-thought,false,200.0,0.0,0.0,50.0,0.0,50.0,0.0,0.0,0.0
+917,29,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0
+918,29,MedGemma 4B,structured-output,false,120.0,0.5,14.0,0.5,100.0,0.0,10.0,0.5,0.0
+918,29,MedGemma 4B,structured-output,false,170.0,4.0,1.5,26.0,80.0,0.5,30.0,2.0,150.0
+918,29,MedGemma 4B,structured-output,false,250.0,6.0,18.0,27.0,30.0,15.0,10.0,4.0,20.0
+918,29,MedGemma 4B,structured-output,false,180.0,12.0,12.0,1.0,170.0,1.0,30.0,7.0,450.0
+918,29,MedGemma 4B,structured-output,false,375.0,0.0,0.0,81.0,0.0,81.0,0.0,0.0,0.0
+918,29,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0
+919,30,MedGemma 4B,zero-shot,false,40.0,0.5,0.5,10.0,2.0,8.0,20.0,0.3,150.0
+919,30,MedGemma 4B,zero-shot,false,50.0,3.0,4.0,6.0,50.0,4.0,150.0,0.1,20.0
+919,30,MedGemma 4B,zero-shot,false,250.0,4.0,20.0,25.0,70.0,18.0,60.0,0.0,20.0
+919,30,MedGemma 4B,zero-shot,false,120.0,3.0,3.0,15.0,80.0,4.0,20.0,0.5,10.0
+919,30,MedGemma 4B,zero-shot,false,16.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0
+920,30,MedGemma 4B,few-shot,false,49.0,1.0,0.5,12.0,1.0,10.0,5.0,0.5,200.0
+920,30,MedGemma 4B,few-shot,false,267.0,17.0,24.0,15.0,40.0,12.0,140.0,0.5,30.0
+920,30,MedGemma 4B,few-shot,false,170.0,0.0,0.0,56.0,0.0,56.0,0.0,0.0,0.0
+920,30,MedGemma 4B,few-shot,false,360.0,10.0,2.0,60.0,400.0,2.0,15.0,4.0,30.0
+921,30,MedGemma 4B,chain-of-thought,false,25.0,0.5,0.3,6.0,1.0,4.0,20.0,0.2,180.0
+921,30,MedGemma 4B,chain-of-thought,false,167.0,6.0,19.0,3.5,40.0,1.8,450.0,0.3,20.0
+921,30,MedGemma 4B,chain-of-thought,false,50.0,0.0,0.0,12.5,0.0,12.5,0.0,0.0,0.0
+921,30,MedGemma 4B,chain-of-thought,false,167.0,6.0,19.0,3.5,40.0,1.8,450.0,0.3,20.0
+921,30,MedGemma 4B,chain-of-thought,false,120.0,6.0,4.0,15.0,70.0,4.0,20.0,0.8,150.0
+922,30,MedGemma 4B,structured-output,false,20.0,0.7,0.3,5.0,1.0,4.0,28.0,0.3,150.0
+922,30,MedGemma 4B,structured-output,false,150.0,4.0,16.0,7.0,50.0,3.0,120.0,0.2,70.0
+922,30,MedGemma 4B,structured-output,false,16.0,0.0,0.0,4.0,0.0,3.5,0.0,0.0,0.0
+922,30,MedGemma 4B,structured-output,false,130.0,6.0,4.0,23.0,100.0,2.5,10.0,0.8,40.0
+924,31,MedGemma 4B,few-shot,false,350.0,10.0,20.0,50.0,600.0,4.0,200.0,2.0,600.0
+924,31,MedGemma 4B,few-shot,false,40.0,1.0,0.2,9.0,5.0,3.0,5.0,0.8,260.0
+924,31,MedGemma 4B,few-shot,false,5.0,1.0,0.1,9.0,400.0,3.0,5.0,0.4,100.0
+924,31,MedGemma 4B,few-shot,false,90.0,1.0,10.0,0.0,400.0,0.0,0.0,0.0,0.0
+924,31,MedGemma 4B,few-shot,false,350.0,25.0,20.0,0.0,600.0,0.0,10.0,8.0,300.0
+924,31,MedGemma 4B,few-shot,false,15.0,1.0,0.5,3.0,5.0,2.0,0.0,0.5,300.0
+924,31,MedGemma 4B,few-shot,false,5.0,0.5,0.1,1.0,2.0,0.0,0.0,0.2,10.0
+924,31,MedGemma 4B,few-shot,false,30.0,0.5,0.5,1.0,2.0,0.0,0.0,1.0,20.0
+924,31,MedGemma 4B,few-shot,false,30.0,0.5,0.5,1.0,2.0,0.0,0.0,1.0,20.0
+928,32,MedGemma 4B,few-shot,false,240.0,2.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0
+928,32,MedGemma 4B,few-shot,false,10.0,1.0,0.5,1.0,2.0,0.0,0.0,0.0,50.0
+928,32,MedGemma 4B,few-shot,false,2.0,0.2,0.1,0.5,1.0,0.0,0.0,0.0,10.0
+928,32,MedGemma 4B,few-shot,false,40.0,1.0,0.5,10.0,2.0,5.0,0.0,0.5,400.0
+928,32,MedGemma 4B,few-shot,false,10.0,1.0,0.5,5.0,2.0,0.0,0.0,0.5,200.0
+928,32,MedGemma 4B,few-shot,false,5.0,0.5,0.1,1.0,1.0,0.0,0.0,0.0,10.0
+928,32,MedGemma 4B,few-shot,false,10.0,1.0,0.5,5.0,2.0,0.0,0.0,0.5,200.0
+928,32,MedGemma 4B,few-shot,false,5.0,0.1,0.1,0.2,40.0,0.0,0.0,0.0,0.0
+928,32,MedGemma 4B,few-shot,false,200.0,0.1,0.1,50.0,0.0,50.0,0.0,0.0,0.0
+931,33,MedGemma 4B,zero-shot,false,120.0,2.0,6.0,5.0,300.0,2.0,20.0,0.0,10.0
+931,33,MedGemma 4B,zero-shot,false,64.0,0.0,0.0,17.0,0.0,16.0,5.0,0.0,20.0
+931,33,MedGemma 4B,zero-shot,false,64.0,2.0,5.0,7.0,10.0,4.0,5.0,0.0,10.0
+931,33,MedGemma 4B,zero-shot,false,100.0,1.6,0.3,27.0,2.0,15.0,9.0,0.4,480.0
+932,33,MedGemma 4B,few-shot,false,450.0,16.0,28.0,40.0,750.0,1.0,50.0,4.0,200.0
+932,33,MedGemma 4B,few-shot,false,180.0,4.0,16.0,9.0,150.0,4.0,15.0,1.0,200.0
+932,33,MedGemma 4B,few-shot,false,120.0,1.3,0.4,27.0,2.0,15.0,10.0,0.8,400.0
+932,33,MedGemma 4B,few-shot,false,200.0,0.0,0.0,50.0,0.0,50.0,0.0,0.0,0.0
+933,33,MedGemma 4B,chain-of-thought,false,200.0,4.0,8.0,12.0,500.0,4.0,300.0,1.0,250.0
+933,33,MedGemma 4B,chain-of-thought,false,64.0,0.0,0.0,17.0,2.0,16.0,3.0,0.0,125.0
+933,33,MedGemma 4B,chain-of-thought,false,160.0,4.0,15.0,13.0,75.0,10.0,50.0,2.0,60.0
+933,33,MedGemma 4B,chain-of-thought,false,105.0,1.0,0.4,27.0,3.0,15.0,9.0,0.4,422.0
+934,33,MedGemma 4B,structured-output,false,50.0,1.0,4.0,6.0,200.0,3.0,80.0,0.5,20.0
+934,33,MedGemma 4B,structured-output,false,64.0,0.0,0.0,17.0,0.0,16.0,0.0,0.0,50.0
+934,33,MedGemma 4B,structured-output,false,160.0,3.0,15.0,20.0,0.0,14.0,60.0,0.5,20.0
+934,33,MedGemma 4B,structured-output,false,90.0,1.3,0.2,23.0,1.0,19.0,7.0,0.4,452.0
+939,35,MedGemma 4B,zero-shot,false,360.0,25.0,20.0,5.0,700.0,1.0,40.0,3.0,280.0
+939,35,MedGemma 4B,zero-shot,false,25.0,2.0,1.0,5.0,300.0,0.5,5.0,0.5,10.0
+939,35,MedGemma 4B,zero-shot,false,10.0,1.0,8.0,0.5,300.0,0.0,5.0,0.2,5.0
+939,35,MedGemma 4B,zero-shot,false,40.0,5.0,3.0,6.0,70.0,4.0,100.0,1.0,200.0
+939,35,MedGemma 4B,zero-shot,false,30.0,1.0,1.0,20.0,400.0,15.0,5.0,0.5,200.0
+939,35,MedGemma 4B,zero-shot,false,4.0,0.4,0.1,1.0,5.0,0.0,1.0,0.1,5.0
+939,35,MedGemma 4B,zero-shot,false,2.0,0.2,0.1,1.0,5.0,0.0,1.0,0.1,5.0
+939,35,MedGemma 4B,zero-shot,false,5.0,1.0,0.5,1.0,750.0,0.0,5.0,0.2,5.0
+941,35,MedGemma 4B,chain-of-thought,false,200.0,20.0,10.0,2.0,400.0,1.0,40.0,6.0,150.0
+941,35,MedGemma 4B,chain-of-thought,false,150.0,10.0,8.0,60.0,900.0,5.0,80.0,4.0,200.0
+941,35,MedGemma 4B,chain-of-thought,false,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,35.0
+941,35,MedGemma 4B,chain-of-thought,false,50.0,8.0,4.0,2.0,600.0,1.0,50.0,1.0,200.0
+941,35,MedGemma 4B,chain-of-thought,false,20.0,5.0,1.0,6.0,50.0,4.0,100.0,1.0,80.0
+941,35,MedGemma 4B,chain-of-thought,false,30.0,2.0,0.0,20.0,150.0,10.0,5.0,1.0,100.0
+941,35,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+941,35,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+941,35,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+942,35,MedGemma 4B,structured-output,false,368.0,36.2,27.9,0.0,740.0,0.0,14.0,9.8,550.0
+942,35,MedGemma 4B,structured-output,false,25.0,3.0,0.5,24.0,300.0,0.5,5.0,2.0,10.0
+942,35,MedGemma 4B,structured-output,false,300.0,13.5,26.7,0.0,900.0,0.0,40.0,2.5,280.0
+942,35,MedGemma 4B,structured-output,false,80.0,13.0,6.5,12.0,70.0,9.0,150.0,2.8,400.0
+942,35,MedGemma 4B,structured-output,false,25.0,1.7,0.5,26.0,150.0,13.0,4.0,0.5,200.0
+942,35,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+942,35,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+942,35,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0
+952,38,MedGemma 4B,few-shot,false,80.0,1.0,1.0,12.0,5.0,3.0,5.0,0.5,400.0
+952,38,MedGemma 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+952,38,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,2600.0,0.0,0.0,0.0,0.0
+952,38,MedGemma 4B,few-shot,false,350.0,7.0,28.0,30.0,190.0,25.0,180.0,1.0,300.0
+952,38,MedGemma 4B,few-shot,false,240.0,6.0,26.0,0.0,70.0,0.0,15.0,0.0,0.0
+952,38,MedGemma 4B,few-shot,false,180.0,12.0,17.0,1.0,350.0,0.0,350.0,2.0,40.0
+952,38,MedGemma 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+952,38,MedGemma 4B,few-shot,false,350.0,20.0,1.0,60.0,700.0,1.0,40.0,5.0,300.0
+955,39,MedGemma 4B,zero-shot,false,160.0,13.0,12.0,1.0,70.0,0.1,90.0,2.0,70.0
+955,39,MedGemma 4B,zero-shot,false,40.0,1.0,0.2,9.0,5.0,1.0,5.0,0.6,400.0
+955,39,MedGemma 4B,zero-shot,false,40.0,0.4,0.1,7.0,2.0,0.1,2.0,0.3,60.0
+955,39,MedGemma 4B,zero-shot,false,10.0,0.2,0.1,5.0,1.0,0.3,1.0,0.1,50.0
+955,39,MedGemma 4B,zero-shot,false,50.0,6.0,3.0,2.0,700.0,1.0,20.0,4.0,150.0
+955,39,MedGemma 4B,zero-shot,false,150.0,4.0,0.3,25.0,150.0,0.3,2.0,0.5,180.0
+955,39,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+955,39,MedGemma 4B,zero-shot,false,50.0,8.0,2.0,3.0,700.0,2.0,10.0,3.0,60.0
+955,39,MedGemma 4B,zero-shot,false,50.0,8.0,3.0,3.0,700.0,2.0,10.0,3.0,60.0
+955,39,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0
+956,39,MedGemma 4B,few-shot,false,144.0,13.0,10.0,1.0,140.0,0.0,56.0,2.0,140.0
+956,39,MedGemma 4B,few-shot,false,40.0,1.0,0.5,9.0,2.0,3.0,7.0,2.0,450.0
+956,39,MedGemma 4B,few-shot,false,10.0,0.5,0.5,1.0,1.0,0.0,0.0,1.0,80.0
+956,39,MedGemma 4B,few-shot,false,5.0,0.2,0.1,1.0,0.0,0.0,0.0,0.1,50.0
+956,39,MedGemma 4B,few-shot,false,50.0,4.0,4.0,0.5,700.0,0.0,10.0,5.0,20.0
+956,39,MedGemma 4B,few-shot,false,240.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0
+956,39,MedGemma 4B,few-shot,false,100.0,5.0,2.0,5.0,700.0,0.0,20.0,3.0,10.0
+956,39,MedGemma 4B,few-shot,false,150.0,5.0,1.0,40.0,200.0,1.0,20.0,2.0,400.0
+957,39,MedGemma 4B,chain-of-thought,false,160.0,13.0,12.0,1.0,140.0,0.5,60.0,2.0,40.0
+957,39,MedGemma 4B,chain-of-thought,false,40.0,1.5,0.5,10.0,30.0,5.0,7.0,1.0,60.0
+957,39,MedGemma 4B,chain-of-thought,false,10.0,1.0,0.5,3.0,10.0,1.0,5.0,0.5,20.0
+957,39,MedGemma 4B,chain-of-thought,false,5.0,0.5,0.2,2.0,3.0,1.0,2.0,0.2,10.0
+957,39,MedGemma 4B,chain-of-thought,false,80.0,12.0,4.0,0.5,700.0,0.0,30.0,4.0,50.0
+957,39,MedGemma 4B,chain-of-thought,false,60.0,6.0,2.5,0.5,300.0,0.0,10.0,2.0,30.0
+957,39,MedGemma 4B,chain-of-thought,false,150.0,4.0,0.5,60.0,100.0,3.0,5.0,2.0,70.0
+957,39,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0
+959,40,MedGemma 4B,zero-shot,false,320.0,30.0,18.0,0.0,160.0,0.0,50.0,4.0,120.0
+959,40,MedGemma 4B,zero-shot,false,40.0,1.0,0.2,9.0,30.0,4.0,5.0,0.6,230.0
+959,40,MedGemma 4B,zero-shot,false,8.0,0.4,0.1,1.0,2.0,0.0,2.0,0.1,50.0
+959,40,MedGemma 4B,zero-shot,false,5.0,0.1,0.1,0.0,2.0,0.0,0.0,0.0,0.0
+959,40,MedGemma 4B,zero-shot,false,25.0,1.0,0.3,8.0,6.0,4.0,10.0,0.6,250.0
+959,40,MedGemma 4B,zero-shot,false,0.0,0.2,0.1,0.0,600.0,0.0,0.0,0.0,0.0
+959,40,MedGemma 4B,zero-shot,false,0.0,0.1,0.1,0.0,2.0,0.0,0.0,0.0,0.0
+959,40,MedGemma 4B,zero-shot,false,60.0,6.0,5.0,1.0,400.0,0.0,150.0,1.0,40.0
+959,40,MedGemma 4B,zero-shot,false,300.0,12.0,10.0,50.0,800.0,3.0,100.0,2.0,400.0
+959,40,MedGemma 4B,zero-shot,false,150.0,8.0,8.0,10.0,300.0,1.0,20.0,1.0,30.0
+982,46,MedGemma 4B,few-shot,false,350.0,40.0,24.0,0.0,600.0,0.0,50.0,6.0,280.0
+982,46,MedGemma 4B,few-shot,false,50.0,4.0,2.0,0.0,800.0,0.0,0.0,1.0,5.0
+982,46,MedGemma 4B,few-shot,false,10.0,1.0,0.0,5.0,20.0,0.0,0.0,0.0,2.0
+982,46,MedGemma 4B,few-shot,false,20.0,0.5,1.0,3.0,10.0,1.0,0.0,0.0,2.0
+982,46,MedGemma 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+982,46,MedGemma 4B,few-shot,false,40.0,1.0,0.5,9.0,5.0,2.0,5.0,0.5,300.0
+982,46,MedGemma 4B,few-shot,false,200.0,6.0,18.0,12.0,200.0,5.0,140.0,2.0,300.0
+982,46,MedGemma 4B,few-shot,false,480.0,6.0,48.0,0.0,250.0,0.0,250.0,0.0,0.0
+988,48,MedGemma 4B,zero-shot,false,15.0,1.0,0.2,3.0,4.0,1.0,7.0,0.2,200.0
+988,48,MedGemma 4B,zero-shot,false,10.0,1.0,0.5,1.0,40.0,0.0,0.0,0.5,20.0
+988,48,MedGemma 4B,zero-shot,false,5.0,0.5,0.1,2.0,40.0,3.0,0.0,0.0,10.0
+988,48,MedGemma 4B,zero-shot,false,78.0,6.0,5.0,1.1,140.0,0.6,40.0,1.0,120.0
+988,48,MedGemma 4B,zero-shot,false,22.0,0.9,0.3,5.2,4.0,7.3,15.0,0.4,260.0
+988,48,MedGemma 4B,zero-shot,false,5.0,0.7,0.2,1.0,2.0,0.6,2.0,0.3,15.0
+988,48,MedGemma 4B,zero-shot,false,5.0,0.4,0.2,1.0,2.0,0.5,0.0,0.0,10.0
+992,48,MedGemma 4B,chain-of-thought,false,8.0,0.3,0.5,1.5,2.0,1.0,6.0,0.2,50.0
+992,48,MedGemma 4B,chain-of-thought,false,10.0,0.2,0.5,1.0,300.0,0.2,0.0,0.1,5.0
+992,48,MedGemma 4B,chain-of-thought,false,5.0,0.3,0.2,1.0,75.0,0.5,0.0,0.1,2.0
+992,48,MedGemma 4B,chain-of-thought,false,78.0,6.3,5.3,0.6,200.0,0.1,40.0,1.2,80.0
+992,48,MedGemma 4B,chain-of-thought,false,22.0,0.9,0.4,5.2,5.0,4.7,8.0,0.2,163.0
+992,48,MedGemma 4B,chain-of-thought,false,5.0,0.6,0.2,1.0,5.0,0.3,15.0,0.2,18.0
+992,48,MedGemma 4B,chain-of-thought,false,25.0,0.6,1.5,2.0,30.0,0.4,0.0,0.2,3.0
+992,48,MedGemma 4B,chain-of-thought,false,8.0,0.1,0.2,1.5,3.0,1.0,5.0,0.2,4.0
+994,48,MedGemma 4B,structured-output,false,15.0,0.4,0.2,3.0,35.0,1.8,5.0,0.2,30.0
+994,48,MedGemma 4B,structured-output,false,10.0,0.2,0.5,1.0,300.0,0.5,0.0,0.1,10.0
+994,48,MedGemma 4B,structured-output,false,15.0,1.0,0.5,4.0,200.0,6.0,0.0,0.2,50.0
+994,48,MedGemma 4B,structured-output,false,78.0,7.0,5.3,0.6,190.0,0.2,35.0,0.9,148.0
+994,48,MedGemma 4B,structured-output,false,18.0,1.0,0.2,4.0,5.0,6.0,7.0,0.4,230.0
+994,48,MedGemma 4B,structured-output,false,5.0,0.3,0.2,1.0,6.0,0.5,2.0,0.1,16.0
+994,48,MedGemma 4B,structured-output,false,25.0,0.5,3.5,2.0,80.0,1.0,0.0,0.2,3.0
+994,48,MedGemma 4B,structured-output,false,8.0,0.3,0.2,2.0,5.0,1.6,10.0,0.2,50.0
+994,48,MedGemma 4B,structured-output,false,5.0,0.1,0.2,0.5,3.0,0.0,0.0,0.1,5.0
+995,49,MedGemma 4B,zero-shot,false,15.0,0.5,0.2,3.0,1.0,1.0,5.0,0.2,30.0
+995,49,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,750.0,0.0,0.0,0.0,0.0
+995,49,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+995,49,MedGemma 4B,zero-shot,false,2.0,0.0,0.0,0.5,0.0,1.0,0.0,0.0,0.0
+995,49,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+995,49,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,5.0
+995,49,MedGemma 4B,zero-shot,false,2.0,0.2,0.1,1.0,1.0,0.5,10.0,0.4,10.0
+995,49,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+995,49,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+995,49,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0
+996,49,MedGemma 4B,few-shot,false,16.0,1.0,0.5,3.0,3.0,1.0,5.0,0.2,300.0
+996,49,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,800.0,0.0,0.0,0.0,0.0
+996,49,MedGemma 4B,few-shot,false,8.0,0.5,0.5,1.0,20.0,0.0,0.0,0.2,10.0
+996,49,MedGemma 4B,few-shot,false,16.0,0.0,0.0,4.0,0.0,3.5,0.0,0.0,0.0
+996,49,MedGemma 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+996,49,MedGemma 4B,few-shot,false,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+996,49,MedGemma 4B,few-shot,false,5.0,0.5,0.5,2.0,10.0,0.5,0.0,0.1,3.0
+996,49,MedGemma 4B,few-shot,false,120.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+996,49,MedGemma 4B,few-shot,false,60.0,3.0,5.0,2.0,0.0,0.0,0.0,0.5,2.0
+996,49,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0
+997,49,MedGemma 4B,chain-of-thought,false,8.0,0.6,0.2,1.5,3.0,0.8,5.0,0.1,40.0
+997,49,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,1500.0,0.0,0.0,0.0,0.0
+997,49,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0
+997,49,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+997,49,MedGemma 4B,chain-of-thought,false,120.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+997,49,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,1.5,0.0,1.0,0.0,0.0,20.0
+997,49,MedGemma 4B,chain-of-thought,false,8.0,0.6,0.2,1.5,3.0,0.8,5.0,0.1,40.0
+997,49,MedGemma 4B,chain-of-thought,false,120.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+997,49,MedGemma 4B,chain-of-thought,false,60.0,3.0,5.0,2.0,0.0,0.0,5.0,0.5,0.0
+997,49,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0
+998,49,MedGemma 4B,structured-output,false,8.0,0.5,0.5,1.0,2.0,1.0,5.0,0.2,40.0
+998,49,MedGemma 4B,structured-output,false,5.0,0.5,0.1,1.0,2.0,0.0,0.0,0.2,10.0
+998,49,MedGemma 4B,structured-output,false,5.0,0.5,0.1,1.0,75.0,0.0,0.0,0.2,5.0
+998,49,MedGemma 4B,structured-output,false,5.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+998,49,MedGemma 4B,structured-output,false,120.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+998,49,MedGemma 4B,structured-output,false,5.0,0.5,0.1,1.0,2.0,1.0,0.0,0.2,10.0
+998,49,MedGemma 4B,structured-output,false,5.0,0.5,0.1,1.0,2.0,0.0,0.0,0.2,10.0
+998,49,MedGemma 4B,structured-output,false,50.0,0.0,6.25,0.0,40.0,0.0,0.0,0.0,0.0
+998,49,MedGemma 4B,structured-output,false,50.0,1.0,4.5,0.0,2.0,0.0,0.0,0.5,0.0
+998,49,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+999,50,MedGemma 4B,zero-shot,false,8.0,0.6,0.5,1.7,4.0,0.9,5.0,0.2,140.0
+999,50,MedGemma 4B,zero-shot,false,100.0,6.0,9.0,2.5,300.0,0.4,100.0,0.2,5.0
+999,50,MedGemma 4B,zero-shot,false,60.0,8.0,3.0,12.0,50.0,9.0,150.0,0.5,230.0
+999,50,MedGemma 4B,zero-shot,false,20.0,1.0,0.1,4.0,3.0,1.0,5.0,0.6,200.0
+999,50,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0
+999,50,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+999,50,MedGemma 4B,zero-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+999,50,MedGemma 4B,zero-shot,false,200.0,25.0,15.0,0.0,700.0,0.0,100.0,6.0,300.0
+1000,50,MedGemma 4B,few-shot,false,15.0,1.0,0.5,4.0,2.0,1.0,5.0,0.2,160.0
+1000,50,MedGemma 4B,few-shot,false,110.0,6.0,9.0,1.0,200.0,0.5,40.0,0.3,20.0
+1000,50,MedGemma 4B,few-shot,false,60.0,4.0,2.0,6.0,70.0,4.0,75.0,0.3,160.0
+1000,50,MedGemma 4B,few-shot,false,20.0,1.0,0.2,4.0,3.0,1.0,0.0,0.5,200.0
+1000,50,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0
+1000,50,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1000,50,MedGemma 4B,few-shot,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1000,50,MedGemma 4B,few-shot,false,350.0,25.0,27.0,3.0,450.0,0.0,60.0,4.0,180.0
+1001,50,MedGemma 4B,chain-of-thought,false,6.0,0.7,0.1,2.0,2.0,1.0,4.0,0.2,150.0
+1001,50,MedGemma 4B,chain-of-thought,false,100.0,4.0,9.0,1.0,350.0,0.5,20.0,0.5,10.0
+1001,50,MedGemma 4B,chain-of-thought,false,5.0,3.0,0.5,2.0,5.0,1.0,10.0,0.2,50.0
+1001,50,MedGemma 4B,chain-of-thought,false,10.0,1.0,0.2,2.0,4.0,1.0,5.0,0.3,200.0
+1001,50,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0
+1001,50,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1001,50,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1001,50,MedGemma 4B,chain-of-thought,false,75.0,15.0,6.0,0.0,400.0,0.0,20.0,3.0,60.0
+1001,50,MedGemma 4B,chain-of-thought,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1002,50,MedGemma 4B,structured-output,false,8.0,0.6,0.5,1.5,2.0,0.8,10.0,0.2,150.0
+1002,50,MedGemma 4B,structured-output,false,100.0,1.0,9.0,0.5,200.0,0.0,20.0,0.3,40.0
+1002,50,MedGemma 4B,structured-output,false,25.0,4.0,0.5,3.0,40.0,2.0,100.0,0.3,50.0
+1002,50,MedGemma 4B,structured-output,false,40.0,1.0,0.2,8.0,6.0,0.0,5.0,0.3,250.0
+1002,50,MedGemma 4B,structured-output,false,80.0,20.0,6.0,0.0,350.0,0.0,50.0,6.0,400.0
+1002,50,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1002,50,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1002,50,MedGemma 4B,structured-output,false,5.0,0.5,0.1,1.0,2.0,0.0,0.0,0.1,0.0
+1002,50,MedGemma 4B,structured-output,false,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0

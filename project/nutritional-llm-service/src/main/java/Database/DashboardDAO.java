@@ -459,35 +459,10 @@ public class DashboardDAO {
                     "ORDER BY m.model_name, pt.technique_name";
 
         } else if ("hallucination".equals(exportType)) {
-            fileName = "layer3b_hallucination.csv";
-            sql =
-                    "SELECT " +
-                    "e.experiment_id, e.transcript_id, m.model_name, pt.technique_name, e.rag_enabled, " +
-                    "ir.name_original, ir.name_en, ir.is_hallucinated " +
-                    "FROM experiment e " +
-                    "JOIN llm_model m ON e.model_id = m.model_id " +
-                    "JOIN prompt_technique pt ON e.technique_id = pt.technique_id " +
-                    "JOIN nutrition_result nr ON e.experiment_id = nr.experiment_id " +
-                    "JOIN ingredient_result ir ON nr.result_id = ir.result_id " +
-                    "WHERE e.status = 'completed' " +
-                    "ORDER BY e.experiment_id, ir.ingredient_id";
+            return exportHallucinationCsv();
 
         } else if ("ingredient_detection".equals(exportType)) {
-            fileName = "layer3c_ingredient_detection.csv";
-            sql =
-                    "SELECT " +
-                    "e.experiment_id, e.transcript_id, m.model_name, pt.technique_name, e.rag_enabled, " +
-                    "COUNT(ir.ingredient_id) AS predicted_ingredient_count, " +
-                    "SUM(CASE WHEN ir.is_hallucinated = FALSE THEN 1 ELSE 0 END) AS non_hallucinated_count, " +
-                    "SUM(CASE WHEN ir.is_hallucinated = TRUE THEN 1 ELSE 0 END) AS hallucinated_count " +
-                    "FROM experiment e " +
-                    "JOIN llm_model m ON e.model_id = m.model_id " +
-                    "JOIN prompt_technique pt ON e.technique_id = pt.technique_id " +
-                    "JOIN nutrition_result nr ON e.experiment_id = nr.experiment_id " +
-                    "JOIN ingredient_result ir ON nr.result_id = ir.result_id " +
-                    "WHERE e.status = 'completed' " +
-                    "GROUP BY e.experiment_id, e.transcript_id, m.model_name, pt.technique_name, e.rag_enabled " +
-                    "ORDER BY e.experiment_id";
+            return exportIngredientDetectionCsv();
 
         } else if ("human_evaluation".equals(exportType)) {
             fileName = "layer4_human_evaluation.csv";
@@ -578,6 +553,134 @@ public class DashboardDAO {
 
         } catch (IOException e) {
             return "ERROR writing CSV file: " + e.getMessage();
+        }
+    }
+
+    private String exportHallucinationCsv() {
+        String fileName = "layer3b_hallucination.csv";
+        File exportFolder = new File("exports");
+        if (!exportFolder.exists()) {
+            exportFolder.mkdirs();
+        }
+        File csvFile = new File(exportFolder, fileName);
+        
+        String sql =
+                "SELECT " +
+                "e.experiment_id, e.transcript_id, m.model_name, pt.technique_name, e.rag_enabled, nr.result_id " +
+                "FROM experiment e " +
+                "JOIN llm_model m ON e.model_id = m.model_id " +
+                "JOIN prompt_technique pt ON e.technique_id = pt.technique_id " +
+                "JOIN nutrition_result nr ON e.experiment_id = nr.experiment_id " +
+                "WHERE e.status = 'completed' " +
+                "ORDER BY e.experiment_id";
+
+        try (
+                Connection conn = DBConnection.getConnection();
+                PreparedStatement stmt = conn.prepareStatement(sql);
+                ResultSet rs = stmt.executeQuery();
+                BufferedWriter writer = new BufferedWriter(new FileWriter(csvFile))
+        ) {
+            writer.write("experiment_id,transcript_id,model_name,technique_name,rag_enabled,name_original,name_en,is_hallucinated");
+            writer.newLine();
+
+            int rowCount = 0;
+            while (rs.next()) {
+                int experimentId = rs.getInt("experiment_id");
+                int transcriptId = rs.getInt("transcript_id");
+                String modelName = rs.getString("model_name");
+                String techniqueName = rs.getString("technique_name");
+                boolean ragEnabled = rs.getBoolean("rag_enabled");
+                int resultId = rs.getInt("result_id");
+
+                List<String[]> gtRows = getGroundTruthIngredientRows(conn, transcriptId);
+                List<String[]> llmRows = getPredictedIngredientRows(conn, resultId);
+
+                for (String[] llm : llmRows) {
+                    String nameOriginal = llm[0];
+                    String nameEn = llm[1];
+                    boolean found = false;
+
+                    for (String[] gt : gtRows) {
+                        if (isIngredientMatch(nameEn, gt[1])) {
+                            found = true;
+                            break;
+                        }
+                    }
+
+                    String isHallucinated = found ? "0" : "1";
+
+                    writer.write(escapeCsv(String.valueOf(experimentId)) + "," +
+                            escapeCsv(String.valueOf(transcriptId)) + "," +
+                            escapeCsv(modelName) + "," +
+                            escapeCsv(techniqueName) + "," +
+                            (ragEnabled ? "1" : "0") + "," +
+                            escapeCsv(nameOriginal) + "," +
+                            escapeCsv(nameEn) + "," +
+                            isHallucinated);
+                    writer.newLine();
+                    rowCount++;
+                }
+            }
+            return "CSV exported successfully.\nFile: " + csvFile.getAbsolutePath() + "\nRows: " + rowCount;
+        } catch (Exception e) {
+            return "ERROR exporting CSV: " + e.getMessage();
+        }
+    }
+
+    private String exportIngredientDetectionCsv() {
+        String fileName = "layer3c_ingredient_detection.csv";
+        File exportFolder = new File("exports");
+        if (!exportFolder.exists()) {
+            exportFolder.mkdirs();
+        }
+        File csvFile = new File(exportFolder, fileName);
+        
+        String sql =
+                "SELECT " +
+                "e.experiment_id, e.transcript_id, m.model_name, pt.technique_name, e.rag_enabled, nr.result_id " +
+                "FROM experiment e " +
+                "JOIN llm_model m ON e.model_id = m.model_id " +
+                "JOIN prompt_technique pt ON e.technique_id = pt.technique_id " +
+                "JOIN nutrition_result nr ON e.experiment_id = nr.experiment_id " +
+                "WHERE e.status = 'completed' " +
+                "ORDER BY e.experiment_id";
+
+        try (
+                Connection conn = DBConnection.getConnection();
+                PreparedStatement stmt = conn.prepareStatement(sql);
+                ResultSet rs = stmt.executeQuery();
+                BufferedWriter writer = new BufferedWriter(new FileWriter(csvFile))
+        ) {
+            writer.write("experiment_id,transcript_id,model_name,technique_name,rag_enabled,predicted_ingredient_count,non_hallucinated_count,hallucinated_count");
+            writer.newLine();
+
+            int rowCount = 0;
+            while (rs.next()) {
+                int experimentId = rs.getInt("experiment_id");
+                int transcriptId = rs.getInt("transcript_id");
+                String modelName = rs.getString("model_name");
+                String techniqueName = rs.getString("technique_name");
+                boolean ragEnabled = rs.getBoolean("rag_enabled");
+                int resultId = rs.getInt("result_id");
+
+                int hallucinatedCount = countHallucinatedIngredients(conn, transcriptId, resultId);
+                int predictedCount = countPredictedIngredients(conn, resultId);
+                int nonHallucinatedCount = predictedCount - hallucinatedCount;
+
+                writer.write(escapeCsv(String.valueOf(experimentId)) + "," +
+                        escapeCsv(String.valueOf(transcriptId)) + "," +
+                        escapeCsv(modelName) + "," +
+                        escapeCsv(techniqueName) + "," +
+                        (ragEnabled ? "1" : "0") + "," +
+                        predictedCount + "," +
+                        nonHallucinatedCount + "," +
+                        hallucinatedCount);
+                writer.newLine();
+                rowCount++;
+            }
+            return "CSV exported successfully.\nFile: " + csvFile.getAbsolutePath() + "\nRows: " + rowCount;
+        } catch (Exception e) {
+            return "ERROR exporting CSV: " + e.getMessage();
         }
     }
 

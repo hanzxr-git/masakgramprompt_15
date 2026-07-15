@@ -187,7 +187,6 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 186,198,48,Llama 3.2 3B Instruct,structured-output,,true,completed
 187,199,49,Llama 3.2 3B Instruct,structured-output,,true,completed
 188,200,50,Llama 3.2 3B Instruct,structured-output,Viral Smoked Salmon Cucumber Salad,true,completed
-378,403,2,Qwen 2.5 3B Instruct,zero-shot,Sardin Pasta,true,failed
 392,206,5,Phi-4-mini 3.8B Instruct,zero-shot,,true,failed
 435,202,1,Phi-4-mini 3.8B Instruct,zero-shot,Ayam Steam Halia,true,completed
 437,203,2,Phi-4-mini 3.8B Instruct,zero-shot,Sardin Pasta,true,completed
@@ -304,7 +303,6 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 575,304,3,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
 576,305,4,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
 577,306,5,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
-578,414,13,Qwen 2.5 3B Instruct,zero-shot,Beef Bulgogi Cheese Steak,true,failed
 579,307,6,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
 580,308,7,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
 581,309,8,Phi-4-mini 3.8B Instruct,chain-of-thought,,false,completed
@@ -394,15 +392,6 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 666,399,48,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
 667,400,49,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
 668,401,50,Phi-4-mini 3.8B Instruct,structured-output,,false,completed
-669,416,15,Qwen 2.5 3B Instruct,zero-shot,,true,failed
-670,417,16,Qwen 2.5 3B Instruct,zero-shot,Black Pepper Beef,true,failed
-672,419,18,Qwen 2.5 3B Instruct,zero-shot,Japchae,true,running
-673,420,19,Qwen 2.5 3B Instruct,zero-shot,,true,completed
-674,421,20,Qwen 2.5 3B Instruct,zero-shot,,true,completed
-675,422,21,Qwen 2.5 3B Instruct,zero-shot,Mee Sedap Creamy Chili Oil,true,completed
-676,423,22,Qwen 2.5 3B Instruct,zero-shot,,true,completed
-678,425,1,Qwen 2.5 3B Instruct,few-shot,Ayam Steam Halia,true,completed
-679,402,1,Qwen 2.5 3B Instruct,zero-shot,Ayam Steam Halia,true,completed
 681,427,1,Gemma-SEA-LION v4 4B,zero-shot,ayam steam halia,true,completed
 683,428,2,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 685,429,3,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
@@ -414,20 +403,14 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 697,436,9,Gemma-SEA-LION v4 4B,zero-shot,salmon sushi bag,true,completed
 699,437,10,Gemma-SEA-LION v4 4B,zero-shot,Gimari,true,completed
 701,438,11,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
-702,404,3,Qwen 2.5 3B Instruct,zero-shot,One Pot Chicken with Rice,true,completed
-705,433,3,Qwen 2.5 3B Instruct,few-shot,One Pot Chicken with Rice,true,completed
-706,405,4,Qwen 2.5 3B Instruct,zero-shot,Potato Salad,true,completed
 708,439,12,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 710,441,13,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
-711,406,5,Qwen 2.5 3B Instruct,zero-shot,HSP atau Halal Starter Pack,true,completed
 713,442,14,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 715,443,15,Gemma-SEA-LION v4 4B,zero-shot,Simple Roasted Chicken with Potato and Carrot,true,completed
 717,444,16,Gemma-SEA-LION v4 4B,zero-shot,Black Pepper Beef,true,completed
 720,445,17,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 722,446,18,Gemma-SEA-LION v4 4B,zero-shot,Japchae,true,completed
-723,440,4,Qwen 2.5 3B Instruct,few-shot,Potato Salad,true,completed
 725,448,19,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
-726,407,6,Qwen 2.5 3B Instruct,zero-shot,,false,completed
 728,449,20,Gemma-SEA-LION v4 4B,zero-shot,moktel buah naga,true,completed
 730,450,21,Gemma-SEA-LION v4 4B,zero-shot,Mee Sedap Creamy Chili Oil,true,completed
 732,451,22,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
@@ -437,32 +420,26 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 741,456,26,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 743,457,27,Gemma-SEA-LION v4 4B,zero-shot,bubur oat,true,completed
 745,458,28,Gemma-SEA-LION v4 4B,zero-shot,ice strawberry matcha latte,true,completed
-747,447,5,Qwen 2.5 3B Instruct,few-shot,Ayam Goreng dengan Plating dan Saus,true,completed
 748,459,29,Gemma-SEA-LION v4 4B,zero-shot,kek lava,true,completed
-750,408,7,Qwen 2.5 3B Instruct,zero-shot,,true,completed
 751,460,30,Gemma-SEA-LION v4 4B,zero-shot,strawberry sando,true,completed
 753,461,31,Gemma-SEA-LION v4 4B,zero-shot,Chili Cheese Fries,true,completed
 755,462,32,Gemma-SEA-LION v4 4B,zero-shot,Chilli Oil,true,completed
 758,463,33,Gemma-SEA-LION v4 4B,zero-shot,Hazelnut Spread & Honey Banana Julie's Cheese Cracker Snack,true,completed
 760,464,34,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 762,465,35,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
-763,455,6,Qwen 2.5 3B Instruct,few-shot,Tete-Tots,true,completed
 765,467,36,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 767,468,37,Gemma-SEA-LION v4 4B,zero-shot,spicy peanut butter noodles,true,completed
 769,469,38,Gemma-SEA-LION v4 4B,zero-shot,Caramelized Onion Pasta,true,completed
 771,470,39,Gemma-SEA-LION v4 4B,zero-shot,nasi goreng cerdik,true,completed
-773,409,8,Qwen 2.5 3B Instruct,zero-shot,Shark Shuka,true,completed
 774,471,40,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 776,472,41,Gemma-SEA-LION v4 4B,zero-shot,spicy peanut butter noodle,true,completed
 778,474,43,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 781,475,44,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
-783,466,7,Qwen 2.5 3B Instruct,few-shot,Hummus,true,completed
 784,477,46,Gemma-SEA-LION v4 4B,zero-shot,,true,completed
 786,480,48,Gemma-SEA-LION v4 4B,zero-shot,Cucumber Salad,true,completed
 788,481,49,Gemma-SEA-LION v4 4B,zero-shot,cucumber salad,true,completed
 789,482,50,Gemma-SEA-LION v4 4B,zero-shot,Viral Smoked Salmon Cucumber Salad,true,completed
 790,483,1,Gemma-SEA-LION v4 4B,few-shot,,true,completed
-791,410,9,Qwen 2.5 3B Instruct,zero-shot,Salmon Sushi,true,completed
 792,484,2,Gemma-SEA-LION v4 4B,few-shot,,true,completed
 793,485,3,Gemma-SEA-LION v4 4B,few-shot,,true,completed
 794,486,4,Gemma-SEA-LION v4 4B,few-shot,,true,completed
@@ -481,10 +458,8 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 808,500,17,Gemma-SEA-LION v4 4B,few-shot,,true,completed
 809,501,18,Gemma-SEA-LION v4 4B,few-shot,Japchae,true,completed
 810,502,19,Gemma-SEA-LION v4 4B,few-shot,,true,completed
-811,478,8,Qwen 2.5 3B Instruct,few-shot,,true,completed
 812,503,1,Gemma-SEA-LION v4 4B,chain-of-thought,Ayam Steam Halia,true,completed
 813,504,20,Gemma-SEA-LION v4 4B,few-shot,Moktel Buah Naga,true,completed
-814,411,10,Qwen 2.5 3B Instruct,zero-shot,Gimari,true,completed
 815,505,2,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
 816,506,21,Gemma-SEA-LION v4 4B,few-shot,Mee Sedap Creamy Chili Oil,true,completed
 817,507,3,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
@@ -499,7 +474,6 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 827,517,26,Gemma-SEA-LION v4 4B,few-shot,Garlic Chilli Oil,true,completed
 828,518,8,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
 829,519,27,Gemma-SEA-LION v4 4B,few-shot,Bubur Oat,true,completed
-830,494,9,Qwen 2.5 3B Instruct,few-shot,Salmon Sushi,true,completed
 831,520,9,Gemma-SEA-LION v4 4B,chain-of-thought,Salmon Sushi Bag,true,completed
 832,521,28,Gemma-SEA-LION v4 4B,few-shot,Ice Strawberry Matcha Latte,true,completed
 833,522,10,Gemma-SEA-LION v4 4B,chain-of-thought,Gimari,true,completed
@@ -507,7 +481,6 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 835,524,11,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
 836,525,30,Gemma-SEA-LION v4 4B,few-shot,Strawberry Sando,true,completed
 837,526,12,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
-838,412,11,Qwen 2.5 3B Instruct,zero-shot,Loaded Beef Nachos,true,completed
 839,527,31,Gemma-SEA-LION v4 4B,few-shot,Chili Cheese Fries,true,completed
 840,528,13,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
 841,529,32,Gemma-SEA-LION v4 4B,few-shot,Chilli Oil,true,completed
@@ -518,7 +491,6 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 847,534,16,Gemma-SEA-LION v4 4B,chain-of-thought,Black Pepper Beef with Broccoli,true,completed
 848,536,35,Gemma-SEA-LION v4 4B,few-shot,Ayam Goreng Raising Canes,true,completed
 849,537,17,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
-850,514,10,Qwen 2.5 3B Instruct,few-shot,Gimari,true,completed
 851,538,36,Gemma-SEA-LION v4 4B,few-shot,,true,completed
 852,539,18,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
 853,540,37,Gemma-SEA-LION v4 4B,few-shot,Spicy Peanut Butter Noodles,true,completed
@@ -576,7 +548,6 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 905,596,19,Gemma-SEA-LION v4 4B,structured-output,,true,completed
 906,598,43,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
 907,599,20,Gemma-SEA-LION v4 4B,structured-output,Moktel Buah Naga,true,completed
-908,572,1,MedGemma 4B,zero-shot,,true,completed
 909,600,44,Gemma-SEA-LION v4 4B,chain-of-thought,,true,completed
 910,601,21,Gemma-SEA-LION v4 4B,structured-output,,true,completed
 911,604,46,Gemma-SEA-LION v4 4B,chain-of-thought,Grilled Cajun Chicken with Creamy Butter Nasi Goreng,true,completed
@@ -603,25 +574,385 @@ result_id,experiment_id,transcript_id,model_name,technique_name,recipe_name,json
 932,626,39,Gemma-SEA-LION v4 4B,structured-output,,true,completed
 933,627,40,Gemma-SEA-LION v4 4B,structured-output,,true,completed
 934,628,41,Gemma-SEA-LION v4 4B,structured-output,,true,completed
-935,602,2,MedGemma 4B,zero-shot,,true,completed
 936,630,43,Gemma-SEA-LION v4 4B,structured-output,,true,completed
 937,632,44,Gemma-SEA-LION v4 4B,structured-output,,true,completed
 938,634,46,Gemma-SEA-LION v4 4B,structured-output,,true,completed
 939,636,48,Gemma-SEA-LION v4 4B,structured-output,Cucumber Salad,true,completed
 940,637,49,Gemma-SEA-LION v4 4B,structured-output,Cucumber Salad,true,completed
 941,638,50,Gemma-SEA-LION v4 4B,structured-output,Viral Smoked Salmon Cucumber Salad,true,completed
-942,631,3,MedGemma 4B,zero-shot,,true,completed
-943,639,4,MedGemma 4B,zero-shot,,true,completed
-944,646,5,MedGemma 4B,zero-shot,,true,completed
-945,643,1,Qwen 2.5 3B Instruct,chain-of-thought,Ayam Steam Halia,true,completed
-946,640,1,MedGemma 4B,few-shot,,true,completed
-947,644,1,Qwen 2.5 3B Instruct,structured-output,Ayam Steam Halia,true,completed
-948,647,6,MedGemma 4B,zero-shot,Tete-tots,true,completed
-949,648,2,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
-950,649,2,MedGemma 4B,few-shot,,true,completed
-951,653,3,MedGemma 4B,few-shot,,true,completed
-952,415,14,Qwen 2.5 3B Instruct,zero-shot,,true,completed
-953,652,3,Qwen 2.5 3B Instruct,chain-of-thought,One Pot Chicken with Rice,true,completed
-954,662,14,Qwen 2.5 3B Instruct,few-shot,,true,failed
-955,418,17,Qwen 2.5 3B Instruct,zero-shot,Creamy Chicken Alfredo Pasta,true,completed
-956,673,6,Qwen 2.5 3B Instruct,chain-of-thought,Tete-Tots,true,completed
+957,402,1,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+958,403,2,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+959,404,3,Qwen 2.5 3B Instruct,zero-shot,One Pot Chicken with Rice,true,completed
+960,405,4,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+961,406,5,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+962,407,6,Qwen 2.5 3B Instruct,zero-shot,Tete-Tots,true,completed
+963,408,7,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+964,409,8,Qwen 2.5 3B Instruct,zero-shot,Shark Shuka,true,completed
+965,410,9,Qwen 2.5 3B Instruct,zero-shot,Salmon Sushi,true,completed
+966,411,10,Qwen 2.5 3B Instruct,zero-shot,Gimari,true,completed
+967,412,11,Qwen 2.5 3B Instruct,zero-shot,Loaded Beef Nachos,true,completed
+968,413,12,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+969,414,13,Qwen 2.5 3B Instruct,zero-shot,Beef Bulgogi Cheese Steak,true,completed
+970,415,14,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+971,416,15,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+972,417,16,Qwen 2.5 3B Instruct,zero-shot,Black Pepper Beef,true,completed
+973,425,1,Qwen 2.5 3B Instruct,few-shot,,true,completed
+974,418,17,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+975,643,1,Qwen 2.5 3B Instruct,chain-of-thought,Ayam Steam Halia,true,completed
+976,644,1,Qwen 2.5 3B Instruct,structured-output,Ayam Steam Halia,true,completed
+977,426,2,Qwen 2.5 3B Instruct,few-shot,,true,completed
+978,419,18,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+979,648,2,Qwen 2.5 3B Instruct,chain-of-thought,Sardin Pasta,true,completed
+980,650,2,Qwen 2.5 3B Instruct,structured-output,,true,completed
+981,433,3,Qwen 2.5 3B Instruct,few-shot,Ayam Bakar dengan Nasi,true,completed
+982,420,19,Qwen 2.5 3B Instruct,zero-shot,Korean Fried Chicken,true,completed
+983,652,3,Qwen 2.5 3B Instruct,chain-of-thought,One Pot Chicken with Rice,true,completed
+984,659,3,Qwen 2.5 3B Instruct,structured-output,,true,completed
+985,440,4,Qwen 2.5 3B Instruct,few-shot,,true,completed
+986,421,20,Qwen 2.5 3B Instruct,zero-shot,Moktel Buah Naga,true,completed
+987,658,4,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+988,666,4,Qwen 2.5 3B Instruct,structured-output,,true,completed
+989,447,5,Qwen 2.5 3B Instruct,few-shot,,true,completed
+990,422,21,Qwen 2.5 3B Instruct,zero-shot,Mee Sedap Creamy Chili Oil,true,completed
+991,667,5,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+992,674,5,Qwen 2.5 3B Instruct,structured-output,,true,completed
+993,455,6,Qwen 2.5 3B Instruct,few-shot,Tete-Tots,true,completed
+994,423,22,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+995,673,6,Qwen 2.5 3B Instruct,chain-of-thought,Tete-Tots,true,completed
+996,682,6,Qwen 2.5 3B Instruct,structured-output,,false,completed
+997,466,7,Qwen 2.5 3B Instruct,few-shot,Hummus,true,completed
+998,424,23,Qwen 2.5 3B Instruct,zero-shot,Ingredient 1,true,completed
+999,675,7,Qwen 2.5 3B Instruct,chain-of-thought,Hummus,true,completed
+1000,683,7,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1001,478,8,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1002,684,24,Qwen 2.5 3B Instruct,zero-shot,Ayam Bakar Madu,true,completed
+1003,685,8,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1004,686,8,Qwen 2.5 3B Instruct,structured-output,Shark Shuka,true,completed
+1005,494,9,Qwen 2.5 3B Instruct,few-shot,Salmon Sushi,true,completed
+1006,687,25,Qwen 2.5 3B Instruct,zero-shot,Brownie Baked Oatmeal,true,completed
+1007,688,9,Qwen 2.5 3B Instruct,chain-of-thought,Salmon Sushi,true,completed
+1008,689,9,Qwen 2.5 3B Instruct,structured-output,Salmon Sushi,true,completed
+1009,514,10,Qwen 2.5 3B Instruct,few-shot,Gimari (Seaweed and Japchae),true,completed
+1010,690,26,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+1011,691,10,Qwen 2.5 3B Instruct,chain-of-thought,Gimari,true,completed
+1012,692,10,Qwen 2.5 3B Instruct,structured-output,Gimari,true,completed
+1013,535,11,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1014,693,27,Qwen 2.5 3B Instruct,zero-shot,Bubur Oat,true,completed
+1015,694,11,Qwen 2.5 3B Instruct,chain-of-thought,Loaded Beef Nachos,true,completed
+1016,695,11,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1017,645,12,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1018,696,28,Qwen 2.5 3B Instruct,zero-shot,Ice Strawberry Matcha Latte,true,completed
+1019,697,12,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1020,698,12,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1021,656,13,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1022,699,29,Qwen 2.5 3B Instruct,zero-shot,Kek Lava,true,completed
+1023,700,13,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1024,701,13,Qwen 2.5 3B Instruct,structured-output,Beef Bulgogi Cheese Steak,true,completed
+1025,662,14,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1026,702,30,Qwen 2.5 3B Instruct,zero-shot,Strawberry Sando,true,completed
+1027,703,14,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1028,704,14,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1029,669,15,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1030,705,31,Qwen 2.5 3B Instruct,zero-shot,Chili Cheese Fries,true,completed
+1031,706,15,Qwen 2.5 3B Instruct,chain-of-thought,Simple Roasted Chicken with Vegetables,true,completed
+1032,707,15,Qwen 2.5 3B Instruct,structured-output,Simple Roasted Chicken with Vegetables,true,completed
+1033,679,16,Qwen 2.5 3B Instruct,few-shot,Black Pepper Beef,true,completed
+1034,708,32,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+1035,709,16,Qwen 2.5 3B Instruct,chain-of-thought,Black Pepper Beef,true,completed
+1036,710,16,Qwen 2.5 3B Instruct,structured-output,Black Pepper Beef with Vegetable Stir-Fry,true,completed
+1037,711,17,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1038,712,33,Qwen 2.5 3B Instruct,zero-shot,Biskut Sehat untuk Pelari,true,completed
+1039,713,17,Qwen 2.5 3B Instruct,chain-of-thought,Creamy Chicken Alfredo Pasta,true,completed
+1040,714,17,Qwen 2.5 3B Instruct,structured-output,Creamy Chicken Alfredo Pasta,true,completed
+1041,715,18,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1042,716,34,Qwen 2.5 3B Instruct,zero-shot,Macaroni Soup,true,completed
+1043,717,18,Qwen 2.5 3B Instruct,chain-of-thought,Japchae,true,completed
+1044,718,18,Qwen 2.5 3B Instruct,structured-output,Japchae,true,completed
+1045,719,19,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1046,720,35,Qwen 2.5 3B Instruct,zero-shot,Ayam Goreng Raisin,true,completed
+1047,721,19,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1048,722,19,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1049,723,20,Qwen 2.5 3B Instruct,few-shot,Moktil Buah Naga,true,completed
+1050,724,36,Qwen 2.5 3B Instruct,zero-shot,Egg Tikka Masala,true,completed
+1051,725,20,Qwen 2.5 3B Instruct,chain-of-thought,Moktil Buah Naga,true,completed
+1052,726,20,Qwen 2.5 3B Instruct,structured-output,Moktil Buah Naga,true,completed
+1053,727,21,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1054,728,37,Qwen 2.5 3B Instruct,zero-shot,Spicy Peanut Butter Noodles,true,completed
+1055,729,21,Qwen 2.5 3B Instruct,chain-of-thought,Mee Sedap Creamy Chili Oil,true,completed
+1056,730,21,Qwen 2.5 3B Instruct,structured-output,Mee Sedap Creamy Chili Oil,true,completed
+1057,731,22,Qwen 2.5 3B Instruct,few-shot,Noodle Instant,true,completed
+1058,732,38,Qwen 2.5 3B Instruct,zero-shot,Caramelized Onion Pasta,true,completed
+1059,733,22,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1060,734,22,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1061,735,23,Qwen 2.5 3B Instruct,few-shot,Cheesy Beef Taquito and Avocado Cheese,true,completed
+1062,736,39,Qwen 2.5 3B Instruct,zero-shot,Nasi Goreng Cerdik,true,completed
+1063,737,23,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1064,738,23,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1065,739,24,Qwen 2.5 3B Instruct,few-shot,Ayam Bakar Madu,true,completed
+1066,740,40,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+1067,741,24,Qwen 2.5 3B Instruct,chain-of-thought,Ayam Bakar Madu,true,completed
+1068,742,24,Qwen 2.5 3B Instruct,structured-output,Ayam Bakar Madu,true,completed
+1069,743,25,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1070,744,41,Qwen 2.5 3B Instruct,zero-shot,Spicy Peanut Butter Noodle,true,completed
+1071,745,25,Qwen 2.5 3B Instruct,chain-of-thought,Brownie Baked Oatmeal,true,completed
+1072,746,25,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1073,747,26,Qwen 2.5 3B Instruct,few-shot,Shamida Chilli Oil Noodle,true,completed
+1074,749,43,Qwen 2.5 3B Instruct,zero-shot,Bolognese Sauce,true,completed
+1075,750,26,Qwen 2.5 3B Instruct,chain-of-thought,Shamida Chilli Oil Noodle,true,completed
+1076,751,26,Qwen 2.5 3B Instruct,structured-output,Garlic Chilli Oil Noodle,true,completed
+1077,752,27,Qwen 2.5 3B Instruct,few-shot,Bubur Oat Ayam,true,completed
+1078,753,44,Qwen 2.5 3B Instruct,zero-shot,Beef Stir Fry,true,completed
+1079,754,27,Qwen 2.5 3B Instruct,chain-of-thought,Bubur Oat Mentah dengan Ayam dan Minyak Pepek,true,completed
+1080,755,27,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1081,756,28,Qwen 2.5 3B Instruct,few-shot,Ice Strawberry Matcha Latte,true,completed
+1082,758,46,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+1083,759,28,Qwen 2.5 3B Instruct,chain-of-thought,Ice Strawberry Matcha Latte,true,completed
+1084,760,28,Qwen 2.5 3B Instruct,structured-output,Ice Strawberry Matcha Latte,true,completed
+1085,761,29,Qwen 2.5 3B Instruct,few-shot,Kek Lava,true,completed
+1086,763,48,Qwen 2.5 3B Instruct,zero-shot,Cucumber Salad,true,completed
+1087,764,29,Qwen 2.5 3B Instruct,chain-of-thought,Kek Lava,true,completed
+1088,765,29,Qwen 2.5 3B Instruct,structured-output,Kek Lava,true,completed
+1089,766,30,Qwen 2.5 3B Instruct,few-shot,Strawberry Sando,true,completed
+1090,767,49,Qwen 2.5 3B Instruct,zero-shot,,true,completed
+1091,768,30,Qwen 2.5 3B Instruct,chain-of-thought,Strawberry Sandoe,true,completed
+1092,769,30,Qwen 2.5 3B Instruct,structured-output,Strawberry Sando,true,completed
+1093,770,31,Qwen 2.5 3B Instruct,few-shot,Chili Cheese Fries,true,completed
+1094,771,50,Qwen 2.5 3B Instruct,zero-shot,Viral Smoked Salmon Cucumber Salad,true,completed
+1095,772,31,Qwen 2.5 3B Instruct,chain-of-thought,Chili Cheese Fries,true,completed
+1096,773,31,Qwen 2.5 3B Instruct,structured-output,Chili Cheese Fries,true,completed
+1097,774,32,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1098,775,32,Qwen 2.5 3B Instruct,chain-of-thought,Contoh Contoh Chilli Oil,true,completed
+1099,776,32,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1100,777,33,Qwen 2.5 3B Instruct,few-shot,Kacang Merah & Peppernut Snack,true,completed
+1101,778,33,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1102,779,33,Qwen 2.5 3B Instruct,structured-output,Stringy Hazelnut Banana Biscuits,true,completed
+1103,780,34,Qwen 2.5 3B Instruct,few-shot,Bacon,true,completed
+1104,572,1,MedGemma 4B,zero-shot,,true,completed
+1105,640,1,MedGemma 4B,few-shot,,true,completed
+1106,641,1,MedGemma 4B,chain-of-thought,,true,completed
+1107,642,1,MedGemma 4B,structured-output,,true,completed
+1108,602,2,MedGemma 4B,zero-shot,,true,completed
+1109,649,2,MedGemma 4B,few-shot,,true,completed
+1110,654,2,MedGemma 4B,chain-of-thought,,true,completed
+1111,781,34,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1112,655,2,MedGemma 4B,structured-output,,true,completed
+1113,631,3,MedGemma 4B,zero-shot,One Pot Chicken with Rice,true,completed
+1114,653,3,MedGemma 4B,few-shot,,true,completed
+1115,663,3,MedGemma 4B,chain-of-thought,One Pot Chicken with Rice,true,completed
+1116,661,3,MedGemma 4B,structured-output,,true,completed
+1117,639,4,MedGemma 4B,zero-shot,,true,completed
+1118,782,34,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1119,783,35,Qwen 2.5 3B Instruct,few-shot,Ayam Goreng Nipbles dengan Sauce Raising Canes,true,completed
+1120,657,4,MedGemma 4B,few-shot,,true,completed
+1121,784,35,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1122,785,35,Qwen 2.5 3B Instruct,structured-output,Ayam Goreng Tepung Raisin,true,completed
+1123,671,4,MedGemma 4B,chain-of-thought,,true,completed
+1124,786,36,Qwen 2.5 3B Instruct,few-shot,water,true,completed
+1125,668,4,MedGemma 4B,structured-output,,true,completed
+1126,646,5,MedGemma 4B,zero-shot,,true,completed
+1127,664,5,MedGemma 4B,few-shot,,true,completed
+1128,680,5,MedGemma 4B,chain-of-thought,,true,completed
+1129,787,36,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1130,677,5,MedGemma 4B,structured-output,,true,completed
+1131,647,6,MedGemma 4B,zero-shot,Tete-tots,true,completed
+1132,670,6,MedGemma 4B,few-shot,Tete-tots,true,completed
+1133,790,6,MedGemma 4B,chain-of-thought,Tete-tots,true,completed
+1134,788,36,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1135,789,37,Qwen 2.5 3B Instruct,few-shot,Spicy Peanut Butter Noodles,true,completed
+1136,792,6,MedGemma 4B,structured-output,Tete-tots,true,completed
+1137,791,37,Qwen 2.5 3B Instruct,chain-of-thought,Spicy Peanut Butter Noodles,true,completed
+1138,794,37,Qwen 2.5 3B Instruct,structured-output,Spicy Peanut Butter Noodles,true,completed
+1139,651,7,MedGemma 4B,zero-shot,,true,completed
+1140,795,38,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1141,797,38,Qwen 2.5 3B Instruct,chain-of-thought,Caramelized Onion Pasta,true,completed
+1142,798,38,Qwen 2.5 3B Instruct,structured-output,Caramelized Onion Pasta,true,completed
+1143,678,7,MedGemma 4B,few-shot,,true,completed
+1144,799,39,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1145,800,39,Qwen 2.5 3B Instruct,chain-of-thought,Nasi Goreng Cerdik,true,completed
+1146,793,7,MedGemma 4B,chain-of-thought,Hummus,true,completed
+1147,801,39,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1148,803,40,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1149,796,7,MedGemma 4B,structured-output,,true,completed
+1150,804,40,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1151,806,40,Qwen 2.5 3B Instruct,structured-output,Chicken Palm Sandwich,true,completed
+1152,660,8,MedGemma 4B,zero-shot,,true,completed
+1153,807,41,Qwen 2.5 3B Instruct,few-shot,Noodle Spicy Peanut Butter,true,completed
+1154,809,41,Qwen 2.5 3B Instruct,chain-of-thought,Spicy Peanut Butter Noodle,true,completed
+1155,802,8,MedGemma 4B,few-shot,,true,completed
+1156,810,41,Qwen 2.5 3B Instruct,structured-output,Spicy Peanut Butter Noodle,true,completed
+1157,805,8,MedGemma 4B,chain-of-thought,,true,completed
+1158,812,43,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1159,808,8,MedGemma 4B,structured-output,,true,completed
+1160,665,9,MedGemma 4B,zero-shot,Salmon Sushi,true,completed
+1161,815,9,MedGemma 4B,few-shot,Salmon Sushi,true,completed
+1162,818,9,MedGemma 4B,chain-of-thought,Salmon Sushi,true,completed
+1163,820,9,MedGemma 4B,structured-output,Salmon Sushi,true,completed
+1164,672,10,MedGemma 4B,zero-shot,Gimari,true,completed
+1165,821,10,MedGemma 4B,few-shot,Gimari,true,completed
+1166,822,10,MedGemma 4B,chain-of-thought,Gimari,true,completed
+1167,823,10,MedGemma 4B,structured-output,Gimari,true,completed
+1168,681,11,MedGemma 4B,zero-shot,,true,completed
+1169,824,11,MedGemma 4B,few-shot,,true,completed
+1170,825,11,MedGemma 4B,chain-of-thought,,true,completed
+1171,826,11,MedGemma 4B,structured-output,,true,completed
+1172,814,43,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1173,817,43,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1174,827,12,MedGemma 4B,zero-shot,,true,completed
+1175,828,12,MedGemma 4B,few-shot,,true,completed
+1176,829,12,MedGemma 4B,chain-of-thought,,true,completed
+1177,830,12,MedGemma 4B,structured-output,,true,completed
+1178,833,13,MedGemma 4B,zero-shot,,true,completed
+1179,834,13,MedGemma 4B,few-shot,,true,completed
+1180,835,13,MedGemma 4B,chain-of-thought,,true,completed
+1181,836,13,MedGemma 4B,structured-output,,true,completed
+1182,837,14,MedGemma 4B,zero-shot,,true,completed
+1183,838,14,MedGemma 4B,few-shot,,true,completed
+1184,839,14,MedGemma 4B,chain-of-thought,,true,completed
+1185,819,44,Qwen 2.5 3B Instruct,few-shot,Beef Stir Fry,true,completed
+1186,840,14,MedGemma 4B,structured-output,,true,completed
+1187,841,15,MedGemma 4B,zero-shot,,true,completed
+1188,842,15,MedGemma 4B,few-shot,,true,completed
+1189,843,15,MedGemma 4B,chain-of-thought,,true,completed
+1190,846,15,MedGemma 4B,structured-output,,true,completed
+1191,847,16,MedGemma 4B,zero-shot,,true,completed
+1192,831,44,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1193,848,16,MedGemma 4B,few-shot,,true,completed
+1194,832,44,Qwen 2.5 3B Instruct,structured-output,Beef Stir Fry,true,completed
+1195,849,16,MedGemma 4B,chain-of-thought,,true,completed
+1196,845,46,Qwen 2.5 3B Instruct,few-shot,Grilled Cajun Chicken with Simple Butter Nasi Goreng,true,completed
+1197,853,46,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1198,850,16,MedGemma 4B,structured-output,,true,completed
+1199,856,46,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1200,859,48,Qwen 2.5 3B Instruct,few-shot,Cireng Pepes Cucur,true,completed
+1201,851,17,MedGemma 4B,zero-shot,,true,completed
+1202,861,48,Qwen 2.5 3B Instruct,chain-of-thought,,true,completed
+1203,854,17,MedGemma 4B,few-shot,,true,completed
+1204,864,48,Qwen 2.5 3B Instruct,structured-output,Cucumber Salad with Homemade Sambal,true,completed
+1205,865,49,Qwen 2.5 3B Instruct,few-shot,Salad Pepaya,true,completed
+1206,857,17,MedGemma 4B,chain-of-thought,,true,completed
+1207,867,49,Qwen 2.5 3B Instruct,chain-of-thought,Cucumber Salad with Chili Oil and Sesame Seeds,true,completed
+1208,869,49,Qwen 2.5 3B Instruct,structured-output,Cucumber Salad,true,completed
+1209,862,17,MedGemma 4B,structured-output,,true,completed
+1210,870,50,Qwen 2.5 3B Instruct,few-shot,,true,completed
+1211,872,50,Qwen 2.5 3B Instruct,chain-of-thought,,false,completed
+1212,873,50,Qwen 2.5 3B Instruct,structured-output,,true,completed
+1213,866,18,MedGemma 4B,zero-shot,Japchae,true,completed
+1214,868,18,MedGemma 4B,few-shot,Japchae,true,completed
+1215,871,18,MedGemma 4B,chain-of-thought,,true,completed
+1216,874,18,MedGemma 4B,structured-output,,true,completed
+1217,875,19,MedGemma 4B,zero-shot,,true,completed
+1218,876,19,MedGemma 4B,few-shot,,true,completed
+1219,877,19,MedGemma 4B,chain-of-thought,,true,completed
+1220,878,19,MedGemma 4B,structured-output,,true,completed
+1221,879,20,MedGemma 4B,zero-shot,Moktel Buah Naga,true,completed
+1222,880,20,MedGemma 4B,few-shot,Moktel Buah Naga,true,completed
+1223,881,20,MedGemma 4B,chain-of-thought,Moktel Buah Naga,true,completed
+1224,882,20,MedGemma 4B,structured-output,Moktel Buah Naga,true,completed
+1225,883,21,MedGemma 4B,zero-shot,,true,completed
+1226,884,21,MedGemma 4B,few-shot,,true,completed
+1227,885,21,MedGemma 4B,chain-of-thought,,true,completed
+1228,886,21,MedGemma 4B,structured-output,Mee Sedap Creamy Chili Oil,true,completed
+1229,887,22,MedGemma 4B,zero-shot,,true,completed
+1230,888,22,MedGemma 4B,few-shot,,true,completed
+1231,889,22,MedGemma 4B,chain-of-thought,,true,completed
+1232,890,22,MedGemma 4B,structured-output,,true,completed
+1233,891,23,MedGemma 4B,zero-shot,,true,completed
+1234,892,23,MedGemma 4B,few-shot,,true,completed
+1235,893,23,MedGemma 4B,chain-of-thought,,true,completed
+1236,894,23,MedGemma 4B,structured-output,,true,completed
+1237,895,24,MedGemma 4B,zero-shot,ayam bakar madu,true,completed
+1238,896,24,MedGemma 4B,few-shot,Ayam Bakar Madu,true,completed
+1239,897,24,MedGemma 4B,chain-of-thought,Ayam Bakar Madu,true,completed
+1240,898,24,MedGemma 4B,structured-output,Ayam Bakar Madu,true,completed
+1241,899,25,MedGemma 4B,zero-shot,Brownie Baked Oat Meal,true,completed
+1242,900,25,MedGemma 4B,few-shot,Brownie Baked Oat Meal,true,completed
+1243,901,25,MedGemma 4B,chain-of-thought,Brownie Baked Oat Meal,true,completed
+1244,902,25,MedGemma 4B,structured-output,Brownie Baked Oat Meal,true,completed
+1245,903,26,MedGemma 4B,zero-shot,Garlic Chilli Oil,true,completed
+1246,904,26,MedGemma 4B,few-shot,Chilli Oil,true,completed
+1247,905,26,MedGemma 4B,chain-of-thought,Garlic Chilli Oil Noodles,true,completed
+1248,906,26,MedGemma 4B,structured-output,Garlic Chilli Oil,true,completed
+1249,907,27,MedGemma 4B,zero-shot,,true,completed
+1250,908,27,MedGemma 4B,few-shot,,true,completed
+1251,909,27,MedGemma 4B,chain-of-thought,,true,completed
+1252,910,27,MedGemma 4B,structured-output,,true,completed
+1253,911,28,MedGemma 4B,zero-shot,Ice Strawberry Matcha Latte,true,completed
+1254,912,28,MedGemma 4B,few-shot,Air Gen Z Strawberry Matcha Latte,true,completed
+1255,913,28,MedGemma 4B,chain-of-thought,Ice Strawberry Matcha Latte,true,completed
+1256,914,28,MedGemma 4B,structured-output,Ice Strawberry Matcha Latte,true,completed
+1257,915,29,MedGemma 4B,zero-shot,kek lava,true,completed
+1258,916,29,MedGemma 4B,few-shot,Kek Lava,true,completed
+1259,917,29,MedGemma 4B,chain-of-thought,Kek Lava,true,completed
+1260,918,29,MedGemma 4B,structured-output,Kek Lava,true,completed
+1261,919,30,MedGemma 4B,zero-shot,Strawberry Sando,true,completed
+1262,920,30,MedGemma 4B,few-shot,Strawberry Sando,true,completed
+1263,921,30,MedGemma 4B,chain-of-thought,Strawberry Sando,true,completed
+1264,922,30,MedGemma 4B,structured-output,Strawberry Sando,true,completed
+1265,923,31,MedGemma 4B,zero-shot,,true,completed
+1266,924,31,MedGemma 4B,few-shot,Chili Cheese Fries,true,completed
+1267,925,31,MedGemma 4B,chain-of-thought,,true,completed
+1268,926,31,MedGemma 4B,structured-output,,true,completed
+1269,927,32,MedGemma 4B,zero-shot,,true,completed
+1270,928,32,MedGemma 4B,few-shot,Chilli Oil,true,completed
+1271,929,32,MedGemma 4B,chain-of-thought,,true,completed
+1272,930,32,MedGemma 4B,structured-output,,true,completed
+1273,931,33,MedGemma 4B,zero-shot,Biskut Pisang Hazelnut Madu,true,completed
+1274,932,33,MedGemma 4B,few-shot,Hazelnut Banana Snack,true,completed
+1275,933,33,MedGemma 4B,chain-of-thought,Hazelnut and Banana Energy Bites,true,completed
+1276,934,33,MedGemma 4B,structured-output,Hazelnut Spread & Banana with Julie's Cheese Cracker Snack,true,completed
+1277,935,34,MedGemma 4B,zero-shot,,true,completed
+1278,936,34,MedGemma 4B,few-shot,,true,completed
+1279,937,34,MedGemma 4B,chain-of-thought,,true,completed
+1280,938,34,MedGemma 4B,structured-output,,true,completed
+1281,939,35,MedGemma 4B,zero-shot,Ayam Goreng Raising Canes,true,completed
+1282,940,35,MedGemma 4B,few-shot,,true,completed
+1283,941,35,MedGemma 4B,chain-of-thought,Ayam Goreng Raising Canes,true,completed
+1284,942,35,MedGemma 4B,structured-output,Ayam Goreng Raising Canes,true,completed
+1285,943,36,MedGemma 4B,zero-shot,,true,completed
+1286,944,36,MedGemma 4B,few-shot,,true,completed
+1287,945,36,MedGemma 4B,chain-of-thought,,true,completed
+1288,946,36,MedGemma 4B,structured-output,,true,completed
+1289,947,37,MedGemma 4B,zero-shot,,true,completed
+1290,948,37,MedGemma 4B,few-shot,,true,completed
+1291,949,37,MedGemma 4B,chain-of-thought,,true,completed
+1292,950,37,MedGemma 4B,structured-output,,true,completed
+1293,951,38,MedGemma 4B,zero-shot,,true,completed
+1294,952,38,MedGemma 4B,few-shot,Caramelized Onion Pasta,true,completed
+1295,953,38,MedGemma 4B,chain-of-thought,,true,completed
+1296,954,38,MedGemma 4B,structured-output,,true,completed
+1297,955,39,MedGemma 4B,zero-shot,Nasi Goreng Cerdik,true,completed
+1298,956,39,MedGemma 4B,few-shot,Nasi Goreng Cerdik,true,completed
+1299,957,39,MedGemma 4B,chain-of-thought,Nasi Goreng Cerdik,true,completed
+1300,958,39,MedGemma 4B,structured-output,,true,completed
+1301,959,40,MedGemma 4B,zero-shot,Chicken Palm Sandwich,true,completed
+1302,960,40,MedGemma 4B,few-shot,,true,completed
+1303,961,40,MedGemma 4B,chain-of-thought,,true,completed
+1304,962,40,MedGemma 4B,structured-output,,true,completed
+1305,963,41,MedGemma 4B,zero-shot,,true,completed
+1306,964,41,MedGemma 4B,few-shot,,true,completed
+1307,965,41,MedGemma 4B,chain-of-thought,,true,completed
+1308,966,41,MedGemma 4B,structured-output,,true,completed
+1309,968,43,MedGemma 4B,zero-shot,,true,completed
+1310,970,43,MedGemma 4B,few-shot,,true,completed
+1311,972,43,MedGemma 4B,chain-of-thought,,true,completed
+1312,974,43,MedGemma 4B,structured-output,,true,completed
+1313,975,44,MedGemma 4B,zero-shot,,true,completed
+1314,976,44,MedGemma 4B,few-shot,,true,completed
+1315,977,44,MedGemma 4B,chain-of-thought,,true,completed
+1316,978,44,MedGemma 4B,structured-output,,true,completed
+1317,980,46,MedGemma 4B,zero-shot,,true,completed
+1318,982,46,MedGemma 4B,few-shot,Grilled Cajun Chicken with Butter Nasi Goreng,true,completed
+1319,984,46,MedGemma 4B,chain-of-thought,,true,completed
+1320,986,46,MedGemma 4B,structured-output,,true,completed
+1321,988,48,MedGemma 4B,zero-shot,Cucumber Salad,true,completed
+1322,990,48,MedGemma 4B,few-shot,,true,completed
+1323,992,48,MedGemma 4B,chain-of-thought,Cucumber Salad,true,completed
+1324,994,48,MedGemma 4B,structured-output,Cucumber Salad,true,completed
+1325,995,49,MedGemma 4B,zero-shot,Cucumber Salad,true,completed
+1326,996,49,MedGemma 4B,few-shot,Cucumber Salad,true,completed
+1327,997,49,MedGemma 4B,chain-of-thought,Cucumber Salad,true,completed
+1328,998,49,MedGemma 4B,structured-output,Cucumber Salad,true,completed
+1329,999,50,MedGemma 4B,zero-shot,Viral Smoked Salmon Cucumber Salad,true,completed
+1330,1000,50,MedGemma 4B,few-shot,Viral Smoked Salmon Cucumber Salad,true,completed
+1331,1001,50,MedGemma 4B,chain-of-thought,Viral Smoked Salmon Cucumber Salad,true,completed
+1332,1002,50,MedGemma 4B,structured-output,Viral Smoked Salmon Cucumber Salad,true,completed

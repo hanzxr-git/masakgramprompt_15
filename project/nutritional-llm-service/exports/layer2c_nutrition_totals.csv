@@ -1,0 +1,957 @@
+experiment_id,transcript_id,model_name,technique_name,rag_enabled,recipe_name,total_calories,total_protein_g,total_fat_g,total_carbohydrate_g,total_sodium_mg,total_sugars_g
+1,1,Llama 3.2 3B Instruct,zero-shot,false,,165.0,31.0,11.6,0.0,200.0,0.0
+2,2,Llama 3.2 3B Instruct,zero-shot,false,Sardin Pasta,0.0,40.0,0.0,60.0,200.0,12.0
+3,3,Llama 3.2 3B Instruct,zero-shot,false,One Pot Chicken with Rice,0.0,0.0,0.0,0.0,0.0,0.0
+4,4,Llama 3.2 3B Instruct,zero-shot,false,,30.0,2.5,0.0,7.0,10.0,7.0
+5,5,Llama 3.2 3B Instruct,zero-shot,false,HSP Halal Starter Pack,0.0,0.0,0.0,0.0,0.0,0.0
+6,6,Llama 3.2 3B Instruct,zero-shot,false,,3600.0,30.0,60.0,900.0,1500.0,60.0
+7,7,Llama 3.2 3B Instruct,zero-shot,false,,12.0,0.3,0.3,2.0,0.0,0.5
+8,8,Llama 3.2 3B Instruct,zero-shot,false,,25.0,1.0,0.5,6.0,1.0,4.0
+9,9,Llama 3.2 3B Instruct,zero-shot,false,,360.0,35.0,12.0,0.0,200.0,0.0
+10,10,Llama 3.2 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+11,11,Llama 3.2 3B Instruct,zero-shot,false,Loaded Beef Nachos,0.0,0.0,0.0,0.0,0.0,0.0
+12,12,Llama 3.2 3B Instruct,zero-shot,false,,0.0,37.5,0.0,0.0,0.0,0.0
+13,13,Llama 3.2 3B Instruct,zero-shot,false,Beef Bulgogi Cheese Steak,0.0,0.0,0.0,0.0,0.0,0.0
+14,14,Llama 3.2 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+15,15,Llama 3.2 3B Instruct,zero-shot,false,,360.0,60.0,60.0,0.0,1000.0,0.0
+16,16,Llama 3.2 3B Instruct,zero-shot,false,,200.0,2.0,0.0,40.0,10.0,8.0
+17,17,Llama 3.2 3B Instruct,zero-shot,false,Creamy Chicken Alfredo Pasta,0.0,0.0,0.0,0.0,0.0,0.0
+18,18,Llama 3.2 3B Instruct,zero-shot,false,,0.0,50.0,0.0,0.0,350.0,0.0
+19,19,Llama 3.2 3B Instruct,zero-shot,false,Korean Fried Chicken,0.0,45.0,60.0,30.0,600.0,15.0
+20,20,Llama 3.2 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+21,21,Llama 3.2 3B Instruct,zero-shot,false,Mee Sedap Creamy Chili Oil,0.0,0.0,0.0,0.0,0.0,0.0
+22,22,Llama 3.2 3B Instruct,zero-shot,false,Daging Shabu-Shabu with Instant Noodles and Vegetables,0.0,0.0,0.0,0.0,0.0,0.0
+23,23,Llama 3.2 3B Instruct,zero-shot,false,Cheesy Beef Taquito,0.0,0.0,0.0,0.0,0.0,0.0
+24,24,Llama 3.2 3B Instruct,zero-shot,false,Ayam Bakar Madu,0.0,0.0,0.0,0.0,0.0,0.0
+25,25,Llama 3.2 3B Instruct,zero-shot,false,,60.0,1.0,0.4,13.0,2.0,12.0
+26,26,Llama 3.2 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+27,27,Llama 3.2 3B Instruct,zero-shot,false,Bubur Oat,0.0,25.0,0.0,40.0,0.0,20.0
+28,28,Llama 3.2 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+29,29,Llama 3.2 3B Instruct,zero-shot,false,,1154.56,8.1,70.0,136.2,20.7,124.0
+30,30,Llama 3.2 3B Instruct,zero-shot,false,Strawberry Sando,0.0,0.0,0.0,0.0,0.0,0.0
+31,31,Llama 3.2 3B Instruct,zero-shot,false,Chili Cheese Fries,0.0,0.0,0.0,0.0,0.0,0.0
+32,32,Llama 3.2 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+33,33,Llama 3.2 3B Instruct,zero-shot,false,Energy Biskut,450.0,10.0,30.0,60.0,200.0,30.0
+34,34,Llama 3.2 3B Instruct,zero-shot,false,,100.0,30.0,3.5,0.0,250.0,0.0
+35,35,Llama 3.2 3B Instruct,zero-shot,false,,0.0,15.0,3.0,0.0,350.0,0.0
+36,36,Llama 3.2 3B Instruct,zero-shot,false,,192.0,0.0,18.2,0.0,0.0,0.0
+37,37,Llama 3.2 3B Instruct,zero-shot,false,spicy peanut butter noodles pedas,0.0,5.0,0.0,100.0,0.0,10.0
+38,38,Llama 3.2 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+39,39,Llama 3.2 3B Instruct,zero-shot,false,nasi goreng cerdik,0.0,0.0,0.0,0.0,0.0,0.0
+40,40,Llama 3.2 3B Instruct,zero-shot,false,Chicken Palm Sandwich,0.0,0.0,0.0,0.0,0.0,0.0
+41,41,Llama 3.2 3B Instruct,zero-shot,false,,450.0,7.0,24.0,10.0,200.0,6.0
+43,43,Llama 3.2 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+44,44,Llama 3.2 3B Instruct,zero-shot,false,Beef Stir Fry,1200.0,50.0,80.0,60.0,1000.0,30.0
+46,46,Llama 3.2 3B Instruct,zero-shot,false,,140.0,30.0,3.5,0.0,250.0,0.0
+48,48,Llama 3.2 3B Instruct,zero-shot,false,,0.0,1.3,0.0,5.4,0.0,2.1
+49,49,Llama 3.2 3B Instruct,zero-shot,false,,16.0,0.7,0.5,3.5,1.0,1.5
+50,50,Llama 3.2 3B Instruct,zero-shot,false,,16.0,0.6,0.1,3.7,2.0,1.2
+51,1,Llama 3.2 3B Instruct,few-shot,false,Ayam Halia,300.0,25.0,25.0,5.0,450.0,5.0
+52,2,Llama 3.2 3B Instruct,few-shot,false,Sardin Pasta,350.0,20.0,30.0,40.0,500.0,8.0
+53,3,Llama 3.2 3B Instruct,few-shot,false,One Pot Chicken with Rice,500.0,30.0,35.0,40.0,450.0,10.0
+54,4,Llama 3.2 3B Instruct,few-shot,false,Potato Salad,300.0,10.0,32.0,30.0,200.0,8.0
+55,5,Llama 3.2 3B Instruct,few-shot,false,,50.0,0.0,0.0,10.0,0.0,0.0
+56,6,Llama 3.2 3B Instruct,few-shot,false,Tete-Tots,340.0,10.0,25.0,30.0,520.0,6.0
+57,7,Llama 3.2 3B Instruct,few-shot,false,Hummus,150.0,5.0,10.0,6.0,50.0,1.0
+58,8,Llama 3.2 3B Instruct,few-shot,false,Shark Shuka,400.0,30.0,30.0,20.0,450.0,10.0
+59,9,Llama 3.2 3B Instruct,few-shot,false,Salmon Sushi Bag,350.0,35.0,25.0,30.0,400.0,10.0
+60,10,Llama 3.2 3B Instruct,few-shot,false,Gimari,540.0,20.0,54.0,30.0,840.0,10.0
+61,11,Llama 3.2 3B Instruct,few-shot,false,,300.0,50.0,20.0,0.0,400.0,0.0
+62,12,Llama 3.2 3B Instruct,few-shot,false,Creamy Chicken Pop Pie,400.0,30.0,35.0,20.0,450.0,5.0
+63,13,Llama 3.2 3B Instruct,few-shot,false,Beef Bulgogi Cheese Steak,400.0,40.0,25.0,30.0,500.0,5.0
+64,14,Llama 3.2 3B Instruct,few-shot,false,Mee Sedap Pedas Ala Thai,500.0,40.0,30.0,60.0,1000.0,20.0
+65,15,Llama 3.2 3B Instruct,few-shot,false,,140.0,25.0,10.0,5.0,200.0,0.0
+66,16,Llama 3.2 3B Instruct,few-shot,false,Black Pepper Beef,400.0,40.0,35.0,20.0,600.0,15.0
+67,17,Llama 3.2 3B Instruct,few-shot,false,Creamy Chicken Alfredo Pasta,550.0,35.0,42.0,60.0,680.0,4.0
+68,18,Llama 3.2 3B Instruct,few-shot,false,,200.0,20.0,15.0,0.0,200.0,0.0
+69,19,Llama 3.2 3B Instruct,few-shot,false,Korean Fried Chicken,500.0,20.0,40.0,30.0,600.0,10.0
+70,20,Llama 3.2 3B Instruct,few-shot,false,Moktel Buah Naga,350.0,15.0,25.0,40.0,500.0,30.0
+71,21,Llama 3.2 3B Instruct,few-shot,false,Mee Sedap Creamy Chili Oil,500.0,20.0,35.0,40.0,800.0,10.0
+72,22,Llama 3.2 3B Instruct,few-shot,false,Daging Harimau Shabu-Shabu,500.0,30.0,30.0,40.0,400.0,5.0
+73,23,Llama 3.2 3B Instruct,few-shot,false,,200.0,25.0,10.0,0.0,200.0,0.0
+74,24,Llama 3.2 3B Instruct,few-shot,false,Ayam Bakar Madu,320.0,30.0,24.0,20.0,400.0,15.0
+75,25,Llama 3.2 3B Instruct,few-shot,false,Baked Oats with Brownie,400.0,15.0,30.0,40.0,500.0,20.0
+76,26,Llama 3.2 3B Instruct,few-shot,false,Chilli Oil Noodle,320.0,14.0,24.0,30.0,440.0,5.0
+77,27,Llama 3.2 3B Instruct,few-shot,false,Bubur Oat,300.0,15.0,20.0,40.0,400.0,10.0
+78,28,Llama 3.2 3B Instruct,few-shot,false,Ice Strawberry Matcha Latte,150.0,3.0,5.0,30.0,10.0,25.0
+79,29,Llama 3.2 3B Instruct,few-shot,false,kek lava,240.0,10.0,22.0,30.0,400.0,24.0
+80,30,Llama 3.2 3B Instruct,few-shot,false,Strawberry Sando,300.0,5.0,20.0,30.0,200.0,20.0
+81,31,Llama 3.2 3B Instruct,few-shot,false,Chili Cheese Fries,500.0,30.0,45.0,60.0,600.0,10.0
+82,32,Llama 3.2 3B Instruct,few-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+83,33,Llama 3.2 3B Instruct,few-shot,false,Biskut Energy Booster,320.0,8.0,30.0,35.0,420.0,15.0
+84,34,Llama 3.2 3B Instruct,few-shot,false,Macaroni Soup,400.0,30.0,20.0,60.0,500.0,10.0
+85,35,Llama 3.2 3B Instruct,few-shot,false,Ayam Goreng Raising Canes,350.0,40.0,30.0,20.0,500.0,5.0
+86,36,Llama 3.2 3B Instruct,few-shot,false,,120.0,0.0,14.0,0.0,0.0,0.0
+87,37,Llama 3.2 3B Instruct,few-shot,false,,190.0,8.0,16.0,8.0,50.0,4.0
+88,38,Llama 3.2 3B Instruct,few-shot,false,Caramelized Onion Pasta,450.0,30.0,35.0,50.0,600.0,15.0
+89,39,Llama 3.2 3B Instruct,few-shot,false,Nasi Goreng Cerdik,500.0,20.0,40.0,60.0,800.0,4.0
+90,40,Llama 3.2 3B Instruct,few-shot,false,Chicken Palm Sandwich,450.0,30.0,30.0,20.0,620.0,5.0
+91,41,Llama 3.2 3B Instruct,few-shot,false,Spicy Peanut Butter Noodle,450.0,20.0,35.0,60.0,700.0,15.0
+93,43,Llama 3.2 3B Instruct,few-shot,false,Pasta Itali,500.0,40.0,30.0,60.0,400.0,10.0
+94,44,Llama 3.2 3B Instruct,few-shot,false,Beef Stir Fry,500.0,35.0,35.0,20.0,400.0,5.0
+96,46,Llama 3.2 3B Instruct,few-shot,false,Grilled Cajun Chicken & Nasi Goreng Butter,500.0,40.0,35.0,30.0,450.0,5.0
+98,48,Llama 3.2 3B Instruct,few-shot,false,Cucumber Salad,120.0,2.0,10.0,6.0,40.0,3.0
+99,49,Llama 3.2 3B Instruct,few-shot,false,,16.0,0.5,0.2,3.7,10.0,1.9
+100,50,Llama 3.2 3B Instruct,few-shot,false,,16.0,1.0,0.0,4.0,10.0,2.0
+101,1,Llama 3.2 3B Instruct,chain-of-thought,false,Ayam Steam Halia,680.0,60.0,28.0,50.0,700.0,20.0
+102,2,Llama 3.2 3B Instruct,chain-of-thought,false,,350.0,12.0,10.0,60.0,5.0,10.0
+103,3,Llama 3.2 3B Instruct,chain-of-thought,false,One Pot Chicken with Rice,420.0,30.0,23.0,35.0,450.0,10.0
+104,4,Llama 3.2 3B Instruct,chain-of-thought,false,,80.0,8.5,0.0,17.4,10.0,14.3
+105,5,Llama 3.2 3B Instruct,chain-of-thought,false,,0.0,0.0,0.0,2.0,0.0,0.0
+106,6,Llama 3.2 3B Instruct,chain-of-thought,false,,70.0,2.0,0.3,16.0,10.0,4.0
+107,7,Llama 3.2 3B Instruct,chain-of-thought,false,,200.0,15.2,0.9,40.8,10.0,4.0
+108,8,Llama 3.2 3B Instruct,chain-of-thought,false,,190.0,0.0,22.0,0.0,0.0,0.0
+109,9,Llama 3.2 3B Instruct,chain-of-thought,false,Salmon Sushi Bag,450.0,35.0,25.0,30.0,400.0,10.0
+110,10,Llama 3.2 3B Instruct,chain-of-thought,false,,,,,,,
+111,11,Llama 3.2 3B Instruct,chain-of-thought,false,,140.0,25.0,9.5,0.0,350.0,0.0
+112,12,Llama 3.2 3B Instruct,chain-of-thought,false,,140.0,30.0,3.5,0.0,200.0,0.0
+113,13,Llama 3.2 3B Instruct,chain-of-thought,false,,150.0,25.0,3.5,0.0,200.0,0.0
+114,14,Llama 3.2 3B Instruct,chain-of-thought,false,,10.0,1.0,0.2,2.0,5.0,0.5
+115,15,Llama 3.2 3B Instruct,chain-of-thought,false,,150.0,30.0,6.0,0.0,300.0,0.0
+116,16,Llama 3.2 3B Instruct,chain-of-thought,false,Black Pepper Beef,400.0,30.0,25.0,10.0,500.0,5.0
+117,17,Llama 3.2 3B Instruct,chain-of-thought,false,,166.0,31.5,3.35,0.0,260.0,0.0
+118,18,Llama 3.2 3B Instruct,chain-of-thought,false,,360.0,30.0,16.0,0.0,400.0,0.0
+119,19,Llama 3.2 3B Instruct,chain-of-thought,false,,120.0,25.0,3.5,0.0,250.0,0.0
+120,20,Llama 3.2 3B Instruct,chain-of-thought,false,,0.0,0.0,0.0,0.0,0.0,0.0
+121,21,Llama 3.2 3B Instruct,chain-of-thought,false,Mee Sedap Creamy Chili Oil,2200.0,60.0,120.0,160.0,2000.0,20.0
+122,22,Llama 3.2 3B Instruct,chain-of-thought,false,,1200.0,200.0,60.0,0.0,500.0,0.0
+123,23,Llama 3.2 3B Instruct,chain-of-thought,false,,375.0,30.5,25.5,0.0,450.0,0.0
+124,24,Llama 3.2 3B Instruct,chain-of-thought,false,,,,,,,
+125,25,Llama 3.2 3B Instruct,chain-of-thought,false,,105.0,1.3,0.5,26.9,1.0,17.8
+126,26,Llama 3.2 3B Instruct,chain-of-thought,false,,1200.0,0.0,138.0,0.0,2500.0,0.0
+127,27,Llama 3.2 3B Instruct,chain-of-thought,false,Bubur Oat Savory,5000.0,300.0,250.0,1500.0,1200.0,400.0
+128,28,Llama 3.2 3B Instruct,chain-of-thought,false,,20.0,1.0,0.5,5.0,1.0,3.0
+129,29,Llama 3.2 3B Instruct,chain-of-thought,false,kek lava,320.0,4.0,24.0,32.0,20.0,24.0
+130,30,Llama 3.2 3B Instruct,chain-of-thought,false,Strawberry Sando,320.0,3.2,15.8,39.5,250.0,34.8
+131,31,Llama 3.2 3B Instruct,chain-of-thought,false,,160.0,2.9,7.3,32.6,100.0,1.3
+132,32,Llama 3.2 3B Instruct,chain-of-thought,false,,3.2,0.0,0.1,0.7,0.0,0.0
+133,33,Llama 3.2 3B Instruct,chain-of-thought,false,,110.0,4.0,4.5,20.0,200.0,1.0
+134,34,Llama 3.2 3B Instruct,chain-of-thought,false,,140.0,31.0,3.5,0.0,250.0,0.0
+135,35,Llama 3.2 3B Instruct,chain-of-thought,false,,1200.0,10.0,60.0,24.0,1300.0,4.0
+136,36,Llama 3.2 3B Instruct,chain-of-thought,false,,450.0,0.0,51.5,0.0,0.0,0.0
+137,37,Llama 3.2 3B Instruct,chain-of-thought,false,,,,,,,
+138,38,Llama 3.2 3B Instruct,chain-of-thought,false,,25.6,1.6,0.2,5.7,2.0,3.8
+139,39,Llama 3.2 3B Instruct,chain-of-thought,false,,140.0,12.0,5.0,0.0,0.0,0.0
+140,40,Llama 3.2 3B Instruct,chain-of-thought,false,,180.0,30.0,6.0,0.0,250.0,0.0
+141,41,Llama 3.2 3B Instruct,chain-of-thought,false,,190.0,8.0,16.0,8.0,150.0,4.0
+143,43,Llama 3.2 3B Instruct,chain-of-thought,false,Garlic,10.0,,0.9,2.0,1.0,2.0
+144,44,Llama 3.2 3B Instruct,chain-of-thought,false,Beef Stir Fry,1800.0,140.0,120.0,160.0,1600.0,60.0
+146,46,Llama 3.2 3B Instruct,chain-of-thought,false,,120.0,24.0,8.4,0.0,300.0,0.0
+148,48,Llama 3.2 3B Instruct,chain-of-thought,false,cucumber salad (tapi pedas sikit),2400.0,126.5,179.7,599.9,1144.0,191.9
+149,49,Llama 3.2 3B Instruct,chain-of-thought,false,,16.0,0.5,0.5,3.7,1.0,0.8
+150,50,Llama 3.2 3B Instruct,chain-of-thought,false,Viral Smoked Salmon Cucumber Salad,960.0,90.0,52.0,45.0,1050.0,24.0
+151,1,Llama 3.2 3B Instruct,structured-output,false,,100.0,2.0,0.5,24.0,1.0,0.5
+152,2,Llama 3.2 3B Instruct,structured-output,false,,200.0,20.0,10.0,0.0,2500.0,0.0
+153,3,Llama 3.2 3B Instruct,structured-output,false,,165.0,31.0,3.5,0.0,250.0,0.0
+154,4,Llama 3.2 3B Instruct,structured-output,false,,0.0,2.0,0.0,10.0,0.0,10.0
+155,5,Llama 3.2 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+156,6,Llama 3.2 3B Instruct,structured-output,false,,110.0,2.9,0.1,26.5,2.0,4.7
+157,7,Llama 3.2 3B Instruct,structured-output,false,,0.0,14.0,0.0,0.0,0.0,4.0
+158,8,Llama 3.2 3B Instruct,structured-output,false,,120.0,0.0,14.0,0.0,0.0,0.0
+159,9,Llama 3.2 3B Instruct,structured-output,false,,360.0,35.0,12.0,0.0,200.0,0.0
+160,10,Llama 3.2 3B Instruct,structured-output,false,Gimari,0.0,0.0,0.0,0.0,0.0,0.0
+161,11,Llama 3.2 3B Instruct,structured-output,false,Loaded Beef Nachos,0.0,0.0,0.0,0.0,0.0,0.0
+162,12,Llama 3.2 3B Instruct,structured-output,false,,0.0,250.0,0.0,0.0,0.0,0.0
+163,13,Llama 3.2 3B Instruct,structured-output,false,,0.0,50.0,0.0,0.0,0.0,0.0
+164,14,Llama 3.2 3B Instruct,structured-output,false,,0.0,5.0,0.0,30.0,0.0,1.0
+165,15,Llama 3.2 3B Instruct,structured-output,false,,0.0,20.0,6.8,0.0,200.0,0.0
+166,16,Llama 3.2 3B Instruct,structured-output,false,,0.0,30.0,0.0,0.0,250.0,0.0
+167,17,Llama 3.2 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+168,18,Llama 3.2 3B Instruct,structured-output,false,Japchae,0.0,0.0,0.0,0.0,0.0,0.0
+169,19,Llama 3.2 3B Instruct,structured-output,false,,560.0,21.5,50.7,34.3,0.1,5.7
+170,20,Llama 3.2 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+171,21,Llama 3.2 3B Instruct,structured-output,false,,150.0,25.0,10.0,0.0,500.0,0.0
+172,22,Llama 3.2 3B Instruct,structured-output,false,,0.0,10.0,0.0,0.0,0.0,0.0
+173,23,Llama 3.2 3B Instruct,structured-output,false,,0.0,100.0,0.0,0.0,0.0,0.0
+174,24,Llama 3.2 3B Instruct,structured-output,false,Ayam Bakar Madu,0.0,0.0,0.0,0.0,0.0,0.0
+175,25,Llama 3.2 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+176,26,Llama 3.2 3B Instruct,structured-output,false,,190.0,0.0,21.85,0.0,0.0,0.0
+177,27,Llama 3.2 3B Instruct,structured-output,false,,100.0,3.0,2.0,25.0,10.0,1.0
+178,28,Llama 3.2 3B Instruct,structured-output,false,Ice Strawberry Matcha Latte,0.0,0.0,0.0,0.0,0.0,0.0
+179,29,Llama 3.2 3B Instruct,structured-output,false,Lava Cake,0.0,0.0,0.0,0.0,0.0,0.0
+180,30,Llama 3.2 3B Instruct,structured-output,false,Strawberry Sando,0.0,0.0,0.0,0.0,0.0,0.0
+181,31,Llama 3.2 3B Instruct,structured-output,false,,0.0,2.0,0.0,30.0,0.0,1.0
+182,32,Llama 3.2 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+183,33,Llama 3.2 3B Instruct,structured-output,false,,110.0,5.0,2.5,20.0,300.0,2.0
+184,34,Llama 3.2 3B Instruct,structured-output,false,,0.0,30.0,0.0,0.0,0.0,0.0
+185,35,Llama 3.2 3B Instruct,structured-output,false,,2000.0,150.0,100.0,50.0,300.0,10.0
+186,36,Llama 3.2 3B Instruct,structured-output,false,,40.0,1.0,0.0,10.0,10.0,5.0
+187,37,Llama 3.2 3B Instruct,structured-output,false,,720.0,8.0,72.8,32.0,0.0,7.5
+188,38,Llama 3.2 3B Instruct,structured-output,false,,40.0,1.2,0.0,9.6,10.0,1.8
+189,39,Llama 3.2 3B Instruct,structured-output,false,Nasi Goreng Cerdik,0.0,0.0,0.0,0.0,0.0,0.0
+190,40,Llama 3.2 3B Instruct,structured-output,false,,360.0,60.0,12.0,0.0,250.0,0.0
+191,41,Llama 3.2 3B Instruct,structured-output,false,,190.0,8.0,16.5,8.0,50.0,2.0
+193,43,Llama 3.2 3B Instruct,structured-output,false,,0.0,40.0,20.0,0.0,200.0,0.0
+194,44,Llama 3.2 3B Instruct,structured-output,false,,0.0,40.0,0.0,0.0,0.0,0.0
+196,46,Llama 3.2 3B Instruct,structured-output,false,,360.0,30.0,20.0,0.0,350.0,0.0
+198,48,Llama 3.2 3B Instruct,structured-output,false,,16.0,0.6,0.1,3.9,2.0,1.5
+199,49,Llama 3.2 3B Instruct,structured-output,false,,10.0,0.5,0.5,3.0,2.0,1.0
+200,50,Llama 3.2 3B Instruct,structured-output,false,Viral Smoked Salmon Cucumber Salad,0.0,0.0,0.0,0.0,0.0,0.0
+202,1,Phi-4-mini 3.8B Instruct,zero-shot,false,Ayam Steam Halia,0.0,7.0,7.0,35.0,700.0,25.4
+203,2,Phi-4-mini 3.8B Instruct,zero-shot,false,Sardin Pasta,0.0,0.0,0.0,0.0,0.0,0.0
+204,3,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+205,4,Phi-4-mini 3.8B Instruct,zero-shot,false,,100.0,8.0,0.0,25.0,10.0,12.0
+207,6,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+208,7,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+209,8,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+210,9,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+211,10,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+211,10,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+212,11,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+213,12,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+214,13,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+214,13,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+215,14,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+216,15,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+217,16,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+217,16,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+218,17,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+218,17,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+219,18,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+219,18,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+220,19,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+220,19,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+221,20,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+221,20,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+222,21,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+222,21,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+223,22,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+223,22,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+224,23,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+225,24,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+226,25,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+227,26,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+228,27,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+228,27,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+229,28,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+230,29,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+231,30,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+232,31,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+233,32,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+234,33,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+235,34,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+236,35,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+237,36,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+237,36,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+238,37,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+238,37,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+239,38,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+239,38,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+240,39,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+240,39,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+241,40,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+241,40,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+242,41,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+242,41,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+244,43,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+245,44,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+247,46,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+249,48,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+249,48,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+250,49,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+251,50,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,,,,
+252,1,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+253,2,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+254,3,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+255,4,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+256,5,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+257,6,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+258,7,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+259,8,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+260,9,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+261,10,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+262,11,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+263,12,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+264,13,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+265,14,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+266,15,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+267,16,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+268,17,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+269,18,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+270,19,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+271,20,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+272,21,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+273,22,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+274,23,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+275,24,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+276,25,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+277,26,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+278,27,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+279,28,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+280,29,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+281,30,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+282,31,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+283,32,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+284,33,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+285,34,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+286,35,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+287,36,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+288,37,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+289,38,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+290,39,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+291,40,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+292,41,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+294,43,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+295,44,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+297,46,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+299,48,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+300,49,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+301,50,Phi-4-mini 3.8B Instruct,few-shot,false,,,,,,,
+302,1,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+303,2,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+304,3,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+305,4,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+306,5,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+307,6,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+308,7,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+309,8,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+310,9,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+311,10,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+312,11,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+313,12,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+314,13,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+315,14,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+316,15,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+317,16,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+318,17,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+319,18,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+320,19,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+321,20,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+322,21,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+323,22,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+324,23,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+325,24,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+326,25,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+327,26,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+328,27,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+329,28,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+330,29,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+331,30,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+332,31,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+333,32,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+334,33,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+335,34,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+336,35,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+337,36,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+338,37,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+339,38,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+340,39,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+341,40,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+342,41,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+344,43,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+345,44,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+347,46,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+349,48,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+350,49,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+351,50,Phi-4-mini 3.8B Instruct,chain-of-thought,false,,,,,,,
+352,1,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+353,2,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+354,3,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+355,4,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+356,5,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+357,6,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+358,7,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+359,8,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+360,9,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+361,10,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+362,11,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+363,12,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+364,13,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+365,14,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+366,15,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+367,16,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+368,17,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+369,18,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+370,19,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+371,20,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+372,21,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+373,22,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+374,23,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+375,24,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+376,25,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+377,26,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+378,27,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+379,28,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+380,29,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+381,30,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+382,31,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+383,32,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+384,33,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+385,34,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+386,35,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+387,36,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+388,37,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+389,38,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+390,39,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+391,40,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+392,41,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+394,43,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+395,44,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+397,46,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+399,48,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+400,49,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+401,50,Phi-4-mini 3.8B Instruct,structured-output,false,,,,,,,
+402,1,Qwen 2.5 3B Instruct,zero-shot,false,,200.0,35.0,8.0,1.0,400.0,0.0
+403,2,Qwen 2.5 3B Instruct,zero-shot,false,,4.0,1.5,0.1,0.0,8.0,0.0
+404,3,Qwen 2.5 3B Instruct,zero-shot,false,One Pot Chicken with Rice,0.0,0.0,0.0,0.0,0.0,0.0
+405,4,Qwen 2.5 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+406,5,Qwen 2.5 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+407,6,Qwen 2.5 3B Instruct,zero-shot,false,Tete-Tots,0.0,0.0,0.0,0.0,0.0,0.0
+408,7,Qwen 2.5 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,Shark Shuka,0.0,0.0,0.0,0.0,0.0,0.0
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,Salmon Sushi,0.0,0.0,0.0,0.0,0.0,0.0
+411,10,Qwen 2.5 3B Instruct,zero-shot,false,Gimari,0.0,0.0,0.0,0.0,0.0,0.0
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,Loaded Beef Nachos,0.0,0.0,0.0,0.0,0.0,0.0
+413,12,Qwen 2.5 3B Instruct,zero-shot,false,,79.0,31.7,3.6,0.0,52.0,0.0
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,Beef Bulgogi Cheese Steak,0.0,0.0,0.0,0.0,0.0,0.0
+415,14,Qwen 2.5 3B Instruct,zero-shot,false,,0.0,2.0,0.0,0.0,0.0,0.0
+416,15,Qwen 2.5 3B Instruct,zero-shot,false,,24.6,1.7,0.3,5.9,0.0,4.3
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,Black Pepper Beef,0.0,0.0,0.0,0.0,0.0,0.0
+418,17,Qwen 2.5 3B Instruct,zero-shot,false,,97.0,32.7,3.6,0.0,84.0,0.0
+419,18,Qwen 2.5 3B Instruct,zero-shot,false,,240.0,27.86,9.67,0.0,390.0,0.0
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,Korean Fried Chicken,0.0,0.0,0.0,0.0,0.0,0.0
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,Moktel Buah Naga,0.0,0.0,0.0,0.0,0.0,0.0
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,Mee Sedap Creamy Chili Oil,0.0,0.0,0.0,0.0,0.0,0.0
+423,22,Qwen 2.5 3B Instruct,zero-shot,false,,376.0,26.0,20.0,5.0,942.0,3.0
+424,23,Qwen 2.5 3B Instruct,zero-shot,false,Ingredient 1,10.0,,,,,
+425,1,Qwen 2.5 3B Instruct,few-shot,false,,286.0,26.0,14.0,1.0,140.0,0.0
+426,2,Qwen 2.5 3B Instruct,few-shot,false,,230.0,12.9,8.9,3.0,610.0,0.0
+427,1,Gemma-SEA-LION v4 4B,zero-shot,false,ayam steam halia,300.0,30.0,20.0,10.0,600.0,5.0
+428,2,Gemma-SEA-LION v4 4B,zero-shot,false,,20.0,1.0,1.5,8.0,50.0,2.0
+429,3,Gemma-SEA-LION v4 4B,zero-shot,false,,200.0,25.0,12.0,0.0,300.0,0.0
+430,4,Gemma-SEA-LION v4 4B,zero-shot,false,,100.0,6.0,6.0,7.0,80.0,8.0
+431,5,Gemma-SEA-LION v4 4B,zero-shot,false,,5.0,0.1,0.2,1.0,5.0,0.0
+432,6,Gemma-SEA-LION v4 4B,zero-shot,false,tete-tots,300.0,8.0,16.0,50.0,500.0,6.0
+433,3,Qwen 2.5 3B Instruct,few-shot,false,Ayam Bakar dengan Nasi,250.0,13.0,21.0,1.0,420.0,0.0
+434,7,Gemma-SEA-LION v4 4B,zero-shot,false,,260.0,17.0,4.0,42.0,380.0,5.0
+435,8,Gemma-SEA-LION v4 4B,zero-shot,false,,120.0,0.0,13.0,0.0,0.0,0.0
+436,9,Gemma-SEA-LION v4 4B,zero-shot,false,salmon sushi bag,400.0,30.0,30.0,40.0,600.0,5.0
+437,10,Gemma-SEA-LION v4 4B,zero-shot,false,Gimari,250.0,8.0,12.0,35.0,400.0,5.0
+438,11,Gemma-SEA-LION v4 4B,zero-shot,false,,1200.0,120.0,80.0,0.0,1600.0,0.0
+439,12,Gemma-SEA-LION v4 4B,zero-shot,false,,160.0,30.0,7.0,0.0,100.0,3.0
+440,4,Qwen 2.5 3B Instruct,few-shot,false,,84.0,8.4,5.0,1.0,120.0,0.0
+441,13,Gemma-SEA-LION v4 4B,zero-shot,false,,200.0,30.0,12.0,0.0,300.0,0.0
+442,14,Gemma-SEA-LION v4 4B,zero-shot,false,,150.0,8.0,6.0,60.0,400.0,10.0
+443,15,Gemma-SEA-LION v4 4B,zero-shot,false,Simple Roasted Chicken with Potato and Carrot,600.0,40.0,40.0,35.0,800.0,4.0
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,Black Pepper Beef,300.0,30.0,20.0,10.0,1200.0,5.0
+445,17,Gemma-SEA-LION v4 4B,zero-shot,false,,160.0,36.0,9.0,0.0,100.0,0.0
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,Japchae,900.0,60.0,60.0,120.0,2400.0,15.0
+447,5,Qwen 2.5 3B Instruct,few-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+448,19,Gemma-SEA-LION v4 4B,zero-shot,false,,180.0,30.0,9.0,0.0,240.0,5.0
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,moktel buah naga,200.0,5.0,12.0,40.0,150.0,30.0
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,Mee Sedap Creamy Chili Oil,400.0,20.0,25.0,40.0,800.0,10.0
+451,22,Gemma-SEA-LION v4 4B,zero-shot,false,,150.0,30.0,8.0,0.0,150.0,0.0
+452,23,Gemma-SEA-LION v4 4B,zero-shot,false,,200.0,25.0,14.0,0.0,300.0,0.0
+453,24,Gemma-SEA-LION v4 4B,zero-shot,false,ayam bakar madu,350.0,30.0,20.0,30.0,600.0,20.0
+454,25,Gemma-SEA-LION v4 4B,zero-shot,false,,150.0,2.0,2.0,30.0,60.0,18.0
+455,6,Qwen 2.5 3B Instruct,few-shot,false,Tete-Tots,350.0,22.0,28.0,2.0,690.0,0.0
+456,26,Gemma-SEA-LION v4 4B,zero-shot,false,,120.0,0.0,12.0,0.0,0.0,0.0
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,bubur oat,350.0,12.0,15.0,60.0,400.0,5.0
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,ice strawberry matcha latte,250.0,6.0,9.0,45.0,10.0,25.0
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,kek lava,0.0,0.0,0.0,0.0,0.0,0.0
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,strawberry sando,250.0,4.0,12.0,30.0,50.0,18.0
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,Chili Cheese Fries,800.0,30.0,50.0,120.0,1200.0,15.0
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,Chilli Oil,80.0,2.0,45.0,3.0,250.0,0.0
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,Hazelnut Spread & Honey Banana Julie's Cheese Cracker Snack,200.0,6.0,15.0,30.0,250.0,18.0
+464,34,Gemma-SEA-LION v4 4B,zero-shot,false,,200.0,30.0,10.0,0.0,60.0,0.0
+465,35,Gemma-SEA-LION v4 4B,zero-shot,false,,600.0,80.0,30.0,0.0,500.0,0.0
+466,7,Qwen 2.5 3B Instruct,few-shot,false,Hummus,200.0,5.0,15.0,6.0,200.0,1.0
+467,36,Gemma-SEA-LION v4 4B,zero-shot,false,,90.0,0.0,23.0,0.0,75.0,0.0
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,spicy peanut butter noodles,350.0,15.0,25.0,40.0,700.0,10.0
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,Caramelized Onion Pasta,600.0,25.0,35.0,60.0,400.0,5.0
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,nasi goreng cerdik,400.0,20.0,25.0,60.0,800.0,10.0
+471,40,Gemma-SEA-LION v4 4B,zero-shot,false,,160.0,26.0,8.0,0.0,300.0,5.0
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,spicy peanut butter noodle,300.0,12.0,25.0,40.0,600.0,10.0
+474,43,Gemma-SEA-LION v4 4B,zero-shot,false,,400.0,80.0,25.0,0.0,700.0,0.0
+475,44,Gemma-SEA-LION v4 4B,zero-shot,false,,160.0,25.0,9.0,0.0,200.0,0.0
+477,46,Gemma-SEA-LION v4 4B,zero-shot,false,,300.0,40.0,15.0,0.0,400.0,0.0
+478,8,Qwen 2.5 3B Instruct,few-shot,false,,240.0,24.0,18.0,1.0,190.0,0.0
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,Cucumber Salad,250.0,8.0,12.0,20.0,600.0,8.0
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,cucumber salad,80.0,3.0,12.0,10.0,600.0,5.0
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,Viral Smoked Salmon Cucumber Salad,250.0,20.0,20.0,5.0,600.0,2.0
+483,1,Gemma-SEA-LION v4 4B,few-shot,false,,248.0,42.0,16.0,0.0,300.0,0.0
+484,2,Gemma-SEA-LION v4 4B,few-shot,false,,230.0,23.0,16.0,0.0,700.0,0.0
+485,3,Gemma-SEA-LION v4 4B,few-shot,false,,600.0,40.0,32.0,0.0,560.0,0.0
+486,4,Gemma-SEA-LION v4 4B,few-shot,false,,96.0,6.0,8.0,6.0,75.0,3.0
+487,5,Gemma-SEA-LION v4 4B,few-shot,false,,8.0,0.0,0.0,0.0,25.0,0.0
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,Tete-tots,400.0,8.0,36.0,50.0,700.0,0.0
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,Hummus,150.0,5.0,12.0,9.0,280.0,1.0
+490,8,Gemma-SEA-LION v4 4B,few-shot,false,,120.0,0.0,14.0,0.0,0.0,0.0
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,Salmon Sushi Bag,600.0,38.0,42.0,60.0,550.0,4.0
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,Gimari,350.0,8.0,20.0,35.0,200.0,1.0
+493,11,Gemma-SEA-LION v4 4B,few-shot,false,,800.0,120.0,56.0,0.0,1680.0,0.0
+494,9,Qwen 2.5 3B Instruct,few-shot,false,Salmon Sushi,230.0,8.0,17.0,2.0,60.0,1.0
+495,12,Gemma-SEA-LION v4 4B,few-shot,false,,165.0,30.0,8.0,0.0,72.0,0.0
+496,13,Gemma-SEA-LION v4 4B,few-shot,false,,350.0,50.0,28.0,2.0,200.0,0.0
+497,14,Gemma-SEA-LION v4 4B,few-shot,false,,400.0,24.0,15.0,72.0,800.0,10.0
+498,15,Gemma-SEA-LION v4 4B,few-shot,false,,400.0,50.0,30.0,0.0,600.0,0.0
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,Black Pepper Beef,450.0,35.0,28.0,10.0,1200.0,5.0
+500,17,Gemma-SEA-LION v4 4B,few-shot,false,,1600.0,160.0,112.0,0.0,800.0,0.0
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,Japchae,450.0,25.0,28.0,60.0,700.0,2.0
+502,19,Gemma-SEA-LION v4 4B,few-shot,false,,350.0,30.0,24.0,5.0,720.0,0.0
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,Ayam Steam Halia,350.0,40.0,20.0,15.0,1200.0,5.0
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,Moktel Buah Naga,350.0,2.0,20.0,50.0,140.0,40.0
+505,2,Gemma-SEA-LION v4 4B,chain-of-thought,false,,40.0,0.5,0.5,10.0,10.0,2.0
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,Mee Sedap Creamy Chili Oil,600.0,20.0,45.0,60.0,800.0,5.0
+507,3,Gemma-SEA-LION v4 4B,chain-of-thought,false,,390.0,60.0,20.0,0.0,400.0,0.0
+508,22,Gemma-SEA-LION v4 4B,few-shot,false,,160.0,30.0,9.0,0.0,150.0,0.0
+509,4,Gemma-SEA-LION v4 4B,chain-of-thought,false,,90.0,7.0,6.0,6.0,80.0,4.0
+510,23,Gemma-SEA-LION v4 4B,few-shot,false,,540.0,90.0,36.0,0.0,700.0,0.0
+511,5,Gemma-SEA-LION v4 4B,chain-of-thought,false,,5.0,0.1,0.1,0.8,2.0,0.0
+512,24,Gemma-SEA-LION v4 4B,few-shot,false,,420.0,70.0,28.0,0.0,240.0,0.0
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,Tete-tots,300.0,8.0,16.0,50.0,600.0,8.0
+514,10,Qwen 2.5 3B Instruct,few-shot,false,Gimari (Seaweed and Japchae),250.0,13.0,21.0,1.0,420.0,0.0
+515,25,Gemma-SEA-LION v4 4B,few-shot,false,,200.0,3.0,10.0,40.0,0.0,15.0
+516,7,Gemma-SEA-LION v4 4B,chain-of-thought,false,,365.0,20.0,2.5,64.0,520.0,1.3
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,Garlic Chilli Oil,200.0,2.0,16.0,0.0,50.0,0.0
+518,8,Gemma-SEA-LION v4 4B,chain-of-thought,false,,120.0,0.0,14.0,0.0,0.0,0.0
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,Bubur Oat,450.0,20.0,28.0,54.0,670.0,2.0
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,Salmon Sushi Bag,450.0,30.0,30.0,40.0,700.0,5.0
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,Ice Strawberry Matcha Latte,250.0,6.0,13.0,45.0,0.0,30.0
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,Gimari,250.0,10.0,12.0,45.0,600.0,8.0
+523,29,Gemma-SEA-LION v4 4B,few-shot,false,,120.0,0.0,14.0,0.0,0.0,0.0
+524,11,Gemma-SEA-LION v4 4B,chain-of-thought,false,,1300.0,80.0,60.0,0.0,750.0,0.0
+525,30,Gemma-SEA-LION v4 4B,few-shot,false,Strawberry Sando,350.0,4.0,18.0,35.0,0.0,30.0
+526,12,Gemma-SEA-LION v4 4B,chain-of-thought,false,,180.0,35.0,9.0,0.0,200.0,3.0
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,Chili Cheese Fries,800.0,30.0,50.0,60.0,900.0,10.0
+528,13,Gemma-SEA-LION v4 4B,chain-of-thought,false,,230.0,30.0,16.0,0.0,300.0,0.0
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,Chilli Oil,200.0,0.0,23.0,0.0,150.0,0.0
+530,14,Gemma-SEA-LION v4 4B,chain-of-thought,false,,150.0,7.0,3.0,60.0,400.0,8.0
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,Snack for Runners,250.0,6.0,18.0,30.0,200.0,15.0
+532,15,Gemma-SEA-LION v4 4B,chain-of-thought,false,,204.0,42.0,13.8,0.0,350.0,0.0
+533,34,Gemma-SEA-LION v4 4B,few-shot,false,,320.0,35.0,18.0,0.0,400.0,0.0
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,Black Pepper Beef with Broccoli,450.0,40.0,28.0,20.0,1200.0,5.0
+535,11,Qwen 2.5 3B Instruct,few-shot,false,,296.0,26.0,18.0,1.0,130.0,0.0
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,Ayam Goreng Raising Canes,450.0,40.0,30.0,25.0,900.0,5.0
+537,17,Gemma-SEA-LION v4 4B,chain-of-thought,false,,160.0,32.0,8.0,0.0,150.0,0.0
+538,36,Gemma-SEA-LION v4 4B,few-shot,false,,104.0,0.0,11.0,0.0,0.0,0.0
+539,18,Gemma-SEA-LION v4 4B,chain-of-thought,false,,200.0,25.0,14.0,0.0,100.0,0.0
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,Spicy Peanut Butter Noodles,600.0,18.0,35.0,70.0,840.0,15.0
+541,19,Gemma-SEA-LION v4 4B,chain-of-thought,false,,165.0,32.0,7.0,0.0,140.0,0.0
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,Caramelized Onion Pasta,600.0,30.0,38.0,70.0,400.0,8.0
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,Moktel Buah Naga,250.0,6.0,12.0,35.0,180.0,25.0
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,Nasi Goreng Cerdik,1200.0,50.0,70.0,160.0,1800.0,20.0
+545,21,Gemma-SEA-LION v4 4B,chain-of-thought,false,,120.0,0.0,14.0,0.0,0.0,0.0
+546,40,Gemma-SEA-LION v4 4B,few-shot,false,,416.0,84.0,25.0,0.0,380.0,0.0
+547,22,Gemma-SEA-LION v4 4B,chain-of-thought,false,,150.0,30.0,9.0,0.0,100.0,0.0
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,Spicy Peanut Butter Noodle,600.0,20.0,40.0,60.0,700.0,15.0
+549,23,Gemma-SEA-LION v4 4B,chain-of-thought,false,,1370.0,68.0,64.0,0.0,750.0,0.0
+550,1,Gemma-SEA-LION v4 4B,structured-output,false,,250.0,30.0,14.0,0.0,600.0,0.0
+552,43,Gemma-SEA-LION v4 4B,few-shot,false,,650.0,110.0,47.0,0.0,240.0,0.0
+553,24,Gemma-SEA-LION v4 4B,chain-of-thought,false,Ayam Bakar Madu,350.0,30.0,20.0,30.0,600.0,15.0
+554,2,Gemma-SEA-LION v4 4B,structured-output,false,,15.0,0.5,0.5,3.0,50.0,1.0
+555,44,Gemma-SEA-LION v4 4B,few-shot,false,,200.0,35.0,14.0,0.0,200.0,0.0
+556,25,Gemma-SEA-LION v4 4B,chain-of-thought,false,,156.0,1.5,0.8,34.0,2.0,13.0
+557,3,Gemma-SEA-LION v4 4B,structured-output,false,,400.0,35.0,25.0,0.0,1200.0,8.0
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,Grilled Cajun Chicken with Butter Nasi Goreng and Creamy Sauce,750.0,60.0,62.0,50.0,900.0,5.0
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,Garlic Chilli Oil,80.0,3.0,12.0,5.0,350.0,2.0
+561,4,Gemma-SEA-LION v4 4B,structured-output,false,,80.0,6.0,6.0,4.0,75.0,6.0
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,Cucumber Salad,300.0,8.0,15.0,12.0,600.0,5.0
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,Bubur Oat dengan Isi Ayam,450.0,30.0,20.0,60.0,700.0,10.0
+565,5,Gemma-SEA-LION v4 4B,structured-output,false,,5.0,0.1,0.1,2.0,5.0,0.0
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,Cucumber Salad,150.0,3.0,16.0,8.0,700.0,1.0
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,Ice Strawberry Matcha Latte,250.0,6.0,12.0,40.0,50.0,25.0
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,Tete-tots,300.0,8.0,16.0,50.0,800.0,6.0
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,Viral Smoked Salmon Cucumber Salad,350.0,25.0,28.0,5.0,600.0,0.0
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,Kek Lava,250.0,6.0,18.0,32.0,150.0,20.0
+571,7,Gemma-SEA-LION v4 4B,structured-output,false,,380.0,21.0,4.0,63.0,790.0,11.0
+572,1,MedGemma 4B,zero-shot,false,,350.0,30.0,20.0,15.0,400.0,2.0
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,strawberry sando,250.0,4.0,12.0,30.0,50.0,18.0
+574,8,Gemma-SEA-LION v4 4B,structured-output,false,,120.0,0.0,14.0,0.0,0.0,0.0
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,Chili Cheese Fries,800.0,30.0,50.0,80.0,1200.0,10.0
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,salmon sushi bag,400.0,30.0,25.0,40.0,600.0,5.0
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,Chilli Oil,80.0,3.0,35.0,2.0,400.0,0.0
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,Gimari,250.0,10.0,12.0,35.0,400.0,5.0
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,Julie's Cheese Cracker & Banana Snack,250.0,5.0,12.0,40.0,350.0,18.0
+580,11,Gemma-SEA-LION v4 4B,structured-output,false,,150.0,25.0,10.0,0.0,300.0,0.0
+581,34,Gemma-SEA-LION v4 4B,chain-of-thought,false,,180.0,30.0,9.0,0.0,60.0,0.0
+582,12,Gemma-SEA-LION v4 4B,structured-output,false,,220.0,30.0,10.0,0.0,300.0,5.0
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,Ayam Goreng Raising Canes,450.0,40.0,30.0,30.0,800.0,8.0
+584,13,Gemma-SEA-LION v4 4B,structured-output,false,,200.0,40.0,15.0,0.0,300.0,0.0
+585,36,Gemma-SEA-LION v4 4B,chain-of-thought,false,,100.0,0.0,11.0,0.0,75.0,0.0
+586,14,Gemma-SEA-LION v4 4B,structured-output,false,,150.0,8.0,8.0,75.0,400.0,10.0
+587,37,Gemma-SEA-LION v4 4B,chain-of-thought,false,,190.0,8.0,16.0,7.0,250.0,4.0
+588,15,Gemma-SEA-LION v4 4B,structured-output,false,,300.0,40.0,18.0,0.0,700.0,0.0
+589,38,Gemma-SEA-LION v4 4B,chain-of-thought,false,,60.0,1.0,0.5,12.0,50.0,3.0
+590,16,Gemma-SEA-LION v4 4B,structured-output,false,,200.0,40.0,12.0,0.0,500.0,0.0
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,Nasi Goreng Cerdik,450.0,20.0,25.0,80.0,800.0,10.0
+592,17,Gemma-SEA-LION v4 4B,structured-output,false,,160.0,36.0,10.0,0.0,150.0,0.0
+593,40,Gemma-SEA-LION v4 4B,chain-of-thought,false,,160.0,32.0,4.0,0.0,350.0,3.0
+594,18,Gemma-SEA-LION v4 4B,structured-output,false,,200.0,25.0,10.0,0.0,500.0,0.0
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,Spicy Peanut Butter Noodles,450.0,18.0,28.0,50.0,600.0,10.0
+596,19,Gemma-SEA-LION v4 4B,structured-output,false,,200.0,26.0,12.0,1.0,300.0,5.0
+598,43,Gemma-SEA-LION v4 4B,chain-of-thought,false,,248.0,60.0,17.0,0.0,250.0,0.0
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,Moktel Buah Naga,250.0,6.0,12.0,45.0,120.0,30.0
+600,44,Gemma-SEA-LION v4 4B,chain-of-thought,false,,160.0,35.0,10.0,0.0,200.0,0.0
+601,21,Gemma-SEA-LION v4 4B,structured-output,false,,120.0,0.0,13.0,0.0,0.0,0.0
+602,2,MedGemma 4B,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,Grilled Cajun Chicken with Creamy Butter Nasi Goreng,650.0,40.0,45.0,60.0,800.0,10.0
+605,22,Gemma-SEA-LION v4 4B,structured-output,false,,150.0,25.0,8.0,0.0,100.0,0.0
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,Cucumber Salad,250.0,8.0,12.0,15.0,600.0,8.0
+608,23,Gemma-SEA-LION v4 4B,structured-output,false,,1200.0,75.0,60.0,0.0,800.0,0.0
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,Cucumber Salad,80.0,3.0,12.0,9.0,600.0,4.0
+610,24,Gemma-SEA-LION v4 4B,structured-output,false,,340.0,70.0,18.0,0.0,360.0,0.0
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,Viral Smoked Salmon Cucumber Salad,500.0,40.0,40.0,10.0,1200.0,2.0
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,Baked Oat Meal Brownie,200.0,5.0,12.0,30.0,150.0,8.0
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,Garlic Chilli Oil,0.0,0.0,0.0,0.0,0.0,0.0
+614,27,Gemma-SEA-LION v4 4B,structured-output,false,,190.0,5.0,3.0,27.0,0.0,3.0
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,Ice Strawberry Matcha Latte,200.0,4.0,8.0,35.0,50.0,20.0
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,Kek Lava,250.0,6.0,18.0,27.0,150.0,18.0
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,strawberry sando,200.0,4.0,8.0,30.0,10.0,25.0
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,Chili Cheese Fries,800.0,30.0,50.0,100.0,1200.0,15.0
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,Chilli Oil,0.0,0.0,0.0,0.0,0.0,0.0
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,Hazelnut Spread & Honey Banana Snack,250.0,8.0,18.0,37.0,150.0,22.0
+621,34,Gemma-SEA-LION v4 4B,structured-output,false,,160.0,30.0,8.0,0.0,50.0,0.0
+622,35,Gemma-SEA-LION v4 4B,structured-output,false,,600.0,140.0,35.0,0.0,700.0,0.0
+623,36,Gemma-SEA-LION v4 4B,structured-output,false,,98.0,0.0,23.0,0.0,75.0,0.0
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,Spicy Peanut Butter Noodles,400.0,15.0,25.0,50.0,600.0,10.0
+625,38,Gemma-SEA-LION v4 4B,structured-output,false,,60.0,2.0,10.0,12.0,50.0,3.0
+626,39,Gemma-SEA-LION v4 4B,structured-output,false,,130.0,9.0,10.0,1.0,50.0,3.0
+627,40,Gemma-SEA-LION v4 4B,structured-output,false,,300.0,40.0,18.0,0.0,500.0,6.0
+628,41,Gemma-SEA-LION v4 4B,structured-output,false,,900.0,24.0,72.0,7.0,100.0,12.0
+630,43,Gemma-SEA-LION v4 4B,structured-output,false,,450.0,80.0,30.0,0.0,600.0,0.0
+631,3,MedGemma 4B,zero-shot,false,One Pot Chicken with Rice,600.0,45.0,25.0,80.0,700.0,6.0
+632,44,Gemma-SEA-LION v4 4B,structured-output,false,,160.0,25.0,9.0,0.0,200.0,0.0
+634,46,Gemma-SEA-LION v4 4B,structured-output,false,,300.0,30.0,15.0,0.0,400.0,5.0
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,Cucumber Salad,250.0,8.0,12.0,15.0,600.0,8.0
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,Cucumber Salad,80.0,3.0,12.0,9.0,650.0,4.0
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,Viral Smoked Salmon Cucumber Salad,500.0,40.0,40.0,10.0,1200.0,0.0
+639,4,MedGemma 4B,zero-shot,false,,50.0,4.0,4.0,3.0,60.0,2.0
+640,1,MedGemma 4B,few-shot,false,,350.0,28.0,21.0,3.0,450.0,0.0
+641,1,MedGemma 4B,chain-of-thought,false,,350.0,35.0,8.0,0.0,400.0,0.0
+642,1,MedGemma 4B,structured-output,false,,350.0,30.0,20.0,15.0,400.0,2.0
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,Ayam Steam Halia,1075.0,42.6,76.4,90.0,2370.0,16.0
+644,1,Qwen 2.5 3B Instruct,structured-output,false,Ayam Steam Halia,0.0,0.0,0.0,0.0,0.0,0.0
+645,12,Qwen 2.5 3B Instruct,few-shot,false,,149.0,30.0,8.5,0.0,70.0,0.0
+646,5,MedGemma 4B,zero-shot,false,,2.0,0.1,0.1,1.0,5.0,0.1
+647,6,MedGemma 4B,zero-shot,false,Tete-tots,600.0,14.0,30.0,60.0,800.0,4.0
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,Sardin Pasta,235.0,13.5,6.7,21.0,190.0,7.8
+649,2,MedGemma 4B,few-shot,false,,150.0,25.0,10.0,0.0,600.0,0.0
+650,2,Qwen 2.5 3B Instruct,structured-output,false,,46.0,1.3,1.3,1.0,8.0,0.0
+651,7,MedGemma 4B,zero-shot,false,,350.0,20.0,6.0,70.0,800.0,6.0
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,One Pot Chicken with Rice,1081.0,20.4,4.9,38.7,562.0,19.2
+653,3,MedGemma 4B,few-shot,false,,570.0,40.0,25.0,2.0,800.0,1.0
+654,2,MedGemma 4B,chain-of-thought,false,,20.0,0.5,0.5,3.0,5.0,1.0
+655,2,MedGemma 4B,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+656,13,Qwen 2.5 3B Instruct,few-shot,false,,146.0,21.5,5.0,0.0,80.0,0.0
+657,4,MedGemma 4B,few-shot,false,,120.0,6.0,10.0,3.0,90.0,2.0
+658,4,Qwen 2.5 3B Instruct,chain-of-thought,false,,128.39,2.97,1.67,11.83,45.0,4.29
+659,3,Qwen 2.5 3B Instruct,structured-output,false,,167.0,31.95,9.48,0.0,321.0,0.0
+660,8,MedGemma 4B,zero-shot,false,,45.0,0.0,5.0,0.0,0.0,0.0
+661,3,MedGemma 4B,structured-output,false,,370.0,40.0,21.0,0.0,930.0,0.0
+662,14,Qwen 2.5 3B Instruct,few-shot,false,,48.0,4.8,2.0,6.0,150.0,0.0
+663,3,MedGemma 4B,chain-of-thought,false,One Pot Chicken with Rice,500.0,40.0,20.0,60.0,700.0,5.0
+664,5,MedGemma 4B,few-shot,false,,3.0,0.0,0.0,1.0,2.0,0.0
+665,9,MedGemma 4B,zero-shot,false,Salmon Sushi,350.0,25.0,20.0,35.0,600.0,1.0
+666,4,Qwen 2.5 3B Instruct,structured-output,false,,0.0,3.0,0.0,12.0,0.0,6.0
+667,5,Qwen 2.5 3B Instruct,chain-of-thought,false,,0.0,0.0,0.0,0.0,184.0,0.0
+668,4,MedGemma 4B,structured-output,false,,50.0,4.0,4.0,6.0,80.0,5.0
+669,15,Qwen 2.5 3B Instruct,few-shot,false,,456.0,40.0,21.0,2.0,210.0,2.0
+670,6,MedGemma 4B,few-shot,false,Tete-tots,300.0,8.0,15.0,35.0,600.0,1.0
+671,4,MedGemma 4B,chain-of-thought,false,,50.0,4.0,4.0,3.0,60.0,1.0
+672,10,MedGemma 4B,zero-shot,false,Gimari,320.0,7.8,14.5,32.6,350.0,4.3
+673,6,Qwen 2.5 3B Instruct,chain-of-thought,false,Tete-Tots,279.45,5.09,8.43,17.98,1128.0,6.46
+674,5,Qwen 2.5 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+675,7,Qwen 2.5 3B Instruct,chain-of-thought,false,Hummus,95.0,3.6,2.3,19.4,107.0,3.8
+677,5,MedGemma 4B,structured-output,false,,20.0,0.5,0.5,1.0,5.0,0.1
+678,7,MedGemma 4B,few-shot,false,,350.0,20.0,10.0,50.0,600.0,5.0
+679,16,Qwen 2.5 3B Instruct,few-shot,false,Black Pepper Beef,300.0,32.0,25.0,1.0,900.0,5.0
+680,5,MedGemma 4B,chain-of-thought,false,,0.0,0.0,0.0,0.0,0.0,0.0
+681,11,MedGemma 4B,zero-shot,false,,270.0,16.8,16.3,0.0,400.0,0.0
+682,6,Qwen 2.5 3B Instruct,structured-output,false,,,,,,,
+683,7,Qwen 2.5 3B Instruct,structured-output,false,,68.0,6.9,0.4,15.3,72.0,4.8
+684,24,Qwen 2.5 3B Instruct,zero-shot,false,Ayam Bakar Madu,0.0,0.0,0.0,0.0,0.0,0.0
+685,8,Qwen 2.5 3B Instruct,chain-of-thought,false,,862.0,0.0,862.0,0.0,0.0,0.0
+686,8,Qwen 2.5 3B Instruct,structured-output,false,Shark Shuka,0.0,0.0,0.0,0.0,0.0,0.0
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,Brownie Baked Oatmeal,0.0,0.0,0.0,0.0,0.0,0.0
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,Salmon Sushi,248.0,3.5,9.67,0.0,806.0,0.0
+689,9,Qwen 2.5 3B Instruct,structured-output,false,Salmon Sushi,0.0,0.0,0.0,0.0,0.0,0.0
+690,26,Qwen 2.5 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,Gimari,1035.0,31.5,63.0,102.0,2085.0,36.0
+692,10,Qwen 2.5 3B Instruct,structured-output,false,Gimari,0.0,0.0,0.0,0.0,0.0,0.0
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,Bubur Oat,0.0,0.0,0.0,0.0,0.0,0.0
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,Loaded Beef Nachos,278.0,19.4,30.4,17.4,1280.0,6.5
+695,11,Qwen 2.5 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+696,28,Qwen 2.5 3B Instruct,zero-shot,false,Ice Strawberry Matcha Latte,0.0,0.0,0.0,0.0,0.0,0.0
+697,12,Qwen 2.5 3B Instruct,chain-of-thought,false,,418.0,26.89,15.97,0.0,340.0,0.0
+698,12,Qwen 2.5 3B Instruct,structured-output,false,,11.7111,0.359746,0.107421,2.41575,0.0,2.41575
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,Kek Lava,0.0,0.0,0.0,0.0,0.0,0.0
+700,13,Qwen 2.5 3B Instruct,chain-of-thought,false,,239.5,21.4,6.7,0.0,510.0,0.0
+701,13,Qwen 2.5 3B Instruct,structured-output,false,Beef Bulgogi Cheese Steak,0.0,0.0,0.0,0.0,0.0,0.0
+702,30,Qwen 2.5 3B Instruct,zero-shot,false,Strawberry Sando,0.0,0.0,0.0,0.0,0.0,0.0
+703,14,Qwen 2.5 3B Instruct,chain-of-thought,false,,134.0,2.6,9.6,24.1,350.0,6.7
+704,14,Qwen 2.5 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,Chili Cheese Fries,0.0,0.0,0.0,0.0,0.0,0.0
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,Simple Roasted Chicken with Vegetables,834.0,111.0,9.0,60.0,462.0,32.0
+707,15,Qwen 2.5 3B Instruct,structured-output,false,Simple Roasted Chicken with Vegetables,0.0,0.0,0.0,0.0,0.0,0.0
+708,32,Qwen 2.5 3B Instruct,zero-shot,false,,23.0,1.5,0.1,0.2,0.0,0.0
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,Black Pepper Beef,365.0,24.6,24.7,18.3,980.0,6.7
+710,16,Qwen 2.5 3B Instruct,structured-output,false,Black Pepper Beef with Vegetable Stir-Fry,0.0,0.0,0.0,0.0,0.0,0.0
+711,17,Qwen 2.5 3B Instruct,few-shot,false,,140.0,0.0,16.5,0.0,0.0,0.0
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,Biskut Sehat untuk Pelari,0.0,0.0,0.0,0.0,0.0,0.0
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,Creamy Chicken Alfredo Pasta,1116.0,88.8,44.4,111.6,2585.0,31.8
+714,17,Qwen 2.5 3B Instruct,structured-output,false,Creamy Chicken Alfredo Pasta,0.0,0.0,0.0,0.0,0.0,0.0
+715,18,Qwen 2.5 3B Instruct,few-shot,false,,156.0,17.0,8.0,0.0,49.0,0.0
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,Macaroni Soup,0.0,0.0,0.0,0.0,0.0,0.0
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,Japchae,834.0,30.0,9.0,84.0,1251.0,15.0
+718,18,Qwen 2.5 3B Instruct,structured-output,false,Japchae,0.0,0.0,0.0,0.0,0.0,0.0
+719,19,Qwen 2.5 3B Instruct,few-shot,false,,139.0,26.0,7.4,1.0,28.0,0.0
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,Ayam Goreng Raisin,0.0,0.0,0.0,0.0,0.0,0.0
+721,19,Qwen 2.5 3B Instruct,chain-of-thought,false,,198.0,25.8,6.7,0.0,14.0,0.0
+722,19,Qwen 2.5 3B Instruct,structured-output,false,,85.0,23.1,3.4,0.0,90.0,0.0
+723,20,Qwen 2.5 3B Instruct,few-shot,false,Moktil Buah Naga,105.0,2.0,9.0,18.0,26.0,9.0
+724,36,Qwen 2.5 3B Instruct,zero-shot,false,Egg Tikka Masala,0.0,0.0,0.0,0.0,0.0,0.0
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,Moktil Buah Naga,257.0,1.4,6.0,27.5,161.0,8.9
+726,20,Qwen 2.5 3B Instruct,structured-output,false,Moktil Buah Naga,0.0,0.0,0.0,0.0,0.0,0.0
+727,21,Qwen 2.5 3B Instruct,few-shot,false,,148.0,6.0,6.0,3.0,140.0,1.0
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,Spicy Peanut Butter Noodles,0.0,0.0,0.0,0.0,0.0,0.0
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,Mee Sedap Creamy Chili Oil,274.0,7.8,19.3,21.4,225.0,3.4
+730,21,Qwen 2.5 3B Instruct,structured-output,false,Mee Sedap Creamy Chili Oil,0.0,0.0,0.0,0.0,0.0,0.0
+731,22,Qwen 2.5 3B Instruct,few-shot,false,Noodle Instant,,,,,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,Caramelized Onion Pasta,0.0,0.0,0.0,0.0,0.0,0.0
+733,22,Qwen 2.5 3B Instruct,chain-of-thought,false,,72.8,8.1,3.4,0.0,250.0,0.0
+734,22,Qwen 2.5 3B Instruct,structured-output,false,,89.0,29.5,2.45,0.0,630.0,0.0
+735,23,Qwen 2.5 3B Instruct,few-shot,false,Cheesy Beef Taquito and Avocado Cheese,250.0,13.0,21.0,1.0,420.0,0.0
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,Nasi Goreng Cerdik,0.0,0.0,0.0,0.0,0.0,0.0
+737,23,Qwen 2.5 3B Instruct,chain-of-thought,false,,124.39,28.79,6.97,0.0,16.0,0.0
+738,23,Qwen 2.5 3B Instruct,structured-output,false,,275.0,30.0,4.0,0.0,290.0,0.0
+739,24,Qwen 2.5 3B Instruct,few-shot,false,Ayam Bakar Madu,260.0,20.0,24.0,1.0,400.0,0.0
+740,40,Qwen 2.5 3B Instruct,zero-shot,false,,284.0,8.3,3.7,59.2,407.0,11.4
+741,24,Qwen 2.5 3B Instruct,chain-of-thought,false,Ayam Bakar Madu,246.0,25.88,15.87,35.88,1446.0,20.99
+742,24,Qwen 2.5 3B Instruct,structured-output,false,Ayam Bakar Madu,0.0,0.0,0.0,0.0,0.0,0.0
+743,25,Qwen 2.5 3B Instruct,few-shot,false,,28.0,2.0,0.4,6.5,3.0,1.5
+744,41,Qwen 2.5 3B Instruct,zero-shot,false,Spicy Peanut Butter Noodle,0.0,0.0,0.0,0.0,0.0,0.0
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,Brownie Baked Oatmeal,274.0,6.2,9.8,27.4,135.0,20.2
+746,25,Qwen 2.5 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+747,26,Qwen 2.5 3B Instruct,few-shot,false,Shamida Chilli Oil Noodle,200.0,8.0,15.0,2.0,500.0,0.0
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,Bolognese Sauce,0.0,0.0,0.0,0.0,0.0,0.0
+750,26,Qwen 2.5 3B Instruct,chain-of-thought,false,Shamida Chilli Oil Noodle,696.0,15.0,29.4,69.0,375.0,28.8
+751,26,Qwen 2.5 3B Instruct,structured-output,false,Garlic Chilli Oil Noodle,0.0,0.0,0.0,0.0,0.0,0.0
+752,27,Qwen 2.5 3B Instruct,few-shot,false,Bubur Oat Ayam,360.0,17.5,24.0,3.0,680.0,0.0
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,Beef Stir Fry,0.0,0.0,0.0,0.0,0.0,0.0
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,Bubur Oat Mentah dengan Ayam dan Minyak Pepek,246.0,13.53,9.08,24.67,250.0,18.31
+755,27,Qwen 2.5 3B Instruct,structured-output,false,,120.0,0.0,12.0,0.0,0.0,0.0
+756,28,Qwen 2.5 3B Instruct,few-shot,false,Ice Strawberry Matcha Latte,230.0,4.0,17.0,39.0,5.0,18.0
+758,46,Qwen 2.5 3B Instruct,zero-shot,false,,238.6,34.7,9.7,0.0,130.0,0.0
+759,28,Qwen 2.5 3B Instruct,chain-of-thought,false,Ice Strawberry Matcha Latte,185.0,3.4,7.64,18.5,26.0,7.5
+760,28,Qwen 2.5 3B Instruct,structured-output,false,Ice Strawberry Matcha Latte,0.0,0.0,0.0,0.0,0.0,0.0
+761,29,Qwen 2.5 3B Instruct,few-shot,false,Kek Lava,250.0,13.0,21.0,1.0,420.0,0.0
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,Cucumber Salad,0.0,0.0,0.0,0.0,0.0,0.0
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,Kek Lava,274.0,1.9,8.5,27.4,36.0,5.4
+765,29,Qwen 2.5 3B Instruct,structured-output,false,Kek Lava,0.0,0.0,0.0,0.0,0.0,0.0
+766,30,Qwen 2.5 3B Instruct,few-shot,false,Strawberry Sando,270.0,3.0,16.0,2.0,150.0,0.5
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+768,30,Qwen 2.5 3B Instruct,chain-of-thought,false,Strawberry Sandoe,259.0,2.4,4.7,38.5,100.0,16.7
+769,30,Qwen 2.5 3B Instruct,structured-output,false,Strawberry Sando,0.0,0.0,0.0,0.0,0.0,0.0
+770,31,Qwen 2.5 3B Instruct,few-shot,false,Chili Cheese Fries,340.0,16.0,26.0,4.0,550.0,3.0
+771,50,Qwen 2.5 3B Instruct,zero-shot,false,Viral Smoked Salmon Cucumber Salad,0.0,0.0,0.0,0.0,0.0,0.0
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,Chili Cheese Fries,1077.0,23.8,32.9,94.6,1945.0,28.5
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Chili Cheese Fries,0.0,0.0,0.0,0.0,0.0,0.0
+774,32,Qwen 2.5 3B Instruct,few-shot,false,,189.0,13.0,14.0,1.0,140.0,0.0
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,Contoh Contoh Chilli Oil,0.0,0.0,0.0,0.0,0.0,0.0
+776,32,Qwen 2.5 3B Instruct,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+777,33,Qwen 2.5 3B Instruct,few-shot,false,Kacang Merah & Peppernut Snack,205.0,13.0,17.0,1.0,420.0,0.0
+778,33,Qwen 2.5 3B Instruct,chain-of-thought,false,,59.0,3.0,4.6,7.8,120.0,4.9
+779,33,Qwen 2.5 3B Instruct,structured-output,false,Stringy Hazelnut Banana Biscuits,0.0,0.0,0.0,0.0,0.0,0.0
+780,34,Qwen 2.5 3B Instruct,few-shot,false,Bacon,,,,,,
+781,34,Qwen 2.5 3B Instruct,chain-of-thought,false,,168.7,30.7,9.34,0.0,42.0,0.0
+782,34,Qwen 2.5 3B Instruct,structured-output,false,,341.0,36.4,22.98,3.3,401.0,2.95
+783,35,Qwen 2.5 3B Instruct,few-shot,false,Ayam Goreng Nipbles dengan Sauce Raising Canes,300.0,20.0,25.0,1.0,500.0,2.0
+784,35,Qwen 2.5 3B Instruct,chain-of-thought,false,,146.0,19.7,9.3,8.5,200.0,6.9
+785,35,Qwen 2.5 3B Instruct,structured-output,false,Ayam Goreng Tepung Raisin,0.0,0.0,0.0,0.0,0.0,0.0
+786,36,Qwen 2.5 3B Instruct,few-shot,false,water,4.0,,,,,
+787,36,Qwen 2.5 3B Instruct,chain-of-thought,false,,102.0,0.0,8.25,0.0,0.0,0.0
+788,36,Qwen 2.5 3B Instruct,structured-output,false,,576.0,0.0,54.0,0.0,19.0,0.0
+789,37,Qwen 2.5 3B Instruct,few-shot,false,Spicy Peanut Butter Noodles,250.0,13.0,21.0,1.0,420.0,0.0
+790,6,MedGemma 4B,chain-of-thought,false,Tete-tots,350.0,8.0,12.0,50.0,450.0,2.0
+791,37,Qwen 2.5 3B Instruct,chain-of-thought,false,Spicy Peanut Butter Noodles,254.0,6.0,9.8,45.0,1028.0,10.0
+792,6,MedGemma 4B,structured-output,false,Tete-tots,300.0,8.0,6.0,44.0,400.0,2.0
+793,7,MedGemma 4B,chain-of-thought,false,Hummus,250.0,6.0,8.0,25.0,400.0,1.0
+794,37,Qwen 2.5 3B Instruct,structured-output,false,Spicy Peanut Butter Noodles,0.0,0.0,0.0,0.0,0.0,0.0
+795,38,Qwen 2.5 3B Instruct,few-shot,false,,165.0,16.0,8.5,2.5,140.0,0.0
+796,7,MedGemma 4B,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,Caramelized Onion Pasta,278.0,2.8,9.6,17.1,489.0,6.3
+798,38,Qwen 2.5 3B Instruct,structured-output,false,Caramelized Onion Pasta,0.0,0.0,0.0,0.0,0.0,0.0
+799,39,Qwen 2.5 3B Instruct,few-shot,false,,240.0,2.8,2.0,51.0,60.0,2.3
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,Nasi Goreng Cerdik,1283.7,31.5,45.9,144.6,2076.0,15.2
+801,39,Qwen 2.5 3B Instruct,structured-output,false,,8.92,0.39,0.17,3.64,0.0,1.82
+802,8,MedGemma 4B,few-shot,false,,280.0,0.0,30.0,0.0,0.0,0.0
+803,40,Qwen 2.5 3B Instruct,few-shot,false,,279.0,38.0,18.0,1.0,200.0,1.0
+804,40,Qwen 2.5 3B Instruct,chain-of-thought,false,,174.0,31.7,6.8,0.0,320.0,0.0
+805,8,MedGemma 4B,chain-of-thought,false,,450.0,0.0,45.0,0.0,0.0,0.0
+806,40,Qwen 2.5 3B Instruct,structured-output,false,Chicken Palm Sandwich,0.0,0.0,0.0,0.0,0.0,0.0
+807,41,Qwen 2.5 3B Instruct,few-shot,false,Noodle Spicy Peanut Butter,250.0,13.0,21.0,1.0,420.0,0.0
+808,8,MedGemma 4B,structured-output,false,,140.0,0.0,14.0,0.0,0.0,0.0
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,Spicy Peanut Butter Noodle,0.0,0.0,0.0,0.0,0.0,0.0
+810,41,Qwen 2.5 3B Instruct,structured-output,false,Spicy Peanut Butter Noodle,0.0,0.0,0.0,0.0,0.0,0.0
+812,43,Qwen 2.5 3B Instruct,few-shot,false,,144.0,13.0,10.0,1.0,140.0,0.0
+814,43,Qwen 2.5 3B Instruct,chain-of-thought,false,,149.68,34.68,3.7,0.0,25.0,0.0
+815,9,MedGemma 4B,few-shot,false,Salmon Sushi,500.0,40.0,30.0,50.0,700.0,5.0
+817,43,Qwen 2.5 3B Instruct,structured-output,false,,239.0,22.0,8.0,0.0,55.0,0.0
+818,9,MedGemma 4B,chain-of-thought,false,Salmon Sushi,350.0,25.0,20.0,35.0,600.0,1.0
+819,44,Qwen 2.5 3B Instruct,few-shot,false,Beef Stir Fry,350.0,18.0,21.0,5.0,420.0,1.0
+820,9,MedGemma 4B,structured-output,false,Salmon Sushi,450.0,30.0,25.0,40.0,750.0,1.0
+821,10,MedGemma 4B,few-shot,false,Gimari,350.0,6.0,14.0,35.0,300.0,2.0
+822,10,MedGemma 4B,chain-of-thought,false,Gimari,250.0,6.0,8.0,35.0,400.0,2.0
+823,10,MedGemma 4B,structured-output,false,Gimari,250.0,6.0,8.0,15.0,300.0,2.0
+824,11,MedGemma 4B,few-shot,false,,260.0,25.0,18.0,0.0,400.0,0.0
+825,11,MedGemma 4B,chain-of-thought,false,,250.0,25.0,18.0,0.0,600.0,0.0
+826,11,MedGemma 4B,structured-output,false,,230.0,30.0,15.8,0.0,800.0,0.0
+827,12,MedGemma 4B,zero-shot,false,,300.0,30.0,9.0,0.0,400.0,0.0
+828,12,MedGemma 4B,few-shot,false,,650.0,65.0,40.0,0.0,700.0,0.0
+829,12,MedGemma 4B,chain-of-thought,false,,230.0,42.0,7.6,0.0,180.0,0.0
+830,12,MedGemma 4B,structured-output,false,,350.0,30.4,20.4,20.4,500.0,1.6
+831,44,Qwen 2.5 3B Instruct,chain-of-thought,false,,246.9,25.7,8.7,2.4,334.0,0.8
+832,44,Qwen 2.5 3B Instruct,structured-output,false,Beef Stir Fry,0.0,0.0,0.0,0.0,0.0,0.0
+833,13,MedGemma 4B,zero-shot,false,,240.0,24.0,16.0,0.0,200.0,0.0
+834,13,MedGemma 4B,few-shot,false,,270.0,30.0,20.0,0.0,400.0,0.0
+835,13,MedGemma 4B,chain-of-thought,false,,280.0,30.0,17.0,0.5,600.0,0.0
+836,13,MedGemma 4B,structured-output,false,,260.0,26.0,17.0,0.0,300.0,0.0
+837,14,MedGemma 4B,zero-shot,false,,50.0,6.0,3.0,40.0,200.0,3.0
+838,14,MedGemma 4B,few-shot,false,,160.0,6.0,2.0,30.0,40.0,2.0
+839,14,MedGemma 4B,chain-of-thought,false,,150.0,7.0,6.0,30.0,400.0,2.0
+840,14,MedGemma 4B,structured-output,false,,0.0,0.0,0.0,0.0,0.0,0.0
+841,15,MedGemma 4B,zero-shot,false,,450.0,45.0,25.0,0.0,700.0,0.0
+842,15,MedGemma 4B,few-shot,false,,560.0,45.0,35.0,10.0,400.0,2.0
+843,15,MedGemma 4B,chain-of-thought,false,,350.0,40.0,28.0,0.0,700.0,0.0
+845,46,Qwen 2.5 3B Instruct,few-shot,false,Grilled Cajun Chicken with Simple Butter Nasi Goreng,1020.0,56.0,76.0,50.0,600.0,12.0
+846,15,MedGemma 4B,structured-output,false,,450.0,35.0,28.0,0.0,400.0,0.0
+847,16,MedGemma 4B,zero-shot,false,,270.0,25.0,18.0,0.0,300.0,0.0
+848,16,MedGemma 4B,few-shot,false,,250.0,35.0,16.0,2.0,800.0,2.0
+849,16,MedGemma 4B,chain-of-thought,false,,375.0,40.0,25.0,0.0,800.0,0.0
+850,16,MedGemma 4B,structured-output,false,,230.0,25.0,14.0,0.0,400.0,0.0
+851,17,MedGemma 4B,zero-shot,false,,350.0,35.0,25.0,0.0,400.0,0.0
+853,46,Qwen 2.5 3B Instruct,chain-of-thought,false,,84.7,28.3,3.9,0.0,90.0,0.0
+854,17,MedGemma 4B,few-shot,false,,380.0,50.0,26.0,0.0,400.0,0.0
+856,46,Qwen 2.5 3B Instruct,structured-output,false,,165.0,32.675,8.375,0.0,92.5,0.0
+857,17,MedGemma 4B,chain-of-thought,false,,360.0,45.0,28.0,0.0,70.0,0.0
+859,48,Qwen 2.5 3B Instruct,few-shot,false,Cireng Pepes Cucur,280.0,12.0,25.0,1.0,450.0,0.0
+861,48,Qwen 2.5 3B Instruct,chain-of-thought,false,,15.0,1.1,0.3,6.4,20.0,3.7
+862,17,MedGemma 4B,structured-output,false,,350.0,40.0,20.0,0.0,200.0,0.0
+864,48,Qwen 2.5 3B Instruct,structured-output,false,Cucumber Salad with Homemade Sambal,0.0,0.0,0.0,0.0,0.0,0.0
+865,49,Qwen 2.5 3B Instruct,few-shot,false,Salad Pepaya,250.0,13.0,21.0,1.0,420.0,0.0
+866,18,MedGemma 4B,zero-shot,false,Japchae,1350.0,60.0,45.0,210.0,2400.0,15.0
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,Cucumber Salad with Chili Oil and Sesame Seeds,708.0,4.7,45.0,60.0,141.0,15.2
+868,18,MedGemma 4B,few-shot,false,Japchae,450.0,18.0,20.0,60.0,350.0,2.0
+869,49,Qwen 2.5 3B Instruct,structured-output,false,Cucumber Salad,0.0,0.0,0.0,0.0,0.0,0.0
+870,50,Qwen 2.5 3B Instruct,few-shot,false,,8.0,0.6,0.5,1.7,20.0,1.1
+871,18,MedGemma 4B,chain-of-thought,false,,350.0,35.0,27.0,0.0,400.0,0.0
+872,50,Qwen 2.5 3B Instruct,chain-of-thought,false,,,,,,,
+873,50,Qwen 2.5 3B Instruct,structured-output,false,,50.78,6.4,4.3,7.59,26.0,3.3
+874,18,MedGemma 4B,structured-output,false,,150.0,2.8,1.2,30.8,10.0,4.6
+875,19,MedGemma 4B,zero-shot,false,,230.0,25.0,12.0,0.0,400.0,0.0
+876,19,MedGemma 4B,few-shot,false,,360.0,36.0,24.0,2.0,180.0,1.0
+877,19,MedGemma 4B,chain-of-thought,false,,350.0,40.0,26.0,0.0,700.0,0.0
+878,19,MedGemma 4B,structured-output,false,,350.0,30.0,30.0,2.0,400.0,0.5
+879,20,MedGemma 4B,zero-shot,false,Moktel Buah Naga,250.0,6.0,8.0,40.0,150.0,30.0
+880,20,MedGemma 4B,few-shot,false,Moktel Buah Naga,250.0,4.0,14.0,30.0,0.0,25.0
+881,20,MedGemma 4B,chain-of-thought,false,Moktel Buah Naga,250.0,6.0,8.0,45.0,150.0,30.0
+882,20,MedGemma 4B,structured-output,false,Moktel Buah Naga,250.0,6.0,8.0,35.0,150.0,28.0
+883,21,MedGemma 4B,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+884,21,MedGemma 4B,few-shot,false,,480.0,0.0,56.0,0.0,0.0,0.0
+885,21,MedGemma 4B,chain-of-thought,false,,40.0,0.0,5.0,0.0,0.0,0.0
+886,21,MedGemma 4B,structured-output,false,Mee Sedap Creamy Chili Oil,350.0,18.0,25.0,35.0,600.0,2.0
+887,22,MedGemma 4B,zero-shot,false,,200.0,25.0,10.0,0.0,50.0,0.0
+888,22,MedGemma 4B,few-shot,false,,300.0,30.0,20.0,0.0,400.0,0.0
+889,22,MedGemma 4B,chain-of-thought,false,,280.0,25.0,16.0,0.0,100.0,0.0
+890,22,MedGemma 4B,structured-output,false,,150.0,20.0,8.0,0.0,400.0,0.0
+891,23,MedGemma 4B,zero-shot,false,,240.0,30.0,18.0,0.5,300.0,0.1
+892,23,MedGemma 4B,few-shot,false,,250.0,35.0,15.0,0.0,400.0,0.0
+893,23,MedGemma 4B,chain-of-thought,false,,165.0,24.7,9.7,0.0,600.0,0.0
+894,23,MedGemma 4B,structured-output,false,,250.0,27.0,14.6,0.0,500.0,0.0
+895,24,MedGemma 4B,zero-shot,false,ayam bakar madu,350.0,25.0,12.0,15.0,400.0,5.0
+896,24,MedGemma 4B,few-shot,false,Ayam Bakar Madu,500.0,30.0,30.0,10.0,400.0,15.0
+897,24,MedGemma 4B,chain-of-thought,false,Ayam Bakar Madu,450.0,40.0,25.0,30.0,700.0,10.0
+898,24,MedGemma 4B,structured-output,false,Ayam Bakar Madu,450.0,40.0,25.0,30.0,500.0,5.0
+899,25,MedGemma 4B,zero-shot,false,Brownie Baked Oat Meal,350.0,8.0,12.0,45.0,150.0,15.0
+900,25,MedGemma 4B,few-shot,false,Brownie Baked Oat Meal,350.0,8.0,20.0,35.0,180.0,12.0
+901,25,MedGemma 4B,chain-of-thought,false,Brownie Baked Oat Meal,350.0,7.0,12.0,50.0,150.0,20.0
+902,25,MedGemma 4B,structured-output,false,Brownie Baked Oat Meal,350.0,7.0,12.0,50.0,200.0,15.0
+903,26,MedGemma 4B,zero-shot,false,Garlic Chilli Oil,0.0,0.0,0.0,0.0,0.0,0.0
+904,26,MedGemma 4B,few-shot,false,Chilli Oil,250.0,13.0,21.0,1.0,420.0,0.0
+905,26,MedGemma 4B,chain-of-thought,false,Garlic Chilli Oil Noodles,250.0,5.0,15.0,20.0,300.0,1.0
+906,26,MedGemma 4B,structured-output,false,Garlic Chilli Oil,250.0,6.0,30.0,2.0,100.0,0.5
+907,27,MedGemma 4B,zero-shot,false,,150.0,6.0,2.0,27.0,75.0,1.0
+908,27,MedGemma 4B,few-shot,false,,165.0,14.0,4.0,27.0,30.0,5.0
+909,27,MedGemma 4B,chain-of-thought,false,,390.0,16.0,6.0,58.0,40.0,1.0
+910,27,MedGemma 4B,structured-output,false,,250.0,15.0,8.0,40.0,40.0,2.0
+911,28,MedGemma 4B,zero-shot,false,Ice Strawberry Matcha Latte,250.0,6.0,8.0,45.0,50.0,28.0
+912,28,MedGemma 4B,few-shot,false,Air Gen Z Strawberry Matcha Latte,250.0,4.0,6.0,45.0,30.0,35.0
+913,28,MedGemma 4B,chain-of-thought,false,Ice Strawberry Matcha Latte,250.0,5.0,5.0,45.0,80.0,25.0
+914,28,MedGemma 4B,structured-output,false,Ice Strawberry Matcha Latte,250.0,5.0,7.0,45.0,80.0,25.0
+915,29,MedGemma 4B,zero-shot,false,kek lava,250.0,4.0,15.0,25.0,60.0,20.0
+916,29,MedGemma 4B,few-shot,false,Kek Lava,300.0,8.0,20.0,30.0,150.0,20.0
+917,29,MedGemma 4B,chain-of-thought,false,Kek Lava,250.0,4.0,15.0,25.0,60.0,18.0
+918,29,MedGemma 4B,structured-output,false,Kek Lava,250.0,4.0,15.0,25.0,300.0,18.0
+919,30,MedGemma 4B,zero-shot,false,Strawberry Sando,250.0,4.0,8.0,25.0,70.0,18.0
+920,30,MedGemma 4B,few-shot,false,Strawberry Sando,350.0,6.0,12.0,45.0,80.0,30.0
+921,30,MedGemma 4B,chain-of-thought,false,Strawberry Sando,250.0,4.0,8.0,35.0,60.0,20.0
+922,30,MedGemma 4B,structured-output,false,Strawberry Sando,250.0,4.0,8.0,35.0,60.0,18.0
+923,31,MedGemma 4B,zero-shot,false,,300.0,10.0,15.0,30.0,600.0,2.0
+924,31,MedGemma 4B,few-shot,false,Chili Cheese Fries,800.0,30.0,50.0,80.0,700.0,5.0
+925,31,MedGemma 4B,chain-of-thought,false,,150.0,6.0,6.0,30.0,580.0,1.0
+926,31,MedGemma 4B,structured-output,false,,180.0,8.3,9.6,56.1,670.0,2.9
+927,32,MedGemma 4B,zero-shot,false,,0.0,0.0,0.0,0.0,0.0,0.0
+928,32,MedGemma 4B,few-shot,false,Chilli Oil,200.0,2.0,25.0,0.0,150.0,0.0
+929,32,MedGemma 4B,chain-of-thought,false,,840.0,0.0,100.0,0.0,0.0,0.0
+930,32,MedGemma 4B,structured-output,false,,120.0,0.0,15.0,0.0,0.0,0.0
+931,33,MedGemma 4B,zero-shot,false,Biskut Pisang Hazelnut Madu,250.0,4.0,8.0,35.0,150.0,12.0
+932,33,MedGemma 4B,few-shot,false,Hazelnut Banana Snack,350.0,8.0,16.0,50.0,200.0,16.0
+933,33,MedGemma 4B,chain-of-thought,false,Hazelnut and Banana Energy Bites,350.0,6.0,12.0,45.0,250.0,18.0
+934,33,MedGemma 4B,structured-output,false,Hazelnut Spread & Banana with Julie's Cheese Cracker Snack,350.0,6.0,12.0,50.0,200.0,25.0
+935,34,MedGemma 4B,zero-shot,false,,375.0,35.0,28.0,0.0,400.0,0.0
+936,34,MedGemma 4B,few-shot,false,,350.0,45.0,18.0,0.0,700.0,0.0
+937,34,MedGemma 4B,chain-of-thought,false,,400.0,40.0,20.0,0.0,300.0,0.0
+938,34,MedGemma 4B,structured-output,false,,300.0,25.0,8.0,0.0,400.0,0.0
+939,35,MedGemma 4B,zero-shot,false,Ayam Goreng Raising Canes,750.0,40.0,30.0,50.0,1000.0,5.0
+940,35,MedGemma 4B,few-shot,false,,350.0,35.0,25.0,3.0,400.0,1.0
+941,35,MedGemma 4B,chain-of-thought,false,Ayam Goreng Raising Canes,500.0,40.0,25.0,30.0,800.0,5.0
+942,35,MedGemma 4B,structured-output,false,Ayam Goreng Raising Canes,746.0,53.1,35.9,64.3,1200.0,3.9
+943,36,MedGemma 4B,zero-shot,false,,204.0,0.4,26.0,0.1,90.0,0.0
+944,36,MedGemma 4B,few-shot,false,,260.0,0.0,28.0,0.0,0.0,0.0
+945,36,MedGemma 4B,chain-of-thought,false,,200.0,0.0,23.0,0.0,75.0,0.0
+946,36,MedGemma 4B,structured-output,false,,110.0,0.0,13.0,0.0,60.0,0.0
+947,37,MedGemma 4B,zero-shot,false,,900.0,8.0,16.0,7.0,150.0,1.0
+948,37,MedGemma 4B,few-shot,false,,490.0,15.0,35.0,8.0,70.0,3.0
+949,37,MedGemma 4B,chain-of-thought,false,,900.0,7.0,8.0,4.0,100.0,1.0
+950,37,MedGemma 4B,structured-output,false,,900.0,8.0,9.0,7.0,400.0,3.0
+951,38,MedGemma 4B,zero-shot,false,,20.0,1.0,0.5,8.0,30.0,2.0
+952,38,MedGemma 4B,few-shot,false,Caramelized Onion Pasta,600.0,30.0,35.0,60.0,400.0,5.0
+953,38,MedGemma 4B,chain-of-thought,false,,20.0,0.5,0.5,4.0,60.0,2.0
+954,38,MedGemma 4B,structured-output,false,,260.0,4.0,2.3,16.0,150.0,3.0
+955,39,MedGemma 4B,zero-shot,false,Nasi Goreng Cerdik,350.0,18.0,12.0,45.0,600.0,3.0
+956,39,MedGemma 4B,few-shot,false,Nasi Goreng Cerdik,600.0,25.0,25.0,60.0,900.0,5.0
+957,39,MedGemma 4B,chain-of-thought,false,Nasi Goreng Cerdik,530.0,18.0,12.0,75.0,900.0,6.0
+958,39,MedGemma 4B,structured-output,false,,156.0,13.0,12.0,1.0,75.0,0.0
+959,40,MedGemma 4B,zero-shot,false,Chicken Palm Sandwich,650.0,45.0,35.0,60.0,750.0,3.0
+960,40,MedGemma 4B,few-shot,false,,450.0,40.0,28.0,1.0,700.0,0.0
+961,40,MedGemma 4B,chain-of-thought,false,,382.0,53.0,27.0,0.0,400.0,0.0
+962,40,MedGemma 4B,structured-output,false,,430.0,40.0,28.0,0.0,750.0,0.0
+963,41,MedGemma 4B,zero-shot,false,,190.0,6.0,16.0,7.0,140.0,1.0
+964,41,MedGemma 4B,few-shot,false,,300.0,17.0,18.0,10.0,50.0,4.0
+965,41,MedGemma 4B,chain-of-thought,false,,900.0,7.0,8.0,6.0,200.0,3.0
+966,41,MedGemma 4B,structured-output,false,,900.0,8.0,8.0,4.0,300.0,1.0
+968,43,MedGemma 4B,zero-shot,false,,250.0,40.0,20.0,0.0,750.0,0.0
+970,43,MedGemma 4B,few-shot,false,,2500.0,70.0,200.0,10.0,1000.0,5.0
+972,43,MedGemma 4B,chain-of-thought,false,,270.0,45.0,23.0,0.0,700.0,0.0
+974,43,MedGemma 4B,structured-output,false,,250.0,25.0,15.0,0.0,700.0,0.0
+975,44,MedGemma 4B,zero-shot,false,,260.0,25.0,14.0,0.0,300.0,0.0
+976,44,MedGemma 4B,few-shot,false,,280.0,30.0,18.0,0.0,400.0,0.0
+977,44,MedGemma 4B,chain-of-thought,false,,250.0,25.0,15.0,0.0,600.0,0.0
+978,44,MedGemma 4B,structured-output,false,,280.0,25.0,14.0,0.0,600.0,0.0
+980,46,MedGemma 4B,zero-shot,false,,350.0,30.0,20.0,0.0,400.0,0.0
+982,46,MedGemma 4B,few-shot,false,Grilled Cajun Chicken with Butter Nasi Goreng,650.0,50.0,42.0,60.0,750.0,4.0
+984,46,MedGemma 4B,chain-of-thought,false,,450.0,40.0,30.0,0.0,500.0,0.0
+986,46,MedGemma 4B,structured-output,false,,400.0,40.0,25.0,0.0,600.0,0.0
+988,48,MedGemma 4B,zero-shot,false,Cucumber Salad,250.0,10.0,8.0,25.0,400.0,8.0
+990,48,MedGemma 4B,few-shot,false,,16.0,1.0,0.5,4.0,2.0,1.0
+992,48,MedGemma 4B,chain-of-thought,false,Cucumber Salad,250.0,6.0,8.0,25.0,400.0,8.0
+994,48,MedGemma 4B,structured-output,false,Cucumber Salad,250.0,6.0,6.5,28.0,350.0,7.5
+995,49,MedGemma 4B,zero-shot,false,Cucumber Salad,60.0,2.0,2.5,6.0,400.0,2.0
+996,49,MedGemma 4B,few-shot,false,Cucumber Salad,200.0,5.0,15.0,8.0,400.0,3.0
+997,49,MedGemma 4B,chain-of-thought,false,Cucumber Salad,50.0,3.0,2.5,7.5,300.0,2.5
+998,49,MedGemma 4B,structured-output,false,Cucumber Salad,50.0,2.0,2.5,8.0,300.0,2.0
+999,50,MedGemma 4B,zero-shot,false,Viral Smoked Salmon Cucumber Salad,350.0,20.0,25.0,15.0,400.0,2.0
+1000,50,MedGemma 4B,few-shot,false,Viral Smoked Salmon Cucumber Salad,350.0,25.0,20.0,10.0,450.0,3.0
+1001,50,MedGemma 4B,chain-of-thought,false,Viral Smoked Salmon Cucumber Salad,350.0,20.0,25.0,10.0,400.0,5.0
+1002,50,MedGemma 4B,structured-output,false,Viral Smoked Salmon Cucumber Salad,250.0,18.0,12.0,8.0,450.0,2.0

@@ -426,97 +426,65 @@ experiment_id,transcript_id,model_name,technique_name,rag_enabled,pred_name_orig
 200,50,Llama 3.2 3B Instruct,structured-output,false,MSG,monosodium glutamate,sikit,teaspoons
 200,50,Llama 3.2 3B Instruct,structured-output,false,smoked salmon,smoked salmon,bekas,pieces
 203,2,Phi-4-mini 3.8B Instruct,zero-shot,false,,,,
-402,1,Qwen 2.5 3B Instruct,zero-shot,false,ayam bagian thigh,chicken thighs,,
-402,1,Qwen 2.5 3B Instruct,zero-shot,false,"sos tiram, minyak bijan, tepung jagung, garam and black pepper","soy sauce, peanut oil, cornstarch, salt, and black pepper",,
-402,1,Qwen 2.5 3B Instruct,zero-shot,false,batang daun bawang,leaves of garlic,piece,
-402,1,Qwen 2.5 3B Instruct,zero-shot,false,potongan halia,pieces of halia,,
-402,1,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih dan daun bawang,white onion and leek,,
-404,3,Qwen 2.5 3B Instruct,zero-shot,false,1 pot ayam,One pot chicken,,
-404,3,Qwen 2.5 3B Instruct,zero-shot,false,ABC kicap,ABC soy sauce (Kecap ABC),sudu,tablespoons
-404,3,Qwen 2.5 3B Instruct,zero-shot,false,ABC sos manis,ABC sweet sauce (Sos Manis ABC),sudu,tablespoons
-404,3,Qwen 2.5 3B Instruct,zero-shot,false,1 batang bawang putih,1 white onion,,
-404,3,Qwen 2.5 3B Instruct,zero-shot,false,Sejumput lada hitam,A few pinches of black pepper,,
-405,4,Qwen 2.5 3B Instruct,zero-shot,false,plain yogurt,plain yogurt,,sudu
-405,4,Qwen 2.5 3B Instruct,zero-shot,false,"cupi mayo, mustard, timun, bawang holland, daun bawang","plain yogurt, mayonnaise, mustard, cucumber, Hollandaise sauce, scallion",,
-405,4,Qwen 2.5 3B Instruct,zero-shot,false,cili flake,jalapeno flakes,,
-405,4,Qwen 2.5 3B Instruct,zero-shot,false,"salt, pepper, garlic powder, ketumbar","salt, pepper, garlic powder, coriander seeds",,
-405,4,Qwen 2.5 3B Instruct,zero-shot,false,lemon juice and dry parsley,lemon juice and dried parsley,,
-405,4,Qwen 2.5 3B Instruct,zero-shot,false,egg boiled or tomato,boiled egg or tomato,,
-406,5,Qwen 2.5 3B Instruct,zero-shot,false,"serbuk kunyit, garlic powder, jintan putih, cayenne peper, garam dan pepper","turmeric powder, garlic powder, white peppercorn, cayenne pepper, salt, and black pepper",,
-406,5,Qwen 2.5 3B Instruct,zero-shot,false,"paprika, gula sikit, kacau","red pepper, a bit of sugar, and mixed spices (assumed to be a mix of white peppercorns and cayenne pepper)",,
-406,5,Qwen 2.5 3B Instruct,zero-shot,false,olive oil and lemon juice,olive oil and lemon juice,,
-406,5,Qwen 2.5 3B Instruct,zero-shot,false,plain yogurt,plain yogurt,,
-406,5,Qwen 2.5 3B Instruct,zero-shot,false,"chicken thigh, garlic sauce, BBQ sauce, sriracha sauce","chicken thighs, garlic sauce, BBQ sauce, and Sriracha sauce",,
-406,5,Qwen 2.5 3B Instruct,zero-shot,false,fries,fries (oil fried),,
-406,5,Qwen 2.5 3B Instruct,zero-shot,false,mozzarella cheese,mozzarella cheese,,
+404,3,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+407,6,Qwen 2.5 3B Instruct,zero-shot,false,Kentang,Potato,,
+408,7,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,minyak,oil,,
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,bawang holland,onion and garlic,,pieces
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,garlic,,pieces
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,lada benggala,red pepper flakes (cayenne),,pinch
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,tomat cincang,diced tomatoes,,tin
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,biji telur,egg,,pieces
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,paprika,pepper powder (black pepper),,pinch
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,jintan putih,white mustard seeds,,pinch
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,parmesan cheese,parmesan cheese (optional),,grams
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,dry parsley,dried parsley,,pieces
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,olive oil,olive oil (for toasting),,tablespoons
+409,8,Qwen 2.5 3B Instruct,zero-shot,false,roti (biasa),plain bread,,piece
 410,9,Qwen 2.5 3B Instruct,zero-shot,false,salmon,salmon,,
 410,9,Qwen 2.5 3B Instruct,zero-shot,false,rice,rice,,
-410,9,Qwen 2.5 3B Instruct,zero-shot,false,cream cheese,cream cheese,,
-410,9,Qwen 2.5 3B Instruct,zero-shot,false,kewpie mayo,Kewpie mayonnaise,,
-410,9,Qwen 2.5 3B Instruct,zero-shot,false,sriracha sauce,Sriracha sauce,,
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,cream cheese,creamed cheese,g,grams
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,ketchup,ketchup,ml,milliliters
+410,9,Qwen 2.5 3B Instruct,zero-shot,false,sriracha sauce,sriracha sauce,ml,milliliters
 411,10,Qwen 2.5 3B Instruct,zero-shot,false,,,,
-412,11,Qwen 2.5 3B Instruct,zero-shot,false,daging frozen yang tak sempat-sempat nak masak,frozen beef that didn't get cooked in time,,
-412,11,Qwen 2.5 3B Instruct,zero-shot,false,bawang merah dan bawang putih,red and white onions,,
-412,11,Qwen 2.5 3B Instruct,zero-shot,false,"black pepper, garlic powder, daun rosemary and paprika","black pepper, garlic powder, rosemary leaves, and paprika",,
-412,11,Qwen 2.5 3B Instruct,zero-shot,false,"tomato paste, dekat air and cooking cream","tomato paste, water, and cooking cream",,
-412,11,Qwen 2.5 3B Instruct,zero-shot,false,kepingan keju cheese dill burger,cheese dill burger pieces,,
-412,11,Qwen 2.5 3B Instruct,zero-shot,false,sauce creamy,creamy sauce,,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,daging syabu-syabu,beef,,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,garam,salt,,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,black pepper,black pepper (peppercorn),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,white pepper,white peppercorn (white pepper),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,sos siram,soy sauce (kicap),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,minyak bijan,peanut oil (bodog),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,daging marinated,marinated beef,,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,roti sos,sauce bread (bolo),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,white onion (bulb),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,butter,butter (mentega),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,daging marinado,marinated beef (diced),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,kepingan keju,cheese slice (cottage cheese),,
-414,13,Qwen 2.5 3B Instruct,zero-shot,false,telur matah,egg (boiled egg),,
-415,14,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,daging frozen yang tak sempat-sempat nak masak,,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,bawang merah dan bawang putih,,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,"black pepper, garlic powder, daun rosemary and paprika",,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,"tomato paste, dekat air dan cooking cream",,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,kepingan keju cheese dill burger,,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,sauce yang lagi creamy,,,
+412,11,Qwen 2.5 3B Instruct,zero-shot,false,doughnut,,,
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,daging syabu-syabu,beef shabu-shabu,,piece
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,garam,salt,,teaspoon
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,garlic,,cloves
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,butter,butter,,tablespoon
+414,13,Qwen 2.5 3B Instruct,zero-shot,false,kepingan keju,cheese slices,,pieces
 417,16,Qwen 2.5 3B Instruct,zero-shot,false,daging,beef,,
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,minyak bijan,palm oil,liter,liter
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,kicap masin,soy sauce,liter,liter
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,tepung jagung,corn flour,tablespoon,tablespoon
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,shallot,piece,pieces
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,halia,shallot (salted),piece,pieces
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,holland,ginger (fresh),stem,stem
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,kicap manis pedas dari mahsuri,soy sauce (sweet and spicy),tablespoon,tablespoon
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,white pepper,white peppercorns,piece,pieces
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,black pepper,black peppercorns,piece,pieces
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,benggala,red pepper flakes (dried),piece,pieces
-417,16,Qwen 2.5 3B Instruct,zero-shot,false,broccoli,broccoli (fresh),stem,stem
-419,18,Qwen 2.5 3B Instruct,zero-shot,false,daging syabu-syabu,pork belly,,
-419,18,Qwen 2.5 3B Instruct,zero-shot,false,bawang merah,red onion,,
-419,18,Qwen 2.5 3B Instruct,zero-shot,false,kubis,carrot,,
-419,18,Qwen 2.5 3B Instruct,zero-shot,false,timun hijau,green bell pepper,,
-419,18,Qwen 2.5 3B Instruct,zero-shot,false,bawang harid,ginger,,
-419,18,Qwen 2.5 3B Instruct,zero-shot,false,minyak sawit,palm oil,,
-419,18,Qwen 2.5 3B Instruct,zero-shot,false,bumbu masak,seasoning and sauce,,
-421,20,Qwen 2.5 3B Instruct,zero-shot,false,mangkuk,dish,,
-421,20,Qwen 2.5 3B Instruct,zero-shot,false,suju cair,water ice,,
-421,20,Qwen 2.5 3B Instruct,zero-shot,false,air cincau,cendol water,,
-421,20,Qwen 2.5 3B Instruct,zero-shot,false,buah naga,mango,,
-421,20,Qwen 2.5 3B Instruct,zero-shot,false,sagu,coconut flour (for cooking),,
-421,20,Qwen 2.5 3B Instruct,zero-shot,false,susu pekat,full-fat milk (to taste),,
-422,21,Qwen 2.5 3B Instruct,zero-shot,false,minyak,oil,,
-422,21,Qwen 2.5 3B Instruct,zero-shot,false,beef,beef,,
-422,21,Qwen 2.5 3B Instruct,zero-shot,false,mie sedap mie goreng perisa asli,正宗麻辣粉条 (Mien Sedap),paket,
-422,21,Qwen 2.5 3B Instruct,zero-shot,false,telur kuning,egg yolk,,
-422,21,Qwen 2.5 3B Instruct,zero-shot,false,mayo,mayonnaise,,
-422,21,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,garlic,,
-422,21,Qwen 2.5 3B Instruct,zero-shot,false,bawang merah,red onion,,
-422,21,Qwen 2.5 3B Instruct,zero-shot,false,daun bawang,spring onion,,
-425,1,Qwen 2.5 3B Instruct,few-shot,false,ayam bagian thigh,chicken thighs,,
-425,1,Qwen 2.5 3B Instruct,few-shot,false,sos tiram,soy sauce,sendakan,tablespoon
-425,1,Qwen 2.5 3B Instruct,few-shot,false,biji minyak,sesame oil,sudu,tablespoon
-425,1,Qwen 2.5 3B Instruct,few-shot,false,tepung jagung,cornstarch,sendakan,tablespoon
-425,1,Qwen 2.5 3B Instruct,few-shot,false,garam,salt,,
-425,1,Qwen 2.5 3B Instruct,few-shot,false,black pepper,black pepper,,
-425,1,Qwen 2.5 3B Instruct,few-shot,false,kurma merah,beef jerky,,
-425,1,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,white onion,,
-425,1,Qwen 2.5 3B Instruct,few-shot,false,daun bawang,leaves of garlic (galangale),,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,minyak bijan,palm oil,sendok teh,teaspoon
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,kicap masin,soy sauce,,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,sos tiram mahsuri,mirin sauce,,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,tepung jagung,corn starch,,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,white pepper,white pepper powder,,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,black pepper,black pepper powder,,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,lada benggala,dried red pepper powder,,
+417,16,Qwen 2.5 3B Instruct,zero-shot,false,broccoli,broccoli,,
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,ayam thigh,chicken thigh,,piece
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,garlic,,piece
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,garam,salt,,pinch
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,powder merah,red seasoning powder,,pinch
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,tepung,baking powder and cornstarch mixture,,pinch
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,air,water,,ml
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,telur,egg,,piece
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,minyak goreng,vegetable oil,,ml
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,gochujang,Korean red chili paste,,ml
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,kicap masin,light soy sauce,,ml
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,gochugaru,Korean chili flakes (gochugaru),,pinch
+420,19,Qwen 2.5 3B Instruct,zero-shot,false,popcorn,popcorn,,ml
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,Suju Cair dan Air Cincau,S Juice and Tamarind Water,"tin suju cair, sedikit air cincau","tin of juice, a little tamarind water"
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,Buah Naga,Naga Fruit,,piece of naga fruit
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,Sagu yang Gebu,Cooked Tapioca Starch (Sago),,cooked tapioca starch
+421,20,Qwen 2.5 3B Instruct,zero-shot,false,Susu Kental,Full Cream Milk,,full cream milk
+422,21,Qwen 2.5 3B Instruct,zero-shot,false,,,,
 427,1,Gemma-SEA-LION v4 4B,zero-shot,false,ayam bagian thigh,chicken thigh meat,piece,piece
 427,1,Gemma-SEA-LION v4 4B,zero-shot,false,sos tiram,soy sauce,tablespoon,tablespoon
 427,1,Gemma-SEA-LION v4 4B,zero-shot,false,minyak bijan,sesame oil,tablespoon,tablespoon
@@ -532,11 +500,12 @@ experiment_id,transcript_id,model_name,technique_name,rag_enabled,pred_name_orig
 432,6,Gemma-SEA-LION v4 4B,zero-shot,false,pepper,pepper,tsp,teaspoon
 432,6,Gemma-SEA-LION v4 4B,zero-shot,false,tepung jagung,cornstarch,tbsp,tablespoon
 433,3,Qwen 2.5 3B Instruct,few-shot,false,ayam,chicken,,
-433,3,Qwen 2.5 3B Instruct,few-shot,false,kicap ABC,ABC sauce,sudu,tablespoon
-433,3,Qwen 2.5 3B Instruct,few-shot,false,kicap manis ABC,ABC sweet sauce,sudu,tablespoon
-433,3,Qwen 2.5 3B Instruct,few-shot,false,nasi,rice,,
-433,3,Qwen 2.5 3B Instruct,few-shot,false,kicap,soy sauce,,
-433,3,Qwen 2.5 3B Instruct,few-shot,false,lebih,more,,
+433,3,Qwen 2.5 3B Instruct,few-shot,false,kicap ABC,ABC soy sauce,sudu,tablespoon
+433,3,Qwen 2.5 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+433,3,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,white onion,,
+433,3,Qwen 2.5 3B Instruct,few-shot,false,bawang merah,red onion,,
+433,3,Qwen 2.5 3B Instruct,few-shot,false,bawang merah besar,large red onion,,
+433,3,Qwen 2.5 3B Instruct,few-shot,false,daun bawang,leaves of onion,,
 436,9,Gemma-SEA-LION v4 4B,zero-shot,false,salmon,salmon,g,grams
 436,9,Gemma-SEA-LION v4 4B,zero-shot,false,cream cheese,cream cheese,g,grams
 436,9,Gemma-SEA-LION v4 4B,zero-shot,false,kewpie mayo,kewpie mayo,ml,milliliters
@@ -560,3 +529,1751 @@ experiment_id,transcript_id,model_name,technique_name,rag_enabled,pred_name_orig
 443,15,Gemma-SEA-LION v4 4B,zero-shot,false,butter,butter,tablespoon,tablespoon
 443,15,Gemma-SEA-LION v4 4B,zero-shot,false,broccoli,broccoli,cup,cup
 443,15,Gemma-SEA-LION v4 4B,zero-shot,false,cili padi merah,red chili peppers,teaspoon,teaspoon
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,daging,beef,g,grams
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,minyak bijan,sesame oil,teaspoon,tablespoons
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,kicap masin,salty soy sauce,tablespoon,tablespoons
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,sos tiram mahsuri,mahsuri oyster sauce,tablespoon,tablespoons
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,tepung jagung,cornstarch,tablespoon,tablespoons
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,bawang putih,garlic,cloves,cloves
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,halia,ginger,teaspoon,tablespoons
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,kicap manis pedas dari mahsuri,sweet chili sauce from mahsuri,tablespoon,tablespoons
+444,16,Gemma-SEA-LION v4 4B,zero-shot,false,broccoli,broccoli,g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,daging syabu-syabu,Beef (Shabu-shabu),g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,butter,Butter,g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,glass noodle,Glass Noodles (Vermicelli),g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,sayur lengkap,Mixed Vegetables,g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,carrot,Carrot,g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,capsicum,Bell Pepper,g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,mushroom,Mushrooms,g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,bawang holland,Shallots,g,grams
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,sos tiram,Soy Sauce,ml,milliliters
+446,18,Gemma-SEA-LION v4 4B,zero-shot,false,minyak bijan,Sesame Oil,ml,milliliters
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,ais,ice,tin,can
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,cincau,black tea,sedikit,little
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,cincau yang dah potong dadu,diced black tea,dah potong dadu,already diced
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,buan naga,dragon fruit,baru keluar ajar peti ais,fresh out of the refrigerator
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,laici bulat-bulat,round melon balls,,
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,sagu,sago palm starch,,
+449,20,Gemma-SEA-LION v4 4B,zero-shot,false,susu pekat,condensed milk,,
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,minyak,oil,sendok makan,tablespoon
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,beef,beef,g,grams
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,mie sedap mie goreng perisa asli,Mee Sedap Fried Noodles Original Flavor,paket,packets
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,telur kuning,egg yolk,buah,piece
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,mayo,mayonnaise,sendok teh,teaspoon
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,bawang putih,garlic,inci,cloves
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,bawang merah,red onion,inci,inch
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,daun bawang,scallion,inci,inch
+450,21,Gemma-SEA-LION v4 4B,zero-shot,false,chili oil favorite korang,favorite chili oil,sendok makan,tablespoon
+453,24,Gemma-SEA-LION v4 4B,zero-shot,false,ayam bagian kepak,chicken wings,,
+453,24,Gemma-SEA-LION v4 4B,zero-shot,false,rempah ayam madu Emasauce,madu gold chicken spices,sudu,tablespoons
+453,24,Gemma-SEA-LION v4 4B,zero-shot,false,air,water,suis,tablespoon
+455,6,Qwen 2.5 3B Instruct,few-shot,false,kentang,potato,buah-buah,pieces
+455,6,Qwen 2.5 3B Instruct,few-shot,false,bawang goreng,garlic powder and minced garlic,,
+455,6,Qwen 2.5 3B Instruct,few-shot,false,garam,salt,sedikit,
+455,6,Qwen 2.5 3B Instruct,few-shot,false,tepung jagung,cornstarch,,
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,oat,rolled oats,cawan,cup
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,ayam,chicken,g,grams
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,bawang putih,garlic,sbh,cloves
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,sos kiram,kerisant sauce,sbh,tablespoon
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,air,water,cawan,cups
+457,27,Gemma-SEA-LION v4 4B,zero-shot,false,chicken powder,chicken powder,sbh,tablespoon
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,strawberry,strawberry,g,grams
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,gula,sugar,sudu,tablespoons
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,matcha,matcha powder,,
+458,28,Gemma-SEA-LION v4 4B,zero-shot,false,oat milk,oat milk,,
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,ramekin,ramekin,,
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,tepung serba guna,all-purpose flour,g,g
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,dark choclate,dark chocolate,g,g
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,butter,butter,g,g
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,telur,eggs,,
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,gula,sugar,g,g
+459,29,Gemma-SEA-LION v4 4B,zero-shot,false,garam,salt,sedikit,pinch
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,strawberry,strawberries,g,grams
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,fresh cream,fresh cream,g,grams
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,gula,sugar,tablespoon,tablespoons
+460,30,Gemma-SEA-LION v4 4B,zero-shot,false,roti,bread,slices,slices
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,fries,frozen fries,g,grams
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,sauce,mayo,ml,milliliters
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,pickle,pickle,g,grams
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,bawang holland,Holland onion,stalks,stalks
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,cheese sauce instant,instant cheese sauce,g,grams
+461,31,Gemma-SEA-LION v4 4B,zero-shot,false,chili padi,chilli padi,units,units
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,minyak,oil,ml,ml
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,seichuan chilli pepper,Sichuan chili pepper,bijih,piece
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,daun salam,bay leaf,daun,leaf
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,bawang besar,onion,buah,piece
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,halia,ginger,buah,piece
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,ajinomoto,Ajinomoto,sudu kecil,teaspoon
+462,32,Gemma-SEA-LION v4 4B,zero-shot,false,gula,sugar,sudu kecil,teaspoon
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,Julie's Cheese Cracker,Julie's Cheese Cracker,g,grams
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,madu,honey,tbsp,tablespoons
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,hazelnut spread,hazelnuts spread,tbsp,tablespoons
+463,33,Gemma-SEA-LION v4 4B,zero-shot,false,pisang,banana,piece,piece
+466,7,Qwen 2.5 3B Instruct,few-shot,false,kacang kuda,chickpeas,,several handfuls
+466,7,Qwen 2.5 3B Instruct,few-shot,false,baking powder,baking soda,sudu kecil,tablespoon
+466,7,Qwen 2.5 3B Instruct,few-shot,false,air,water,,tablespoons
+466,7,Qwen 2.5 3B Instruct,few-shot,false,biskut,bread slices,,slice
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,peanut butter,peanut butter,tablespoon,tablespoons
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,kicap masin,soy sauce (dark),tablespoon,tablespoons
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,kicap manis,soy sauce (light),tablespoon,tablespoons
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,madu,honey,teaspoon,tablespoons
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,bawang putih,garlic,cili,cloves
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,halia,ginger,teaspoon,tablespoons
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,cili flakes,chili flakes,teaspoon,tablespoons
+468,37,Gemma-SEA-LION v4 4B,zero-shot,false,mee wantan,wantan noodles,grams,grams
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,bawang holland,Holland onions,biji,pieces
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,olive oil,olive oil,sendok makan,tablespoons
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,air,water,ml,ml
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,cooking cream,cooking cream,ml,ml
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,butter,butter,g,g
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,keju parmesan,Parmesan cheese,g,g
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,minyak cili,chili oil,sendok makan,tablespoon
+469,38,Gemma-SEA-LION v4 4B,zero-shot,false,spagetti,Spaghetti,g,g
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,telur,egg,biji,pieces
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,bawang besar,big onion,,
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,bawang putih,garlic,cili,cloves
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,cili,chili,buah,pieces
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,ikan bilis,dried anchovies,g,grams
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,minyak,oil,suis,tablespoons
+470,39,Gemma-SEA-LION v4 4B,zero-shot,false,ayam cube,chicken cube,cube,piece
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,peanut butter,peanut butter,tablespoon,tablespoons
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,kicap masin,soy sauce,tablespoon,tablespoons
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,kicap manis,sweet soy sauce,tablespoon,tablespoons
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,madu,honey,teaspoon,tablespoons
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,bawang putih,garlic,cili kotak,cloves
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,halia,ginger,teaspoon,tablespoons
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,chilli flakes,chili flakes,teaspoon,tablespoons
+472,41,Gemma-SEA-LION v4 4B,zero-shot,false,mee wantan,wantan noodles,grams,grams
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,timun,cucumber,sudu setengah,tablespoons
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,sambal,chili paste,sudu,tablespoons
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,kicap manis,sweet soy sauce,sudu,tablespoon
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,telur,egg,sehelai,whole
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,tomato,tomato,sehelai,whole
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,daun bawang,scallions,batang,stalks
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,bawang goreng,fried shallots,sudu,tablespoon
+480,48,Gemma-SEA-LION v4 4B,zero-shot,false,lemon juice,lemon juice,sudu,tablespoon
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,timun,cucumber,ni,piece
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,kicap masin,salty soy sauce,sudu kecil,tablespoons
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,bawang putih,garlic,sudu kecil,tablespoons
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,gula,sugar,sikit,pinch
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,sesame oil,sesame oil,sudu kecil,tablespoon
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,lemon juice,lemon juice,sudu kecil,tablespoon
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,daun bawang,scallions,je,stalks
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,chili oil,chili oil,sudu kecil,tablespoon
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,sesame seed,sesame seeds,sudu kecil,tablespoon
+481,49,Gemma-SEA-LION v4 4B,zero-shot,false,msg,msg,sikit,pinch
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,timun,Cucumber,sudu,tablespoons
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,krim cheese,Cream Cheese,sudu,tablespoons
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,Yogurt,Yogurt,sudu,tablespoon
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,bawang merah,Red Onion,biiji,onion
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,Garam,Salt,sudu,teaspoon
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,Pepper,Black Pepper,sudu,teaspoon
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,Garlic powder,Garlic Powder,sudu,teaspoon
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,Smoked Salmon,Smoked Salmon,g,grams
+482,50,Gemma-SEA-LION v4 4B,zero-shot,false,MSG,MSG,sudu,teaspoon
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,kentang,potato,grams,grams
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,garlic powder,garlic powder,sudu kecil,teaspoon
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,garam,salt,sudu kecil,teaspoon
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,pepper,pepper,sudu kecil,teaspoon
+488,6,Gemma-SEA-LION v4 4B,few-shot,false,tepung jagung,corn flour,sudu makan,tablespoon
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,kacang kuda,chickpeas,cup,cup
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,air,water,cup,cup
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,baking powder,baking powder,sudu kecil,teaspoon
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,cincin,cloves
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,jus lemon,lemon juice,cincin,tablespoon
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,garam,salt,sedikit,pinch
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,tahini,tahini,sendok makan,tablespoon
+489,7,Gemma-SEA-LION v4 4B,few-shot,false,ice cube,ice cubes,ketol,cube
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,salmon,salmon,,
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,garam,salt,sedikit,pinch
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,lada,pepper,sedikit,pinch
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,cream cheese,cream cheese,,
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,kewpie mayo,kewpie mayonnaise,sudu,tablespoon
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,sriracha sauce,sriracha sauce,sudu,tablespoon
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,jasmine rice,jasmine rice,,
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,seaweed,seaweed,helai,sheets
+491,9,Gemma-SEA-LION v4 4B,few-shot,false,daun bawang,green onions,sudu,tablespoon
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,tepung,flour,cawan,cup
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,air,water,cawan,cup
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,seaweed,seaweed sheets,bungkus,package
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,gas noodle,glass noodles,bungkus,package
+492,10,Gemma-SEA-LION v4 4B,few-shot,false,minyak,cooking oil,sudu,tablespoon
+494,9,Qwen 2.5 3B Instruct,few-shot,false,salmon,salmon,,
+494,9,Qwen 2.5 3B Instruct,few-shot,false,rice,rinsed sushi rice,,tablespoon
+494,9,Qwen 2.5 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+494,9,Qwen 2.5 3B Instruct,few-shot,false,cream cheese,cream cheese,,
+494,9,Qwen 2.5 3B Instruct,few-shot,false,mayo,mayonnaise,,
+494,9,Qwen 2.5 3B Instruct,few-shot,false,sriracha sauce,sriaracha sauce,,
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,daging,beef,g,grams
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,minyak bijan,sesame oil,sudu kecil,tablespoon
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,kicap masin,soy sauce,sendok makan,tablespoon
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,sos tiram mahsuri,fish sauce,sendok makan,tablespoon
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,tapioka,cornstarch,sudu kecil,tablespoon
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,batang,cloves
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,halia,ginger,batang,stalk
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,kicap manis pedas,sweet chili sauce,sendok makan,tablespoon
+499,16,Gemma-SEA-LION v4 4B,few-shot,false,broccoli,broccoli,g,grams
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,daging syabu-syabu,beef,g,grams
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,glass noodle,glass noodles,g,grams
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,sayur lengkap,mixed vegetables,g,grams
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,carrot,carrot,g,grams
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,capsicum,bell pepper,g,grams
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,mushroom,mushrooms,g,grams
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,bawang holland,onion,g,grams
+501,18,Gemma-SEA-LION v4 4B,few-shot,false,butter,butter,g,grams
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,ayam bagian thigh,Chicken Thigh Meat,piece,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,sos tiram,Soy Sauce,tablespoon,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,minyak bijan,Sesame Oil,tablespoon,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,tepung jagung,Cornstarch,tablespoon,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,garam,Salt,teaspoon,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,black pepper,Black Pepper,teaspoon,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,daun bawang,Scallions,stalks,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,kurma merah,Red Dates,pieces,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,halia,Galangal,teaspoon,
+503,1,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,Garlic,cloves,
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,ais,ice,tin,can
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,suju,soda,tin,can
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,air cincau,cane sugar water,little,small amount
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,cincau,cane sugar,dah potong dadu,already cut into cubes
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,buan naga,dragon fruit,baru keluar ajar peti ais,fresh out of the fridge
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,laici,roundies,,pieces
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,sagu,sago pearls,,pieces
+504,20,Gemma-SEA-LION v4 4B,few-shot,false,susu pekat,condensed milk,,can
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,minyak,cooking oil,sudu,tablespoon
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,beef,beef,g,grams
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,mie sedap mie goreng perisa asli,Mee Sedap Fried Noodles Flavor Original,paket,packets
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,telur kuning,egg yolk,buah,pieces
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,mayo,mayonnaise,sudu makan,tablespoon
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,cincin,cloves
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,bawang merah,red onion,sbh,shallot
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,daun bawang,scallions,sbh,stalks
+506,21,Gemma-SEA-LION v4 4B,few-shot,false,chili oil favorite korang,favorite chili oil,sudu makan,tablespoon
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,kentang,Potato,gram,grams
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,garlic powder,Garlic Powder,teaspoon,teaspoons
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,garam,Salt,teaspoon,teaspoons
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,pepper,Black Pepper,teaspoon,teaspoons
+513,6,Gemma-SEA-LION v4 4B,chain-of-thought,false,tepung jagung,Corn Flour,tablespoon,tablespoons
+514,10,Qwen 2.5 3B Instruct,few-shot,false,tepung,flour,,
+514,10,Qwen 2.5 3B Instruct,few-shot,false,air,water,sepertuh cawan,half cup
+514,10,Qwen 2.5 3B Instruct,few-shot,false,seaweed,sea lettuce,,
+514,10,Qwen 2.5 3B Instruct,few-shot,false,japchae,japchae (glass noodles),,
+514,10,Qwen 2.5 3B Instruct,few-shot,false,cooking oil,vegetable oil,,
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,stalks,cloves
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,minyak,cooking oil,sudu,tablespoon
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,daun bawang,scallions,stalks,sprigs
+517,26,Gemma-SEA-LION v4 4B,few-shot,false,chilli flakes,chili flakes,teaspoon,teaspoon
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,oat,rolled oats,cawan,cup
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,ayam,chicken,g,grams
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,minyak bijan,sesame oil,sudu kecil,tablespoon
+519,27,Gemma-SEA-LION v4 4B,few-shot,false,kicap manis,sweet soy sauce,sudu kecil,tablespoon
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,salmon,Salmon,gram,grams
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,salt,Salt,teaspoon,teaspoons
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,pepper,Pepper,teaspoon,teaspoons
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,cream cheese,Cream Cheese,gram,grams
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,kewpie mayo,Kewpie Mayo,milliliter,milliliters
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,sriracha sauce,Sriracha Sauce,teaspoon,teaspoons
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,jasmine rice,Jasmine Rice,gram,grams
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,seaweed,Seaweed,gram,grams
+520,9,Gemma-SEA-LION v4 4B,chain-of-thought,false,daun bawang,Green Onions,stalks,stales
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,strawberry,strawberries,g,grams
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,gula,sugar,sudu,tablespoon
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,matcha,matcha powder,sudu,tablespoon
+521,28,Gemma-SEA-LION v4 4B,few-shot,false,oat milk,oat milk,susu,cups
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,tepung,Flour,cawan,cup
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,air,Water,cawan,cup
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,seaweed,Seaweed (Kombu),bungkus,package
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,japchae,Glass Noodles (Bean Thread),g,grams
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,adunan tepung,Flour Batter,g,grams
+522,10,Gemma-SEA-LION v4 4B,chain-of-thought,false,sweet chili sauce,Sweet Chili Sauce,sendok makan,tablespoons
+525,30,Gemma-SEA-LION v4 4B,few-shot,false,strawberry,strawberry,g,grams
+525,30,Gemma-SEA-LION v4 4B,few-shot,false,fresh cream,whipping cream,g,grams
+525,30,Gemma-SEA-LION v4 4B,few-shot,false,gula,sugar,sudu kecil,teaspoon
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,fries,frozen fries,packet,bag
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,bawang holland,onion,cincin,slices
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,pickle,pickles,jar,jar
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,mayo,mayonnaise,sendok,tablespoon
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,tomato pes,tomato puree,cawan,cup
+527,31,Gemma-SEA-LION v4 4B,few-shot,false,minced beef,ground beef,gram,grams
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,minyak,cooking oil,sudu,tablespoon
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,seichuan chilli pepper,Sichuan chili peppers,bijih,pieces
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,daun salam,bay leaves,sudu,teaspoon
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,bawang besar,onion,buah,piece
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,halia,ginger,inci,inches
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,chilli flakes,chili flakes,sudu,tablespoon
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,inci,inches
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,ajinomoto,Ajinomoto (MSG),sudu kecil,teaspoon
+529,32,Gemma-SEA-LION v4 4B,few-shot,false,gula,sugar,sudu kecil,teaspoon
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,biskut Julie's Cheese Cracker,Julie's Cheese Cracker,bungkus,package
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,madu,honey,sendok makan,tablespoon
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,hazelnut spread,hazelnuts spread,sendok makan,tablespoon
+531,33,Gemma-SEA-LION v4 4B,few-shot,false,pisang,banana,buah,pieces
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,daging,beef,gram,grams
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,minyak bijan,sesame oil,teaspoon,tablespoons
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap masin,salty soy sauce,tablespoon,tablespoons
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,sos tiram mahsuri,mahsuri oyster sauce,tablespoon,tablespoons
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,tepung jagung,cornstarch,tablespoon,tablespoons
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,garlic,stalks,cloves
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,halia,ginger,stalks,cloves
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap manis pedas dari mahsuri,sweet chili sauce from mahsuri,tablespoon,tablespoons
+534,16,Gemma-SEA-LION v4 4B,chain-of-thought,false,broccoli,broccoli,gram,grams
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,ayam,chicken nibbles,ketul,pieces
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,tepung pedas bonechef,spicy flour,sudu,tablespoon
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,kewpi mayo,mayo,sudu,tablespoon
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,yogurt,yogurt,sudu,tablespoon
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,tomato sauce,tomato sauce,sudu,tablespoon
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,pepper,pepper,sedikit,pinch
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,garlic powder,garlic powder,sedikit,pinch
+536,35,Gemma-SEA-LION v4 4B,few-shot,false,Worcestershire sauce,Worcestershire sauce,sudu,tablespoon
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,peanut butter,peanut butter,tablespoon,tablespoon
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,kicap masin,soy sauce,tablespoon,tablespoon
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,kicap manis,sweet soy sauce,tablespoon,tablespoon
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,madu,honey,teaspoon,tablespoon
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,cili,cloves
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,halia,ginger,teaspoon,tablespoon
+540,37,Gemma-SEA-LION v4 4B,few-shot,false,cili flakes,chili flakes,teaspoon,tablespoon
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,bawang holland,onion,biji,pieces
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,olive oil,olive oil,sudu,tablespoon
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,garam,salt,sedikit,pinch
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,air,water,ml,milliliters
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,cooking cream,cooking cream,ml,milliliters
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,butter,butter,g,grams
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,keju parmesan,parmesan cheese,g,grams
+542,38,Gemma-SEA-LION v4 4B,few-shot,false,minyak cili,chili oil,sudu,tablespoon
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,ais,ice,tin,can
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,suju,soy milk,ml,ml
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,cincau,black glutinous rice flour,g,g
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,buan naga,dragon fruit,g,g
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,laici,round melon balls,g,g
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,sagu,palm sugar,g,g
+543,20,Gemma-SEA-LION v4 4B,chain-of-thought,false,susu pekat,condensed milk,ml,ml
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,telur,egg,biji,pieces
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,minyak,cooking oil,sudu,tablespoon
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,nasi,rice,g,grams
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,bawang besar,onion,buah,piece
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,cili,cloves
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,cili,chili peppers,buah,piece
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,ikan bilis,dried anchovies,g,grams
+544,39,Gemma-SEA-LION v4 4B,few-shot,false,cube ayam,chicken cube,buah,piece
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,peanut butter,peanut butter,sendok makan,tablespoon
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,kicap masin,soy sauce,sendok makan,tablespoon
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,kicap manis,sweet soy sauce,sendok makan,tablespoon
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,madu,honey,sendok makan,tablespoon
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,cincin,cloves
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,halia,ginger,cincin,cloves
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,chilli flakes,chili flakes,sendok teh,teaspoon
+548,41,Gemma-SEA-LION v4 4B,few-shot,false,jus lemon,lemon juice,sendok makan,tablespoon
+553,24,Gemma-SEA-LION v4 4B,chain-of-thought,false,ayam bagian kepak,Chicken Wings,gram,grams
+553,24,Gemma-SEA-LION v4 4B,chain-of-thought,false,rempah ayam madu Emasauce,Honey Madu Emasauce Spice Mix,sudu,tablespoons
+553,24,Gemma-SEA-LION v4 4B,chain-of-thought,false,air,Water,sudu,tablespoons
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,ayam paha,chicken thigh,,piece
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,serbuk cajun,cajun seasoning,teaspoon,tablespoon
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,bawang holland,Holland onion,cincin,onion
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,cincin,cloves
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,minyak,cooking oil,sudu,tablespoon
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,butter,butter,sudu,tablespoon
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,paprika,paprika,sudu,tablespoon
+559,46,Gemma-SEA-LION v4 4B,few-shot,false,cooking cream,cooking cream,sudu,tablespoon
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,minyak panas,Hot Oil,ml,ml
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,Garlic,cincang,slices
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,daun bawang,Spring Onion,batang,stalks
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,chili flakes,Chilli Flakes,suis kecil,teaspoon
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap masin,Salted Soy Sauce,suis kecil,teaspoon
+560,26,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap manis,Sweet Soy Sauce,suis kecil,teaspoon
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,timun,cucumber,sudu,tablespoons
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,sambal,chili paste,sudu,tablespoons
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,kicap manis,sweet soy sauce,sudu,tablespoon
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,telur,egg,sehelai,whole
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,tomato,tomato,sehelai,whole
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,white pepper,white pepper,sudu,teaspoon
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,lemon juice,lemon juice,sudu,tablespoon
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,daun bawang,scallion/green onion,sudu,tablespoons
+563,48,Gemma-SEA-LION v4 4B,few-shot,false,bawang goreng,fried shallots,sudu,tablespoons
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,oat,rolled oats,cawan,cup
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,ayam,chicken,g,grams
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap manis,sweet soy sauce,sendok makan,tablespoons
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,minyak bijan,sesame oil,teaspoon,tablespoon
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,garlic,biji,cloves
+564,27,Gemma-SEA-LION v4 4B,chain-of-thought,false,chili oil,chili oil,sendok makan,tablespoons
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,timun,cucumber,ni,piece
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,kicap masin,soy sauce,sudu kecil,tablespoon
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,bawang putih,garlic,suhu,cloves
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,gula,sugar,sikit,pinch
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,sesame oil,sesame oil,sudu kecil,tablespoon
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,lemon juice,lemon juice,sudu kecil,tablespoon
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,daun bawang,scallion,je,sprig
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,chili oil,chili oil,suhu,tablespoon
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,sesame seed,sesame seeds,suhu,tablespoon
+566,49,Gemma-SEA-LION v4 4B,few-shot,false,msg,msg,sikit,pinch
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,strawberry,strawberries,g,grams
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,gula,sugar,sudu,tablespoons
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,matcha,matcha powder,sudu,tablespoons
+567,28,Gemma-SEA-LION v4 4B,chain-of-thought,false,oat milk,oat milk,cubes,cups
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,kentang,Potato,pieces,pieces
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,garlic powder,Garlic Powder,teaspoon,teaspoon
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,garam,Salt,teaspoon,teaspoon
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,pepper,Pepper,teaspoon,teaspoon
+568,6,Gemma-SEA-LION v4 4B,structured-output,false,tepung jagung,Corn Flour,tablespoon,tablespoon
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,timun,cucumber,pieces,pieces
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,krim cheese,cream cheese,tablespoon,tablespoon
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,yogurt,yogurt,tablespoon,tablespoon
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,bawang merah,red onion,piece,piece
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,garam,salt,teaspoon,teaspoon
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,pepper,black pepper,teaspoon,teaspoon
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,garlic powder,garlic powder,teaspoon,teaspoon
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,smoked salmon,smoked salmon,g,grams
+569,50,Gemma-SEA-LION v4 4B,few-shot,false,MSG,MSG,teaspoon,teaspoon
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,ramekin,ramekin,,piece
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,tepung serba guna,all-purpose flour,gram,grams
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,dark chocolate,dark chocolate,gram,grams
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,butter,butter,gram,grams
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,telur,eggs,,whole eggs
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,gula,sugar,gram,grams
+570,29,Gemma-SEA-LION v4 4B,chain-of-thought,false,garam,salt,gram,grams
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,strawberry,strawberries,gram,grams
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,fresh cream,whipping cream,gram,grams
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,gula,sugar,teaspoon,teaspoons
+573,30,Gemma-SEA-LION v4 4B,chain-of-thought,false,roti,bread,slices,slices
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,fries,Frozen Fries,gram,grams
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,sauce,Mayonnaise,ml,milliliters
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,pickle,Pickle,g,grams
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang holland,Holland Onion,lobang,onions
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,tomato pes,Tomato Paste,sendok,tablespoons
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,chilli padi,Chili Peppers,suis,bird's eye chili
+575,31,Gemma-SEA-LION v4 4B,chain-of-thought,false,cheese sauce instant,Instant Cheese Sauce,bungkus,package
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,salmon,Salmon,g,grams
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,garam,Salt,tsp,teaspoon
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,pepper,Black Pepper,tsp,teaspoon
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,ketam,Crab Meat,g,grams
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,cream cheese,Cream Cheese,g,grams
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,kewpie mayo,Kewpie Mayo,ml,milliliters
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,sriracha sauce,Sriracha Sauce,tsp,teaspoon
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,jasmine rice,Jasmine Rice,g,grams
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,seaweed,Seaweed Sheets,sheets,sheets
+576,9,Gemma-SEA-LION v4 4B,structured-output,false,daun bawang,Green Onions,stalks,stems
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,minyak,Oil,ml,ml
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,seichuan chilli pepper,Sichuan Chilli Pepper,buah,pieces
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,daun salam,Bay Leaf,buah,pieces
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang besar,Large Onion,buah,piece
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,halia,Ginger,inci,inch
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,chilli flakes,Chilli Flakes,sendok makan,tablespoons
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,Garlic,inci,inches
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,ajinomoto,Ajinomoto (MSG),sendok kecil,teaspoon
+577,32,Gemma-SEA-LION v4 4B,chain-of-thought,false,gula,Sugar,sendok kecil,teaspoon
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,tepung,flour,cawan,cup
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,air,water,cawan,cup
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,seaweed,seaweed,bungkus,package
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,japchae,japchae noodles,bungkus,package
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,minyak,oil,sendok makan,tablespoons
+578,10,Gemma-SEA-LION v4 4B,structured-output,false,sweet chili sauce,sweet chili sauce,sendok,tablespoon
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,biskut Julie's Cheese Cracker,Julie's Cheese Crackers,gram,grams
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,madu,Honey,sendok makan,tablespoons
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,hazelnut spread,Hazelnut Spread,sendok makan,tablespoons
+579,33,Gemma-SEA-LION v4 4B,chain-of-thought,false,pisang,Banana,buah,pieces
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,ayam,chicken,ketul,pieces
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,tepung pedas bonechef,spicy flour,g,grams
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,kewpi mayo,kewpie mayonnaise,ml,milliliters
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,yogurt,yogurt,ml,milliliters
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,tomato sauce,tomato sauce,ml,milliliters
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,pepper,pepper,teh,teaspoon
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,garlic powder,garlic powder,teh,teaspoon
+583,35,Gemma-SEA-LION v4 4B,chain-of-thought,false,Worcestershire sauce,Worcestershire sauce,ml,milliliters
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,telur,eggs,biji,pieces
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang besar,large onion,,
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,garlic,cili,cloves
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,cili,chili peppers,besar,large
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,ikan bilis,dried anchovies,gram,grams
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,minyak,oil,sendok makan,tablespoons
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,ayam cube,chicken cube,,
+591,39,Gemma-SEA-LION v4 4B,chain-of-thought,false,nasi semalam,leftover rice,cawan,cup
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,peanut butter,Peanut Butter,gram,grams
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap masin,Dark Soy Sauce,tablespoon,tablespoons
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap manis,Light Soy Sauce,tablespoon,tablespoons
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,madu,Honey,teaspoon,tablespoons
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,Garlic,teaspoon,tablespoons
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,halia,Ginger,teaspoon,tablespoons
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,chilli flakes,Chili Flakes,teaspoon,tablespoons
+595,41,Gemma-SEA-LION v4 4B,chain-of-thought,false,mee wantan,Wonton Noodles,gram,grams
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,ais,ice,tin,can
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,suju,soda,sedikit,little
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,air cincau,cincau water,ml,ml
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,cincau,cincau cubes,gram,grams
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,buan naga,dragon fruit,gram,grams
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,laici,round melon balls,gram,grams
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,sagu,sago pearls,gram,grams
+599,20,Gemma-SEA-LION v4 4B,structured-output,false,susu pekat,thickened milk,ml,ml
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,ayam paha,Chicken Thighs,gram,grams
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,serbuk cajun,Cajun Seasoning,teaspoon,tablespoons
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang holland,Holland Onion,cabeh,onion
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,Garlic,cabeh,cloves
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,butter,Butter,gram,grams
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,paprika,Paprika,teaspoon,tablespoons
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,creme masak,Cooking Cream,ml,milliliters
+604,46,Gemma-SEA-LION v4 4B,chain-of-thought,false,nasi semalam,Leftover Rice,gram,grams
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,timun,cucumber,sudu,tablespoons
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,sambal,Sambal,sudu,tablespoons
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap manis,sweet soy sauce,sudu,tablespoons
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,telur,egg,sehelai,whole
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,tomato,tomato,sehelai,whole
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,daun bawang,scallion/green onion,sudu,tablespoons
+607,48,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang goreng,fried shallots,cawan,cup
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,timun,cucumber,ni,piece
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,kicap masin,salty soy sauce,sudu kecil,tablespoons
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang putih,garlic,sudu kecil,tablespoons
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,gula,sugar,sikit,pinch
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,sesame oil,sesame oil,sudu kecil,tablespoon
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,lemon juice,lemon juice,sudu kecil,tablespoon
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,daun bawang potong je,"scallions, chopped",sudu kecil,tablespoons
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,chili oil,chili oil,sudu kecil,tablespoon
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,sesame seed,sesame seeds,sudu kecil,tablespoon
+609,49,Gemma-SEA-LION v4 4B,chain-of-thought,false,MSG,MSG (Monosodium Glutamate),sikit,pinch
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,timun,Cucumber,suis,cups
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,krim cheese,Cream Cheese,suis,tablespoons
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,yogurt,Yogurt,suis,tablespoon
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,bawang merah,Red Onion,bijih,onion
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,garam,Salt,suis,teaspoon
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,pepper,Pepper,suis,teaspoon
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,garlic powder,Garlic Powder,suis,teaspoon
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,smoked salmon,Smoked Salmon,g,grams
+611,50,Gemma-SEA-LION v4 4B,chain-of-thought,false,msg,MSG,suis,teaspoon
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,pisang,bananas,biji,pieces
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,cocoa powder,cocoa powder,suapan,tablespoon
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,Quaker rolled oats,Quaker rolled oats,cawan,cup
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,fresh milk,fresh milk,cawan,cup
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,melted butter,melted butter,g,grams
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,dark chocolate chips,dark chocolate chips,sudut kecil,small corner
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,baking powder,baking powder,sudut kecil,small corner
+612,25,Gemma-SEA-LION v4 4B,structured-output,false,peanut butter,peanut butter,sudut kecil,small corner
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,minyak panas,hot oil,sudu,tablespoon
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,daun bawang,scallions,tangkai,stalks
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,bawang putih,garlic,cincin,cloves
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,kicap masin,soy sauce,sudu kecil,tablespoon
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,kicap manis,sweet soy sauce,sudu kecil,tablespoon
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,gula,sugar,sudu kecil,tablespoon
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,minyak bijan,sesame oil,sudu kecil,tablespoon
+613,26,Gemma-SEA-LION v4 4B,structured-output,false,chilli flakes,red chilli flakes,sudu kecil,tablespoon
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,strawberry,strawberries,g,grams
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,gula,sugar,sudu,tablespoons
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,matcha,matcha powder,sudu,tablespoon
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,air,ice cubes,cube,cubes
+615,28,Gemma-SEA-LION v4 4B,structured-output,false,oat milk,oat milk,sudu,cup
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,ramekin,Ramekin,,
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,melted butter,Melted Butter,gram,grams
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,tepung serba guna,All-Purpose Flour,gram,grams
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,excess tepung,Excess Flour,,
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,dark choclate,Dark Chocolate,gram,grams
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,butter,Butter,gram,grams
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,telur,Eggs,,
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,gula,Sugar,gram,grams
+616,29,Gemma-SEA-LION v4 4B,structured-output,false,sedikit garam,Salt,secukup rasa,teaspoon
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,strawberry,strawberry,gram,grams
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,fresh cream,fresh cream,gram,grams
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,gula,sugar,teaspoon,teaspoons
+617,30,Gemma-SEA-LION v4 4B,structured-output,false,roti,bread,slice,slices
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,fries,frozen fries,bungkuk,bag
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,sauce,mayo,sendok makan,tablespoons
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,pickle,pickles,suis,tablespoons
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,bawang holland,Holland onions,cincin,slices
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,tomato pes,Tomato Paste,suis,tablespoon
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,chilli padi,Chili Peppers,suis,teaspoon
+618,31,Gemma-SEA-LION v4 4B,structured-output,false,cheese,Cheese Sauce (Instant),bungkus,package
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,minyak,oil,sudut kecil,small corner
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,sichuan chilli pepper,Sichuan chili peppers,buah,pieces
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,daun salam,Bay leaves,biji,pieces
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,bawang besar,Large onion,buah,piece
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,halia,Ginger,inci,inches
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,chilli flakes,Chili flakes,sudut kecil,small corner
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,bawang putih,Garlic,inci,inches
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,Ajinomoto,MSG (Monosodium Glutamate),sudut kecil,small corner
+619,32,Gemma-SEA-LION v4 4B,structured-output,false,gula,Sugar,sudut kecil,small corner
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,biskut Julie's Cheese,Julie's Cheese Crackers,gram,grams
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,madu,Honey,milliliter,milliliters
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,hazelnut spread,Hazelnut Spread,milliliter,milliliters
+620,33,Gemma-SEA-LION v4 4B,structured-output,false,pisang,Bananas,buah,pieces
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,peanut butter,Peanut Butter,tablespoon,tablespoons
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,kicap masin,Dark Soy Sauce,tablespoon,tablespoons
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,kicap manis,Light Soy Sauce,tablespoon,tablespoons
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,madu,Honey,teaspoon,teaspoons
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,bawang putih,Garlic,cabeh,cloves
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,halia,Ginger,teaspoon,teaspoons
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,cili flakes,Chili Flakes,teaspoon,teaspoons
+624,37,Gemma-SEA-LION v4 4B,structured-output,false,mee wantan,Wonton Noodles,grams,grams
+631,3,MedGemma 4B,zero-shot,false,ayam,chicken,,whole
+631,3,MedGemma 4B,zero-shot,false,kicap,soy sauce,sudu,tablespoons
+631,3,MedGemma 4B,zero-shot,false,halia,garlic,,cloves
+631,3,MedGemma 4B,zero-shot,false,bawang putih,garlic,,cloves
+631,3,MedGemma 4B,zero-shot,false,minyak bijan,sesame oil,,tablespoon
+631,3,MedGemma 4B,zero-shot,false,kunyit,turmeric,,pinch
+631,3,MedGemma 4B,zero-shot,false,garam,salt,,pinch
+631,3,MedGemma 4B,zero-shot,false,lada putih,white pepper,,pinch
+631,3,MedGemma 4B,zero-shot,false,beras,rice,,cup
+631,3,MedGemma 4B,zero-shot,false,bawang besar,large onion,,bulb
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,timun,cucumber,sudu setengah,tablespoons
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,sambal,Sambal,sudu,tablespoons
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,kicap manis,Sweet Soy Sauce (Kecap Manis),sudu,tablespoon
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,telur,Egg,je,whole
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,tomato,Tomato,biji,whole
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,white pepper,White Pepper,sudu kecil,teaspoon
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,lemon juice,Lemon Juice,sudu kecil,tablespoon
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,daun bawang,Green Onion (Scallion),tangki,stalks
+636,48,Gemma-SEA-LION v4 4B,structured-output,false,bawang goreng,Deep-Fried Shallots,sudu,tablespoon
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,timun,cucumber,ni,piece
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,kicap masin,soy sauce,sudu kecil,tablespoons
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,bawang putih,garlic,sudu kecil,teaspoons
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,gula,sugar,sedikit,a little
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,sesame oil,sesame oil,sudu kecil,tablespoon
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,lemon juice,lemon juice,sudu kecil,tablespoon
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,daun bawang,scallions,je,a few
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,chili oil,chili oil,sudu kecil,tablespoon
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,sesame seed,sesame seeds,sudu kecil,tablespoon
+637,49,Gemma-SEA-LION v4 4B,structured-output,false,MSG,MSG,sudu kecil,teaspoon
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,timun,Cucumber,unit,whole
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,krim cheese,Cream Cheese,sudu,tablespoons
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,Yogurt,Yogurt,sudu,tablespoons
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,bawang merah,Red Onion,bijih,whole
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,garam,Salt,sikit,a pinch
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,pepper,Pepper,sikit,a pinch
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,garlic powder,Garlic Powder,sikit,a pinch
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,smoked salmon,Smoked Salmon,gram,grams
+638,50,Gemma-SEA-LION v4 4B,structured-output,false,MSG,MSG,sedikit,a little
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,ayam bagian thigh,chicken thighs,,grams
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,sos tiram,soy sauce,ml,milliliters
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,minyak bijan,sesame oil,ml,milliliters
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,tepung jagung,cornstarch,ml,milliliters
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,garam,salt,,grams
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang merah,red onion,,pieces
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang putih,white onion,,pieces
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,daun bawang,spring onion,,pieces
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,ayam bagian dada,chicken breast,,grams
+643,1,Qwen 2.5 3B Instruct,chain-of-thought,false,kurma merah,beef jerky,,pieces
+644,1,Qwen 2.5 3B Instruct,structured-output,false,ayam bagian thigh,chicken thighs,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,sos tiram,soy sauce,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,minyak bijan,sesame oil,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,tepung jagung,soybean flour,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,garam,salt,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,black pepper,black pepper,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,pangan,ginger,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,minyak,oil,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,white onion,,
+644,1,Qwen 2.5 3B Instruct,structured-output,false,bawang merah,red onion,,
+647,6,MedGemma 4B,zero-shot,false,kentang,potato,kg,kg
+647,6,MedGemma 4B,zero-shot,false,garlic powder,garlic powder,tsp,tsp
+647,6,MedGemma 4B,zero-shot,false,garam,salt,tsp,tsp
+647,6,MedGemma 4B,zero-shot,false,pepper,pepper,tsp,tsp
+647,6,MedGemma 4B,zero-shot,false,tepung jagung,cornflour,tbsp,tbsp
+647,6,MedGemma 4B,zero-shot,false,air,water,ml,ml
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,pes mee goreng ayam brand,Fried Chicken Brand Mee Noodles,,
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang holland,spring onion,,pieces
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,cili sardin,cherry tomatoes,,pieces
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,baby spinach,baby spinach leaves,,g
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,parmesan cheese,parmesan cheese,,g
+648,2,Qwen 2.5 3B Instruct,chain-of-thought,false,fresh parsley,fresh parsley leaves,,g
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,ayam,chicken,,
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,kicap,soy sauce,sudu,tablespoon (tbsp)
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,manis,sweet (presumably referring to sweet soy sauce or sugar),,
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,halia,fish sauce (or anchovy essence),sudu,tablespoon (tbsp)
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang putih,white onion (or garlic),,piece
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,minyak bijan,groundnut oil (or peanut oil),sudu,tablespoon (tbsp)
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,kunyit,turmeric (or ginger),,
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,garam sedikit,salt (a little bit),,
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,lada putih,white pepper (or black pepper),,
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,beras,rice (white or brown),,
+652,3,Qwen 2.5 3B Instruct,chain-of-thought,false,daun bawang,spring onion (or green onions),,
+663,3,MedGemma 4B,chain-of-thought,false,ayam,chicken,pot,piece
+663,3,MedGemma 4B,chain-of-thought,false,kicap,ketchup,sudu,tablespoons
+663,3,MedGemma 4B,chain-of-thought,false,halia,ginger,sudu,tablespoon
+663,3,MedGemma 4B,chain-of-thought,false,bawang putih,garlic,biji,cloves
+663,3,MedGemma 4B,chain-of-thought,false,minyak bijan,sesame oil,sudu,tablespoon
+663,3,MedGemma 4B,chain-of-thought,false,kunyit,turmeric,sudu,tablespoon
+663,3,MedGemma 4B,chain-of-thought,false,garam,salt,sudu,teaspoon
+663,3,MedGemma 4B,chain-of-thought,false,lada putih,white pepper,sudu,teaspoon
+663,3,MedGemma 4B,chain-of-thought,false,bawang besar,onion,biji,cloves
+663,3,MedGemma 4B,chain-of-thought,false,beras,rice,cawan,cups
+665,9,MedGemma 4B,zero-shot,false,salmon,salmon,,g
+665,9,MedGemma 4B,zero-shot,false,cream cheese,cream cheese,tablespoon,tbsp
+665,9,MedGemma 4B,zero-shot,false,kewpie mayo,Kewpie Mayo,tablespoon,tbsp
+665,9,MedGemma 4B,zero-shot,false,sriracha sauce,Sriracha Sauce,teaspoon,tsp
+665,9,MedGemma 4B,zero-shot,false,seaweed,Seaweed,sheet,sheets
+665,9,MedGemma 4B,zero-shot,false,rice,Rice,g,g
+665,9,MedGemma 4B,zero-shot,false,daun bawang,Green Onion/Scallion,stalk,stalks
+670,6,MedGemma 4B,few-shot,false,kulit kentang,potato skins,,
+670,6,MedGemma 4B,few-shot,false,kentang,potato,gram,grams
+670,6,MedGemma 4B,few-shot,false,garlic powder,garlic powder,sudu,teaspoon
+670,6,MedGemma 4B,few-shot,false,garam,salt,sudu,teaspoon
+670,6,MedGemma 4B,few-shot,false,pepper,pepper,sudu,teaspoon
+670,6,MedGemma 4B,few-shot,false,tepung jagung,cornstarch,sudu,tablespoon
+670,6,MedGemma 4B,few-shot,false,minyak,cooking oil,sudu,tablespoon
+672,10,MedGemma 4B,zero-shot,false,tepung,flour,cawan,cup
+672,10,MedGemma 4B,zero-shot,false,air,water,cawan,cup
+672,10,MedGemma 4B,zero-shot,false,seaweed,seaweed,biji,piece
+672,10,MedGemma 4B,zero-shot,false,japchae,japchae,biji,piece
+672,10,MedGemma 4B,zero-shot,false,gula,sugar,calit,pinch
+672,10,MedGemma 4B,zero-shot,false,larutan tepung,flour solution,cawan,cup
+672,10,MedGemma 4B,zero-shot,false,minyak,oil,cawan,cup
+672,10,MedGemma 4B,zero-shot,false,sweet chili sauce,sweet chili sauce,biji,piece
+673,6,Qwen 2.5 3B Instruct,chain-of-thought,false,kentang,potato,,
+675,7,Qwen 2.5 3B Instruct,chain-of-thought,false,kacang kuda,chickpeas,,pounds
+675,7,Qwen 2.5 3B Instruct,chain-of-thought,false,baking powder,baking powder,sudu kecil,teaspoon
+679,16,Qwen 2.5 3B Instruct,few-shot,false,daging,beef,,
+679,16,Qwen 2.5 3B Instruct,few-shot,false,minyak,cooking oil,sudu,tablespoon
+679,16,Qwen 2.5 3B Instruct,few-shot,false,kicap manis pedas,sweet and spicy soy sauce,,
+679,16,Qwen 2.5 3B Instruct,few-shot,false,tepung jagung,cornstarch,,
+679,16,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,white garlic cloves,,
+679,16,Qwen 2.5 3B Instruct,few-shot,false,bawang merah,red onion,,
+679,16,Qwen 2.5 3B Instruct,few-shot,false,lada hitam,black pepper seeds,,
+679,16,Qwen 2.5 3B Instruct,few-shot,false,benggala,cardamom pods,,
+679,16,Qwen 2.5 3B Instruct,few-shot,false,broccoli,broccoli florets,,
+684,24,Qwen 2.5 3B Instruct,zero-shot,false,ayam bagian kepak,chicken wings,,
+684,24,Qwen 2.5 3B Instruct,zero-shot,false,rempah ayam madu Emasauce,spices for honey chicken,,
+686,8,Qwen 2.5 3B Instruct,structured-output,false,minyak,vegetable oil,sedikit,ml
+686,8,Qwen 2.5 3B Instruct,structured-output,false,bawang holland,onion,bilik,pieces
+686,8,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,garlic,bilik,pieces
+686,8,Qwen 2.5 3B Instruct,structured-output,false,lada benggala,red pepper flakes,kilo,kilograms
+686,8,Qwen 2.5 3B Instruct,structured-output,false,pomelo tomatoes,pomelo tomatoes (diced),biji,piece
+686,8,Qwen 2.5 3B Instruct,structured-output,false,paprika,red pepper,kilo,kilograms
+686,8,Qwen 2.5 3B Instruct,structured-output,false,peppercorn,white pepper,bilik,pieces
+686,8,Qwen 2.5 3B Instruct,structured-output,false,garam,salt,bilik,pieces
+686,8,Qwen 2.5 3B Instruct,structured-output,false,parmesan cheese,parmesan cheese,bilik,pieces
+686,8,Qwen 2.5 3B Instruct,structured-output,false,telur,egg,bilik,pieces
+686,8,Qwen 2.5 3B Instruct,structured-output,false,dijung telur,half eggs,bilik,pieces
+686,8,Qwen 2.5 3B Instruct,structured-output,false,kacau beras,baguette (toast),bilik,piece
+686,8,Qwen 2.5 3B Instruct,structured-output,false,minyak zaitun,olive oil,sentit,milliliters (ml)
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,Cocoa Powder,Cocoa Powder,,
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,Quaker Rolled Oats,Quaker Rolled Oats,,
+687,25,Qwen 2.5 3B Instruct,zero-shot,false,Dark Chocolate Chips,Dark Chocolate Chips,,
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,salmon,salmon,gram,gram
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,cream cheese,cream cheese,tablespoon,tablespoon
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,kewpie mayo,kewpie mayo,tablespoon,tablespoon
+688,9,Qwen 2.5 3B Instruct,chain-of-thought,false,sriracha sauce,sriracha sauce,tablespoon,tablespoon
+689,9,Qwen 2.5 3B Instruct,structured-output,false,salmon,salmon,,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,ginger,ginger,,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,sesame seeds,sesame seeds,tablespoon,teaspoon
+689,9,Qwen 2.5 3B Instruct,structured-output,false,rice,rice,,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,mayonnaise,mayonnaise,,
+689,9,Qwen 2.5 3B Instruct,structured-output,false,sriracha sauce,sriracha sauce,,
+690,26,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,cawan tepung seberguna,cup of all-purpose flour,,cups
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,separuh cawan air,half cup of water,,cups
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,separuh cawan seaweed,half cup of seaweed,,cups
+691,10,Qwen 2.5 3B Instruct,chain-of-thought,false,japchae,Japanese stir-fried noodles (japchae),,cups
+692,10,Qwen 2.5 3B Instruct,structured-output,false,tepung seberguna,all-purpose flour,,cup
+692,10,Qwen 2.5 3B Instruct,structured-output,false,adunan tepung,flour batter,,tablespoon
+692,10,Qwen 2.5 3B Instruct,structured-output,false,seaweed,seaweed,,piece
+692,10,Qwen 2.5 3B Instruct,structured-output,false,japchae,glass noodles (japchae),,package
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,,Oatmeal,,cup
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,,Chicken Powder,,tablespoon
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,,Tofu,,piece
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,,Scrambled Eggs,,piece
+693,27,Qwen 2.5 3B Instruct,zero-shot,false,,Peanut Oil,,tablespoon
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,daging frozen yang tak sempat-sempat nak masak,frozen ground beef,,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang merah dan bawang putih,red and white onions,,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,black pepper,black pepper,,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,daun rosemary,rosemary leaves,,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,paprika,paprika powder,,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,dough,tortilla chips (chips) for nachos,,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,tomato paste,tomato puree,,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,dekat air,water for cooking the tortillas,,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,cooking cream,cooking cream (light cream),,
+694,11,Qwen 2.5 3B Instruct,chain-of-thought,false,kepingan keju cheese dill burger,cheese slices with dill (for nachos),,
+696,28,Qwen 2.5 3B Instruct,zero-shot,false,strawberry,strawberry,gram,grams
+696,28,Qwen 2.5 3B Instruct,zero-shot,false,matcha (favourite brand),matcha (favorite brand),sudu,spoon
+696,28,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,ramekin,ramekin,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,melted butter,melted butter,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,tepung serba guna,all-purpose flour,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,dark chocolate,dark chocolate,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,butter,butter,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,salt,salt,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,eggs,eggs,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,sugar,sugar,,
+699,29,Qwen 2.5 3B Instruct,zero-shot,false,milk,milk,,
+701,13,Qwen 2.5 3B Instruct,structured-output,false,daging syabu-syabu,beef tenderloin,,piece
+701,13,Qwen 2.5 3B Instruct,structured-output,false,garam,salt,sendok teh,teaspoon
+701,13,Qwen 2.5 3B Instruct,structured-output,false,black pepper,black pepper,sendok teh,teaspoon
+701,13,Qwen 2.5 3B Instruct,structured-output,false,white pepper,white pepper,sendok teh,teaspoon
+701,13,Qwen 2.5 3B Instruct,structured-output,false,sos siram dan minyak bijan,soy sauce and peanut oil,sendok teh,teaspoon
+701,13,Qwen 2.5 3B Instruct,structured-output,false,daging tadi,beef tenderloin,,piece
+701,13,Qwen 2.5 3B Instruct,structured-output,false,roti sosej,buttered toast bread,,piece
+701,13,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,garlic,,piece
+701,13,Qwen 2.5 3B Instruct,structured-output,false,butter,butter,,piece
+701,13,Qwen 2.5 3B Instruct,structured-output,false,kepingan keju,cheese slices,,slice
+701,13,Qwen 2.5 3B Instruct,structured-output,false,telur matah,egg yolk,,piece
+702,30,Qwen 2.5 3B Instruct,zero-shot,false,strawberry,strawberries,,
+702,30,Qwen 2.5 3B Instruct,zero-shot,false,fresh cream,fresh cream,ml,mL
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,fries,fries,,
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,bawang holland,holland leeks,,
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,mayo,mayonnaise,,
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,pickles,pickles,,
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,minced beef,minced beef,,
+705,31,Qwen 2.5 3B Instruct,zero-shot,false,cheese sauce instant,instant cheese sauce,,
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,kaki ayam,chicken legs,,
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,minyak,oil,sedikit,
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,garam,salt,,
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,onje seasoning,spice blend,satu sudu,a tablespoon
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,rasa bawang yang kuat,strong onion flavor,,
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,campuran herbs macam rosemary and thyme,combination of herbs such as rosemary and thyme,satu sudu,a tablespoon
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,butter,butter,,
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,air,water,,
+706,15,Qwen 2.5 3B Instruct,chain-of-thought,false,broccoli,broccoli,,
+707,15,Qwen 2.5 3B Instruct,structured-output,false,kaki ayam,chicken thighs,,pieces
+707,15,Qwen 2.5 3B Instruct,structured-output,false,minyak,oil,ml,milliliters (ml)
+707,15,Qwen 2.5 3B Instruct,structured-output,false,garam,salt,,tablespoon (tbsp)
+707,15,Qwen 2.5 3B Instruct,structured-output,false,onje seasoning,one seasoning,,tablespoon (tbsp)
+707,15,Qwen 2.5 3B Instruct,structured-output,false,bawang merah yang kuat,strong red onions,,piece
+707,15,Qwen 2.5 3B Instruct,structured-output,false,rosemary and thyme,rosemary and thyme herbs,,tablespoon (tbsp)
+707,15,Qwen 2.5 3B Instruct,structured-output,false,kubus ayam,chicken cubes,,pieces
+707,15,Qwen 2.5 3B Instruct,structured-output,false,air,water,,cup (cup)
+707,15,Qwen 2.5 3B Instruct,structured-output,false,butter,butter,,grams (g)
+707,15,Qwen 2.5 3B Instruct,structured-output,false,broccoli,broccoli,,cup (cup)
+707,15,Qwen 2.5 3B Instruct,structured-output,false,sauce butter,butter sauce,,grams (g)
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,daging,beef,,grams
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,minyak bijan,palm oil,bahan-bahan ni pun takde and kacau-kacau,
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,kicap masin,salt soy sauce,bahan-bahan ni pun takde and kacau-kacau,
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,sos tiram mahsuri,tamarind soy sauce from Mahsuri,bahan-bahan ni pun takde and kacau-kacau,
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,tepung jagung,soybean flour,bahan-bahan ni pun takde and kacau-kacau,
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,kacau-kacau,,,
+709,16,Qwen 2.5 3B Instruct,chain-of-thought,false,daging yang sudah digoreng tadi,fried beef,,grams
+710,16,Qwen 2.5 3B Instruct,structured-output,false,daging,beef,gram,grams
+710,16,Qwen 2.5 3B Instruct,structured-output,false,minyak bijan,sesame oil,teaspoon,teaspoons
+710,16,Qwen 2.5 3B Instruct,structured-output,false,kicap masin,cooking soy sauce (Kecap Manis),teaspoon,teaspoons
+710,16,Qwen 2.5 3B Instruct,structured-output,false,sos tiram mahsuri,Mahsuri Tamarind Sauce (Sambal Belacuan),teaspoon,teaspoons
+710,16,Qwen 2.5 3B Instruct,structured-output,false,tepung jagung,soybean flour (Tapioca Flour),teaspoon,teaspoons
+710,16,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,white onion,piece,pieces
+710,16,Qwen 2.5 3B Instruct,structured-output,false,sesuai,chili flakes (Bawang Merah),piece,pieces
+710,16,Qwen 2.5 3B Instruct,structured-output,false,lada bengkala,cloves of garlic (Bawang Bunga),piece,pieces
+710,16,Qwen 2.5 3B Instruct,structured-output,false,broccoli,broccoli (Kangkung),gram,grams
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,Julie's Cheese Cracker,Julie's Cheese Crackers,,
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,Hazelnut Spread,Hazelnut Spread,,
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,Banana,Banana,,
+712,33,Qwen 2.5 3B Instruct,zero-shot,false,Honey,Honey,,
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,ayam breast,chicken breast,pcs,grams
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,minyak zaitun,olive oil,ml,milliliters
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,garam,salt,,teaspoons
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,onja seasoning,onza seasoning,,tablespoons
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,butter,butter,ml,milliliters
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang putih,shallot,bulb,grams
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang holland,shallot (Hollandaise),bulb,grams
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,kari pasta,pasta (Alfredo),grams,grams
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,parmesan cheese,parmesan cheese,grams,grams
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,wortel,carrot,,pieces
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,tomat,tomato,,pieces
+713,17,Qwen 2.5 3B Instruct,chain-of-thought,false,spinach baby,baby spinach leaves,,pieces
+714,17,Qwen 2.5 3B Instruct,structured-output,false,chicken breast,chicken breast,piece,slices
+714,17,Qwen 2.5 3B Instruct,structured-output,false,olive oil,olive oil,ml,ml
+714,17,Qwen 2.5 3B Instruct,structured-output,false,salt,salt,,
+714,17,Qwen 2.5 3B Instruct,structured-output,false,onja seasoning,onza seasoning,ml,ml
+714,17,Qwen 2.5 3B Instruct,structured-output,false,butter,butter,,ml
+714,17,Qwen 2.5 3B Instruct,structured-output,false,shallot,shallot,,pieces
+714,17,Qwen 2.5 3B Instruct,structured-output,false,garlic,garlic,,pieces
+714,17,Qwen 2.5 3B Instruct,structured-output,false,black pepper,black pepper,,
+714,17,Qwen 2.5 3B Instruct,structured-output,false,thyme,thyme,,
+714,17,Qwen 2.5 3B Instruct,structured-output,false,parmesan cheese,parmesan cheese,,
+714,17,Qwen 2.5 3B Instruct,structured-output,false,pasta,spaghetti,,
+714,17,Qwen 2.5 3B Instruct,structured-output,false,baby spinach,baby spinach,,
+714,17,Qwen 2.5 3B Instruct,structured-output,false,tomato,tomato,,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,ayam,chicken breast,,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,white onion,,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,bawang holland,flavoured onion,,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,tomat,tomato,,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,bawang goreng,crispy onion,,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,mushroom,button mushroom,,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,macaroni,macaroni pasta,,
+716,34,Qwen 2.5 3B Instruct,zero-shot,false,bumbu masak,seasoning mix,,
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,daging syabu-syabu,pork meatballs,sajian,serving
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,daging hiris nipis,lean minced meat,sajian,serving
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,sayur lengkap,complete vegetables,sajian,serving
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,glass noodle,glass noodles (glass rice vermicelli),gram,grams
+717,18,Qwen 2.5 3B Instruct,chain-of-thought,false,sauce,sauce,gram,grams
+718,18,Qwen 2.5 3B Instruct,structured-output,false,syabu-syabu,tender beef strips,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,garam,salt,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,black pepper,black pepper,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,white pepper,white pepper,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,soy sauce,soy sauce,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,sesame oil,sesame oil,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,daging hiris nipis,tender minced meat,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,sayur lengkap,complete vegetables,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,bihun goreng,stir-fried egg noodles,,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,glass noodles,glass noodles (japchae),,
+718,18,Qwen 2.5 3B Instruct,structured-output,false,soy sauce japchae,japchae sauce (got kimchi),,
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,ayam,chicken,,
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,tepung,chicken crumbs,,
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,dahi,yogurt,,
+720,35,Qwen 2.5 3B Instruct,zero-shot,false,sos,sauce,,
+723,20,Qwen 2.5 3B Instruct,few-shot,false,suju cair,ice cream,tin,tins
+723,20,Qwen 2.5 3B Instruct,few-shot,false,air cincau,tapioca milk,cups,tablespoons
+723,20,Qwen 2.5 3B Instruct,few-shot,false,buah naga,dragon fruit,piece,pieces
+723,20,Qwen 2.5 3B Instruct,few-shot,false,sagu,coconut milk,tablespoons,tablespoons
+723,20,Qwen 2.5 3B Instruct,few-shot,false,susu pekat,heavy cream,tablespoon,tablespoons
+724,36,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,suju cair,ice cream,,tin
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,air cincau,cendana water,,little bit
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,sagu yang gebu,coconut jelly,,a lot
+725,20,Qwen 2.5 3B Instruct,chain-of-thought,false,siur buah naga,pear juice,,several pieces
+726,20,Qwen 2.5 3B Instruct,structured-output,false,suju cair,crushed ice,,
+726,20,Qwen 2.5 3B Instruct,structured-output,false,air cincau,coconut water,,
+726,20,Qwen 2.5 3B Instruct,structured-output,false,buah naga yang baru keluar,fresh mangosteen fruit,,
+726,20,Qwen 2.5 3B Instruct,structured-output,false,sagu yang gebu,cooked tapioca pearls,,
+726,20,Qwen 2.5 3B Instruct,structured-output,false,susu pekat,full cream milk,,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,peanut butter,peanut butter,,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,kicap masin,soy sauce (sweet soy),,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,kicap manis,soy sauce (sweet soy),,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,madu,honey,,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,garlic,sikup,slices
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,halia,"fish sauce (prahew, belachan)",,
+728,37,Qwen 2.5 3B Instruct,zero-shot,false,cili flakes,pepper flakes (dry red chili),,
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,minyak,oil,,servings (estimated)
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,beef,beef,gram,grams
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,mie sedap mie goreng perisa asli,Mee Sedap Original Fried Noodles,packet,packet
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,telur kuning,egg yolk,,slices (estimated)
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,mayo,mayonnaise,,tablespoons (tbs)
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang putih,garlic,,cloves (estimated)
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang merah,red onion,,pieces (estimated)
+729,21,Qwen 2.5 3B Instruct,chain-of-thought,false,daun bawang,onion leaf,,leaves (estimated)
+730,21,Qwen 2.5 3B Instruct,structured-output,false,minyak,oil,,unit
+730,21,Qwen 2.5 3B Instruct,structured-output,false,beef,beef,,unit
+730,21,Qwen 2.5 3B Instruct,structured-output,false,mie sedap mie goreng perisa asli,Mee Sedap Authentic Fried Noodles,packets,packets
+730,21,Qwen 2.5 3B Instruct,structured-output,false,telur kuning,egg yolk,,unit
+730,21,Qwen 2.5 3B Instruct,structured-output,false,mayo,mayonnaise,,unit
+730,21,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,shallot,,unit
+730,21,Qwen 2.5 3B Instruct,structured-output,false,bawang merah,red onion,,unit
+730,21,Qwen 2.5 3B Instruct,structured-output,false,daun bawang,leaves of garlic or shallot,,pieces
+730,21,Qwen 2.5 3B Instruct,structured-output,false,beef yang sudah dikukus,coked beef,,unit
+730,21,Qwen 2.5 3B Instruct,structured-output,false,signature bawang goreng kering,crunchy garlic sauce,,unit
+730,21,Qwen 2.5 3B Instruct,structured-output,false,chili oil favorit anda,your preferred chili oil,,unit
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,4 cloves of garlic,4 cloves of garlic,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,four onion pieces,four onion pieces,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,olive oil,olive oil,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,salt,salt,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,water,water,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,cream,cream,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,pepper,pepper,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,garlic powder,garlic powder,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,paprika,paprika,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,butter,butter,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,parmesan cheese,parmesan cheese,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,hot sauce oil,hot sauce oil,,
+732,38,Qwen 2.5 3B Instruct,zero-shot,false,parmesan cheese,parmesan cheese,,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,daging,beef,,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,"bawang merah, bawang putih","red onion, white onion",,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,"black pepper, garlic powder, daun rosemary, paprika","black pepper, garlic powder, rosemary leaves, paprika",,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,"tomato paste, air","tomato paste, water",,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,"avocado, dried coriander leaves, black pepper, garam, olive oil, bawang putih, lemon juice","avocado, coriander leaves (dried), black pepper, salt, olive oil, white onion, lemon juice",,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,"cheese, brand cheese","cheese (brand), cheese",,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,"petroni, brand cheese dill smoked","petroni (brand), brand cheese dill smoked",,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,saus saus sausage,saus (sausage),,
+735,23,Qwen 2.5 3B Instruct,few-shot,false,bread crumbs,bread crumbs,,
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,Bawang Merah,Red Onion,,
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+736,39,Qwen 2.5 3B Instruct,zero-shot,false,,,,
+739,24,Qwen 2.5 3B Instruct,few-shot,false,ayam,chicken,,
+739,24,Qwen 2.5 3B Instruct,few-shot,false,margarine,butter,,
+739,24,Qwen 2.5 3B Instruct,few-shot,false,air,water,,
+741,24,Qwen 2.5 3B Instruct,chain-of-thought,false,ayam bagian kepak,chicken thighs,,piece
+741,24,Qwen 2.5 3B Instruct,chain-of-thought,false,Rempah ayam madu Emasauce,Golden Sauce seasoning for chicken thighs,,tablespoon
+742,24,Qwen 2.5 3B Instruct,structured-output,false,ayam bagian kepak,whole chicken parts,,pieces
+742,24,Qwen 2.5 3B Instruct,structured-output,false,emasauce,golden sauce,sudu,tablespoons
+744,41,Qwen 2.5 3B Instruct,zero-shot,false,"peanut butter, kicap masin, kicap manis, sedikit madu, bawang putih, halia dan chilli flakes","palm sugar, salt, sweet soy sauce, a little of honey, white garlic, shrimp paste and chili flakes",,
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,2 biji pisang lenyek-lenyek,2 ripe bananas,,piece
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,coklat batang,dark chocolate chips,,piece
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,oat rolled Quaker,Quaker rolled oats,,pieces
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,milk fresh,fresh milk,ml,ml
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,butter melted,melted butter,ml,ml
+745,25,Qwen 2.5 3B Instruct,chain-of-thought,false,baking powder,baking powder,,piece
+747,26,Qwen 2.5 3B Instruct,few-shot,false,daun bawang,shallot,,
+747,26,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,garlic,,
+747,26,Qwen 2.5 3B Instruct,few-shot,false,oil,cooking oil,sudu,tablespoon
+747,26,Qwen 2.5 3B Instruct,few-shot,false,oil chilli,chilli oil,,
+747,26,Qwen 2.5 3B Instruct,few-shot,false,kicap manis,sweet soy sauce,,
+747,26,Qwen 2.5 3B Instruct,few-shot,false,gula,sugar,,
+747,26,Qwen 2.5 3B Instruct,few-shot,false,biskuit bijan,sesame seeds,,
+747,26,Qwen 2.5 3B Instruct,few-shot,false,air,water,,
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,beef brisket,beef brisket,gram,
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,olive oil,olive oil,tablespoon,
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,diced tomatoes,diced tomatoes,cup,
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,water,water,,
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,salt,salt,,
+749,43,Qwen 2.5 3B Instruct,zero-shot,false,pepper,pepper,,
+750,26,Qwen 2.5 3B Instruct,chain-of-thought,false,"daun bawang, bawang putih","spring onion, garlic",,
+750,26,Qwen 2.5 3B Instruct,chain-of-thought,false,chai oil,shamida chilli oil,,
+751,26,Qwen 2.5 3B Instruct,structured-output,false,daun bawang,garlic leaves,buah-buah,pieces
+751,26,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,white garlic,buah,piece
+751,26,Qwen 2.5 3B Instruct,structured-output,false,minyak panas,cooking oil,sentak,tablespoon
+751,26,Qwen 2.5 3B Instruct,structured-output,false,Shamida chilli oil,Shamida chilli oil,sentak,tablespoon
+752,27,Qwen 2.5 3B Instruct,few-shot,false,oat,oats,cawan,cup
+752,27,Qwen 2.5 3B Instruct,few-shot,false,ayam,chicken,gram,grams
+752,27,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,white onion,jempol,dashes
+752,27,Qwen 2.5 3B Instruct,few-shot,false,sos kiram,cream sauce,tablespoon,tablespoons
+752,27,Qwen 2.5 3B Instruct,few-shot,false,minyak bijan,peanut oil,tablespoon,tablespoons
+752,27,Qwen 2.5 3B Instruct,few-shot,false,mince chicken,ground chicken,tablespoon,tablespoons
+752,27,Qwen 2.5 3B Instruct,few-shot,false,tempeh,tofu,gram,grams
+752,27,Qwen 2.5 3B Instruct,few-shot,false,telur,egg,butir,eggs
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,daging,beef,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,garam,salt,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,pepper,black pepper,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,tepung jagung,cornstarch,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,minyak bijan,sesame oil,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,kicap masin,soy sauce,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,sos tiram,soybean paste,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,separuh cube daging,,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,white pepper,white pepper,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,gula,,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,air,,,
+753,44,Qwen 2.5 3B Instruct,zero-shot,false,tomato,,,
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,minyak bijan,peanut oil,cawan,
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang putih,garlic,,pieces
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,ayam yang cincang,chopped chicken,gram,
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,biskuit oat Quaker,Quaker rolled oats,gram,
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,sos kiram,tamari sauce (or soy sauce),,teaspoons
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,wahiti,white pepper powder,,pinch
+754,27,Qwen 2.5 3B Instruct,chain-of-thought,false,kicap manis,sweet soy sauce (or regular soy sauce),,teaspoons
+756,28,Qwen 2.5 3B Instruct,few-shot,false,strawberry,strawberries,gram,grams
+756,28,Qwen 2.5 3B Instruct,few-shot,false,matcha,matcha powder,,
+756,28,Qwen 2.5 3B Instruct,few-shot,false,gula,sugar,,
+756,28,Qwen 2.5 3B Instruct,few-shot,false,cube ice,ice cubes,,
+759,28,Qwen 2.5 3B Instruct,chain-of-thought,false,strawberry,strawberries,gram,grams
+759,28,Qwen 2.5 3B Instruct,chain-of-thought,false,matcha,matcha (matcha),,sudu
+760,28,Qwen 2.5 3B Instruct,structured-output,false,strawberry,strawberry,g,g
+760,28,Qwen 2.5 3B Instruct,structured-output,false,matcha,matcha (green tea powder),brand matcha brand,brand matcha brand
+760,28,Qwen 2.5 3B Instruct,structured-output,false,ice,ice cubes,,cubes
+760,28,Qwen 2.5 3B Instruct,structured-output,false,oat milk,oat milk,,cups of oat milk or similar
+761,29,Qwen 2.5 3B Instruct,few-shot,false,melted butter,butter,,
+761,29,Qwen 2.5 3B Instruct,few-shot,false,tepung serba guna,all-purpose flour,,
+761,29,Qwen 2.5 3B Instruct,few-shot,false,dark choclate,dark chocolate,,
+761,29,Qwen 2.5 3B Instruct,few-shot,false,telur,egg,,
+761,29,Qwen 2.5 3B Instruct,few-shot,false,gula,sugar,,
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,timun yang dah dicuci,"cucumbers, washed",,
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,sambal,"hot sauce (assumed to be homemade, no specific amount given)",,
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,kicap manis,"sweet soy sauce (assumed to be used for flavoring, no specific amount given)",,
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,telur rebus,"boiled eggs (assumed to be a single egg, no specific amount given)",,
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,tomato,"tomatoes, diced (assumed to be a single tomato)",,
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,pomelito,"lemon, juiced (assumed to be a single lemon)",,
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,daun bawang,onion leaves (assumed to be a single bunch),,
+763,48,Qwen 2.5 3B Instruct,zero-shot,false,bawang goreng,fried onions (assumed to be a single batch),,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,ramen pan,ramekin,,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,butter,melted butter,tablespoon,tablespoon
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,all-purpose flour,all-purpose flour,tablespoon,tablespoon
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,dark chocolate,dark chocolate,gram,gram
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,butter,butter,gram,gram
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,eggs,eggs,,
+764,29,Qwen 2.5 3B Instruct,chain-of-thought,false,sugar,sugar,tablespoon,tablespoon
+765,29,Qwen 2.5 3B Instruct,structured-output,false,ramekin cover,ramekin cover,,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,melted butter,butter,,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,all-purpose flour,all-purpose flour,,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,dark chocolate,dark chocolate,,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,butter,butter,,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,water,water,seconds,seconds
+765,29,Qwen 2.5 3B Instruct,structured-output,false,eggs,eggs,,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,white granulated sugar,sugar,,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,salt,salt,,
+765,29,Qwen 2.5 3B Instruct,structured-output,false,flour,flour,,
+766,30,Qwen 2.5 3B Instruct,few-shot,false,strawberry,strawberries,,
+766,30,Qwen 2.5 3B Instruct,few-shot,false,crema,cream,,
+766,30,Qwen 2.5 3B Instruct,few-shot,false,roti,bread,,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,timun,cucumber,,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,kicap masin,soy sauce,,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,bawang putih,garlic,,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,lemak,sesame oil,,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,daun bawang,lemon juice,,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,belacang,red pepper oil,,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,pengasid,MSG (monosodium glutamate),,
+767,49,Qwen 2.5 3B Instruct,zero-shot,false,temulawak,,,
+768,30,Qwen 2.5 3B Instruct,chain-of-thought,false,strawberry,strawberries,,grams
+768,30,Qwen 2.5 3B Instruct,chain-of-thought,false,fresh cream,cream,,grams
+769,30,Qwen 2.5 3B Instruct,structured-output,false,strawberry,strawberries,,
+769,30,Qwen 2.5 3B Instruct,structured-output,false,fresh cream,cream,half cup,
+769,30,Qwen 2.5 3B Instruct,structured-output,false,sugar,sugar,small teaspoon,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,telur,egg,,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,minyak,cooking oil,,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,fries,French fries,,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,bawang holland,Holland onion,,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,pickle,pickle,,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,mayo,mayonnaise,,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,tomato,tomato,,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,daging burger,ground beef,,
+770,31,Qwen 2.5 3B Instruct,few-shot,false,cheese sauce instant,instant cheese sauce,,
+771,50,Qwen 2.5 3B Instruct,zero-shot,false,timun,cucumber,,
+771,50,Qwen 2.5 3B Instruct,zero-shot,false,keju,cheese,setengah sudu krim,
+771,50,Qwen 2.5 3B Instruct,zero-shot,false,yogurt,yogurt,,
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,fries,fries,,pieces
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,holland bawang,holland garlic,,pieces
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,pickling,pickle,,pieces
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,mayonnaise,mayonnaise,,serving
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,lemon juice,lemon juice,,ml
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,salt,salt,,tsp
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,black pepper,black pepper,,tsp
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,paprika,paprika,,tsp
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,garlic powder,garlic powder,,tsp
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,tomato paste,tomato paste,,tsp
+772,31,Qwen 2.5 3B Instruct,chain-of-thought,false,cheese sauce instant,instant cheese sauce,,tsp
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Frozen fries,Frozen French fries,,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Breaded chips,Chips (Fries),,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Oil,Vegetable oil,,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Breaded bacon,Bacon bits,,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Pickled vegetables,Pickles (preserved vegetables),,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Mayonnaise,Mayonnaise,,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Juice lemon,Lemon juice,,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Salt,Salt,,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Black pepper,Black pepper,,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Paprika,Paprika (spices),,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Garlic powder,Garlic powder (spices),,
+773,31,Qwen 2.5 3B Instruct,structured-output,false,Tomatoes,Diced tomatoes,,
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,minyak,oil,,units
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,paprika sichuan,Sichuan pepper,,pieces
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,daun salam,leaves of lemon grass,,pieces
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang besar,large garlic cloves,,cloves
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang putih,white garlic cloves,,cloves
+775,32,Qwen 2.5 3B Instruct,chain-of-thought,false,ajinomoto,monosodium glutamate (MSG),,tablespoons
+777,33,Qwen 2.5 3B Instruct,few-shot,false,Julie's Cheese Cracker,Julie’s Cheese Crackers,biji,pieces
+777,33,Qwen 2.5 3B Instruct,few-shot,false,hazelnut spread,peanut butter or hazelnut spread (low sugar/zero sugar),,
+777,33,Qwen 2.5 3B Instruct,few-shot,false,pisang yang sudah matang dan dikukus,ripe and steamed bananas,,
+777,33,Qwen 2.5 3B Instruct,few-shot,false,honey,honey,,
+779,33,Qwen 2.5 3B Instruct,structured-output,false,Julie's Cheese Cracker,Julie's Cheese Crackers,,
+779,33,Qwen 2.5 3B Instruct,structured-output,false,Hazel Nut Spread (Low Sugar or Zero Sugar),Hazelnut Spread (Low Sugar or No Sugar),,
+779,33,Qwen 2.5 3B Instruct,structured-output,false,Bananas,Bananas,"dah kuning and masak macam ni, so senang sikit nak digest",
+779,33,Qwen 2.5 3B Instruct,structured-output,false,Honey,Honey,,
+783,35,Qwen 2.5 3B Instruct,few-shot,false,ayam,chicken meat,bilion,pieces
+783,35,Qwen 2.5 3B Instruct,few-shot,false,tepung pedas BoneChef,Spicy BoneChef flour,,
+783,35,Qwen 2.5 3B Instruct,few-shot,false,air,water,,
+783,35,Qwen 2.5 3B Instruct,few-shot,false,mayo,mayonnaise,,
+783,35,Qwen 2.5 3B Instruct,few-shot,false,susu yogurt,yogurt,,
+783,35,Qwen 2.5 3B Instruct,few-shot,false,saos tomato,tomato sauce,,
+783,35,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,garlic,,
+783,35,Qwen 2.5 3B Instruct,few-shot,false,Worcestershire sauce,Worcestershire sauce,,
+785,35,Qwen 2.5 3B Instruct,structured-output,false,chicken nibbles,chicken bites or chicken nuggets,,
+785,35,Qwen 2.5 3B Instruct,structured-output,false,tempered flour,crispy bread crumbs or cornflakes,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,peanut butter,pumpkin seeds paste,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,kicap masin,soy sauce,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,kicap manis,sweet soy sauce,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,madu,honey,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,garlic,buloh,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,hali,black pepper,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,cili flakes,paprika flakes,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,lemon juice,lemon juice,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,air panas,boiling water,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,air rebusan mee,cooking/measuring water,,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,mie,rice noodles,bilik,
+789,37,Qwen 2.5 3B Instruct,few-shot,false,mie wantan,dumplings (rice vermicelli),,
+790,6,MedGemma 4B,chain-of-thought,false,kentang,Potato,kg,kg
+790,6,MedGemma 4B,chain-of-thought,false,garlic powder,Garlic Powder,teaspoon,teaspoon
+790,6,MedGemma 4B,chain-of-thought,false,garam,Salt,teaspoon,teaspoon
+790,6,MedGemma 4B,chain-of-thought,false,pepper,Pepper,teaspoon,teaspoon
+790,6,MedGemma 4B,chain-of-thought,false,tepung jagung,Cornstarch,tablespoon,tablespoon
+790,6,MedGemma 4B,chain-of-thought,false,air,Air,teaspoon,teaspoon
+791,37,Qwen 2.5 3B Instruct,chain-of-thought,false,"peanut butter, kicap masin, kicap manis, madu sikit, bawang putih, halia dan cili flakes","palm sugar, peanut butter, soy sauce, honey, garlic, salt and chili flakes",,
+791,37,Qwen 2.5 3B Instruct,chain-of-thought,false,"jus lemon, air panas atau air rebusan mee","lemon juice, hot water or boiling noodle water",,ml
+791,37,Qwen 2.5 3B Instruct,chain-of-thought,false,mie,noodles,,grams
+792,6,MedGemma 4B,structured-output,false,kentang,Potato,gram,gram
+792,6,MedGemma 4B,structured-output,false,garlic powder,Garlic Powder,teaspoon,Teaspoon
+792,6,MedGemma 4B,structured-output,false,garam,Salt,teaspoon,Teaspoon
+792,6,MedGemma 4B,structured-output,false,pepper,Pepper,teaspoon,Teaspoon
+792,6,MedGemma 4B,structured-output,false,tepung jagung,Cornstarch,tablespoon,Tablespoon
+792,6,MedGemma 4B,structured-output,false,kentang,Potato,gram,gram
+792,6,MedGemma 4B,structured-output,false,air,Water,ml,Milliliters
+792,6,MedGemma 4B,structured-output,false,tepung jagung,Cornstarch,tablespoon,Tablespoon
+792,6,MedGemma 4B,structured-output,false,air,Water,ml,Milliliters
+793,7,MedGemma 4B,chain-of-thought,false,kacang kuda,Chickpeas,,can
+793,7,MedGemma 4B,chain-of-thought,false,air baru yang bersih,Clean Water,,cup
+793,7,MedGemma 4B,chain-of-thought,false,sudu kecil baking powder,Baking Powder,sudu kecil,teaspoon
+793,7,MedGemma 4B,chain-of-thought,false,bawang putih,Garlic,,cloves
+793,7,MedGemma 4B,chain-of-thought,false,jus lemon,Lemon Juice,,tablespoon
+793,7,MedGemma 4B,chain-of-thought,false,garam,Salt,,pinch
+793,7,MedGemma 4B,chain-of-thought,false,tahini,Tahini,,tablespoon
+793,7,MedGemma 4B,chain-of-thought,false,ice cube,Ice Cube,,cube
+794,37,Qwen 2.5 3B Instruct,structured-output,false,peanut butter,peanut butter,,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,kicap masin,Kecap Manis (Sweet Soy Sauce),cawan,cup
+794,37,Qwen 2.5 3B Instruct,structured-output,false,kicap manis,Kecap Manis (Sweet Soy Sauce),cawan,cup
+794,37,Qwen 2.5 3B Instruct,structured-output,false,madu,honey,,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,garlic,,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,hali,salt,,
+794,37,Qwen 2.5 3B Instruct,structured-output,false,cili flakes,pepper flakes (or chili oil),,
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang holland,onion,,pieces
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,butter,unsalted butter,,pieces
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,parmesan cheese,cheddar cheese,,pieces
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,olive oil,olive oil,,servings
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,water,water,,servings
+797,38,Qwen 2.5 3B Instruct,chain-of-thought,false,salt,salt,,servings
+798,38,Qwen 2.5 3B Instruct,structured-output,false,4 biji bawang holland,4 cloves of garlic,bijis,cloves
+798,38,Qwen 2.5 3B Instruct,structured-output,false,olive oil,olive oil,,ounce
+798,38,Qwen 2.5 3B Instruct,structured-output,false,salt,salt,,teaspoon
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,telur,egg,,pieces/eggs
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang besar,shallot,,piece/ones
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang putih,ginger,,piece/ones
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,cili (telur),pepper,,piece/ones
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,ikan bilis,anchovy,,piece/ones
+800,39,Qwen 2.5 3B Instruct,chain-of-thought,false,nasi,rice,,cup/litre
+806,40,Qwen 2.5 3B Instruct,structured-output,false,isi dada ayam,chicken breast filling,keping,piece
+806,40,Qwen 2.5 3B Instruct,structured-output,false,roti,bread,keping,piece
+806,40,Qwen 2.5 3B Instruct,structured-output,false,mayonaise,mayonnaise,cucian,serving
+806,40,Qwen 2.5 3B Instruct,structured-output,false,chicken katsu sauce,chicken katsu sauce,cucian,serving
+806,40,Qwen 2.5 3B Instruct,structured-output,false,tomato sauce,tomato sauce,cucian,serving
+807,41,Qwen 2.5 3B Instruct,few-shot,false,peanut butter,peanut butter,,
+807,41,Qwen 2.5 3B Instruct,few-shot,false,kicap masin,soy sauce,,
+807,41,Qwen 2.5 3B Instruct,few-shot,false,kicap manis,sweet soy sauce or hoisin sauce,,
+807,41,Qwen 2.5 3B Instruct,few-shot,false,madu,honey or sugar (optional),,
+807,41,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,white onion or shallot (optional),,
+807,41,Qwen 2.5 3B Instruct,few-shot,false,halia,salt (optional),,
+807,41,Qwen 2.5 3B Instruct,few-shot,false,chilli flakes,red pepper flakes (optional),,
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,peanut butter,paprika,,tablespoon
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,soy sauce,kicap manis,,tablespoon
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,soy sauce,kicap masin,,tablespoon
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,honey,madu,,tablespoon
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,garlic,bawang putih,,tablespoon
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,salt,hali,,pinch
+809,41,Qwen 2.5 3B Instruct,chain-of-thought,false,chilli flakes,bumbu cili,,pinch
+810,41,Qwen 2.5 3B Instruct,structured-output,false,peanut butter,palm sugar,,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,soy sauce,salt,,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,soy sauce (ketjap manis),salt,,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,honey,honey,,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,shallot,shallot,,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,black pepper,black pepper,,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,red chilli flakes,red chilli flakes,,
+810,41,Qwen 2.5 3B Instruct,structured-output,false,lemon juice,lemon juice,,
+815,9,MedGemma 4B,few-shot,false,salmon,salmon,,
+815,9,MedGemma 4B,few-shot,false,garam,salt,,
+815,9,MedGemma 4B,few-shot,false,lada,pepper,,
+815,9,MedGemma 4B,few-shot,false,isi ketam,crab meat,,
+815,9,MedGemma 4B,few-shot,false,cream cheese,cream cheese,,
+815,9,MedGemma 4B,few-shot,false,kewpie mayo,Kewpie mayonnaise,,
+815,9,MedGemma 4B,few-shot,false,sriracha sauce,Sriracha Sauce,,
+815,9,MedGemma 4B,few-shot,false,daun bawang,green onion,,
+815,9,MedGemma 4B,few-shot,false,nasi,rice,,
+818,9,MedGemma 4B,chain-of-thought,false,salmon,Salmon,gram,g
+818,9,MedGemma 4B,chain-of-thought,false,cream cheese,Cream Cheese,tablespoon,tbsp
+818,9,MedGemma 4B,chain-of-thought,false,kewpie mayo,Kewpie Mayonnaise,tablespoon,tbsp
+818,9,MedGemma 4B,chain-of-thought,false,sriracha sauce,Sriracha Sauce,teaspoon,tsp
+818,9,MedGemma 4B,chain-of-thought,false,seaweed,Nori Seaweed,sheet,sheet
+818,9,MedGemma 4B,chain-of-thought,false,basil,Basil,tablespoon,tbsp
+818,9,MedGemma 4B,chain-of-thought,false,jasmine rice,Jasmine Rice,gram,g
+819,44,Qwen 2.5 3B Instruct,few-shot,false,daging,beef,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,garam,salt,sikit,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,peppercorn,black pepper,sikit,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,tepung jagung,cornstarch,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,minyak,oil,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,white onion,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,bawang harin,shallot,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,keriting,red pepper,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,tepung jagung,cornstarch,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,tomat,tomato,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,kapuas,palm sugar,,
+819,44,Qwen 2.5 3B Instruct,few-shot,false,kicap manis,sweet soy sauce,,
+820,9,MedGemma 4B,structured-output,false,salmon,Salmon,gram,grams
+820,9,MedGemma 4B,structured-output,false,garam,Salt,senamit,teaspoons
+820,9,MedGemma 4B,structured-output,false,lada,Pepper,senamit,teaspoon
+820,9,MedGemma 4B,structured-output,false,isi ketam,Shrimp,gram,grams
+820,9,MedGemma 4B,structured-output,false,cream cheese,Cream Cheese,gram,grams
+820,9,MedGemma 4B,structured-output,false,kewpie mayo,Kewpie Mayo,senamit,teaspoons
+820,9,MedGemma 4B,structured-output,false,sriracha sauce,Sriracha Sauce,senamit,teaspoon
+820,9,MedGemma 4B,structured-output,false,daun bawang,Scallions,senamit,teaspoon
+820,9,MedGemma 4B,structured-output,false,nasi,Rice,gram,grams
+820,9,MedGemma 4B,structured-output,false,seaweed,Nori Seaweed,senamit,teaspoon
+821,10,MedGemma 4B,few-shot,false,tepung,flour,cawan,cup
+821,10,MedGemma 4B,few-shot,false,air,water,cawan,cup
+821,10,MedGemma 4B,few-shot,false,seaweed,seaweed,biji,sheet
+821,10,MedGemma 4B,few-shot,false,japchae,japchae,bungkus,package
+821,10,MedGemma 4B,few-shot,false,sweet chili sauce,sweet chili sauce,sudu teh,teaspoon
+822,10,MedGemma 4B,chain-of-thought,false,tepung,flour,cawan,cup
+822,10,MedGemma 4B,chain-of-thought,false,air,water,cawan,cup
+822,10,MedGemma 4B,chain-of-thought,false,seaweed,seaweed,lipat dua,folded
+822,10,MedGemma 4B,chain-of-thought,false,japchae,japchae,tong,amount
+822,10,MedGemma 4B,chain-of-thought,false,gulum,sugar,calit cantik,dash of pretty
+822,10,MedGemma 4B,chain-of-thought,false,larutan tepung,flour solution,tong,amount
+822,10,MedGemma 4B,chain-of-thought,false,minyak,oil,tong,amount
+823,10,MedGemma 4B,structured-output,false,tepung,flour,cawan,cup
+823,10,MedGemma 4B,structured-output,false,air,water,cawan,cup
+823,10,MedGemma 4B,structured-output,false,seaweed,seaweed,-,-
+823,10,MedGemma 4B,structured-output,false,japchae,japchae,-,-
+823,10,MedGemma 4B,structured-output,false,gulum,sugar,calit,teaspoon
+823,10,MedGemma 4B,structured-output,false,sweet chili sauce,sweet chili sauce,-,-
+832,44,Qwen 2.5 3B Instruct,structured-output,false,daging,beef,,piece
+832,44,Qwen 2.5 3B Instruct,structured-output,false,garam dan pepper,salt and pepper,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,baking soda,baking soda,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,tepung jagung,soy sauce,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,minyak bijan,peanut oil,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,kicap masin,light soy sauce (tomato ketchup),,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,sos tiram,soy sauce,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,separuh cube daging,diced meat cubes,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,white pepper,white pepper,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,garlic,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,halia,shallot,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,cili padi,red chili pepper,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,tomato,tomato,,
+832,44,Qwen 2.5 3B Instruct,structured-output,false,nasi panas-panas,hot rice,,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,ayam,chicken thighs,buah,piece
+845,46,Qwen 2.5 3B Instruct,few-shot,false,serbuk cajun,cayenne pepper,,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,paprika,cayenne pepper (powder),,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,minyak,olive oil (cooking),,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,bawang holland,shallot (for seasoning),,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,shallot (for seasoning),,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,nasi,cooking rice,,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,butter,unsalted butter (cooking),,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,paprika,cayenne pepper (powder),,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,garlic powder,garlic (powder),,
+845,46,Qwen 2.5 3B Instruct,few-shot,false,cream,heavy cream (cooking),,
+859,48,Qwen 2.5 3B Instruct,few-shot,false,timun yang dah dicuci,cucumber that has been rinsed,,
+859,48,Qwen 2.5 3B Instruct,few-shot,false,sambal (homemade),sauce (homemade),,
+859,48,Qwen 2.5 3B Instruct,few-shot,false,kapur manis,sweet soy sauce,,
+859,48,Qwen 2.5 3B Instruct,few-shot,false,telur rebus,boiled egg,,
+859,48,Qwen 2.5 3B Instruct,few-shot,false,tepung beras,rice flour,,
+859,48,Qwen 2.5 3B Instruct,few-shot,false,tomat,tomato,,
+859,48,Qwen 2.5 3B Instruct,few-shot,false,petereli,cilantro (fresh),,
+859,48,Qwen 2.5 3B Instruct,few-shot,false,bawang goreng,fried garlic,,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,nipis timun yang dah dicuci,cucy cucumber that has been rinsed,sudu setengah,half cup
+864,48,Qwen 2.5 3B Instruct,structured-output,false,sambal,homemade sambal,,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,kicap manis,sweet soy sauce,,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,telur rebus,boiled eggs,,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,biji tomato,whole tomato,,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,white pepper,white pepper,,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,limau,lemon juice,,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,daun bawang,onion leaves,,
+864,48,Qwen 2.5 3B Instruct,structured-output,false,bawang goreng,fried onions,,
+865,49,Qwen 2.5 3B Instruct,few-shot,false,timun,cucumber,,piece
+865,49,Qwen 2.5 3B Instruct,few-shot,false,kicap masin,soy sauce,,tablespoon
+865,49,Qwen 2.5 3B Instruct,few-shot,false,bawang putih,shallot,sudu kecil,tablespoon
+865,49,Qwen 2.5 3B Instruct,few-shot,false,gula,sugar,,pinch
+865,49,Qwen 2.5 3B Instruct,few-shot,false,oil,sesame oil,,tablespoon
+865,49,Qwen 2.5 3B Instruct,few-shot,false,lemon juice,lemon juice,,tablespoon
+865,49,Qwen 2.5 3B Instruct,few-shot,false,daun bawang,spring onion,,piece
+865,49,Qwen 2.5 3B Instruct,few-shot,false,oil,chili oil,,tablespoon
+865,49,Qwen 2.5 3B Instruct,few-shot,false,kedah,sesame seeds,,pinch
+865,49,Qwen 2.5 3B Instruct,few-shot,false,MSG,monosodium glutamate,,pinch
+866,18,MedGemma 4B,zero-shot,false,daging syabu-syabu,shabu-shabu meat,,grams
+866,18,MedGemma 4B,zero-shot,false,bayam,spinach,,grams
+866,18,MedGemma 4B,zero-shot,false,carrot,carrots,,grams
+866,18,MedGemma 4B,zero-shot,false,capsicum,bell peppers,,grams
+866,18,MedGemma 4B,zero-shot,false,mushroom,mushrooms,,grams
+866,18,MedGemma 4B,zero-shot,false,bawang holland,shallots,,grams
+866,18,MedGemma 4B,zero-shot,false,jepun (instant),instant japchae,,packet
+866,18,MedGemma 4B,zero-shot,false,butter,butter,,grams
+866,18,MedGemma 4B,zero-shot,false,tiram,soy sauce,,packet
+866,18,MedGemma 4B,zero-shot,false,minyak bijan,sesame oil,,packet
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,timun,cucumber,,piece
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,kicap masin,soy sauce,tepsil (small),tablespoon
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang putih,shallot,,piece
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,gula,sugar,,tepsil (small)
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,oil,sesame oil,,tepsil (small)
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,ikan,fish (optional),,serving
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,ikan salmon,salmon (optional),,serving
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,bawang daun,lemon (optional),,tepsil (small)
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,bumbu cabai,chili oil,,tablespoon(s)
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,kedengkalan,sesame seeds,,tablespoon(s)
+867,49,Qwen 2.5 3B Instruct,chain-of-thought,false,MSG,monosodium glutamate (MSG),,tablespoon(s)
+868,18,MedGemma 4B,few-shot,false,daging syabu-syabu,beef sirloin,gram,grams
+868,18,MedGemma 4B,few-shot,false,glass noodle,glass noodles (dangmyeon),gram,grams
+868,18,MedGemma 4B,few-shot,false,sayur,"vegetables (carrot, capsicum, mushroom, onion)",banci,handful
+868,18,MedGemma 4B,few-shot,false,butter,butter,suap,tablespoon
+868,18,MedGemma 4B,few-shot,false,sos tiram,soy sauce,suap,tablespoon
+868,18,MedGemma 4B,few-shot,false,minyak bijan,sesame oil,suap,tablespoon
+869,49,Qwen 2.5 3B Instruct,structured-output,false,timun,cucumber,,
+869,49,Qwen 2.5 3B Instruct,structured-output,false,kicap masin,soy sauce,,tablespoons
+869,49,Qwen 2.5 3B Instruct,structured-output,false,bawang putih,shallot,,small pieces
+869,49,Qwen 2.5 3B Instruct,structured-output,false,gula,sugar,,pinch
+869,49,Qwen 2.5 3B Instruct,structured-output,false,minyak wijen,sesame oil,,tablespoon
+869,49,Qwen 2.5 3B Instruct,structured-output,false,air jeruk,lemon juice,,tablespoon
+869,49,Qwen 2.5 3B Instruct,structured-output,false,daun bawang,leaves of lemongrass,,pieces
+869,49,Qwen 2.5 3B Instruct,structured-output,false,minyak wijen,chili oil,,tablespoon
+869,49,Qwen 2.5 3B Instruct,structured-output,false,semen,sesame seeds,,tablespoon
+869,49,Qwen 2.5 3B Instruct,structured-output,false,MSG,monosodium glutamate,,pinch
+879,20,MedGemma 4B,zero-shot,false,ais,Ice,,cup
+879,20,MedGemma 4B,zero-shot,false,suju cair,Soju (liquor),,can
+879,20,MedGemma 4B,zero-shot,false,air cincau,Cincau Tea (cincau juice),,cup
+879,20,MedGemma 4B,zero-shot,false,cincau yang dah potong dadu,Cincau (cut into cubes),,cup
+879,20,MedGemma 4B,zero-shot,false,buan naga,Dragon Fruit,,cup
+879,20,MedGemma 4B,zero-shot,false,laici bulat-bulat,Tapioca Pearls (small balls),,cup
+879,20,MedGemma 4B,zero-shot,false,sagu yang gebu,Sticky Rice (soft and glutinous),,cup
+879,20,MedGemma 4B,zero-shot,false,susu pekat,Thickened Milk (coconut milk),,cup
+880,20,MedGemma 4B,few-shot,false,ais,ice,tin,can
+880,20,MedGemma 4B,few-shot,false,suju,"soda (e.g., Sprite, Coca-Cola)",,
+880,20,MedGemma 4B,few-shot,false,cincau,Butterfly Pea Flower Tea (Bubur Halus),,
+880,20,MedGemma 4B,few-shot,false,buan naga,Dragon Fruit,,
+880,20,MedGemma 4B,few-shot,false,sagu,Sago,,
+880,20,MedGemma 4B,few-shot,false,susu pekat,Coconut Milk (Full Cream),,
+881,20,MedGemma 4B,chain-of-thought,false,ais,ice,,cup
+881,20,MedGemma 4B,chain-of-thought,false,saju cair,susu pekat,tin,can
+881,20,MedGemma 4B,chain-of-thought,false,cincau,cincalu,,cup
+881,20,MedGemma 4B,chain-of-thought,false,laici,pearl barley,,cup
+881,20,MedGemma 4B,chain-of-thought,false,sagu,sago,,cup
+882,20,MedGemma 4B,structured-output,false,ais,Ice,tin,can
+882,20,MedGemma 4B,structured-output,false,suju cair,Soju (or other clear alcoholic beverage),,
+882,20,MedGemma 4B,structured-output,false,air cincau,Cincau (or other clear drink),,
+882,20,MedGemma 4B,structured-output,false,cincau yang dah potong dadu,Cincau (cut into cubes),,
+882,20,MedGemma 4B,structured-output,false,buan naga,Dragon fruit,,
+882,20,MedGemma 4B,structured-output,false,laici bulat-bulat,Lychee,,
+882,20,MedGemma 4B,structured-output,false,sagu,Sago,,
+882,20,MedGemma 4B,structured-output,false,susu pekat,Coconut milk (full-fat),,
+886,21,MedGemma 4B,structured-output,false,minyak,oil,sudu teh,teaspoon
+886,21,MedGemma 4B,structured-output,false,beef,beef,gram,g
+886,21,MedGemma 4B,structured-output,false,mie sedap mie goreng perisa asli,Mie Goreng Noodles (Original Flavor),paket,pack
+886,21,MedGemma 4B,structured-output,false,telur kuning,egg yolk,butir,eggs
+886,21,MedGemma 4B,structured-output,false,mayo,Mayonnaise,sudu makan,tablespoon
+886,21,MedGemma 4B,structured-output,false,bawang putih,garlic,cincin,cloves
+886,21,MedGemma 4B,structured-output,false,bawang merah,red onion,cincin,cloves
+886,21,MedGemma 4B,structured-output,false,daun bawang,scallions,cincin,cloves
+886,21,MedGemma 4B,structured-output,false,bawang goreng,fried onions,sudu makan,tablespoon
+886,21,MedGemma 4B,structured-output,false,chili oil,Chili Oil,sudu makan,tablespoon
+895,24,MedGemma 4B,zero-shot,false,ayam kepak,chicken leg,,piece
+895,24,MedGemma 4B,zero-shot,false,rempah ayam madu,madu chicken sauce,sudu,tablespoon
+895,24,MedGemma 4B,zero-shot,false,air,water,,tablespoon
+895,24,MedGemma 4B,zero-shot,false,chilli pepper,Chili Pepper,,teaspoon
+896,24,MedGemma 4B,few-shot,false,ayam,chicken,ekor,piece
+896,24,MedGemma 4B,few-shot,false,rempah ayam madu,madu sauce,sudu,tablespoon
+896,24,MedGemma 4B,few-shot,false,air,water,cawan,cup
+896,24,MedGemma 4B,few-shot,false,garam,salt,sedikit,pinch
+896,24,MedGemma 4B,few-shot,false,chilli pepper,Chili Pepper,sedikit,pinch
+897,24,MedGemma 4B,chain-of-thought,false,ayam kepak,Chicken Wing,,Piece(s)
+897,24,MedGemma 4B,chain-of-thought,false,remah ayam madu Emasauce,Ayam Madu Emulsion Sauce,sudu,Spoon(s)
+897,24,MedGemma 4B,chain-of-thought,false,air,Water,,Cup(s)
+897,24,MedGemma 4B,chain-of-thought,false,chilli pepper,Chili Pepper,,Teaspoon(s)
+898,24,MedGemma 4B,structured-output,false,ayam kepak,Chicken Thighs,,
+898,24,MedGemma 4B,structured-output,false,rempah ayam madu,Ayam Madu Sauce,,
+898,24,MedGemma 4B,structured-output,false,air,Water,sudu,tablespoons
+898,24,MedGemma 4B,structured-output,false,chilli pepper,Chili Pepper,,
+898,24,MedGemma 4B,structured-output,false,madu,Honey,,
+899,25,MedGemma 4B,zero-shot,false,pisang lenyek-lenyek,Ripe bananas,,
+899,25,MedGemma 4B,zero-shot,false,cocoa powder,Cocoa Powder,,tablespoon
+899,25,MedGemma 4B,zero-shot,false,Quaker rolled oats,Rolled Oats,,cup
+899,25,MedGemma 4B,zero-shot,false,fresh milk,Fresh Milk,,cup
+899,25,MedGemma 4B,zero-shot,false,melted butter,Melted Butter,,tablespoon
+899,25,MedGemma 4B,zero-shot,false,dark chocolate chips,Dark Chocolate Chips,,tablespoon
+899,25,MedGemma 4B,zero-shot,false,baking powder,Baking Powder,,teaspoon
+899,25,MedGemma 4B,zero-shot,false,peanut butter,Peanut Butter,,tablespoon
+900,25,MedGemma 4B,few-shot,false,pisang,banana,biji,pieces
+900,25,MedGemma 4B,few-shot,false,cocoa powder,cocoa powder,sudu,tablespoon
+900,25,MedGemma 4B,few-shot,false,Quaker rolled oats,rolled oats,cawan,cup
+900,25,MedGemma 4B,few-shot,false,fresh milk,milk,cawan,cup
+900,25,MedGemma 4B,few-shot,false,melted butter,butter,sudu,tablespoon
+900,25,MedGemma 4B,few-shot,false,dark chocolate chips,chocolate chips,sudut kecil,small corner
+900,25,MedGemma 4B,few-shot,false,baking powder,baking powder,sudut kecil,small corner
+900,25,MedGemma 4B,few-shot,false,peanut butter,peanut butter,sudut kecil,small corner
+901,25,MedGemma 4B,chain-of-thought,false,pisang,Banana,,
+901,25,MedGemma 4B,chain-of-thought,false,cocoa powder,Cocoa Powder,,
+901,25,MedGemma 4B,chain-of-thought,false,rolled oats,Rolled Oats,,
+901,25,MedGemma 4B,chain-of-thought,false,fresh milk,Fresh Milk,,
+901,25,MedGemma 4B,chain-of-thought,false,melted butter,Melted Butter,,
+901,25,MedGemma 4B,chain-of-thought,false,dark chocolate chips,Dark Chocolate Chips,,
+901,25,MedGemma 4B,chain-of-thought,false,baking powder,Baking Powder,,
+901,25,MedGemma 4B,chain-of-thought,false,peanut butter,Peanut Butter,,
+902,25,MedGemma 4B,structured-output,false,pisang,Banana,biji,pieces
+902,25,MedGemma 4B,structured-output,false,cocoa powder,Cocoa Powder,suwak,tablespoon
+902,25,MedGemma 4B,structured-output,false,Quaker rolled oats,Rolled Oats,cawan,cup
+902,25,MedGemma 4B,structured-output,false,manis-manis creamy from peanut butter,Peanut Butter,cawan,cup
+902,25,MedGemma 4B,structured-output,false,fresh milk,Milk,cawan,cup
+902,25,MedGemma 4B,structured-output,false,melted butter,Butter,sendok teh,tablespoon
+902,25,MedGemma 4B,structured-output,false,dark chocolate chips,Dark Chocolate Chips,sudut kecil,small corner
+902,25,MedGemma 4B,structured-output,false,baking powder,Baking Powder,sendok teh,tablespoon
+902,25,MedGemma 4B,structured-output,false,peanut butter,Peanut Butter,cawan,cup
+902,25,MedGemma 4B,structured-output,false,chocolate chips,Chocolate Chips,sudut kecil,small corner
+903,26,MedGemma 4B,zero-shot,false,daun bawang,scallions/green onions,,
+903,26,MedGemma 4B,zero-shot,false,bawang putih,garlic,,
+903,26,MedGemma 4B,zero-shot,false,minyak panas,hot oil,,
+903,26,MedGemma 4B,zero-shot,false,Chili Oil,Chili Oil,,
+903,26,MedGemma 4B,zero-shot,false,kicap masin,soy sauce (salty),,
+903,26,MedGemma 4B,zero-shot,false,kicap manis,sweet soy sauce,,
+903,26,MedGemma 4B,zero-shot,false,gula,sugar,,
+903,26,MedGemma 4B,zero-shot,false,minyak bijan,sesame oil,,
+903,26,MedGemma 4B,zero-shot,false,chilli flakes,chili flakes,,
+903,26,MedGemma 4B,zero-shot,false,air,water,,
+904,26,MedGemma 4B,few-shot,false,minyak,oil,sudu,tablespoon
+904,26,MedGemma 4B,few-shot,false,bawang putih,garlic,sudu makan,tablespoon
+904,26,MedGemma 4B,few-shot,false,daun bawang,green onion,sudu makan,tablespoon
+905,26,MedGemma 4B,chain-of-thought,false,daun bawang,Green Onions (Scallions),sudu,tablespoon
+905,26,MedGemma 4B,chain-of-thought,false,bawang putih,Garlic,cincang,minced
+905,26,MedGemma 4B,chain-of-thought,false,minyak panas,Hot Oil,,
+905,26,MedGemma 4B,chain-of-thought,false,Samidah chilli oil,Samidah Chilli Oil,sudu,tablespoon
+905,26,MedGemma 4B,chain-of-thought,false,kicap masin,Soy Sauce (Salt),sudu,tablespoon
+905,26,MedGemma 4B,chain-of-thought,false,kicap manis,Soy Sauce (Sweet),sudu,tablespoon
+905,26,MedGemma 4B,chain-of-thought,false,gula,Sugar,sudu,tablespoon
+905,26,MedGemma 4B,chain-of-thought,false,minyak bijan,Sesame Oil,sudu,tablespoon
+905,26,MedGemma 4B,chain-of-thought,false,chilli flakes,Chili Flakes,sudu,tablespoon
+905,26,MedGemma 4B,chain-of-thought,false,air,Water,,
+906,26,MedGemma 4B,structured-output,false,daun bawang,Scallions,biji,stalks
+906,26,MedGemma 4B,structured-output,false,bawang putih,Garlic,ketulang,cloves
+906,26,MedGemma 4B,structured-output,false,minyak panas,Hot Oil,sudu,tablespoon
+906,26,MedGemma 4B,structured-output,false,chilli oil,Chili Oil,sudu,tablespoon
+906,26,MedGemma 4B,structured-output,false,kicap masin,Salted Soy Sauce,sudu,tablespoon
+906,26,MedGemma 4B,structured-output,false,kicap manis,Sweet Soy Sauce,sudu,tablespoon
+906,26,MedGemma 4B,structured-output,false,gula,Sugar,sudu,tablespoon
+906,26,MedGemma 4B,structured-output,false,minyak bijan,Sesame Oil,sudu,tablespoon
+906,26,MedGemma 4B,structured-output,false,chilli flakes,Chili Flakes,sudu,tablespoon
+906,26,MedGemma 4B,structured-output,false,air,Water,sudu,tablespoon
+911,28,MedGemma 4B,zero-shot,false,strawberry,strawberry,g,g
+911,28,MedGemma 4B,zero-shot,false,gula,sugar,sudu,sudu
+911,28,MedGemma 4B,zero-shot,false,matcha,Matcha Powder,,
+911,28,MedGemma 4B,zero-shot,false,air,Water,,ml
+911,28,MedGemma 4B,zero-shot,false,oat milk,Oat Milk,,ml
+912,28,MedGemma 4B,few-shot,false,strawberry,strawberry,g,grams
+912,28,MedGemma 4B,few-shot,false,gula,sugar,sudu,tablespoon
+912,28,MedGemma 4B,few-shot,false,matcha,matcha powder,sudu,tablespoon
+912,28,MedGemma 4B,few-shot,false,oat milk,Oat Milk (or any milk),gelas,cup
+913,28,MedGemma 4B,chain-of-thought,false,strawberry,Strawberry,g,grams
+913,28,MedGemma 4B,chain-of-thought,false,gula,Sugar,sudu,Spoons
+913,28,MedGemma 4B,chain-of-thought,false,matcha,Matcha Powder,,
+913,28,MedGemma 4B,chain-of-thought,false,air,Water,,
+913,28,MedGemma 4B,chain-of-thought,false,whisk,Whisk,,
+913,28,MedGemma 4B,chain-of-thought,false,gelas,Glass,,
+913,28,MedGemma 4B,chain-of-thought,false,strawberry puree,Strawberry Puree,,
+913,28,MedGemma 4B,chain-of-thought,false,oat milk,Oat Milk,,
+914,28,MedGemma 4B,structured-output,false,strawberry,Strawberry,g,g
+914,28,MedGemma 4B,structured-output,false,gula,Sugar,sudu,Spoons
+914,28,MedGemma 4B,structured-output,false,matcha,Matcha Powder,sudu,Spoon
+914,28,MedGemma 4B,structured-output,false,oat milk,Oat Milk,,cup
+915,29,MedGemma 4B,zero-shot,false,ramekin,ramekin,,
+915,29,MedGemma 4B,zero-shot,false,tepung serba guna,all-purpose flour,,
+915,29,MedGemma 4B,zero-shot,false,butter,butter,,
+915,29,MedGemma 4B,zero-shot,false,dark choclate,dark chocolate,,
+915,29,MedGemma 4B,zero-shot,false,butter,butter,,
+915,29,MedGemma 4B,zero-shot,false,tepung serba guna,all-purpose flour,,
+915,29,MedGemma 4B,zero-shot,false,telur,eggs,,
+915,29,MedGemma 4B,zero-shot,false,gula,sugar,,
+915,29,MedGemma 4B,zero-shot,false,garam,salt,,
+915,29,MedGemma 4B,zero-shot,false,choclate,chocolate,,
+915,29,MedGemma 4B,zero-shot,false,tepung serba guna,all-purpose flour,,
+915,29,MedGemma 4B,zero-shot,false,kacau-kacau,flour,,
+916,29,MedGemma 4B,few-shot,false,ramekin,ramekin,,
+916,29,MedGemma 4B,few-shot,false,butter,butter,sudu,tablespoon
+916,29,MedGemma 4B,few-shot,false,tepung serba guna,all-purpose flour,sudu,tablespoon
+916,29,MedGemma 4B,few-shot,false,dark choclate,dark chocolate,,
+916,29,MedGemma 4B,few-shot,false,butter,butter,sudu,tablespoon
+916,29,MedGemma 4B,few-shot,false,telur,egg,biji,pieces
+916,29,MedGemma 4B,few-shot,false,gula,sugar,,
+916,29,MedGemma 4B,few-shot,false,garam,salt,,
+917,29,MedGemma 4B,chain-of-thought,false,ramekin,Ramekin,,
+917,29,MedGemma 4B,chain-of-thought,false,tapiok flour,Tepung Serba Guna,teaspoon,Teaspoon
+917,29,MedGemma 4B,chain-of-thought,false,dark chocolate,Dark Chocolate,,
+917,29,MedGemma 4B,chain-of-thought,false,butter,Butter,,
+917,29,MedGemma 4B,chain-of-thought,false,eggs,Eggs,,
+917,29,MedGemma 4B,chain-of-thought,false,sugar,Sugar,,
+917,29,MedGemma 4B,chain-of-thought,false,salt,Salt,,
+918,29,MedGemma 4B,structured-output,false,butter,Butter,tbsp,tablespoons
+918,29,MedGemma 4B,structured-output,false,tepung serba guna,All-Purpose Flour,cup,cup
+918,29,MedGemma 4B,structured-output,false,dark choclate,Dark Chocolate,bar,bar
+918,29,MedGemma 4B,structured-output,false,telur,Eggs,piece,each
+918,29,MedGemma 4B,structured-output,false,gula,Sugar,cup,cup
+918,29,MedGemma 4B,structured-output,false,garam,Salt,teaspoon,teaspoon
+919,30,MedGemma 4B,zero-shot,false,strawberry,Strawberry,cincak,cup
+919,30,MedGemma 4B,zero-shot,false,fresh cream,Fresh Cream,cincak,cup
+919,30,MedGemma 4B,zero-shot,false,whip,Whipped Cream,cincak,cup
+919,30,MedGemma 4B,zero-shot,false,roti,Bread,keping,slice
+919,30,MedGemma 4B,zero-shot,false,gula,Sugar,cincak,teaspoon
+920,30,MedGemma 4B,few-shot,false,strawberry,strawberry,biji,pieces
+920,30,MedGemma 4B,few-shot,false,krim segar,fresh cream,biji,cups
+920,30,MedGemma 4B,few-shot,false,gula,sugar,suis,teaspoons
+920,30,MedGemma 4B,few-shot,false,roti,bread,potong,slices
+921,30,MedGemma 4B,chain-of-thought,false,strawberry,Strawberry,gram,gram
+921,30,MedGemma 4B,chain-of-thought,false,fresh cream,Fresh Cream,gram,gram
+921,30,MedGemma 4B,chain-of-thought,false,gula,Sugar,tablespoon,tablespoon
+921,30,MedGemma 4B,chain-of-thought,false,whip sahaja,Whipped Cream,gram,gram
+921,30,MedGemma 4B,chain-of-thought,false,roti,Bread,slice,slice
+922,30,MedGemma 4B,structured-output,false,strawberry,Strawberry,gram,grams
+922,30,MedGemma 4B,structured-output,false,fresh cream,Fresh Cream,gram,grams
+922,30,MedGemma 4B,structured-output,false,sugar,Sugar,teaspoon,teaspoons
+922,30,MedGemma 4B,structured-output,false,roti,Bread,slice,slices
+924,31,MedGemma 4B,few-shot,false,fries,frozen fries,pinggan,serving
+924,31,MedGemma 4B,few-shot,false,bawang holland,onion,besar,large
+924,31,MedGemma 4B,few-shot,false,pickle,pickles,besar,large
+924,31,MedGemma 4B,few-shot,false,mayo,mayonnaise,sudu,tablespoon
+924,31,MedGemma 4B,few-shot,false,minced beef,ground beef,gram,grams
+924,31,MedGemma 4B,few-shot,false,tomato pes,tomato sauce,gram,grams
+924,31,MedGemma 4B,few-shot,false,garlic powder,garlic powder,sudu,tablespoon
+924,31,MedGemma 4B,few-shot,false,dry oregano,dried oregano,sudu,tablespoon
+924,31,MedGemma 4B,few-shot,false,chilli padi,chili pepper,sudu,tablespoon
+928,32,MedGemma 4B,few-shot,false,minyak,cooking oil,sudut,tablespoon
+928,32,MedGemma 4B,few-shot,false,chilli pepper,chili pepper,sebijinya,one
+928,32,MedGemma 4B,few-shot,false,daun salam,daun salam,suhok,sprig
+928,32,MedGemma 4B,few-shot,false,bawang besar,onion,suhok,sprig
+928,32,MedGemma 4B,few-shot,false,halia,garlic,suhok,sprig
+928,32,MedGemma 4B,few-shot,false,chilli flakes,chili flakes,suhok,sprig
+928,32,MedGemma 4B,few-shot,false,bawang putih,garlic,suhok,sprig
+928,32,MedGemma 4B,few-shot,false,Ajinomoto,Ajinomoto (MSG),sudut,tablespoon
+928,32,MedGemma 4B,few-shot,false,gula,sugar,suhok,sprig
+931,33,MedGemma 4B,zero-shot,false,biskut julie's cheese cracker,Julie's Cheese Cracker,,
+931,33,MedGemma 4B,zero-shot,false,madu,honey,,tablespoon
+931,33,MedGemma 4B,zero-shot,false,hazelnut spread,hazelnuts spread,,tablespoon
+931,33,MedGemma 4B,zero-shot,false,pisang,banana,,
+932,33,MedGemma 4B,few-shot,false,julie's cheese cracker,Julie's Cheese Cracker,gram,grams
+932,33,MedGemma 4B,few-shot,false,hazelnuts spread,Hazelnut Spread,sendok teh,tablespoon
+932,33,MedGemma 4B,few-shot,false,pisang,banana,,
+932,33,MedGemma 4B,few-shot,false,madu,honey,,
+933,33,MedGemma 4B,chain-of-thought,false,Julie's Cheese Cracker,Cheese Crackers,pack,box
+933,33,MedGemma 4B,chain-of-thought,false,madu,Honey,tablespoon,tbsp
+933,33,MedGemma 4B,chain-of-thought,false,hazelnut spread,Hazelnut Spread,tablespoon,tbsp
+933,33,MedGemma 4B,chain-of-thought,false,pisang,Banana,piece,banana
+934,33,MedGemma 4B,structured-output,false,biskut,cheese cracker,,pieces
+934,33,MedGemma 4B,structured-output,false,madu,honey,,tablespoon
+934,33,MedGemma 4B,structured-output,false,hazelnut spread,hazelnut spread,,tablespoon
+934,33,MedGemma 4B,structured-output,false,pisang,banana,,piece
+939,35,MedGemma 4B,zero-shot,false,ayam nibbles,Chicken Nuggets,,
+939,35,MedGemma 4B,zero-shot,false,tepung pedas bonechef,Spicy BoneChef Flour,,
+939,35,MedGemma 4B,zero-shot,false,kewpi mayo,Kewpie Mayo,,
+939,35,MedGemma 4B,zero-shot,false,yogurt,Yogurt,,
+939,35,MedGemma 4B,zero-shot,false,tomato sauce,Tomato Sauce,,
+939,35,MedGemma 4B,zero-shot,false,pepper,Pepper,,
+939,35,MedGemma 4B,zero-shot,false,garlic powder,Garlic Powder,,
+939,35,MedGemma 4B,zero-shot,false,Worcestershire sauce,Worcestershire Sauce,,
+941,35,MedGemma 4B,chain-of-thought,false,ayam nibbles,Chicken Nibbles,,Pieces
+941,35,MedGemma 4B,chain-of-thought,false,tepung pedas bonechef,Pedas Bone Chef Flour,cup,Cups
+941,35,MedGemma 4B,chain-of-thought,false,air sejuk,Cold Water,,Cup
+941,35,MedGemma 4B,chain-of-thought,false,kewpi mayo,Kewpie Mayo,,Cup
+941,35,MedGemma 4B,chain-of-thought,false,yogurt,Yogurt,,Cup
+941,35,MedGemma 4B,chain-of-thought,false,tomato sauce,Tomato Sauce,,Cup
+941,35,MedGemma 4B,chain-of-thought,false,pepper,Pepper,,Teaspoon
+941,35,MedGemma 4B,chain-of-thought,false,garlic powder,Garlic Powder,,Teaspoon
+941,35,MedGemma 4B,chain-of-thought,false,Worcestershire sauce,Worcestershire Sauce,,Teaspoon
+942,35,MedGemma 4B,structured-output,false,ayam,chicken,,whole chicken
+942,35,MedGemma 4B,structured-output,false,tepung pedas bonechef,bonechef spicy flour,,cup
+942,35,MedGemma 4B,structured-output,false,kewpi mayo,kewpie mayonnaise,,cup
+942,35,MedGemma 4B,structured-output,false,yogurt,yogurt,,cup
+942,35,MedGemma 4B,structured-output,false,tomato sauce,tomato sauce,,cup
+942,35,MedGemma 4B,structured-output,false,pepper,pepper,,pinch
+942,35,MedGemma 4B,structured-output,false,garlic powder,garlic powder,,teaspoon
+942,35,MedGemma 4B,structured-output,false,Worcestershire sauce,Worcestershire sauce,,teaspoon
+952,38,MedGemma 4B,few-shot,false,bawang holland,onion,biji,pieces
+952,38,MedGemma 4B,few-shot,false,olive oil,olive oil,sudu,tablespoon
+952,38,MedGemma 4B,few-shot,false,garam,salt,teaspoon,teaspoon
+952,38,MedGemma 4B,few-shot,false,cooking cream,cream,cup,cup
+952,38,MedGemma 4B,few-shot,false,butter,butter,teaspoon,tablespoon
+952,38,MedGemma 4B,few-shot,false,keju parmesan,parmesan cheese,tablespoon,tablespoon
+952,38,MedGemma 4B,few-shot,false,minyak cili,chili oil,tablespoon,tablespoon
+952,38,MedGemma 4B,few-shot,false,spagetti,spaghetti,g,grams
+955,39,MedGemma 4B,zero-shot,false,telur,egg,,
+955,39,MedGemma 4B,zero-shot,false,bawang merah,red onion,,
+955,39,MedGemma 4B,zero-shot,false,bawang putih,garlic,butir,
+955,39,MedGemma 4B,zero-shot,false,cili,chili,,
+955,39,MedGemma 4B,zero-shot,false,ikan bilis,dried anchovies,,
+955,39,MedGemma 4B,zero-shot,false,nasi,rice,,
+955,39,MedGemma 4B,zero-shot,false,air,water,,
+955,39,MedGemma 4B,zero-shot,false,cube ayam,chicken cube,,
+955,39,MedGemma 4B,zero-shot,false,cube ikan bilis,dried anchovies cube,,
+955,39,MedGemma 4B,zero-shot,false,garam,salt,,
+956,39,MedGemma 4B,few-shot,false,telur,egg,biji,pieces
+956,39,MedGemma 4B,few-shot,false,bawang besar,onion,bhindi,medium onion
+956,39,MedGemma 4B,few-shot,false,bawang putih,garlic,ketilam,cloves
+956,39,MedGemma 4B,few-shot,false,cili,chili pepper,suhok,piece
+956,39,MedGemma 4B,few-shot,false,ikan bilis,dried anchovies,biji,tablespoon
+956,39,MedGemma 4B,few-shot,false,minyak,cooking oil,sudu,tablespoon
+956,39,MedGemma 4B,few-shot,false,cube ayam/ikan bilis,chicken cube/fish cube,cube,cube
+956,39,MedGemma 4B,few-shot,false,nasi semalam,leftover rice,cawan,cup
+957,39,MedGemma 4B,chain-of-thought,false,telur,egg,,
+957,39,MedGemma 4B,chain-of-thought,false,bawang besar,large onion,,
+957,39,MedGemma 4B,chain-of-thought,false,bawang putih,garlic,cincang halus,minced
+957,39,MedGemma 4B,chain-of-thought,false,cili,chili pepper,,
+957,39,MedGemma 4B,chain-of-thought,false,ikan bilis,dried anchovies,,
+957,39,MedGemma 4B,chain-of-thought,false,ayam,chicken cubes,,
+957,39,MedGemma 4B,chain-of-thought,false,nasi,rice,,
+957,39,MedGemma 4B,chain-of-thought,false,garam,salt,,
+959,40,MedGemma 4B,zero-shot,false,dada ayam,chicken breast,,g
+959,40,MedGemma 4B,zero-shot,false,bawang holland,onion,,medium
+959,40,MedGemma 4B,zero-shot,false,bawang putih,garlic,,cloves
+959,40,MedGemma 4B,zero-shot,false,chilli flakes,chili flakes,,teaspoon
+959,40,MedGemma 4B,zero-shot,false,tomato,tomato,,medium
+959,40,MedGemma 4B,zero-shot,false,paper,salt,,teaspoon
+959,40,MedGemma 4B,zero-shot,false,oregano,oregano,,teaspoon
+959,40,MedGemma 4B,zero-shot,false,parmesan cheese,parmesan cheese,,tablespoon
+959,40,MedGemma 4B,zero-shot,false,baguette,baguette,,pieces
+959,40,MedGemma 4B,zero-shot,false,panko bread crumbs,panko bread crumbs,,cup
+982,46,MedGemma 4B,few-shot,false,ayam paha,chicken thigh,,
+982,46,MedGemma 4B,few-shot,false,serbuk cajun,cajun seasoning,,
+982,46,MedGemma 4B,few-shot,false,bawang putih,garlic powder,,
+982,46,MedGemma 4B,few-shot,false,paprika,paprika,,
+982,46,MedGemma 4B,few-shot,false,minyak zaitun,olive oil,,
+982,46,MedGemma 4B,few-shot,false,bawang holland,onion,,
+982,46,MedGemma 4B,few-shot,false,cooking cream,cooking cream,,
+982,46,MedGemma 4B,few-shot,false,butter,Butter,,
+988,48,MedGemma 4B,zero-shot,false,timun,cucumber,,pc
+988,48,MedGemma 4B,zero-shot,false,sambal,chili paste/sambal,sudu,tablespoons
+988,48,MedGemma 4B,zero-shot,false,kicap manis,sweet soy sauce/kecap manis,,tablespoon
+988,48,MedGemma 4B,zero-shot,false,telur rebus,boiled egg,,egg
+988,48,MedGemma 4B,zero-shot,false,tomato,tomato,,pc
+988,48,MedGemma 4B,zero-shot,false,daun bawang,scallions/spring onions,,stalks
+988,48,MedGemma 4B,zero-shot,false,bawang goreng,fried shallots,,tablespoon
+992,48,MedGemma 4B,chain-of-thought,false,timun,cucumber,,pc
+992,48,MedGemma 4B,chain-of-thought,false,sambal,chili paste,sudu,tablespoons
+992,48,MedGemma 4B,chain-of-thought,false,kicap manis,sweet soy sauce,,tablespoon
+992,48,MedGemma 4B,chain-of-thought,false,telur rebus,boiled egg,,pc
+992,48,MedGemma 4B,chain-of-thought,false,tomato,tomato,,pc
+992,48,MedGemma 4B,chain-of-thought,false,daun bawang,scallions,,stalk
+992,48,MedGemma 4B,chain-of-thought,false,bawang goreng,fried shallots,,tablespoon
+992,48,MedGemma 4B,chain-of-thought,false,lemon juice,lemon juice,,tablespoon
+994,48,MedGemma 4B,structured-output,false,timun,Cucumber,sudu,tablespoons
+994,48,MedGemma 4B,structured-output,false,sambal,Sambal (Chili Paste),sudu setengah,tablespoons
+994,48,MedGemma 4B,structured-output,false,kicap manis,Sweet Soy Sauce (Kecap Manis),sudu,tablespoons
+994,48,MedGemma 4B,structured-output,false,telur rebus,Boiled Egg,bijih,whole
+994,48,MedGemma 4B,structured-output,false,tomato,Tomato (Tomato),bijih,whole
+994,48,MedGemma 4B,structured-output,false,daun bawang,Scallions (Green Onions),pucuk,stalks
+994,48,MedGemma 4B,structured-output,false,bawang goreng,Fried Shallots (Crispy Onions),sendok makan,tablespoons
+994,48,MedGemma 4B,structured-output,false,lemon juice,Lemon Juice,sudu,tablespoons
+994,48,MedGemma 4B,structured-output,false,white pepper,White Pepper,sendok teh,teaspoons
+995,49,MedGemma 4B,zero-shot,false,timun,Cucumber,,piece
+995,49,MedGemma 4B,zero-shot,false,kicap masin,Soy Sauce,teaspoon,teaspoon
+995,49,MedGemma 4B,zero-shot,false,bawang putih,Garlic,teaspoon,teaspoon
+995,49,MedGemma 4B,zero-shot,false,gula,Sugar,,pinch
+995,49,MedGemma 4B,zero-shot,false,sesame oil,Sesame Oil,,teaspoon
+995,49,MedGemma 4B,zero-shot,false,lemon juice,Lemon Juice,,teaspoon
+995,49,MedGemma 4B,zero-shot,false,daun bawang,Scallions (Green Onions),,stalk
+995,49,MedGemma 4B,zero-shot,false,chili oil,Chili Oil,,teaspoon
+995,49,MedGemma 4B,zero-shot,false,sesame seed,Sesame Seeds,,teaspoon
+995,49,MedGemma 4B,zero-shot,false,msg,MSG (Monosodium Glutamate),,pinch
+996,49,MedGemma 4B,few-shot,false,timun,cucumber,ni,piece
+996,49,MedGemma 4B,few-shot,false,kicap masin,soy sauce,sudu kecil,teaspoon
+996,49,MedGemma 4B,few-shot,false,bawang putih,garlic,suis kecil,cloves
+996,49,MedGemma 4B,few-shot,false,gula,sugar,sikit,pinch
+996,49,MedGemma 4B,few-shot,false,sesame oil,sesame oil,sudu kecil,teaspoon
+996,49,MedGemma 4B,few-shot,false,lemon juice,lemon juice,sudu kecil,teaspoon
+996,49,MedGemma 4B,few-shot,false,daun bawang,scallions,satu,bunch
+996,49,MedGemma 4B,few-shot,false,chili oil,chili oil,sudu kecil,teaspoon
+996,49,MedGemma 4B,few-shot,false,sesame seed,sesame seeds,sudu kecil,teaspoon
+996,49,MedGemma 4B,few-shot,false,msg,MSG (Monosodium Glutamate),sikit,pinch
+997,49,MedGemma 4B,chain-of-thought,false,timun,cucumber,ni,piece
+997,49,MedGemma 4B,chain-of-thought,false,kicap masin,soy sauce,sudu kecil,tablespoon
+997,49,MedGemma 4B,chain-of-thought,false,bawang putih,garlic,sudu kecil,tablespoon
+997,49,MedGemma 4B,chain-of-thought,false,gula,sugar,sikit,pinch
+997,49,MedGemma 4B,chain-of-thought,false,sesame oil,sesame oil,sudu kecil,tablespoon
+997,49,MedGemma 4B,chain-of-thought,false,lemon juice,lemon juice,,
+997,49,MedGemma 4B,chain-of-thought,false,daun bawang,green onion,,
+997,49,MedGemma 4B,chain-of-thought,false,chili oil,chili oil,sudu kecil,tablespoon
+997,49,MedGemma 4B,chain-of-thought,false,sesame seed,sesame seeds,,
+997,49,MedGemma 4B,chain-of-thought,false,MSG,MSG (Monosodium Glutamate),sikit,pinch
+998,49,MedGemma 4B,structured-output,false,timun,Cucumber,ni,each
+998,49,MedGemma 4B,structured-output,false,bawang putih,Garlic,sudu kecil,teaspoon
+998,49,MedGemma 4B,structured-output,false,kicap masin,Soy Sauce,sudu kecil,teaspoon
+998,49,MedGemma 4B,structured-output,false,gula,Sugar,sikit,pinch
+998,49,MedGemma 4B,structured-output,false,sesame oil,Sesame Oil,sudu makan,tablespoon
+998,49,MedGemma 4B,structured-output,false,lemon juice,Lemon Juice,sudu makan,tablespoon
+998,49,MedGemma 4B,structured-output,false,daun bawang,Scallion/Green Onion,potong je,chopped
+998,49,MedGemma 4B,structured-output,false,chili oil,Chili Oil,sudu makan,tablespoon
+998,49,MedGemma 4B,structured-output,false,sesame seed,Sesame Seed,sudu makan,tablespoon
+998,49,MedGemma 4B,structured-output,false,msg,MSG (Monosodium Glutamate),sikit,pinch
+999,50,MedGemma 4B,zero-shot,false,timun,Cucumber,sudu setengah,half cup
+999,50,MedGemma 4B,zero-shot,false,krim cheese,Cream Cheese,sudu setengah,half cup
+999,50,MedGemma 4B,zero-shot,false,Yogurt,Yogurt,sudu,cup
+999,50,MedGemma 4B,zero-shot,false,bawang merah,Red Onion,biji,onion
+999,50,MedGemma 4B,zero-shot,false,garam,Salt,sikit,pinch
+999,50,MedGemma 4B,zero-shot,false,pepper,Pepper,sikit,pinch
+999,50,MedGemma 4B,zero-shot,false,garlic powder,Garlic Powder,sikit,pinch
+999,50,MedGemma 4B,zero-shot,false,Smoked Salmon,Smoked Salmon,gram,grams
+1000,50,MedGemma 4B,few-shot,false,timun,cucumber,bekas,containers
+1000,50,MedGemma 4B,few-shot,false,krim cheese,cream cheese,sudu,tablespoon
+1000,50,MedGemma 4B,few-shot,false,yogurt,yogurt,sudu,tablespoon
+1000,50,MedGemma 4B,few-shot,false,bawang merah,red onion,biji,onion
+1000,50,MedGemma 4B,few-shot,false,garam,salt,sikit,pinch
+1000,50,MedGemma 4B,few-shot,false,pepper,pepper,sikit,pinch
+1000,50,MedGemma 4B,few-shot,false,garlic powder,garlic powder,sikit,pinch
+1000,50,MedGemma 4B,few-shot,false,smoked salmon,smoked salmon,gram,grams
+1001,50,MedGemma 4B,chain-of-thought,false,timun,Cucumber,,piece
+1001,50,MedGemma 4B,chain-of-thought,false,krim cheese,Cream Cheese,sudu setengah,tablespoon
+1001,50,MedGemma 4B,chain-of-thought,false,Yogurt,Yogurt,,tablespoon
+1001,50,MedGemma 4B,chain-of-thought,false,bawang merah,Red Onion,,piece
+1001,50,MedGemma 4B,chain-of-thought,false,garam,Salt,,pinch
+1001,50,MedGemma 4B,chain-of-thought,false,pepper,Pepper,,pinch
+1001,50,MedGemma 4B,chain-of-thought,false,garlic powder,Garlic Powder,,pinch
+1001,50,MedGemma 4B,chain-of-thought,false,Smoked Salmon,Smoked Salmon,,g
+1001,50,MedGemma 4B,chain-of-thought,false,MSG,MSG,,pinch
+1002,50,MedGemma 4B,structured-output,false,timun,Cucumber,bebek,each
+1002,50,MedGemma 4B,structured-output,false,krim cheese,Cream Cheese,sudu,tablespoons
+1002,50,MedGemma 4B,structured-output,false,Yogurt,Yogurt,sudu,tablespoon
+1002,50,MedGemma 4B,structured-output,false,bawang merah,Red Onion,biji,each
+1002,50,MedGemma 4B,structured-output,false,Smoked Salmon,Smoked Salmon,gram,grams
+1002,50,MedGemma 4B,structured-output,false,garam,Salt,sikit,pinch
+1002,50,MedGemma 4B,structured-output,false,pepper,Pepper,sikit,pinch
+1002,50,MedGemma 4B,structured-output,false,garlic powder,Garlic Powder,sudu,teaspoon
+1002,50,MedGemma 4B,structured-output,false,MSG,MSG,sudu,teaspoon
