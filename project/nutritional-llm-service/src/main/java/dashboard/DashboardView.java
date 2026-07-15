@@ -11,10 +11,8 @@ import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.FXCollections;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
-import java.util.function.Supplier;
+
 import javafx.scene.control.ScrollPane;
-import javafx.scene.control.ScrollPane;
-import javafx.application.Platform;
 import javafx.concurrent.Task;
 import javafx.geometry.Insets;
 import javafx.scene.Parent;
@@ -43,6 +41,25 @@ import javafx.scene.layout.VBox;
  * - Metrics and export functionality
  */
 public class DashboardView {
+
+    // ==================== CONSTANTS ====================
+    private static final String STYLE_PAGE_DESC = "page-desc";
+    private static final String STYLE_SECTION_TITLE = "section-title";
+    private static final String STYLE_PANEL = "panel";
+    
+    private static final String STATUS_COMPLETED = "Completed";
+    private static final String STATUS_COMPLETED_LOWER = "completed";
+    private static final String STATUS_RUNNING = "Running";
+    private static final String STATUS_RUNNING_LOWER = "running";
+    private static final String STATUS_FAILED = "Failed";
+    private static final String STATUS_FAILED_LOWER = "failed";
+    
+    private static final String MSG_UNKNOWN_ERROR = "Unknown error";
+    private static final String MSG_ERROR = "ERROR";
+    private static final String MSG_ERROR_PREFIX = "ERROR: ";
+    
+    private static final String LBL_MODEL = "Model";
+    private static final String LBL_TECHNIQUE = "Technique";
 
     // ==================== UI COMPONENTS ====================
     
@@ -179,7 +196,7 @@ public class DashboardView {
         title.getStyleClass().add("page-title");
 
         Label desc = new Label("Run LLM nutrition experiments for all transcripts using TCP/IP socket communication.");
-        desc.getStyleClass().add("page-desc");
+        desc.getStyleClass().add(STYLE_PAGE_DESC);
 
         // Stat cards in a horizontal layout
         HBox cards = new HBox(8);
@@ -188,9 +205,9 @@ public class DashboardView {
                 createStatCard("01", "Total Reels", "0", "Collected Instagram Reels", "reels"),
                 createStatCard("02", "Transcripts", "0", "Verified transcripts", "transcripts"),
                 createStatCard("03", "Experiments", "0", "Model × technique runs", "experiments"),
-                createStatCard("04", "Completed", "0", "Completed analysis", "completed"),
-                createStatCard("05", "Running", "0", "Currently processing", "running"),
-                createStatCard("06", "Failed", "0", "Failed analysis", "failed")
+                createStatCard("04", STATUS_COMPLETED, "0", "Completed analysis", STATUS_COMPLETED_LOWER),
+                createStatCard("05", STATUS_RUNNING, "0", "Currently processing", STATUS_RUNNING_LOWER),
+                createStatCard("06", STATUS_FAILED, "0", "Failed analysis", STATUS_FAILED_LOWER)
         );
 
         // Middle row: Experiment runner + Live activity
@@ -241,11 +258,11 @@ public class DashboardView {
             totalTranscriptsValue = valueText;
         } else if ("experiments".equals(type)) {
             totalExperimentsValue = valueText;
-        } else if ("completed".equals(type)) {
+        } else if (STATUS_COMPLETED_LOWER.equals(type)) {
             completedValue = valueText;
-        } else if ("running".equals(type)) {
+        } else if (STATUS_RUNNING_LOWER.equals(type)) {
             runningValue = valueText;
-        } else if ("failed".equals(type)) {
+        } else if (STATUS_FAILED_LOWER.equals(type)) {
             failedValue = valueText;
         }
 
@@ -267,10 +284,10 @@ public class DashboardView {
      */
     private VBox createExperimentRunner() {
         Label title = new Label("🧪 Experiment Runner");
-        title.getStyleClass().add("section-title");
+        title.getStyleClass().add(STYLE_SECTION_TITLE);
 
         Label instruction = new Label("Select one model and one or more prompt techniques.");
-        instruction.getStyleClass().add("page-desc");
+        instruction.getStyleClass().add(STYLE_PAGE_DESC);
 
         // Model selection dropdown
         ComboBox<String> modelBox = new ComboBox<String>();
@@ -366,7 +383,7 @@ public class DashboardView {
 
         // Main panel layout
         VBox box = new VBox(8);
-        box.getStyleClass().add("panel");
+        box.getStyleClass().add(STYLE_PANEL);
         box.setPrefWidth(450);
         box.getChildren().addAll(
                 title,
@@ -387,20 +404,22 @@ public class DashboardView {
      */
     private VBox createLivePanel() {
         Label title = new Label("⚡ Live TCP/IP Activity");
-        title.getStyleClass().add("section-title");
+        title.getStyleClass().add(STYLE_SECTION_TITLE);
 
         activityLog = new TextArea();
         activityLog.setEditable(false);
         activityLog.setPrefHeight(100);
         activityLog.setText(
-                "Ready.\n" +
-                "Dashboard will send commands to TCP/IP Server at localhost:5000.\n\n" +
-                "Expected command:\n" +
-                "RUN_ALL_EXPERIMENTS|modelTag|technique1,technique2"
+                """
+                Ready.
+                Dashboard will send commands to TCP/IP Server at localhost:5000.
+
+                Expected command:
+                RUN_ALL_EXPERIMENTS|modelTag|technique1,technique2"""
         );
 
         VBox box = new VBox(8);
-        box.getStyleClass().add("panel");
+        box.getStyleClass().add(STYLE_PANEL);
         HBox.setHgrow(box, Priority.ALWAYS);
         box.setMaxWidth(Double.MAX_VALUE);
         VBox.setVgrow(activityLog, Priority.ALWAYS);
@@ -415,10 +434,10 @@ public class DashboardView {
      */
     private VBox createReelPanel() {
         Label title = new Label("🎬 Reel Analysis Preview");
-        title.getStyleClass().add("section-title");
+        title.getStyleClass().add(STYLE_SECTION_TITLE);
 
         Label desc = new Label("Should show reel ID, influencer handle, language tag, transcript status, and ground truth availability.");
-        desc.getStyleClass().add("page-desc");
+        desc.getStyleClass().add(STYLE_PAGE_DESC);
 
         reelPreview = new TextArea();
         reelPreview.setEditable(false);
@@ -426,7 +445,7 @@ public class DashboardView {
         reelPreview.setText("Click Refresh Dashboard to load reel list from server.");
 
         VBox box = new VBox(8);
-        box.getStyleClass().add("panel");
+        box.getStyleClass().add(STYLE_PANEL);
         HBox.setHgrow(box, Priority.ALWAYS);
         box.setMaxWidth(Double.MAX_VALUE);
         VBox.setVgrow(reelPreview, Priority.ALWAYS);
@@ -441,10 +460,10 @@ public class DashboardView {
      */
     private VBox createRecentExperimentPanel() {
         Label title = new Label("📋 Recent Experiments");
-        title.getStyleClass().add("section-title");
+        title.getStyleClass().add(STYLE_SECTION_TITLE);
 
         Label desc = new Label("Shows model, technique, and pending/running/completed status.");
-        desc.getStyleClass().add("page-desc");
+        desc.getStyleClass().add(STYLE_PAGE_DESC);
 
         recentExperiments = new TextArea();
         recentExperiments.setEditable(false);
@@ -452,7 +471,7 @@ public class DashboardView {
         recentExperiments.setText("No experiment loaded yet.");
 
         VBox box = new VBox(8);
-        box.getStyleClass().add("panel");
+        box.getStyleClass().add(STYLE_PANEL);
         HBox.setHgrow(box, Priority.ALWAYS);
         box.setMaxWidth(Double.MAX_VALUE);
         VBox.setVgrow(recentExperiments, Priority.ALWAYS);
@@ -489,11 +508,9 @@ public class DashboardView {
                 DashboardTCPClient client = new DashboardTCPClient();
                 activeClient = client;
 
-                return client.runAllExperiments(modelTag, techniques, message -> {
-                    Platform.runLater(() -> {
-                        activityLog.appendText(message + "\n");
-                    });
-                });
+                return client.runAllExperiments(modelTag, techniques, message -> 
+                    Platform.runLater(() -> activityLog.appendText(message + "\n"))
+                );
             }
         };
 
@@ -516,7 +533,7 @@ public class DashboardView {
             progressIndicator.setVisible(false);
 
             String message = task.getException() == null
-                    ? "Unknown error"
+                    ? MSG_UNKNOWN_ERROR
                     : task.getException().getMessage();
             activeClient = null;
 
@@ -596,7 +613,7 @@ public class DashboardView {
      * @param response Summary data from database
      */
     private void updateSummaryCards(String response) {
-        if (response == null || response.startsWith("ERROR")) {
+        if (response == null || response.startsWith(MSG_ERROR)) {
             activityLog.setText(response);
             return;
         }
@@ -612,14 +629,10 @@ public class DashboardView {
                 totalExperimentsValue.setText(line.replace("TOTAL_EXPERIMENTS=", "").trim());
             } else if (line.startsWith("COMPLETED=")) {
                 completedValue.setText(line.replace("COMPLETED=", "").trim());
-            } else if (line.startsWith("RUNNING=")) {
-                if (runningValue != null) {
-                    runningValue.setText(line.replace("RUNNING=", "").trim());
-                }
-            } else if (line.startsWith("FAILED=")) {
-                if (failedValue != null) {
-                    failedValue.setText(line.replace("FAILED=", "").trim());
-                }
+            } else if (line.startsWith("RUNNING=") && runningValue != null) {
+                runningValue.setText(line.replace("RUNNING=", "").trim());
+            } else if (line.startsWith("FAILED=") && failedValue != null) {
+                failedValue.setText(line.replace("FAILED=", "").trim());
             }
         }
     }
@@ -645,7 +658,7 @@ public class DashboardView {
         title.getStyleClass().add("page-title");
 
         Label desc = new Label(descriptionText);
-        desc.getStyleClass().add("page-desc");
+        desc.getStyleClass().add(STYLE_PAGE_DESC);
 
         VBox page = new VBox(8);
         page.setPadding(new Insets(8));
@@ -679,36 +692,6 @@ public class DashboardView {
         return button;
     }
 
-    /**
-     * Helper to load text asynchronously from a supplier.
-     * @param area TextArea to update
-     * @param supplier Function that provides the text
-     */
-    private void loadTextAsync(TextArea area, Supplier<String> supplier) {
-        area.setText("Loading...");
-
-        Task<String> task = new Task<String>() {
-            @Override
-            protected String call() {
-                return supplier.get();
-            }
-        };
-
-        task.setOnSucceeded(event -> area.setText(task.getValue()));
-
-        task.setOnFailed(event -> {
-            String message = task.getException() == null
-                    ? "Unknown error"
-                    : task.getException().getMessage();
-
-            area.setText("ERROR: " + message);
-        });
-
-        Thread thread = new Thread(task);
-        thread.setDaemon(true);
-        thread.start();
-    }
-
     // ==================== PAGE DISPLAY METHODS ====================
     
     /**
@@ -740,9 +723,9 @@ public class DashboardView {
         table.getColumns().add(createColumn("Transcript", 3, 120));
         table.getColumns().add(createColumn("Ground Truth", 4, 130));
         table.getColumns().add(createColumn("Total Runs", 5, 100));
-        table.getColumns().add(createColumn("Completed", 6, 100));
-        table.getColumns().add(createColumn("Running", 7, 90));
-        table.getColumns().add(createColumn("Failed", 8, 90));
+        table.getColumns().add(createColumn(STATUS_COMPLETED, 6, 100));
+        table.getColumns().add(createColumn(STATUS_RUNNING, 7, 90));
+        table.getColumns().add(createColumn(STATUS_FAILED, 8, 90));
         table.getColumns().add(createColumn("URL", 10, 420));
         table.setPrefHeight(390);
 
@@ -783,7 +766,7 @@ public class DashboardView {
         });
 
         VBox tablePanel = new VBox(8);
-        tablePanel.getStyleClass().add("panel");
+        tablePanel.getStyleClass().add(STYLE_PANEL);
         
         HBox buttonBox = new HBox(8);
         buttonBox.getChildren().addAll(refreshButton, previewButton);
@@ -793,7 +776,7 @@ public class DashboardView {
         tablePanel.getChildren().addAll(buttonBox, table);
 
         VBox previewPanel = new VBox(8);
-        previewPanel.getStyleClass().add("panel");
+        previewPanel.getStyleClass().add(STYLE_PANEL);
         VBox.setVgrow(previewPanel, Priority.ALWAYS);
         VBox.setVgrow(previewArea, Priority.ALWAYS);
         previewPanel.getChildren().addAll(new Label("Transcript Preview"), previewArea);
@@ -833,12 +816,12 @@ public class DashboardView {
         techniqueFilter.getItems().addAll(dao.getTechniques());
 
         transcriptFilter.setValue("Transcript");
-        modelFilter.setValue("Model");
-        techniqueFilter.setValue("Technique");
+        modelFilter.setValue(LBL_MODEL);
+        techniqueFilter.setValue(LBL_TECHNIQUE);
 
         transcriptFilter.setPromptText("Transcript ID");
-        modelFilter.setPromptText("Model");
-        techniqueFilter.setPromptText("Technique");
+        modelFilter.setPromptText(LBL_MODEL);
+        techniqueFilter.setPromptText(LBL_TECHNIQUE);
 
         Button filterButton = createSecondaryButton("Filter");
 
@@ -898,8 +881,7 @@ public class DashboardView {
 
         });
 
-        filterButton.setOnAction(event -> {
-
+        filterButton.setOnAction(event -> 
             table.setItems(
                     FXCollections.observableArrayList(
                             dao.getExperimentRowsFiltered(
@@ -908,9 +890,8 @@ public class DashboardView {
                                     techniqueFilter.getValue()
                             )
                     )
-            );
-
-        });
+            )
+        );
 
         Button openFactSheetButton =
                 createSecondaryButton("🥗 Open Nutrition Fact Sheet");
@@ -952,7 +933,7 @@ public class DashboardView {
         // =========================
         VBox panel = new VBox(8);
 
-        panel.getStyleClass().add("panel");
+        panel.getStyleClass().add(STYLE_PANEL);
 
         HBox buttonBox = new HBox(8);
         buttonBox.getChildren().addAll(refreshButton, openFactSheetButton);
@@ -1054,29 +1035,25 @@ public class DashboardView {
 
         // Refresh button
         Button refreshButton = createSecondaryButton("🔄 Refresh Nutrition Comparison");
-        refreshButton.setOnAction(event -> {
-            loadNutritionComparisonAsync(gtTable, llmTable, overviewArea, experimentId);
-        });
+        refreshButton.setOnAction(event -> loadNutritionComparisonAsync(gtTable, llmTable, overviewArea, experimentId));
 
         // Download CSV button
         Button downloadButton = createSecondaryButton("📥 Download This Fact Sheet CSV");
-        downloadButton.setOnAction(event -> {
-            exportNutritionFactSheetAsync(experimentId, overviewArea);
-        });
+        downloadButton.setOnAction(event -> exportNutritionFactSheetAsync(experimentId, overviewArea));
 
         // GT panel with label
         VBox gtPanel = new VBox(8);
-        gtPanel.getStyleClass().add("panel");
+        gtPanel.getStyleClass().add(STYLE_PANEL);
         Label gtLabel = new Label("🔍 Ground Truth Ingredients (Human-Annotated)");
-        gtLabel.getStyleClass().add("section-title");
+        gtLabel.getStyleClass().add(STYLE_SECTION_TITLE);
         VBox.setVgrow(gtTable, Priority.ALWAYS);
         gtPanel.getChildren().addAll(gtLabel, gtTable);
 
         // LLM panel with label
         VBox llmPanel = new VBox(8);
-        llmPanel.getStyleClass().add("panel");
+        llmPanel.getStyleClass().add(STYLE_PANEL);
         Label llmLabel = new Label("🤖 LLM Extracted Ingredients");
-        llmLabel.getStyleClass().add("section-title");
+        llmLabel.getStyleClass().add(STYLE_SECTION_TITLE);
         VBox.setVgrow(llmTable, Priority.ALWAYS);
         llmPanel.getChildren().addAll(llmLabel, llmTable);
 
@@ -1092,7 +1069,7 @@ public class DashboardView {
         buttonBox.getChildren().addAll(refreshButton, downloadButton);
         
         VBox overviewPanel = new VBox(8);
-        overviewPanel.getStyleClass().add("panel");
+        overviewPanel.getStyleClass().add(STYLE_PANEL);
         overviewPanel.getChildren().addAll(buttonBox, overviewArea);
 
         page.getChildren().addAll(overviewPanel, tablesContainer);
@@ -1256,7 +1233,6 @@ public class DashboardView {
             llmTable.setItems(FXCollections.observableArrayList(llmRows));
             
             // ===== UPDATE OVERVIEW WITH HALLUCINATION STATS =====
-            long totalLLM = llmRows.size();
             long hallucinatedCount = llmRows.stream()
                     .filter(r -> r[7].contains("Hallucinated"))
                     .count();
@@ -1286,8 +1262,8 @@ public class DashboardView {
 
         task.setOnFailed(event -> {
             java.util.List<String[]> errorRows = new java.util.ArrayList<String[]>();
-            String message = task.getException() == null ? "Unknown error" : task.getException().getMessage();
-            errorRows.add(new String[] {"ERROR", message, "-", "-", "-", "-", "-"});
+            String message = task.getException() == null ? MSG_UNKNOWN_ERROR : task.getException().getMessage();
+            errorRows.add(new String[] {MSG_ERROR, message, "-", "-", "-", "-", "-"});
             gtTable.setItems(FXCollections.observableArrayList(errorRows));
             llmTable.setItems(FXCollections.observableArrayList(errorRows));
         });
@@ -1321,7 +1297,7 @@ public class DashboardView {
 
         overviewTask.setOnFailed(event -> {
             String message = overviewTask.getException() == null
-                    ? "Unknown error"
+                    ? MSG_UNKNOWN_ERROR
                     : overviewTask.getException().getMessage();
 
             overviewArea.appendText("\n\nERROR loading overview: " + message);
@@ -1373,11 +1349,7 @@ public class DashboardView {
             gtCleaned = gtCleaned.replace(word, "").trim();
         }
         
-        if (llmCleaned.equals(gtCleaned) || llmCleaned.contains(gtCleaned) || gtCleaned.contains(llmCleaned)) {
-            return true;
-        }
-        
-        return false;
+        return llmCleaned.equals(gtCleaned) || llmCleaned.contains(gtCleaned) || gtCleaned.contains(llmCleaned);
     }
     
     // ==================== METRICS PAGE ====================
@@ -1404,12 +1376,12 @@ public class DashboardView {
 
         TableView<String[]> table = new TableView<String[]>();
 
-        table.getColumns().add(createColumn("Model", 0, 260));
-        table.getColumns().add(createColumn("Technique", 1, 170));
+        table.getColumns().add(createColumn(LBL_MODEL, 0, 260));
+        table.getColumns().add(createColumn(LBL_TECHNIQUE, 1, 170));
         table.getColumns().add(createColumn("Total Runs", 2, 100));
-        table.getColumns().add(createColumn("Completed", 3, 110));
-        table.getColumns().add(createColumn("Failed", 4, 90));
-        table.getColumns().add(createColumn("Running", 5, 90));
+        table.getColumns().add(createColumn(STATUS_COMPLETED, 3, 110));
+        table.getColumns().add(createColumn(STATUS_FAILED, 4, 90));
+        table.getColumns().add(createColumn(STATUS_RUNNING, 5, 90));
         table.getColumns().add(createColumn("JSON Validity", 6, 130));
         table.getColumns().add(createColumn("LLM Ingredients", 7, 110));
         table.getColumns().add(createColumn("Hallucinated", 8, 120));
@@ -1421,18 +1393,18 @@ public class DashboardView {
         refreshButton.setOnAction(event -> loadMetricsTableAsync(table, overviewArea));
 
         VBox overviewPanel = new VBox(8);
-        overviewPanel.getStyleClass().add("panel");
+        overviewPanel.getStyleClass().add(STYLE_PANEL);
         overviewPanel.getChildren().addAll(refreshButton, overviewArea);
 
         VBox tablePanel = new VBox(8);
-        tablePanel.getStyleClass().add("panel");
+        tablePanel.getStyleClass().add(STYLE_PANEL);
         
         // Add a small description above the table
         Label tableDescription = new Label(
             "📋 Model Performance Summary: " +
             "Shows how each model-technique combination performs across key metrics."
         );
-        tableDescription.getStyleClass().add("page-desc");
+        tableDescription.getStyleClass().add(STYLE_PAGE_DESC);
         tableDescription.setWrapText(true);
         
         VBox.setVgrow(tablePanel, Priority.ALWAYS);
@@ -1525,17 +1497,17 @@ public class DashboardView {
         // Removed hardcoded prefHeight
 
         VBox guidePanel = new VBox(8);
-        guidePanel.getStyleClass().add("panel");
+        guidePanel.getStyleClass().add(STYLE_PANEL);
         
         Label guideTitle = new Label("📚 Evaluation Layer Guide");
-        guideTitle.getStyleClass().add("section-title");
+        guideTitle.getStyleClass().add(STYLE_SECTION_TITLE);
         
         Label guideDescription = new Label(
             "These evaluation layers measure different aspects of LLM performance, " +
             "from text accuracy to nutrition value correctness. Each layer focuses " +
             "on a specific evaluation dimension."
         );
-        guideDescription.getStyleClass().add("page-desc");
+        guideDescription.getStyleClass().add(STYLE_PAGE_DESC);
         guideDescription.setWrapText(true);
         
         VBox.setVgrow(guidePanel, Priority.ALWAYS);
@@ -1604,7 +1576,7 @@ public class DashboardView {
         );
 
         VBox panel = new VBox(12);
-        panel.getStyleClass().add("panel");
+        panel.getStyleClass().add(STYLE_PANEL);
         panel.getChildren().addAll(status, buttonPane);
 
         page.getChildren().add(panel);
@@ -1631,10 +1603,10 @@ public class DashboardView {
 
         task.setOnFailed(event -> {
             String message = task.getException() == null
-                    ? "Unknown error"
+                    ? MSG_UNKNOWN_ERROR
                     : task.getException().getMessage();
 
-            status.setText("ERROR: " + message);
+            status.setText(MSG_ERROR_PREFIX + message);
         });
 
         Thread thread = new Thread(task);
@@ -1682,15 +1654,13 @@ public class DashboardView {
             }
         };
 
-        task.setOnSucceeded(event -> {
-            table.setItems(FXCollections.observableArrayList(task.getValue()));
-        });
+        task.setOnSucceeded(event -> table.setItems(FXCollections.observableArrayList(task.getValue())));
 
         task.setOnFailed(event -> {
             java.util.List<String[]> errorRows = new java.util.ArrayList<String[]>();
 
             errorRows.add(new String[] {
-                    "ERROR",
+                    MSG_ERROR,
                     "-",
                     task.getException().getMessage(),
                     "-",
@@ -1724,15 +1694,13 @@ public class DashboardView {
             }
         };
 
-        task.setOnSucceeded(event -> {
-            table.setItems(FXCollections.observableArrayList(task.getValue()));
-        });
+        task.setOnSucceeded(event -> table.setItems(FXCollections.observableArrayList(task.getValue())));
 
         task.setOnFailed(event -> {
             java.util.List<String[]> errorRows = new java.util.ArrayList<String[]>();
 
             errorRows.add(new String[] {
-                    "ERROR",
+                    MSG_ERROR,
                     "-",
                     task.getException().getMessage(),
                     "-",
@@ -1779,11 +1747,11 @@ public class DashboardView {
 
                 status = status.toLowerCase();
 
-                if ("completed".equals(status)) {
+                if (STATUS_COMPLETED_LOWER.equals(status)) {
                     getStyleClass().add("row-completed");
-                } else if ("running".equals(status)) {
+                } else if (STATUS_RUNNING_LOWER.equals(status)) {
                     getStyleClass().add("row-running");
-                } else if ("failed".equals(status)) {
+                } else if (STATUS_FAILED_LOWER.equals(status)) {
                     getStyleClass().add("row-failed");
                 } else if ("pending".equals(status)) {
                     getStyleClass().add("row-pending");
@@ -1806,15 +1774,13 @@ public class DashboardView {
             }
         };
 
-        tableTask.setOnSucceeded(event -> {
-            table.setItems(FXCollections.observableArrayList(tableTask.getValue()));
-        });
+        tableTask.setOnSucceeded(event -> table.setItems(FXCollections.observableArrayList(tableTask.getValue())));
 
         tableTask.setOnFailed(event -> {
             java.util.List<String[]> errorRows = new java.util.ArrayList<String[]>();
 
             errorRows.add(new String[] {
-                    "ERROR",
+                    MSG_ERROR,
                     tableTask.getException().getMessage(),
                     "-",
                     "-",
@@ -1841,10 +1807,10 @@ public class DashboardView {
 
         overviewTask.setOnFailed(event -> {
             String message = overviewTask.getException() == null
-                    ? "Unknown error"
+                    ? MSG_UNKNOWN_ERROR
                     : overviewTask.getException().getMessage();
 
-            overviewArea.setText("ERROR: " + message);
+            overviewArea.setText(MSG_ERROR_PREFIX + message);
         });
 
         Thread tableThread = new Thread(tableTask);
@@ -1876,10 +1842,10 @@ public class DashboardView {
 
         task.setOnFailed(event -> {
             String message = task.getException() == null
-                    ? "Unknown error"
+                    ? MSG_UNKNOWN_ERROR
                     : task.getException().getMessage();
 
-            previewArea.setText("ERROR: " + message);
+            previewArea.setText(MSG_ERROR_PREFIX + message);
         });
 
         Thread thread = new Thread(task);
@@ -1903,13 +1869,11 @@ public class DashboardView {
             }
         };
 
-        task.setOnSucceeded(event -> {
-            overviewArea.appendText("\n\n" + task.getValue());
-        });
+        task.setOnSucceeded(event -> overviewArea.appendText("\n\n" + task.getValue()));
 
         task.setOnFailed(event -> {
             String message = task.getException() == null
-                    ? "Unknown error"
+                    ? MSG_UNKNOWN_ERROR
                     : task.getException().getMessage();
 
             overviewArea.appendText("\n\nERROR exporting fact sheet CSV: " + message);
@@ -1957,7 +1921,7 @@ public class DashboardView {
 
         task.setOnFailed(event -> {
             String message = task.getException() == null
-                    ? "Unknown error"
+                    ? MSG_UNKNOWN_ERROR
                     : task.getException().getMessage();
 
             activityLog.appendText("ERROR stopping analysis: " + message + "\n");
